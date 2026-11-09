@@ -1,0 +1,390 @@
+
+==============================================================================
+0. files
+==============================================================================
+cs2_all_tiers_games.csv       14.80 MB   98 cols
+cs2_tier1_games.csv            8.85 MB   98 cols
+cs2_tier2_games.csv            5.31 MB   98 cols
+cs2_tier3_games.csv            0.64 MB   98 cols
+players.csv                    0.04 MB    2 cols
+teams.csv                      0.41 MB    2 cols
+tournaments.csv                0.01 MB    1 cols
+
+==============================================================================
+1. shape / dtypes
+==============================================================================
+rows=23,888  cols=98
+match_id                   int64
+game_id                  float64
+tournament                   str
+team1_id                   int64
+team1                        str
+team2_id                   int64
+team2                        str
+score1_match             float64
+score2_match             float64
+is_total                    bool
+bestOf                   float64
+score1_game              float64
+score2_game              float64
+map_id                   float64
+map_name                     str
+datetime                     str
+team1_win                float64
+games_played             float64
+team1_player1_id         float64
+team1_player2_id         float64
+team1_player3_id         float64
+team1_player4_id         float64
+team1_player5_id         float64
+team2_player1_id         float64
+team2_player2_id         float64
+team2_player3_id         float64
+team2_player4_id         float64
+team2_player5_id         float64
+team1_player1                str
+team1_player2                str
+team1_player3                str
+team1_player4                str
+team1_player5                str
+team2_player1                str
+team2_player2                str
+team2_player3                str
+team2_player4                str
+team2_player5                str
+team1_player1_kills      float64
+team1_player1_deaths     float64
+team1_player1_assists    float64
+team1_player1_adr        float64
+team1_player1_kast       float64
+team1_player1_kddiff     float64
+team1_player2_kills      float64
+team1_player2_deaths     float64
+team1_player2_assists    float64
+team1_player2_adr        float64
+team1_player2_kast       float64
+team1_player2_kddiff     float64
+team1_player3_kills      float64
+team1_player3_deaths     float64
+team1_player3_assists    float64
+team1_player3_adr        float64
+team1_player3_kast       float64
+team1_player3_kddiff     float64
+team1_player4_kills      float64
+team1_player4_deaths     float64
+team1_player4_assists    float64
+team1_player4_adr        float64
+team1_player4_kast       float64
+team1_player4_kddiff     float64
+team1_player5_kills      float64
+team1_player5_deaths     float64
+team1_player5_assists    float64
+team1_player5_adr        float64
+team1_player5_kast       float64
+team1_player5_kddiff     float64
+team2_player1_kills      float64
+team2_player1_deaths     float64
+team2_player1_assists    float64
+team2_player1_adr        float64
+team2_player1_kast       float64
+team2_player1_kddiff     float64
+team2_player2_kills      float64
+team2_player2_deaths     float64
+team2_player2_assists    float64
+team2_player2_adr        float64
+team2_player2_kast       float64
+team2_player2_kddiff     float64
+team2_player3_kills      float64
+team2_player3_deaths     float64
+team2_player3_assists    float64
+team2_player3_adr        float64
+team2_player3_kast       float64
+team2_player3_kddiff     float64
+team2_player4_kills      float64
+team2_player4_deaths     float64
+team2_player4_assists    float64
+team2_player4_adr        float64
+team2_player4_kast       float64
+team2_player4_kddiff     float64
+team2_player5_kills      float64
+team2_player5_deaths     float64
+team2_player5_assists    float64
+team2_player5_adr        float64
+team2_player5_kast       float64
+team2_player5_kddiff     float64
+
+==============================================================================
+2. is_total (mixed granularity)
+==============================================================================
+is_total
+False    12490
+True     11398
+
+==============================================================================
+3. datetime coverage
+==============================================================================
+min=2023-01-10 09:30:00  max=2026-10-31 20:45:00  unparsed=0
+
+rows per quarter:
+datetime
+2023Q1       1
+2023Q4    1290
+2024Q1    1807
+2024Q2    2372
+2024Q3    2852
+2024Q4    1516
+2025Q1    2198
+2025Q2    1663
+2025Q3    1802
+2025Q4    1486
+2026Q1    2097
+2026Q2    1661
+2026Q3    1982
+2026Q4    1161
+
+==============================================================================
+4. matches vs map-level rows
+==============================================================================
+map-level rows          12,490
+unique match_id         6,021
+unique (match, map)     12,463
+
+maps per match:
+1    1411
+2    2814
+3    1748
+4      33
+5      15
+
+==============================================================================
+5. team coverage
+==============================================================================
+distinct team names     493
+
+maps played per team (describe):
+count    493.000000
+mean      50.669371
+std      106.147113
+min        1.000000
+25%        3.000000
+50%        7.000000
+75%       36.000000
+max      568.000000
+
+teams with <5 maps: 189  (38.3%)
+teams with <20 maps: 333  (67.5%)
+
+top 15 by maps played:
+FURIA Esports    568
+FaZe Clan        537
+Aurora Gaming    526
+G2 Esports       524
+MOUZ             519
+Team Vitality    507
+Team Spirit      495
+Heroic           489
+Team 3DMAX       489
+Astralis         484
+Team Falcons     475
+Natus Vincere    474
+The Mongolz      458
+GamerLegion      454
+B8 Esports       447
+
+==============================================================================
+6. missing values on key columns
+==============================================================================
+datetime              0.0000
+tournament            0.0000
+bestOf                0.0059
+map_name              0.3606
+score1_game           0.3578
+score2_game           0.3578
+score1_match          0.0001
+score2_match          0.0001
+team1_player1_id      0.0430
+team1_player1_adr     0.2435
+team1_player1_kast    0.2435
+
+==============================================================================
+7. match-level sanity
+==============================================================================
+match_id column used    team1_win
+matches                 11,394
+inconsistent win flag   3,379
+missing map wins (s1/s2) 2
+draws (s1 == s2)        5
+
+bestOf distribution:
+bo
+3.0    9192
+1.0    1966
+NaN     119
+5.0     116
+2.0       1
+
+recorded maps vs BO expectation (crosstab):
+n_maps     0    1    2     3   4   5
+bo                                  
+1.0     1151  804    2     9   0   0
+2.0        1    0    0     0   0   0
+3.0     4116  134  936  4006   0   0
+5.0       24    0    5    11  35  41
+
+==============================================================================
+7b. sample BO3 as stored
+==============================================================================
+ match_id   game_id  is_total team1      team2  score1_match  score2_match  score1_game  score2_game map_name  bestOf  team1_win            datetime
+   487656 -115882.0      True Monte B8 Esports           2.0           1.0          NaN          NaN      NaN     3.0        0.0 2023-10-26 12:00:00
+   487656  115881.0     False Monte B8 Esports           2.0           1.0         19.0         17.0  Ancient     3.0        1.0 2023-10-26 12:00:00
+   487656  115882.0     False Monte B8 Esports           2.0           1.0          7.0         13.0   Anubis     3.0        0.0 2023-10-26 12:00:00
+   487656  115883.0     False Monte B8 Esports           2.0           1.0         13.0          3.0   Mirage     3.0        1.0 2023-10-26 12:00:00
+
+==============================================================================
+7c. monthly match count
+==============================================================================
+date
+2023-01      1
+2023-10    208
+2023-11    233
+2023-12    158
+2024-01    452
+2024-02    246
+2024-03    286
+2024-04    434
+2024-05    301
+2024-06    308
+2024-07    237
+2024-08    697
+2024-09    367
+2024-10    241
+2024-11    345
+2024-12    150
+2025-01    162
+2025-02    347
+2025-03    402
+2025-04    275
+2025-05    284
+2025-06    164
+2025-07    113
+2025-08    484
+2025-09    367
+2025-10    341
+2025-11    315
+2025-12    193
+2026-01    316
+2026-02    397
+2026-03    407
+2026-04    298
+2026-05    221
+2026-06    209
+2026-07    304
+2026-08    289
+2026-09    390
+2026-10    452
+Freq: M
+
+==============================================================================
+7d. tier files vs all
+==============================================================================
+cs2_all_tiers_games.csv      matches=11,394
+cs2_tier1_games.csv          matches=5,136
+cs2_tier2_games.csv          matches=5,352
+cs2_tier3_games.csv          matches=906
+
+union of tier files     11,394 matches
+all vs union diff       0
+
+==============================================================================
+8. map / tournament distribution
+==============================================================================
+maps:
+map_name
+Ancient     2139
+Mirage      2131
+Nuke        1786
+Dust2       1650
+Inferno     1563
+Anubis      1397
+Overpass     614
+Vertigo      549
+Train        333
+Cache        238
+NaN           90
+
+top 12 tournaments:
+tournament
+IEM Cologne Major 2026                                  188
+ESL Pro League Season 19                                176
+ESL Pro League Season 22                                171
+ESL Pro League Season 20                                168
+BLAST.tv Austin Major 2025                              165
+ESL Pro League Season 23                                162
+StarLadder Budapest Major 2025                          159
+ESL Pro League Season 21                                155
+ESL Challenger League Season 47 �� Europe                150
+ESL Challenger League Season 49 �� Europe                147
+Esports World Cup 2026 ��� CS2. ����ܧ���ѧ� �ܧӧѧݧڧ�ڧܧѧ�ڧ�    123
+Perfect World Shanghai Major 2024                       123
+
+==============================================================================
+9. player stat coverage (map rows)
+==============================================================================
+player columns: 80 (stat columns: 60)
+non-null rate: min=0.931 median=0.955 max=0.977
+rows with all 60 stat fields filled: 81.3%
+
+==============================================================================
+10. score sanity
+==============================================================================
+       score1_game  score2_game
+count     12455.00     12455.00
+mean         11.12        10.57
+std           3.71         4.00
+min           0.00         0.00
+25%           9.00         8.00
+50%          13.00        13.00
+75%          13.00        13.00
+max          37.00        34.00
+
+negative game scores: 0 / 0
+15-15 map draws: 0
+
+==============================================================================
+11. match table QA (what a modelling table would look like)
+==============================================================================
+is_total=True rows      11,398 (one per match, 11,394 unique)
+agg rows with lineup    74.4%
+agg rows with adr/kast  42.4%
+
+team names              493
+case/space collisions   2
+  e.g. betboom team, magic
+
+same pairing on same day: 51 groups
+matches with >=1 map    6,021 (52.8%)
+
+==============================================================================
+12. odd rows
+==============================================================================
+rows before CS2 launch: 1
+ match_id            datetime           team1    team2                                     tournament
+ 10065881 2023-01-10 09:30:00 my life be like vagrants PGL CS2 Major Copenhagen 2024: Open Qualifiers
+
+draw matches: 5
+                       t1                  t2   s1   s2   bo                date
+match_id                                                                        
+1629909   ALTERNATE aTTaX         THE SUSPECT  1.0  1.0  3.0 2024-09-19 14:30:00
+7298791        Passion UA           FaZe Clan  2.0  2.0  3.0 2026-03-31 14:00:00
+7298927       NRG Esports           Team Voca  1.0  1.0  3.0 2026-04-04 13:00:00
+7299053        G2 Esports         GamerLegion  1.0  1.0  3.0 2026-04-03 18:00:00
+7299208         FaZe Clan  CYBERSHOKE Esports  1.0  1.0  3.0 2026-04-05 11:00:00
+
+duplicate (match, map) rows: 49
+ match_id  game_id map_name  score1_game  score2_game
+  7312263 155833.0      NaN         10.0         13.0
+  7312263 155834.0      NaN         13.0          8.0
+  7312263 155835.0      NaN         13.0         10.0
+  7311752 155616.0      NaN         16.0         13.0
+  7311752 155617.0      NaN         13.0          7.0
+  7311740 155563.0      NaN          9.0         13.0

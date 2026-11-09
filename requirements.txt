@@ -1,0 +1,13 @@
+# 队友按这个装依赖：pip install -r requirements.txt
+# 环境验证于 Python 3.12.14 / Windows
+numpy==2.3.5
+pandas==3.0.1
+
+# Windows 上 pandas 的 tz_convert（build_tables.py 用到）需要 IANA 时区库
+tzdata==2025.2
+
+# 后续里程碑（M1 起）会用到，届时再放开：
+# scikit-learn
+# lightgbm
+# matplotlib
+# shap

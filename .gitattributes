@@ -1,0 +1,6 @@
+# 统一文本换行，避免 Windows/macOS 队友之间出现整文件 diff
+* text=auto
+
+# 数据文件按原样存取：pandas 读哪种换行都行，但要保证每个人拿到的是同一份字节
+*.csv -text
+*.zip binary

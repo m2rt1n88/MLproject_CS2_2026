@@ -1,0 +1,52 @@
+# ============================================================
+# CS2 比赛预测 —— 要共享给队友的文件都进仓库
+# 原则：只忽略 ① 本机私有 ② 可再生成 ③ 别人的代码
+# 数据（data/raw/*.csv、data/processed/*.csv）和报告是要共享的，不忽略。
+# ============================================================
+
+# ---------- Python 环境 / 运行缓存 ----------
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+build/
+dist/
+
+# ---------- 操作系统 / 编辑器垃圾 ----------
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+
+# ---------- 密钥，千万别进仓库 ----------
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+kaggle.json
+
+# ---------- 训练产物：体积大且可由脚本重跑 ----------
+models/
+*.pkl
+*.joblib
+logs/
+runs/
+*.log
+
+# ---------- 第三方参考项目：别人的代码 + 自带 .git + 约 40MB ----------
+# 队友跑 scripts/fetch_references.py 就能重新拉下来；
+# 只保留我们自己写的说明文件，方便知道 references/ 里该有什么。
+references/*
+!references/README.md
+
+# ---------- 下载的压缩包：解压后的 CSV 已经进仓库 ----------
+data/raw/*.zip
