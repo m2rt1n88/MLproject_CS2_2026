@@ -1,9 +1,6 @@
-"""Profile the Kaggle "Counter-Strike Pro Matches" dataset.
+"""统计原始比赛数据的规模、覆盖率和质量问题。
 
-Run from the project root:  .venv\\Scripts\\python.exe scripts\\profile_dataset.py
-
-Prints a readable report to stdout (tee it into reports/ if you want to keep it):
-    .venv\\Scripts\\python.exe scripts\\profile_dataset.py > reports\\dataset_profile.txt
+在项目根目录运行：python -m scripts.profile_raw_match_data
 """
 
 from pathlib import Path
@@ -161,7 +158,7 @@ def main() -> None:
     if stat_cols:
         print(f"agg rows with adr/kast  {agg[stat_cols].notna().all(axis=1).mean():.1%}")
 
-    # team-name hygiene
+    # 检查大小写或空格是否让同一队伍出现多个写法。
     names = pd.Series(sorted(set(appearances.unique())))
     norm = names.str.strip().str.lower()
     collisions = norm[norm.duplicated(keep=False)]
@@ -170,7 +167,7 @@ def main() -> None:
     if len(collisions):
         print("  e.g. " + ", ".join(sorted(set(collisions))[:6]))
 
-    # same team pair twice on the same day (rematches / duplicates)
+    # 同日同对手可能是重赛，也可能是重复记录，先列出供核查。
     pair_key = (
         df[["match_id", "team1", "team2", "_dt"]]
         .drop_duplicates("match_id")

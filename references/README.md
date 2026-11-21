@@ -20,7 +20,7 @@
 真正有参考价值的 notebook 和 README。需要完整版本时：
 
 ```powershell
-.venv\Scripts\python.exe -u scripts\fetch_references.py   # 改 ZIP_TARGETS 列表即可
+python -u -m scripts.download_reference_projects   # 改 ZIP_TARGETS 列表即可
 ```
 
 ## 重新拉取

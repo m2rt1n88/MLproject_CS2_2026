@@ -1,12 +1,6 @@
-"""Pull the reference repos into references/.
+"""下载第三方参考项目到 references/；小项目取快照，大项目只取指定文件。
 
-The uplink here is roughly 15-25 KB/s, so the two big repos (31 MB and 42 MB)
-cannot be pulled whole in reasonable time. Strategy:
-
-  * small repos  -> full zip snapshot from codeload
-  * big repos    -> only the files that carry the reference value (notebooks, README)
-
-Run:  .venv\\Scripts\\python.exe -u scripts/fetch_references.py
+在项目根目录运行：python -m scripts.download_reference_projects
 """
 
 import io

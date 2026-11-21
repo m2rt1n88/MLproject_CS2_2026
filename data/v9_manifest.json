@@ -1,0 +1,16 @@
+{
+  "version": "v9",
+  "snapshot_end": "2026-10-31",
+  "hash_format": "sha256 with CRLF normalized to LF",
+  "files": {
+    "data/raw/cs2_all_tiers_games.csv": "b6c010877a493b055bdc7fcf268984eb177521f981ab869fb9d79a5a097f2528",
+    "data/raw/cs2_tier1_games.csv": "783f6fc43f517e0c51df151cd42d69777883c4353ab80a9017c506f9529eefaa",
+    "data/raw/cs2_tier2_games.csv": "14702beecc0539713687b8efeae9a01218d6c1d70df949e25ddf8c15bc42efb8",
+    "data/raw/cs2_tier3_games.csv": "9fa7c147312115a1efffa508bc72a1ef9e4e9fdc8865a920208e3870e2d49717",
+    "data/raw/players.csv": "e3d7021f4ff72826f2a3c5c8bf1f2dc5835e3dd3d6a39fc5ecab85c2a542fba6",
+    "data/raw/teams.csv": "4213a6f93df01da0111fc4f0b2b34253036825e909d90c1ffb1a92c53fb804ec",
+    "data/raw/tournaments.csv": "852d6bc64e343d2e2fd703cd743848936c88628be06249642865e342e1c18c19",
+    "data/processed/maps.csv": "657afd761f208b73388e4b1958c6dba48600d8dadbad3b6a2df8cf1815fadc3f",
+    "data/processed/matches.csv": "be10b969fb660606d432f51d885c4a52fb03a24fb0d3f3b156869e5a19ae3e94"
+  }
+}

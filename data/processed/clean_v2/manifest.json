@@ -1,0 +1,46 @@
+{
+  "version": "v9-clean-v2",
+  "source_manifest_sha256": "ceda9de40722a3e7dba237f388dd558df99d7923fa9ac6216d54403d0c350107",
+  "counts": {
+    "train": 7260,
+    "val": 1968,
+    "test": 2159
+  },
+  "map_rows": 12387,
+  "rejected_ambiguous_map_rows": 2,
+  "bo_policy": "reported value audit only; unknown for all pre-match rows until a pre-match source is verified",
+  "quality": {
+    "test": {
+      "bo_score_conflict": 80,
+      "roster_repeat": 0,
+      "roster_cross": 0,
+      "recovered_complete": 517,
+      "lost_complete": 0,
+      "ambiguous_map": 0
+    },
+    "train": {
+      "bo_score_conflict": 167,
+      "roster_repeat": 18,
+      "roster_cross": 5,
+      "recovered_complete": 1609,
+      "lost_complete": 2,
+      "ambiguous_map": 1
+    },
+    "val": {
+      "bo_score_conflict": 60,
+      "roster_repeat": 0,
+      "roster_cross": 1,
+      "recovered_complete": 317,
+      "lost_complete": 0,
+      "ambiguous_map": 0
+    }
+  },
+  "files": {
+    "matches.csv": "3d4257adaf2a251dfd81d43c8ea61f53599e10839dbe9605ff6a3f94b398d237",
+    "maps.csv": "ba39a8119b3e7b489edac677f4fc8d94067072006b767fe844b608269f946056",
+    "match_quality.csv": "0784ee1659adcc6b69436b9a4c6455ea4750885cdba82d10c9f6e9139cc82c5a",
+    "rejected_map_rows.csv": "fd416b9c4d43ebb93bc0978d1a8322dadadc5ae4c4ee359438e5dd456526492f",
+    "m2/train.csv": "fd2938bcfb63ca42ed0a6c2c05a745d9bac84ea9148bc9bf45c7c30f5980dc9b",
+    "m2/val.csv": "9ea174ab9f11d05c5de91c24bb4a511d6b83e7416a9a3219331d1076e347b3d2"
+  }
+}

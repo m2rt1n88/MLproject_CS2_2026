@@ -34,19 +34,33 @@ desktop.ini
 *.key
 kaggle.json
 
-# ---------- 训练产物：体积大且可由脚本重跑 ----------
-models/
+# ---------- 正式 M1/M2 权重随仓库交付，其余模型默认不提交 ----------
+/models/*
+!/models/m1/
+!/models/m2/
+/models/m1/*
+/models/m2/*
 *.pkl
 *.joblib
+!/models/m1/random_forest.joblib
+!/models/m2/m2_clean_retuned.joblib
 logs/
 runs/
 *.log
 
-# ---------- 第三方参考项目：别人的代码 + 自带 .git + 约 40MB ----------
-# 队友跑 scripts/fetch_references.py 就能重新拉下来；
+# ---------- 第三方参考项目：不打包本机下载的代码和数据库 ----------
+# 正式模型不依赖这些项目；部分参考项目可用 scripts/download_reference_projects.py 下载。
 # 只保留我们自己写的说明文件，方便知道 references/ 里该有什么。
 references/*
 !references/README.md
 
 # ---------- 下载的压缩包：解压后的 CSV 已经进仓库 ----------
 data/raw/*.zip
+
+# ---------- 队友交付：忽略导出的整包，保留项目中的 M3 实验归档 ----------
+/team_packages/
+
+# Office 打开的临时锁文件不随正式课程文档一起交付
+~$*.docx
+~$*.xlsx
+~$*.pptx
