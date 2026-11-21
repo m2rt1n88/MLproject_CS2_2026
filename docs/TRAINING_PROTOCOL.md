@@ -39,4 +39,6 @@ p_team1 = predict(bundle, prematch_rows)  # 每行一场，按输入顺序返回
 
 **已有 M3 草案。** [实验归档](../handoff/m3-experiments.zip) 内保留两轮报告、代码、预测和复现所需的旧权重。第二轮预先选中的「M2 + 仅选手模型」在开发验证为 63.72% / 0.633215，损失差异区间跨零，仍是候选。阅读两个 `reports/m3_stacking*/README.md` 即可了解结果。要复核旧实验，请解压到**单独的空目录**，按原相对路径复制 `data/processed/clean_v2/manifest.json`、`data/processed/clean_v2/m2/{train,val}.csv`，并在旧实验环境安装 `lightgbm==4.6.0`。第二轮另需原版 `references/csgopred/data/csgopred.db`。从解压目录运行 `python -m scripts.experiment_m3_stacking validate` 或 `python -m scripts.experiment_m3_stacking_broad validate`。不要覆盖正式目录；旧权重格式和指纹属于草案。
 
+**MLP 已落地（M3 的第一个神经模型）。** 复用 M2 的 `design()` 41 列与时间折，只换分类器：`python -B -m scripts.train_mlp train` 在 OOF 上选 4 个候选、再用完整训练集重训，`verify` 核对 val 预测。结果在 [reports/m3/MLP.md](../reports/m3/MLP.md)：val 63.47% / 0.6362，比冻结 M2 差 0.0024（95% CI [-0.00003, +0.00467]）。**超参必须在 `alpha` 10 量级**，否则 OOF log loss 会烂到 0.80 以上。权重不进仓库（`.gitignore` 只放行正式 M1/M2）。孪生 LSTM 需要 PyTorch，当前环境未安装，属于另一次交付。
+
 **M4 从哪里开始。** 锁定候选和校准方法后，比较准确率、log loss、Brier，按赛事等级与置信度报告场次、覆盖率和按比赛日重采样的置信区间。开发验证期已被反复查看，若用它拟合校准器，不能再把同一批比赛当作独立评估。最终方案确定后再统一评估测试集；70% 目标按全场计算，选择性预测单列。

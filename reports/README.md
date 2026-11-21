@@ -10,9 +10,11 @@
 | [M1.md](M1.md) | M1 | 随机森林基线，31 个基础特征 | 验证 61.59% / 0.644188 |
 | [M2.md](M2.md) | M2 | 增强逻辑回归，41 个特征 | 验证 63.26% / 0.633779 |
 | [M4.md](M4.md) | M4 | 校准、分层、选择性预测、bootstrap CI | 测试 62.76% / 0.6332，ECE 0.0185 |
+| [m3/MLP.md](m3/MLP.md) | M3（1/2） | MLP 分类器，41 列特征同口径 | val 63.47% / 0.6362，比 M2 差 0.0024 |
 | [ablation/ABLATION.md](ablation/ABLATION.md) | Part 1 | 特征消融：8 组逐组删除 + 只留一组 | 图论实力最重要，Elo 冗余 |
 
 M3（融合）的产物不在主线里，见 `handoff/m3-experiments/`：两轮实验，结论是**没有融合方案能可靠超过 M2**。
+M3 的第一个神经模型（MLP）已按主线口径落地：`scripts/train_mlp.py`，结果见 [m3/MLP.md](m3/MLP.md)。
 
 ## 数据与图
 
@@ -32,6 +34,7 @@ M3（融合）的产物不在主线里，见 `handoff/m3-experiments/`：两轮�
 | [release/test_features.csv](release/test_features.csv) | 测试期赛前特征（供分析取 tier） |
 | [release/test_manifest.json](release/test_manifest.json) | 测试集预测的生成说明 |
 | [m4/metrics.json](m4/metrics.json) | M4 全部指标的机器可读版本 |
+| [m3/mlp_metrics.json](m3/mlp_metrics.json) | MLP 的 OOF / val / 与 M2 配对 bootstrap 指标 |
 | [m4/m2_weights_summary.json](m4/m2_weights_summary.json) | M2 的 41 个特征系数（按绝对值排序） |
 | [ablation/metrics.csv](ablation/metrics.csv) | 17 个消融配置 × 两个口径的指标 |
 | [ablation/predictions.csv](ablation/predictions.csv) | 消融各配置的逐场预测（6 MB） |
