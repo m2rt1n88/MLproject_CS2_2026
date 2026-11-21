@@ -1,0 +1,137 @@
+{
+  "recipe": "Temporal out-of-fold probabilities; strict 30-day gap at both fit layers for train folds.",
+  "rule": "A learned ensemble must beat forward and scaled M2 on pooled log loss and in >=3/4 folds against each.",
+  "n_train": 7260,
+  "n_base_oof": 6185,
+  "n_meta_assessed": 4998,
+  "folds": [
+    {
+      "fold": 2,
+      "fit_n": 910,
+      "fit_end": "2024-04-26 22:20:00",
+      "score_n": 1627,
+      "score_start": "2024-05-27 12:00:00",
+      "selected_base": {
+        "m2": [
+          0.001,
+          1.0
+        ],
+        "lightgbm": [
+          60,
+          0.85
+        ]
+      },
+      "meta": {
+        "m2_scale": 1.0633844625729914,
+        "lgbm_probability_weight": 0.09631264137268684,
+        "logit_weights": [
+          0.9356668098438805,
+          0.14174133966207977
+        ]
+      }
+    },
+    {
+      "fold": 3,
+      "fit_n": 2404,
+      "fit_end": "2024-08-28 23:55:00",
+      "score_n": 949,
+      "score_start": "2024-09-28 12:00:00",
+      "selected_base": {
+        "m2": [
+          0.001,
+          1.3
+        ],
+        "lightgbm": [
+          60,
+          1.0
+        ]
+      },
+      "meta": {
+        "m2_scale": 0.9534441143188727,
+        "lgbm_probability_weight": 0.0,
+        "logit_weights": [
+          0.9534441143188727,
+          0.0
+        ]
+      }
+    },
+    {
+      "fold": 4,
+      "fit_n": 3587,
+      "fit_end": "2024-12-28 17:00:00",
+      "score_n": 1231,
+      "score_start": "2025-02-02 13:00:00",
+      "selected_base": {
+        "m2": [
+          0.001,
+          1.3
+        ],
+        "lightgbm": [
+          60,
+          1.0
+        ]
+      },
+      "meta": {
+        "m2_scale": 0.9651258426923763,
+        "lgbm_probability_weight": 0.0,
+        "logit_weights": [
+          0.9651258426923763,
+          0.0
+        ]
+      }
+    },
+    {
+      "fold": 5,
+      "fit_n": 4702,
+      "fit_end": "2025-04-21 13:00:00",
+      "score_n": 1191,
+      "score_start": "2025-05-22 00:00:00",
+      "selected_base": {
+        "m2": [
+          0.001,
+          1.15
+        ],
+        "lightgbm": [
+          60,
+          1.15
+        ]
+      },
+      "meta": {
+        "m2_scale": 1.0352537013268348,
+        "lgbm_probability_weight": 0.0,
+        "logit_weights": [
+          1.0352537013268348,
+          0.0
+        ]
+      }
+    }
+  ],
+  "train_gate": {
+    "weighted_mean": false,
+    "logit_stack": false
+  },
+  "locked_base": {
+    "m2": [
+      0.001,
+      1.15
+    ],
+    "lightgbm": [
+      60,
+      1.15
+    ]
+  },
+  "base_hashes": {
+    "m2": "68213725ad6d248db88c3730b81903867a8f9fcade7b1e390d5f389f241ee9f7",
+    "lightgbm": "5973ce3f33b423cd5c3e2f768f13c8a9aa43c39feb4f80e00c3f432991b51ab1"
+  },
+  "final_meta": {
+    "m2_scale": 0.9719988648855593,
+    "lgbm_probability_weight": 0.05818815414076284,
+    "logit_weights": [
+      0.939461886014479,
+      0.03636511346098464
+    ]
+  },
+  "train_hash": "fd2938bcfb63ca42ed0a6c2c05a745d9bac84ea9148bc9bf45c7c30f5980dc9b",
+  "test_evaluated": false
+}

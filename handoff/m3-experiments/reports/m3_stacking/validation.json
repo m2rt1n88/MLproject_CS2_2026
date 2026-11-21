@@ -1,0 +1,9 @@
+{
+  "selection_sha256": "e3ff7499457e759d9c13fbc8da8a103589399e1081749c77cb55f68b4f770e91",
+  "validation_hash": "9ea174ab9f11d05c5de91c24bb4a511d6b83e7416a9a3219331d1076e347b3d2",
+  "confirmed": {
+    "weighted_mean": false,
+    "logit_stack": false
+  },
+  "test_evaluated": false
+}

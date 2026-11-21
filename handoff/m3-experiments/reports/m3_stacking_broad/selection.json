@@ -1,0 +1,1288 @@
+{
+  "train_hash": "fd2938bcfb63ca42ed0a6c2c05a745d9bac84ea9148bc9bf45c7c30f5980dc9b",
+  "m2_hash": "68213725ad6d248db88c3730b81903867a8f9fcade7b1e390d5f389f241ee9f7",
+  "external_database_hash": "502f3b921afdad32c417f364acc4b9d4d76b4eb527334d9ae28c482c57e0b1da",
+  "external_model_hash": "b5d705efb2f21ad14933773371805753d316a66693c9ee5e3af949cc9593b100",
+  "n_base_oof": 6185,
+  "n_forward": 4998,
+  "rules": "Beat forward and scaled M2 on pooled log loss and >=3/4 folds against each; choose only the lowest-loss passing candidate on train.",
+  "recipes": {
+    "m2": [
+      0.001,
+      1.15
+    ],
+    "lightgbm": [
+      60,
+      1.15
+    ],
+    "logistic_regression": 0,
+    "linear_svm": 1,
+    "random_forest": 1,
+    "adaboost": 1,
+    "lightgbm_p0": 1,
+    "lightgbm_p1": 3,
+    "bradley_terry": 1,
+    "bradley_terry_context": 0,
+    "team_only": [
+      0.001,
+      1.15
+    ],
+    "player_only": [
+      0.01,
+      1.0
+    ],
+    "rolling_elo": null,
+    "external_history": null
+  },
+  "final_meta": {
+    "pairs": {
+      "lightgbm": {
+        "m2_scale": 0.9719988648855593,
+        "logit_weights": [
+          0.939461886014479,
+          0.03636511346098464
+        ],
+        "companion_probability_weight": 0.05818815414076284
+      },
+      "logistic_regression": {
+        "m2_scale": 0.9719988648855593,
+        "logit_weights": [
+          0.9719988648855593,
+          0.0
+        ],
+        "companion_probability_weight": 0.0
+      },
+      "linear_svm": {
+        "m2_scale": 0.9719988648855593,
+        "logit_weights": [
+          0.9719988648855593,
+          0.0
+        ],
+        "companion_probability_weight": 0.0
+      },
+      "random_forest": {
+        "m2_scale": 0.9719988648855593,
+        "logit_weights": [
+          0.9719988648855593,
+          0.0
+        ],
+        "companion_probability_weight": 0.034753163403595695
+      },
+      "adaboost": {
+        "m2_scale": 0.9719988648855593,
+        "logit_weights": [
+          0.9719988648855593,
+          0.0
+        ],
+        "companion_probability_weight": 0.0
+      },
+      "lightgbm_p0": {
+        "m2_scale": 0.9719988648855593,
+        "logit_weights": [
+          0.9719988648855593,
+          0.0
+        ],
+        "companion_probability_weight": 0.0
+      },
+      "lightgbm_p1": {
+        "m2_scale": 0.9719988648855593,
+        "logit_weights": [
+          0.9452399516762344,
+          0.04400160679982687
+        ],
+        "companion_probability_weight": 0.0623739843663006
+      },
+      "bradley_terry": {
+        "m2_scale": 0.9719988648855593,
+        "logit_weights": [
+          0.9719988648855593,
+          0.0
+        ],
+        "companion_probability_weight": 0.0
+      },
+      "bradley_terry_context": {
+        "m2_scale": 0.9719988648855593,
+        "logit_weights": [
+          0.9719988648855593,
+          0.0
+        ],
+        "companion_probability_weight": 0.0
+      },
+      "team_only": {
+        "m2_scale": 0.9719988648855593,
+        "logit_weights": [
+          0.9719988648855593,
+          0.0
+        ],
+        "companion_probability_weight": 0.0
+      },
+      "player_only": {
+        "m2_scale": 0.9719988648855593,
+        "logit_weights": [
+          0.8601744803678496,
+          0.20830583108866146
+        ],
+        "companion_probability_weight": 0.13832630559222595
+      },
+      "rolling_elo": {
+        "m2_scale": 0.9719988648855593,
+        "logit_weights": [
+          0.9719988648855593,
+          0.0
+        ],
+        "companion_probability_weight": 0.0333331852901322
+      },
+      "external_history": {
+        "m2_scale": 0.9719988648855593,
+        "logit_weights": [
+          0.06158031524256317,
+          0.9069329378517768
+        ],
+        "companion_probability_weight": 0.8960870370978168
+      }
+    },
+    "all_weights": {
+      "m2": 0.0,
+      "lightgbm": 0.0,
+      "logistic_regression": 0.0,
+      "linear_svm": 0.0,
+      "random_forest": 0.01084817755134795,
+      "adaboost": 0.0,
+      "lightgbm_p0": 0.0,
+      "lightgbm_p1": 0.0035081022455396775,
+      "bradley_terry": 0.0,
+      "bradley_terry_context": 0.0,
+      "team_only": 0.0,
+      "player_only": 0.20762691453052298,
+      "rolling_elo": 0.0,
+      "external_history": 0.8485198296071496
+    },
+    "m2_scale": 0.9719988648855593
+  },
+  "folds": [
+    {
+      "fold": 2,
+      "fit_n": 910,
+      "score_n": 1627,
+      "fit_end": "2024-04-26 22:20:00",
+      "score_start": "2024-05-27 12:00:00",
+      "recipes": {
+        "m2": [
+          0.001,
+          1.0
+        ],
+        "lightgbm": [
+          60,
+          0.85
+        ],
+        "logistic_regression": 0,
+        "linear_svm": 1,
+        "random_forest": 1,
+        "adaboost": 1,
+        "lightgbm_p0": 0,
+        "lightgbm_p1": 0,
+        "bradley_terry": 1,
+        "bradley_terry_context": 0,
+        "team_only": [
+          0.001,
+          1.15
+        ],
+        "player_only": [
+          0.003,
+          1.3
+        ],
+        "rolling_elo": null,
+        "external_history": null
+      },
+      "meta": {
+        "pairs": {
+          "lightgbm": {
+            "m2_scale": 1.0633844625729914,
+            "logit_weights": [
+              0.9356668098438805,
+              0.14174133966207977
+            ],
+            "companion_probability_weight": 0.09631264137268684
+          },
+          "logistic_regression": {
+            "m2_scale": 1.0633844625729914,
+            "logit_weights": [
+              1.0633844625729914,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "linear_svm": {
+            "m2_scale": 1.0633844625729914,
+            "logit_weights": [
+              1.0633844625729914,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "random_forest": {
+            "m2_scale": 1.0633844625729914,
+            "logit_weights": [
+              1.0633844625729914,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "adaboost": {
+            "m2_scale": 1.0633844625729914,
+            "logit_weights": [
+              1.0633844625729914,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "lightgbm_p0": {
+            "m2_scale": 1.0633844625729914,
+            "logit_weights": [
+              1.0633844625729914,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "lightgbm_p1": {
+            "m2_scale": 1.0633844625729914,
+            "logit_weights": [
+              1.0633844625729914,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "bradley_terry": {
+            "m2_scale": 1.0633844625729914,
+            "logit_weights": [
+              1.0633844625729914,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "bradley_terry_context": {
+            "m2_scale": 1.0633844625729914,
+            "logit_weights": [
+              1.0633844625729914,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "team_only": {
+            "m2_scale": 1.0633844625729914,
+            "logit_weights": [
+              1.0633844625729914,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "player_only": {
+            "m2_scale": 1.0633844625729914,
+            "logit_weights": [
+              0.9853259675102953,
+              0.1337984269324638
+            ],
+            "companion_probability_weight": 0.023580291283983312
+          },
+          "rolling_elo": {
+            "m2_scale": 1.0633844625729914,
+            "logit_weights": [
+              1.0633844625729914,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "external_history": {
+            "m2_scale": 1.0633844625729914,
+            "logit_weights": [
+              0.0,
+              0.9209074683546247
+            ],
+            "companion_probability_weight": 0.736491435233854
+          }
+        },
+        "all_weights": {
+          "m2": 0.0,
+          "lightgbm": 0.1172144109083941,
+          "logistic_regression": 0.0,
+          "linear_svm": 0.0,
+          "random_forest": 0.0,
+          "adaboost": 0.0,
+          "lightgbm_p0": 0.0,
+          "lightgbm_p1": 0.0,
+          "bradley_terry": 0.0,
+          "bradley_terry_context": 0.0,
+          "team_only": 0.0,
+          "player_only": 0.13125831898865645,
+          "rolling_elo": 0.0,
+          "external_history": 0.7644166271846983
+        },
+        "m2_scale": 1.0633844625729914
+      }
+    },
+    {
+      "fold": 3,
+      "fit_n": 2404,
+      "score_n": 949,
+      "fit_end": "2024-08-28 23:55:00",
+      "score_start": "2024-09-28 12:00:00",
+      "recipes": {
+        "m2": [
+          0.001,
+          1.3
+        ],
+        "lightgbm": [
+          60,
+          1.0
+        ],
+        "logistic_regression": 0,
+        "linear_svm": 1,
+        "random_forest": 1,
+        "adaboost": 1,
+        "lightgbm_p0": 3,
+        "lightgbm_p1": 3,
+        "bradley_terry": 1,
+        "bradley_terry_context": 0,
+        "team_only": [
+          0.001,
+          1.3
+        ],
+        "player_only": [
+          0.003,
+          1.3
+        ],
+        "rolling_elo": null,
+        "external_history": null
+      },
+      "meta": {
+        "pairs": {
+          "lightgbm": {
+            "m2_scale": 0.9534441143188727,
+            "logit_weights": [
+              0.9534441143188727,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "logistic_regression": {
+            "m2_scale": 0.9534441143188727,
+            "logit_weights": [
+              0.9534441143188727,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "linear_svm": {
+            "m2_scale": 0.9534441143188727,
+            "logit_weights": [
+              0.9534441143188727,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "random_forest": {
+            "m2_scale": 0.9534441143188727,
+            "logit_weights": [
+              0.9534441143188727,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "adaboost": {
+            "m2_scale": 0.9534441143188727,
+            "logit_weights": [
+              0.9534441143188727,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "lightgbm_p0": {
+            "m2_scale": 0.9534441143188727,
+            "logit_weights": [
+              0.9534441143188727,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "lightgbm_p1": {
+            "m2_scale": 0.9534441143188727,
+            "logit_weights": [
+              0.9534441143188727,
+              0.0
+            ],
+            "companion_probability_weight": 0.00419559940204158
+          },
+          "bradley_terry": {
+            "m2_scale": 0.9534441143188727,
+            "logit_weights": [
+              0.9534441143188727,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "bradley_terry_context": {
+            "m2_scale": 0.9534441143188727,
+            "logit_weights": [
+              0.9534441143188727,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "team_only": {
+            "m2_scale": 0.9534441143188727,
+            "logit_weights": [
+              0.9534441143188727,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "player_only": {
+            "m2_scale": 0.9534441143188727,
+            "logit_weights": [
+              0.846297473630695,
+              0.20728198219526872
+            ],
+            "companion_probability_weight": 0.13887049470011056
+          },
+          "rolling_elo": {
+            "m2_scale": 0.9534441143188727,
+            "logit_weights": [
+              0.9534441143188727,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "external_history": {
+            "m2_scale": 0.9534441143188727,
+            "logit_weights": [
+              0.0,
+              1.062563763764217
+            ],
+            "companion_probability_weight": 0.7438484830118133
+          }
+        },
+        "all_weights": {
+          "m2": 0.0,
+          "lightgbm": 0.0,
+          "logistic_regression": 0.0,
+          "linear_svm": 0.0,
+          "random_forest": 0.0,
+          "adaboost": 0.0,
+          "lightgbm_p0": 0.0,
+          "lightgbm_p1": 0.0,
+          "bradley_terry": 0.0,
+          "bradley_terry_context": 0.0,
+          "team_only": 0.0,
+          "player_only": 0.2048697440173558,
+          "rolling_elo": 0.0,
+          "external_history": 0.9454684086395523
+        },
+        "m2_scale": 0.9534441143188727
+      }
+    },
+    {
+      "fold": 4,
+      "fit_n": 3587,
+      "score_n": 1231,
+      "fit_end": "2024-12-28 17:00:00",
+      "score_start": "2025-02-02 13:00:00",
+      "recipes": {
+        "m2": [
+          0.001,
+          1.3
+        ],
+        "lightgbm": [
+          60,
+          1.0
+        ],
+        "logistic_regression": 0,
+        "linear_svm": 1,
+        "random_forest": 1,
+        "adaboost": 1,
+        "lightgbm_p0": 1,
+        "lightgbm_p1": 3,
+        "bradley_terry": 1,
+        "bradley_terry_context": 0,
+        "team_only": [
+          0.001,
+          1.3
+        ],
+        "player_only": [
+          0.003,
+          1.3
+        ],
+        "rolling_elo": null,
+        "external_history": null
+      },
+      "meta": {
+        "pairs": {
+          "lightgbm": {
+            "m2_scale": 0.9651258426923763,
+            "logit_weights": [
+              0.9651258426923763,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "logistic_regression": {
+            "m2_scale": 0.9651258426923763,
+            "logit_weights": [
+              0.9651258426923763,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "linear_svm": {
+            "m2_scale": 0.9651258426923763,
+            "logit_weights": [
+              0.9651258426923763,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "random_forest": {
+            "m2_scale": 0.9651258426923763,
+            "logit_weights": [
+              0.9297243339568922,
+              0.06340364688900262
+            ],
+            "companion_probability_weight": 0.06669012180413922
+          },
+          "adaboost": {
+            "m2_scale": 0.9651258426923763,
+            "logit_weights": [
+              0.9651258426923763,
+              0.0
+            ],
+            "companion_probability_weight": 0.002222849959121576
+          },
+          "lightgbm_p0": {
+            "m2_scale": 0.9651258426923763,
+            "logit_weights": [
+              0.9651258426923763,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "lightgbm_p1": {
+            "m2_scale": 0.9651258426923763,
+            "logit_weights": [
+              0.9651258426923763,
+              0.0
+            ],
+            "companion_probability_weight": 0.02759026050159346
+          },
+          "bradley_terry": {
+            "m2_scale": 0.9651258426923763,
+            "logit_weights": [
+              0.9651258426923763,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "bradley_terry_context": {
+            "m2_scale": 0.9651258426923763,
+            "logit_weights": [
+              0.9651258426923763,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "team_only": {
+            "m2_scale": 0.9651258426923763,
+            "logit_weights": [
+              0.9651258426923763,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "player_only": {
+            "m2_scale": 0.9651258426923763,
+            "logit_weights": [
+              0.8661040605463335,
+              0.18802975929896473
+            ],
+            "companion_probability_weight": 0.12343682533837347
+          },
+          "rolling_elo": {
+            "m2_scale": 0.9651258426923763,
+            "logit_weights": [
+              0.9651258426923763,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "external_history": {
+            "m2_scale": 0.9651258426923763,
+            "logit_weights": [
+              0.1706442133018907,
+              0.8879116886876295
+            ],
+            "companion_probability_weight": 0.5066751231192212
+          }
+        },
+        "all_weights": {
+          "m2": 0.047506506599967774,
+          "lightgbm": 0.0,
+          "logistic_regression": 0.0,
+          "linear_svm": 0.0,
+          "random_forest": 0.06210598568876818,
+          "adaboost": 0.0,
+          "lightgbm_p0": 0.0,
+          "lightgbm_p1": 0.0,
+          "bradley_terry": 0.0,
+          "bradley_terry_context": 0.0,
+          "team_only": 0.0,
+          "player_only": 0.1950997457119522,
+          "rolling_elo": 0.0,
+          "external_history": 0.8719390017634905
+        },
+        "m2_scale": 0.9651258426923763
+      }
+    },
+    {
+      "fold": 5,
+      "fit_n": 4702,
+      "score_n": 1191,
+      "fit_end": "2025-04-21 13:00:00",
+      "score_start": "2025-05-22 00:00:00",
+      "recipes": {
+        "m2": [
+          0.001,
+          1.15
+        ],
+        "lightgbm": [
+          60,
+          1.15
+        ],
+        "logistic_regression": 0,
+        "linear_svm": 1,
+        "random_forest": 1,
+        "adaboost": 1,
+        "lightgbm_p0": 1,
+        "lightgbm_p1": 3,
+        "bradley_terry": 1,
+        "bradley_terry_context": 0,
+        "team_only": [
+          0.001,
+          1.15
+        ],
+        "player_only": [
+          0.003,
+          1.3
+        ],
+        "rolling_elo": null,
+        "external_history": null
+      },
+      "meta": {
+        "pairs": {
+          "lightgbm": {
+            "m2_scale": 1.0352537013268348,
+            "logit_weights": [
+              1.0352537013268348,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "logistic_regression": {
+            "m2_scale": 1.0352537013268348,
+            "logit_weights": [
+              1.0352537013268348,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "linear_svm": {
+            "m2_scale": 1.0352537013268348,
+            "logit_weights": [
+              1.0352537013268348,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "random_forest": {
+            "m2_scale": 1.0352537013268348,
+            "logit_weights": [
+              1.003907817014224,
+              0.05022094128021239
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "adaboost": {
+            "m2_scale": 1.0352537013268348,
+            "logit_weights": [
+              1.0352537013268348,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "lightgbm_p0": {
+            "m2_scale": 1.0352537013268348,
+            "logit_weights": [
+              1.0352537013268348,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "lightgbm_p1": {
+            "m2_scale": 1.0352537013268348,
+            "logit_weights": [
+              1.0352537013268348,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "bradley_terry": {
+            "m2_scale": 1.0352537013268348,
+            "logit_weights": [
+              1.0352537013268348,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "bradley_terry_context": {
+            "m2_scale": 1.0352537013268348,
+            "logit_weights": [
+              1.0352537013268348,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "team_only": {
+            "m2_scale": 1.0352537013268348,
+            "logit_weights": [
+              1.0352537013268348,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "player_only": {
+            "m2_scale": 1.0352537013268348,
+            "logit_weights": [
+              0.9613448209057854,
+              0.12454363206882116
+            ],
+            "companion_probability_weight": 0.04422229950844825
+          },
+          "rolling_elo": {
+            "m2_scale": 1.0352537013268348,
+            "logit_weights": [
+              1.0352537013268348,
+              0.0
+            ],
+            "companion_probability_weight": 0.0
+          },
+          "external_history": {
+            "m2_scale": 1.0352537013268348,
+            "logit_weights": [
+              0.1399615360458702,
+              0.8897633057294475
+            ],
+            "companion_probability_weight": 0.9357297511490702
+          }
+        },
+        "all_weights": {
+          "m2": 0.04272415181599587,
+          "lightgbm": 0.0,
+          "logistic_regression": 0.0,
+          "linear_svm": 0.0,
+          "random_forest": 0.04450517795448787,
+          "adaboost": 0.0,
+          "lightgbm_p0": 0.0,
+          "lightgbm_p1": 0.0,
+          "bradley_terry": 0.0,
+          "bradley_terry_context": 0.0,
+          "team_only": 0.0,
+          "player_only": 0.12905709238424393,
+          "rolling_elo": 0.0,
+          "external_history": 0.8826882644954325
+        },
+        "m2_scale": 1.0352537013268348
+      }
+    }
+  ],
+  "screen": {
+    "equal__lightgbm": {
+      "logloss": 0.6546986329659787,
+      "wins": {
+        "forward_m2": 2,
+        "scaled_m2": 2
+      },
+      "delta": {
+        "forward_m2": 0.0004370787253831225,
+        "scaled_m2": 0.0006943574132578069
+      },
+      "passed": false
+    },
+    "mean__lightgbm": {
+      "logloss": 0.6544771106319867,
+      "wins": {
+        "forward_m2": 0,
+        "scaled_m2": 1
+      },
+      "delta": {
+        "forward_m2": 0.0002155563913909814,
+        "scaled_m2": 0.0004728350792656656
+      },
+      "passed": false
+    },
+    "stack__lightgbm": {
+      "logloss": 0.6542144582035205,
+      "wins": {
+        "forward_m2": 3,
+        "scaled_m2": 0
+      },
+      "delta": {
+        "forward_m2": -4.70960370751295e-05,
+        "scaled_m2": 0.00021018265079955474
+      },
+      "passed": false
+    },
+    "equal__logistic_regression": {
+      "logloss": 0.6581015349338056,
+      "wins": {
+        "forward_m2": 0,
+        "scaled_m2": 0
+      },
+      "delta": {
+        "forward_m2": 0.0038399806932099944,
+        "scaled_m2": 0.004097259381084678
+      },
+      "passed": false
+    },
+    "mean__logistic_regression": {
+      "logloss": 0.6542615542405956,
+      "wins": {
+        "forward_m2": 0,
+        "scaled_m2": 1
+      },
+      "delta": {
+        "forward_m2": 0.0,
+        "scaled_m2": 0.0002572786878746843
+      },
+      "passed": false
+    },
+    "stack__logistic_regression": {
+      "logloss": 0.6540042755527209,
+      "wins": {
+        "forward_m2": 3,
+        "scaled_m2": 0
+      },
+      "delta": {
+        "forward_m2": -0.0002572786878746843,
+        "scaled_m2": 0.0
+      },
+      "passed": false
+    },
+    "equal__linear_svm": {
+      "logloss": 0.6570665346480633,
+      "wins": {
+        "forward_m2": 1,
+        "scaled_m2": 1
+      },
+      "delta": {
+        "forward_m2": 0.0028049804074677634,
+        "scaled_m2": 0.003062259095342448
+      },
+      "passed": false
+    },
+    "mean__linear_svm": {
+      "logloss": 0.6542615542405956,
+      "wins": {
+        "forward_m2": 0,
+        "scaled_m2": 1
+      },
+      "delta": {
+        "forward_m2": 0.0,
+        "scaled_m2": 0.0002572786878746843
+      },
+      "passed": false
+    },
+    "stack__linear_svm": {
+      "logloss": 0.6540042755527209,
+      "wins": {
+        "forward_m2": 3,
+        "scaled_m2": 0
+      },
+      "delta": {
+        "forward_m2": -0.0002572786878746843,
+        "scaled_m2": 0.0
+      },
+      "passed": false
+    },
+    "equal__random_forest": {
+      "logloss": 0.6558809276373584,
+      "wins": {
+        "forward_m2": 1,
+        "scaled_m2": 1
+      },
+      "delta": {
+        "forward_m2": 0.0016193733967628098,
+        "scaled_m2": 0.001876652084637494
+      },
+      "passed": false
+    },
+    "mean__random_forest": {
+      "logloss": 0.6541438393745236,
+      "wins": {
+        "forward_m2": 1,
+        "scaled_m2": 1
+      },
+      "delta": {
+        "forward_m2": -0.00011771486607200633,
+        "scaled_m2": 0.00013956382180267793
+      },
+      "passed": false
+    },
+    "stack__random_forest": {
+      "logloss": 0.6540410809865322,
+      "wins": {
+        "forward_m2": 3,
+        "scaled_m2": 0
+      },
+      "delta": {
+        "forward_m2": -0.0002204732540633619,
+        "scaled_m2": 3.680543381132237e-05
+      },
+      "passed": false
+    },
+    "equal__adaboost": {
+      "logloss": 0.6577839316403351,
+      "wins": {
+        "forward_m2": 0,
+        "scaled_m2": 0
+      },
+      "delta": {
+        "forward_m2": 0.0035223773997395047,
+        "scaled_m2": 0.0037796560876141895
+      },
+      "passed": false
+    },
+    "mean__adaboost": {
+      "logloss": 0.6542614787770055,
+      "wins": {
+        "forward_m2": 1,
+        "scaled_m2": 1
+      },
+      "delta": {
+        "forward_m2": -7.546359013277414e-08,
+        "scaled_m2": 0.0002572032242845515
+      },
+      "passed": false
+    },
+    "stack__adaboost": {
+      "logloss": 0.6540042755527209,
+      "wins": {
+        "forward_m2": 3,
+        "scaled_m2": 0
+      },
+      "delta": {
+        "forward_m2": -0.0002572786878746843,
+        "scaled_m2": 0.0
+      },
+      "passed": false
+    },
+    "equal__lightgbm_p0": {
+      "logloss": 0.657147769474726,
+      "wins": {
+        "forward_m2": 1,
+        "scaled_m2": 1
+      },
+      "delta": {
+        "forward_m2": 0.0028862152341304734,
+        "scaled_m2": 0.0031434939220051574
+      },
+      "passed": false
+    },
+    "mean__lightgbm_p0": {
+      "logloss": 0.6542615542405956,
+      "wins": {
+        "forward_m2": 0,
+        "scaled_m2": 1
+      },
+      "delta": {
+        "forward_m2": 0.0,
+        "scaled_m2": 0.0002572786878746843
+      },
+      "passed": false
+    },
+    "stack__lightgbm_p0": {
+      "logloss": 0.6540042755527209,
+      "wins": {
+        "forward_m2": 3,
+        "scaled_m2": 0
+      },
+      "delta": {
+        "forward_m2": -0.0002572786878746843,
+        "scaled_m2": 0.0
+      },
+      "passed": false
+    },
+    "equal__lightgbm_p1": {
+      "logloss": 0.655797473491608,
+      "wins": {
+        "forward_m2": 1,
+        "scaled_m2": 1
+      },
+      "delta": {
+        "forward_m2": 0.001535919251012411,
+        "scaled_m2": 0.0017931979388870947
+      },
+      "passed": false
+    },
+    "mean__lightgbm_p1": {
+      "logloss": 0.654200336072766,
+      "wins": {
+        "forward_m2": 2,
+        "scaled_m2": 1
+      },
+      "delta": {
+        "forward_m2": -6.12181678296368e-05,
+        "scaled_m2": 0.0001960605200450475
+      },
+      "passed": false
+    },
+    "stack__lightgbm_p1": {
+      "logloss": 0.6540042755527209,
+      "wins": {
+        "forward_m2": 3,
+        "scaled_m2": 0
+      },
+      "delta": {
+        "forward_m2": -0.0002572786878746843,
+        "scaled_m2": 0.0
+      },
+      "passed": false
+    },
+    "equal__bradley_terry": {
+      "logloss": 0.6611995907294894,
+      "wins": {
+        "forward_m2": 0,
+        "scaled_m2": 1
+      },
+      "delta": {
+        "forward_m2": 0.006938036488893796,
+        "scaled_m2": 0.00719531517676848
+      },
+      "passed": false
+    },
+    "mean__bradley_terry": {
+      "logloss": 0.6542615542405956,
+      "wins": {
+        "forward_m2": 0,
+        "scaled_m2": 1
+      },
+      "delta": {
+        "forward_m2": 0.0,
+        "scaled_m2": 0.0002572786878746843
+      },
+      "passed": false
+    },
+    "stack__bradley_terry": {
+      "logloss": 0.6540042755527209,
+      "wins": {
+        "forward_m2": 3,
+        "scaled_m2": 0
+      },
+      "delta": {
+        "forward_m2": -0.0002572786878746843,
+        "scaled_m2": 0.0
+      },
+      "passed": false
+    },
+    "equal__bradley_terry_context": {
+      "logloss": 0.6574587400983158,
+      "wins": {
+        "forward_m2": 0,
+        "scaled_m2": 0
+      },
+      "delta": {
+        "forward_m2": 0.0031971858577202325,
+        "scaled_m2": 0.003454464545594917
+      },
+      "passed": false
+    },
+    "mean__bradley_terry_context": {
+      "logloss": 0.6542615542405956,
+      "wins": {
+        "forward_m2": 0,
+        "scaled_m2": 1
+      },
+      "delta": {
+        "forward_m2": 0.0,
+        "scaled_m2": 0.0002572786878746843
+      },
+      "passed": false
+    },
+    "stack__bradley_terry_context": {
+      "logloss": 0.6540042755527209,
+      "wins": {
+        "forward_m2": 3,
+        "scaled_m2": 0
+      },
+      "delta": {
+        "forward_m2": -0.0002572786878746843,
+        "scaled_m2": 0.0
+      },
+      "passed": false
+    },
+    "equal__team_only": {
+      "logloss": 0.6548439614728705,
+      "wins": {
+        "forward_m2": 1,
+        "scaled_m2": 0
+      },
+      "delta": {
+        "forward_m2": 0.0005824072322748944,
+        "scaled_m2": 0.0008396859201495788
+      },
+      "passed": false
+    },
+    "mean__team_only": {
+      "logloss": 0.6542615542405956,
+      "wins": {
+        "forward_m2": 0,
+        "scaled_m2": 1
+      },
+      "delta": {
+        "forward_m2": 0.0,
+        "scaled_m2": 0.0002572786878746843
+      },
+      "passed": false
+    },
+    "stack__team_only": {
+      "logloss": 0.6540042755527209,
+      "wins": {
+        "forward_m2": 3,
+        "scaled_m2": 0
+      },
+      "delta": {
+        "forward_m2": -0.0002572786878746843,
+        "scaled_m2": 0.0
+      },
+      "passed": false
+    },
+    "equal__player_only": {
+      "logloss": 0.6556340083236191,
+      "wins": {
+        "forward_m2": 1,
+        "scaled_m2": 1
+      },
+      "delta": {
+        "forward_m2": 0.0013724540830235435,
+        "scaled_m2": 0.0016297327708982286
+      },
+      "passed": false
+    },
+    "mean__player_only": {
+      "logloss": 0.6535880414119118,
+      "wins": {
+        "forward_m2": 3,
+        "scaled_m2": 3
+      },
+      "delta": {
+        "forward_m2": -0.0006735128286836767,
+        "scaled_m2": -0.00041623414080899237
+      },
+      "passed": true
+    },
+    "stack__player_only": {
+      "logloss": 0.653514917340764,
+      "wins": {
+        "forward_m2": 4,
+        "scaled_m2": 3
+      },
+      "delta": {
+        "forward_m2": -0.0007466368998316454,
+        "scaled_m2": -0.000489358211956961
+      },
+      "passed": true
+    },
+    "equal__rolling_elo": {
+      "logloss": 0.6580207008104973,
+      "wins": {
+        "forward_m2": 1,
+        "scaled_m2": 1
+      },
+      "delta": {
+        "forward_m2": 0.0037591465699017383,
+        "scaled_m2": 0.004016425257776424
+      },
+      "passed": false
+    },
+    "mean__rolling_elo": {
+      "logloss": 0.6542615542405956,
+      "wins": {
+        "forward_m2": 0,
+        "scaled_m2": 1
+      },
+      "delta": {
+        "forward_m2": 0.0,
+        "scaled_m2": 0.0002572786878746843
+      },
+      "passed": false
+    },
+    "stack__rolling_elo": {
+      "logloss": 0.6540042755527209,
+      "wins": {
+        "forward_m2": 3,
+        "scaled_m2": 0
+      },
+      "delta": {
+        "forward_m2": -0.0002572786878746843,
+        "scaled_m2": 0.0
+      },
+      "passed": false
+    },
+    "equal__external_history": {
+      "logloss": 0.6535644035025842,
+      "wins": {
+        "forward_m2": 3,
+        "scaled_m2": 3
+      },
+      "delta": {
+        "forward_m2": -0.0006971507380115036,
+        "scaled_m2": -0.0004398720501368194
+      },
+      "passed": true
+    },
+    "mean__external_history": {
+      "logloss": 0.6534691661617044,
+      "wins": {
+        "forward_m2": 2,
+        "scaled_m2": 3
+      },
+      "delta": {
+        "forward_m2": -0.0007923880788912312,
+        "scaled_m2": -0.0005351093910165469
+      },
+      "passed": false
+    },
+    "stack__external_history": {
+      "logloss": 0.6538786633515973,
+      "wins": {
+        "forward_m2": 2,
+        "scaled_m2": 3
+      },
+      "delta": {
+        "forward_m2": -0.00038289088899819617,
+        "scaled_m2": -0.00012561220112351196
+      },
+      "passed": false
+    },
+    "stack__all": {
+      "logloss": 0.6535815018931721,
+      "wins": {
+        "forward_m2": 4,
+        "scaled_m2": 3
+      },
+      "delta": {
+        "forward_m2": -0.000680052347423446,
+        "scaled_m2": -0.00042277365954876157
+      },
+      "passed": true
+    }
+  },
+  "finalist": "stack__player_only",
+  "test_evaluated": false
+}
