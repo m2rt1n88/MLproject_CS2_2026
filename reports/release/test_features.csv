@@ -1,0 +1,2160 @@
+match_id,date,split,team1,team2,team1_won,tier1,tier2,tier3,bo_missing,bo1,bo3,bo5
+7298858,2026-04-01 11:00:00,test,ww team,illwill,1,1,0,0,1,0,0,0
+7151028,2026-04-01 13:00:00,test,g2 esports,team nemesis,1,0,1,0,1,0,0,0
+7298886,2026-04-01 14:00:00,test,100 thieves,hotu,1,1,0,0,1,0,0,0
+7151027,2026-04-01 15:30:00,test,heroic,betboom team,0,0,1,0,1,0,0,0
+7298889,2026-04-01 16:00:00,test,passion ua,sashi esport,1,0,1,0,1,0,0,0
+7298894,2026-04-01 16:00:00,test,aurora gaming,alliance,0,0,1,0,1,0,0,0
+10092668,2026-04-01 16:00:00,test,lilmix,yngods,0,0,1,0,1,0,0,0
+10092669,2026-04-01 16:00:00,test,ex-zero tenacity,nigelm,1,0,1,0,1,0,0,0
+10092670,2026-04-01 16:00:00,test,grindas,big equipa,1,0,1,0,1,0,0,0
+10092671,2026-04-01 16:00:00,test,csdiilit,m1x,1,0,1,0,1,0,0,0
+10092672,2026-04-01 16:00:00,test,playersclub,lavked,0,0,1,0,1,0,0,0
+10092673,2026-04-01 16:00:00,test,donstu esports,brazylijski luz,1,0,1,0,1,0,0,0
+10092674,2026-04-01 16:00:00,test,rune eaters,tnt,0,0,1,0,1,0,0,0
+10092675,2026-04-01 16:00:00,test,team pigeons,kajo,1,0,1,0,1,0,0,0
+7298857,2026-04-01 18:00:00,test,k27,lavked,1,1,0,0,1,0,0,0
+7151026,2026-04-01 18:20:00,test,gamerlegion,9ine,1,0,1,0,1,0,0,0
+10092676,2026-04-01 20:00:00,test,johnny speeds,8sins,1,0,1,0,1,0,0,0
+10092677,2026-04-01 20:00:00,test,mana esports,rustec,1,0,1,0,1,0,0,0
+10092678,2026-04-01 20:00:00,test,unity,atreides,1,0,1,0,1,0,0,0
+10092679,2026-04-01 20:00:00,test,ence,team quazar,1,0,1,0,1,0,0,0
+10092680,2026-04-01 20:00:00,test,g2 ares,elitenergy,0,0,1,0,1,0,0,0
+10092681,2026-04-01 20:00:00,test,the last resort,qwentry,0,0,1,0,1,0,0,0
+10092682,2026-04-01 20:00:00,test,just players,ursa,1,0,1,0,1,0,0,0
+10092683,2026-04-01 20:00:00,test,heroic academy,tnc esport,0,0,1,0,1,0,0,0
+7298895,2026-04-01 20:05:00,test,m80,monte,0,0,1,0,1,0,0,0
+10091453,2026-04-01 20:10:00,test,alliance,passion ua,1,0,1,0,1,0,0,0
+7298885,2026-04-01 20:15:00,test,magic,acrobats,1,1,0,0,1,0,0,0
+7151025,2026-04-01 20:30:00,test,gentle mates,ninjas in pyjamas,0,0,1,0,1,0,0,0
+10091598,2026-04-02 09:00:00,test,k27,novaq,1,0,0,1,1,0,0,0
+10091599,2026-04-02 09:00:00,test,1w team,jumbo,1,0,0,1,1,0,0,0
+7298940,2026-04-02 11:00:00,test,lavked,100 thieves,0,1,0,0,1,0,0,0
+10091600,2026-04-02 11:35:00,test,k27,1w team,1,0,0,1,1,0,0,0
+10091601,2026-04-02 12:00:00,test,novaq,jumbo,0,0,0,1,1,0,0,0
+7298932,2026-04-02 13:00:00,test,team nemesis,heroic,0,0,1,0,1,0,0,0
+10091602,2026-04-02 13:50:00,test,1w team,jumbo,1,0,0,1,1,0,0,0
+7298965,2026-04-02 14:00:00,test,acrobats,ww team,1,1,0,0,1,0,0,0
+7298986,2026-04-02 15:30:00,test,9ine,gentle mates,1,0,1,0,1,0,0,0
+10091455,2026-04-02 16:00:00,test,m80,alliance,1,0,1,0,1,0,0,0
+10091613,2026-04-02 16:45:00,test,sparta esports,cybershoke prospects,1,0,0,1,1,0,0,0
+7298964,2026-04-02 17:30:00,test,k27,magic,0,1,0,0,1,0,0,0
+10091614,2026-04-02 17:35:00,test,tdk,eternal premium,1,0,0,1,1,0,0,0
+7298931,2026-04-02 18:00:00,test,g2 esports,betboom team,1,0,1,0,1,0,0,0
+7299028,2026-04-02 20:00:00,test,acrobats,100 thieves,0,1,0,0,1,0,0,0
+10092684,2026-04-02 20:00:00,test,8sins,yngods,0,0,1,0,1,0,0,0
+10092685,2026-04-02 20:00:00,test,rustec,ex-zero tenacity,1,0,1,0,1,0,0,0
+10092686,2026-04-02 20:00:00,test,atreides,grindas,1,0,1,0,1,0,0,0
+10092687,2026-04-02 20:00:00,test,team quazar,csdiilit,1,0,1,0,1,0,0,0
+10092688,2026-04-02 20:00:00,test,g2 ares,lavked,1,0,1,0,1,0,0,0
+10092689,2026-04-02 20:00:00,test,the last resort,donstu esports,0,0,1,0,1,0,0,0
+10092690,2026-04-02 20:00:00,test,ursa,tnt,0,0,1,0,1,0,0,0
+10092691,2026-04-02 20:00:00,test,heroic academy,team pigeons,1,0,1,0,1,0,0,0
+10091615,2026-04-02 20:15:00,test,sparta esports,tdk,0,0,0,1,1,0,0,0
+10091616,2026-04-02 20:15:00,test,cybershoke prospects,eternal premium,1,0,0,1,1,0,0,0
+7299031,2026-04-02 20:20:00,test,monte,m80,0,0,1,0,1,0,0,0
+7298985,2026-04-02 20:45:00,test,gamerlegion,ninjas in pyjamas,1,0,1,0,1,0,0,0
+10091617,2026-04-03 00:35:00,test,sparta esports,cybershoke prospects,0,0,0,1,1,0,0,0
+10091608,2026-04-03 09:00:00,test,nemiga gaming,5actors,1,0,0,1,1,0,0,0
+10091609,2026-04-03 09:00:00,test,bet-m 33,void sentinels,1,0,0,1,1,0,0,0
+10091567,2026-04-03 10:00:00,test,drama esports,békéscsabai e-sport,1,0,0,1,1,0,0,0
+10091610,2026-04-03 11:05:00,test,nemiga gaming,bet-m 33,1,0,0,1,1,0,0,0
+10091611,2026-04-03 11:05:00,test,5actors,void sentinels,1,0,0,1,1,0,0,0
+7298959,2026-04-03 11:55:00,test,faze clan,békéscsabai e-sport,1,0,0,1,1,0,0,0
+7299043,2026-04-03 13:00:00,test,betboom team,9ine,1,0,1,0,1,0,0,0
+7299050,2026-04-03 13:00:00,test,k27,100 thieves,1,1,0,0,1,0,0,0
+7298958,2026-04-03 13:30:00,test,faze clan,drama esports,1,0,0,1,1,0,0,0
+10091612,2026-04-03 14:35:00,test,bet-m 33,5actors,1,0,0,1,1,0,0,0
+7299054,2026-04-03 15:30:00,test,ninjas in pyjamas,heroic,0,0,1,0,1,0,0,0
+7298957,2026-04-03 16:40:00,test,ex-zero tenacity,deorum,1,0,0,1,1,0,0,0
+7299109,2026-04-03 17:00:00,test,magic,k27,1,1,0,0,1,0,0,0
+10091604,2026-04-03 17:40:00,test,arcred,younglings,1,0,0,1,1,0,0,0
+10091603,2026-04-03 18:00:00,test,hotu,ww team,1,0,0,1,1,0,0,0
+7298956,2026-04-03 18:30:00,test,illwill,deorum,1,0,0,1,1,0,0,0
+7299111,2026-04-03 19:45:00,test,heroic,betboom team,0,0,1,0,1,0,0,0
+10092692,2026-04-03 20:00:00,test,yngods,rustec,1,0,1,0,1,0,0,0
+10092693,2026-04-03 20:00:00,test,atreides,team quazar,0,0,1,0,1,0,0,0
+10092694,2026-04-03 20:00:00,test,g2 ares,donstu esports,1,0,1,0,1,0,0,0
+10092695,2026-04-03 20:00:00,test,tnt,heroic academy,0,0,1,0,1,0,0,0
+10092696,2026-04-03 20:00:00,test,johnny speeds,mana esports,1,0,1,0,1,0,0,0
+10092697,2026-04-03 20:00:00,test,unity,ence,0,0,1,0,1,0,0,0
+10092698,2026-04-03 20:00:00,test,elitenergy,qwentry,0,0,1,0,1,0,0,0
+10092699,2026-04-03 20:00:00,test,just players,tnc esport,0,0,1,0,1,0,0,0
+7298955,2026-04-03 20:45:00,test,illwill,ex-zero tenacity,1,0,0,1,1,0,0,0
+10091605,2026-04-03 21:00:00,test,arcred,hotu,0,0,0,1,1,0,0,0
+10091606,2026-04-03 21:00:00,test,ww team,younglings,1,0,0,1,1,0,0,0
+10091607,2026-04-04 01:30:00,test,arcred,ww team,0,0,0,1,1,0,0,0
+7298929,2026-04-04 10:00:00,test,team 3dmax,fokus,0,1,0,0,1,0,0,0
+7298930,2026-04-04 10:00:00,test,fut esports,inner circle,1,1,0,0,1,0,0,0
+7298953,2026-04-04 10:00:00,test,cybershoke esports,pivosquad,1,0,0,1,1,0,0,0
+7298954,2026-04-04 10:00:00,test,magic,re`di,1,0,0,1,1,0,0,0
+7298951,2026-04-04 11:35:00,test,cybershoke esports,re`di,1,0,0,1,1,0,0,0
+7298952,2026-04-04 11:35:00,test,magic,pivosquad,1,0,0,1,1,0,0,0
+7299152,2026-04-04 12:00:00,test,k27,cybershoke prospects,1,0,0,1,1,0,0,0
+7298928,2026-04-04 13:00:00,test,b8 esports,wildcard gaming,1,1,0,0,1,0,0,0
+7298925,2026-04-04 14:50:00,test,astralis,mibr,1,1,0,0,1,0,0,0
+7298926,2026-04-04 14:55:00,test,the mongolz,bcgame,1,1,0,0,1,0,0,0
+7298949,2026-04-04 15:00:00,test,pivosquad,re`di,1,0,0,1,1,0,0,0
+7298950,2026-04-04 15:00:00,test,magic,cybershoke esports,1,0,0,1,1,0,0,0
+7299151,2026-04-04 15:00:00,test,bet-m 33,hotu,1,0,0,1,1,0,0,0
+7299126,2026-04-04 16:00:00,test,gamerlegion,betboom team,0,0,1,0,1,0,0,0
+7298924,2026-04-04 17:00:00,test,parivision,legacy,1,1,0,0,1,0,0,0
+7299150,2026-04-04 17:20:00,test,1w team,tdk,1,0,0,1,1,0,0,0
+7298948,2026-04-04 18:30:00,test,betclic,luminous,1,0,0,1,1,0,0,0
+7299183,2026-04-04 19:00:00,test,g2 esports,betboom team,1,0,1,0,1,0,0,0
+10091552,2026-04-04 19:00:00,test,faze clan,eyeballers,0,1,0,0,1,0,0,0
+7298947,2026-04-04 19:40:00,test,big,luminous,1,0,0,1,1,0,0,0
+10092702,2026-04-04 20:00:00,test,just players,yngods,1,0,1,0,1,0,0,0
+10092703,2026-04-04 20:00:00,test,elitenergy,team quazar,1,0,1,0,1,0,0,0
+10092704,2026-04-04 20:00:00,test,unity,g2 ares,1,0,1,0,1,0,0,0
+10092705,2026-04-04 20:00:00,test,mana esports,heroic academy,1,0,1,0,1,0,0,0
+7299149,2026-04-04 20:10:00,test,nemiga gaming,ww team,0,0,0,1,1,0,0,0
+7298946,2026-04-04 21:05:00,test,big,betclic,1,0,0,1,1,0,0,0
+7299198,2026-04-05 10:00:00,test,fut esports,nrg esports,1,1,0,0,1,0,0,0
+7299199,2026-04-05 10:00:00,test,team 3dmax,team voca,1,1,0,0,1,0,0,0
+7299207,2026-04-05 11:00:00,test,magic,drama esports,1,0,0,1,1,0,0,0
+10091632,2026-04-05 11:00:00,test,faze clan,wildcard gaming,0,1,0,0,1,0,0,0
+7299196,2026-04-05 11:40:00,test,astralis,b8 esports,1,1,0,0,1,0,0,0
+7299181,2026-04-05 12:00:00,test,k27,bet-m 33,0,0,0,1,1,0,0,0
+7299197,2026-04-05 13:40:00,test,bcgame,mibr,0,1,0,0,1,0,0,0
+7299205,2026-04-05 14:00:00,test,illwill,betclic,1,0,0,1,1,0,0,0
+7299206,2026-04-05 14:00:00,test,big,ex-zero tenacity,1,0,0,1,1,0,0,0
+7299194,2026-04-05 14:45:00,test,parivision,fokus,1,1,0,0,1,0,0,0
+7299201,2026-04-05 15:00:00,test,1w team,ww team,1,0,0,1,1,0,0,0
+7299195,2026-04-05 17:05:00,test,legacy,inner circle,1,1,0,0,1,0,0,0
+7299245,2026-04-05 17:10:00,test,k27,ww team,0,0,0,1,1,0,0,0
+7299192,2026-04-05 17:25:00,test,the mongolz,eyeballers,1,1,0,0,1,0,0,0
+7299243,2026-04-05 18:10:00,test,faze clan,illwill,1,0,0,1,1,0,0,0
+7299246,2026-04-05 18:10:00,test,big,magic,1,0,0,1,1,0,0,0
+7299244,2026-04-05 19:15:00,test,bet-m 33,1w team,0,0,0,1,1,0,0,0
+10092700,2026-04-05 20:00:00,test,johnny speeds,ence,1,0,1,0,1,0,0,0
+10092701,2026-04-05 20:00:00,test,qwentry,tnc esport,1,0,1,0,1,0,0,0
+10092707,2026-04-05 20:00:00,test,just players,elitenergy,0,0,1,0,1,0,0,0
+10092708,2026-04-05 20:00:00,test,unity,mana esports,0,0,1,0,1,0,0,0
+7299252,2026-04-05 21:00:00,test,faze clan,big,0,0,0,1,1,0,0,0
+10091641,2026-04-05 21:00:00,test,illwill,magic,1,0,0,1,1,0,0,0
+7299262,2026-04-06 10:00:00,test,legacy,mibr,0,1,0,0,1,0,0,0
+7299263,2026-04-06 10:00:00,test,fokus,wildcard gaming,0,1,0,0,1,0,0,0
+7299260,2026-04-06 13:15:00,test,nrg esports,eyeballers,0,1,0,0,1,0,0,0
+7299261,2026-04-06 13:15:00,test,b8 esports,team 3dmax,0,1,0,0,1,0,0,0
+7299258,2026-04-06 15:40:00,test,inner circle,faze clan,1,1,0,0,1,0,0,0
+7299259,2026-04-06 16:00:00,test,astralis,the mongolz,1,1,0,0,1,0,0,0
+7299256,2026-04-06 17:50:00,test,bcgame,team voca,1,1,0,0,1,0,0,0
+7299257,2026-04-06 18:05:00,test,parivision,fut esports,0,1,0,0,1,0,0,0
+10092710,2026-04-06 20:00:00,test,ence,elitenergy,0,0,1,0,1,0,0,0
+10092711,2026-04-06 20:00:00,test,tnc esport,mana esports,1,0,1,0,1,0,0,0
+7299322,2026-04-07 10:00:00,test,mibr,eyeballers,1,1,0,0,1,0,0,0
+7299323,2026-04-07 10:00:00,test,nrg esports,legacy,0,1,0,0,1,0,0,0
+7299320,2026-04-07 12:00:00,test,the mongolz,wildcard gaming,1,1,0,0,1,0,0,0
+7299321,2026-04-07 12:05:00,test,b8 esports,inner circle,1,1,0,0,1,0,0,0
+7299319,2026-04-07 14:00:00,test,fokus,bcgame,1,1,0,0,1,0,0,0
+7299318,2026-04-07 14:20:00,test,parivision,team 3dmax,0,1,0,0,1,0,0,0
+10092706,2026-04-07 20:00:00,test,johnny speeds,qwentry,1,0,1,0,1,0,0,0
+10092712,2026-04-07 20:00:00,test,elitenergy,tnc esport,1,0,1,0,1,0,0,0
+7299346,2026-04-08 10:00:00,test,fokus,eyeballers,0,1,0,0,1,0,0,0
+7299345,2026-04-08 13:20:00,test,b8 esports,legacy,1,1,0,0,1,0,0,0
+7299344,2026-04-08 15:30:00,test,parivision,wildcard gaming,1,1,0,0,1,0,0,0
+10092713,2026-04-08 20:00:00,test,psychoface,elitenergy,0,0,1,0,1,0,0,0
+7299418,2026-04-09 10:00:00,test,mibr,team 3dmax,0,1,0,0,1,0,0,0
+7299417,2026-04-09 13:30:00,test,astralis,eyeballers,1,1,0,0,1,0,0,0
+7299568,2026-04-09 16:00:00,test,fut esports,b8 esports,1,1,0,0,1,0,0,0
+7299415,2026-04-09 19:15:00,test,the mongolz,parivision,1,1,0,0,1,0,0,0
+10092709,2026-04-09 20:00:00,test,johnny speeds,elitenergy,0,0,1,0,1,0,0,0
+7299577,2026-04-10 17:00:00,test,team 3dmax,astralis,0,1,0,0,1,0,0,0
+7299594,2026-04-10 19:50:00,test,fut esports,the mongolz,1,1,0,0,1,0,0,0
+7299631,2026-04-11 15:00:00,test,team 3dmax,the mongolz,0,1,0,0,1,0,0,0
+7299632,2026-04-11 17:00:00,test,astralis,fut esports,0,1,0,0,1,0,0,0
+7299086,2026-04-13 16:00:00,test,team vitality,red canids,1,1,0,0,1,0,0,0
+10091560,2026-04-13 16:00:00,test,gentle mates,g2 esports,0,1,0,0,1,0,0,0
+10091561,2026-04-13 18:30:00,test,team spirit,team liquid,1,1,0,0,1,0,0,0
+7299087,2026-04-13 19:15:00,test,team 3dmax,team falcons,0,1,0,0,1,0,0,0
+7299091,2026-04-13 21:00:00,test,b8 esports,natus vincere,0,1,0,0,1,0,0,0
+7299089,2026-04-13 21:30:00,test,legacy,mouz,0,1,0,0,1,0,0,0
+7299092,2026-04-13 23:45:00,test,furia esports,passion ua,1,1,0,0,1,0,0,0
+7299090,2026-04-14 00:30:00,test,aurora gaming,hotu,1,1,0,0,1,0,0,0
+7299709,2026-04-14 16:00:00,test,red canids,gentle mates,1,1,0,0,1,0,0,0
+7299710,2026-04-14 16:00:00,test,team vitality,g2 esports,1,1,0,0,1,0,0,0
+7299711,2026-04-14 19:10:00,test,team liquid,team 3dmax,0,1,0,0,1,0,0,0
+7299712,2026-04-14 19:45:00,test,team spirit,team falcons,0,1,0,0,1,0,0,0
+7299733,2026-04-14 21:25:00,test,passion ua,b8 esports,0,1,0,0,1,0,0,0
+7299734,2026-04-14 21:25:00,test,furia esports,natus vincere,1,1,0,0,1,0,0,0
+7299735,2026-04-14 23:30:00,test,legacy,hotu,0,1,0,0,1,0,0,0
+7299736,2026-04-15 00:35:00,test,aurora gaming,mouz,0,1,0,0,1,0,0,0
+7299749,2026-04-15 16:00:00,test,g2 esports,team 3dmax,1,1,0,0,1,0,0,0
+7299750,2026-04-15 16:00:00,test,team spirit,red canids,1,1,0,0,1,0,0,0
+7299751,2026-04-15 18:30:00,test,natus vincere,hotu,1,1,0,0,1,0,0,0
+7299753,2026-04-15 19:00:00,test,aurora gaming,b8 esports,1,1,0,0,1,0,0,0
+7299748,2026-04-15 21:00:00,test,team vitality,team falcons,0,1,0,0,1,0,0,0
+7299784,2026-04-15 21:00:00,test,team spirit,g2 esports,1,1,0,0,1,0,0,0
+7299785,2026-04-15 23:30:00,test,aurora gaming,natus vincere,0,1,0,0,1,0,0,0
+7299752,2026-04-16 00:30:00,test,furia esports,mouz,1,1,0,0,1,0,0,0
+7299795,2026-04-17 18:00:00,test,mouz,team spirit,0,1,0,0,1,0,0,0
+7299794,2026-04-17 21:15:00,test,team vitality,natus vincere,1,1,0,0,1,0,0,0
+7299888,2026-04-18 18:00:00,test,team falcons,team spirit,0,1,0,0,1,0,0,0
+7299894,2026-04-18 21:15:00,test,furia esports,team vitality,0,1,0,0,1,0,0,0
+7299912,2026-04-19 16:30:00,test,team falcons,furia esports,1,1,0,0,1,0,0,0
+7299911,2026-04-19 20:00:00,test,team spirit,team vitality,0,1,0,0,1,0,0,0
+10092210,2026-04-20 18:00:00,test,team strogo,team recrent,0,0,1,0,1,0,0,0
+10092211,2026-04-21 17:50:00,test,team buster,team recrent,1,0,1,0,1,0,0,0
+10092209,2026-04-21 19:30:00,test,sasavot team,team aunkere,1,0,1,0,1,0,0,0
+10092220,2026-04-21 22:00:00,test,team strogo,mokrivskiy team,0,0,1,0,1,0,0,0
+10092215,2026-04-22 14:00:00,test,team by_owl,team aunkere,0,0,1,0,1,0,0,0
+10092216,2026-04-22 17:10:00,test,team evelone,team aunkere,0,0,1,0,1,0,0,0
+10092212,2026-04-22 20:00:00,test,mokrivskiy team,team buster,0,0,1,0,1,0,0,0
+10092217,2026-04-22 23:00:00,test,team evelone,sasavot team,1,0,1,0,1,0,0,0
+10092218,2026-04-23 14:00:00,test,sasavot team,team by_owl,0,0,1,0,1,0,0,0
+10092593,2026-04-23 16:00:00,test,team nemesis,cybershoke prospects,1,0,1,0,1,0,0,0
+10092594,2026-04-23 16:00:00,test,the last resort,ex-zero tenacity,1,0,1,0,1,0,0,0
+10092595,2026-04-23 16:00:00,test,phantom esports,atreides,1,0,1,0,1,0,0,0
+10092596,2026-04-23 16:00:00,test,walczaki,hashiras,0,0,1,0,1,0,0,0
+10092597,2026-04-23 16:00:00,test,fnatic,project 91 team,1,0,1,0,1,0,0,0
+10092598,2026-04-23 16:00:00,test,tnc esport,rune eaters,0,0,1,0,1,0,0,0
+10092599,2026-04-23 16:00:00,test,leo team,aurora young blood,1,0,1,0,1,0,0,0
+10092600,2026-04-23 16:00:00,test,eternal fire,big academy,0,0,1,0,1,0,0,0
+10092219,2026-04-23 16:30:00,test,team evelone,team by_owl,1,0,1,0,1,0,0,0
+10092213,2026-04-23 20:00:00,test,team strogo,team buster,0,0,1,0,1,0,0,0
+10092601,2026-04-23 20:00:00,test,bet-m 33,lilmix,0,0,1,0,1,0,0,0
+10092602,2026-04-23 20:00:00,test,genone,bankapepsi,1,0,1,0,1,0,0,0
+10092603,2026-04-23 20:00:00,test,lavked,oldboys,1,0,1,0,1,0,0,0
+10092604,2026-04-23 20:00:00,test,sparta esports,donstu esports,1,0,1,0,1,0,0,0
+10092605,2026-04-23 20:00:00,test,ex-ruby,playersclub,0,0,1,0,1,0,0,0
+10092606,2026-04-23 20:00:00,test,rebels gaming,aimclub,1,0,1,0,1,0,0,0
+10092607,2026-04-23 20:00:00,test,against all authority,just players,1,0,1,0,1,0,0,0
+10092608,2026-04-23 20:00:00,test,9ine,misa esports,0,0,1,0,1,0,0,0
+10092214,2026-04-23 21:30:00,test,mokrivskiy team,team recrent,1,0,1,0,1,0,0,0
+10092356,2026-04-24 11:00:00,test,big,acend,1,0,1,0,1,0,0,0
+10092279,2026-04-24 13:00:00,test,team aunkere,mokrivskiy team,0,0,1,0,1,0,0,0
+10092366,2026-04-24 14:00:00,test,alliance,oxuji esports,1,0,1,0,1,0,0,0
+10092282,2026-04-24 16:00:00,test,team aunkere,team recrent,1,0,1,0,1,0,0,0
+10092363,2026-04-24 17:00:00,test,betboom team,ursa,0,0,1,0,1,0,0,0
+10092280,2026-04-24 19:00:00,test,team buster,team evelone,0,0,1,0,1,0,0,0
+10092365,2026-04-24 20:00:00,test,ecstatic,walczaki,0,0,1,0,1,0,0,0
+10092281,2026-04-24 21:30:00,test,team buster,team by_owl,1,0,1,0,1,0,0,0
+10092359,2026-04-25 11:00:00,test,sparta esports,tdk,1,0,1,0,1,0,0,0
+10092368,2026-04-25 15:00:00,test,magic,nuclear tigeres,0,0,1,0,1,0,0,0
+10092609,2026-04-25 16:00:00,test,dripmen,just players,0,0,1,0,1,0,0,0
+10092610,2026-04-25 16:00:00,test,aimclub,rustec,0,0,1,0,1,0,0,0
+10092612,2026-04-25 16:00:00,test,bankapepsi,bet-m 33,0,0,1,0,1,0,0,0
+10092613,2026-04-25 16:00:00,test,eternal fire,fc famalicão esports,1,0,1,0,1,0,0,0
+10092614,2026-04-25 16:00:00,test,masonic,g2 ares,0,0,1,0,1,0,0,0
+10092615,2026-04-25 16:00:00,test,walczaki,atreides,1,0,1,0,1,0,0,0
+10092616,2026-04-25 16:00:00,test,brazylijski luz,cybershoke prospects,0,0,1,0,1,0,0,0
+10092611,2026-04-25 16:20:00,test,donstu esports,oldboys,0,0,1,0,1,0,0,0
+10092285,2026-04-25 18:00:00,test,team aunkere,team buster,1,0,1,0,1,0,0,0
+10092360,2026-04-25 18:30:00,test,nemiga gaming,ex-ruby,1,0,1,0,1,0,0,0
+10092617,2026-04-25 20:00:00,test,team nemesis,the last resort,1,0,1,0,1,0,0,0
+10092618,2026-04-25 20:00:00,test,phantom esports,hashiras,0,0,1,0,1,0,0,0
+10092619,2026-04-25 20:00:00,test,fnatic,rune eaters,1,0,1,0,1,0,0,0
+10092620,2026-04-25 20:00:00,test,leo team,big academy,1,0,1,0,1,0,0,0
+10092621,2026-04-25 20:00:00,test,lilmix,genone,0,0,1,0,1,0,0,0
+10092622,2026-04-25 20:00:00,test,lavked,sparta esports,0,0,1,0,1,0,0,0
+10092623,2026-04-25 20:00:00,test,playersclub,rebels gaming,0,0,1,0,1,0,0,0
+10092624,2026-04-25 20:00:00,test,against all authority,misa esports,1,0,1,0,1,0,0,0
+10092362,2026-04-25 21:00:00,test,eyeballers,cybershoke esports,0,0,1,0,1,0,0,0
+10092283,2026-04-25 21:45:00,test,mokrivskiy team,team evelone,0,0,1,0,1,0,0,0
+10092358,2026-04-26 11:00:00,test,big,sparta esports,1,0,1,0,1,0,0,0
+10092364,2026-04-26 14:00:00,test,ursa,walczaki,0,0,1,0,1,0,0,0
+10092284,2026-04-26 15:00:00,test,mokrivskiy team,team aunkere,1,0,1,0,1,0,0,0
+7300309,2026-04-26 17:00:00,test,nemiga gaming,cybershoke esports,1,0,1,0,1,0,0,0
+10092344,2026-04-26 18:00:00,test,team evelone,mokrivskiy team,0,0,1,0,1,0,0,0
+10092626,2026-04-26 20:00:00,test,the last resort,just players,1,0,1,0,1,0,0,0
+10092627,2026-04-26 20:00:00,test,phantom esports,rustec,1,0,1,0,1,0,0,0
+10092628,2026-04-26 20:00:00,test,rune eaters,oldboys,0,0,1,0,1,0,0,0
+10092629,2026-04-26 20:00:00,test,big academy,bet-m 33,1,0,1,0,1,0,0,0
+10092630,2026-04-26 20:00:00,test,lilmix,eternal fire,1,0,1,0,1,0,0,0
+10092631,2026-04-26 20:00:00,test,lavked,g2 ares,1,0,1,0,1,0,0,0
+10092632,2026-04-26 20:00:00,test,playersclub,walczaki,0,0,1,0,1,0,0,0
+10092633,2026-04-26 20:00:00,test,misa esports,cybershoke prospects,0,0,1,0,1,0,0,0
+10092367,2026-04-26 20:20:00,test,alliance,nuclear tigeres,0,0,1,0,1,0,0,0
+10092370,2026-04-27 11:00:00,test,walczaki,nuclear tigeres,1,0,1,0,1,0,0,0
+7300347,2026-04-27 14:00:00,test,big,nemiga gaming,0,0,1,0,1,0,0,0
+7300406,2026-04-27 17:00:00,test,nemiga gaming,walczaki,1,0,1,0,1,0,0,0
+10092649,2026-04-27 20:00:00,test,the last resort,phantom esports,0,0,1,0,1,0,0,0
+10092650,2026-04-27 20:00:00,test,oldboys,big academy,0,0,1,0,1,0,0,0
+10092651,2026-04-27 20:00:00,test,lilmix,lavked,0,0,1,0,1,0,0,0
+10092652,2026-04-27 20:00:00,test,walczaki,cybershoke prospects,0,0,1,0,1,0,0,0
+10092661,2026-04-27 20:00:00,test,team nemesis,hashiras,1,0,1,0,1,0,0,0
+10092662,2026-04-27 20:00:00,test,fnatic,leo team,1,0,1,0,1,0,0,0
+10092665,2026-04-27 20:00:00,test,genone,sparta esports,0,0,1,0,1,0,0,0
+10092666,2026-04-27 20:00:00,test,rebels gaming,against all authority,1,0,1,0,1,0,0,0
+10092653,2026-04-28 20:00:00,test,hashiras,cybershoke prospects,1,0,1,0,1,0,0,0
+10092654,2026-04-28 20:00:00,test,leo team,lavked,0,0,1,0,1,0,0,0
+10092655,2026-04-28 20:00:00,test,genone,big academy,1,0,1,0,1,0,0,0
+10092656,2026-04-28 20:00:00,test,against all authority,phantom esports,0,0,1,0,1,0,0,0
+7299579,2026-04-29 18:00:00,test,team vitality,fut esports,1,1,0,0,1,0,0,0
+10092657,2026-04-29 20:00:00,test,phantom esports,genone,1,0,1,0,1,0,0,0
+10092658,2026-04-29 20:00:00,test,lavked,hashiras,1,0,1,0,1,0,0,0
+10092663,2026-04-29 20:00:00,test,team nemesis,fnatic,1,0,1,0,1,0,0,0
+10092667,2026-04-29 20:00:00,test,sparta esports,rebels gaming,1,0,1,0,1,0,0,0
+7299578,2026-04-29 21:05:00,test,astralis,g2 esports,0,1,0,0,1,0,0,0
+7299581,2026-04-29 23:15:00,test,natus vincere,faze clan,1,1,0,0,1,0,0,0
+7299580,2026-04-30 01:30:00,test,furia esports,gamerlegion,0,1,0,0,1,0,0,0
+10092564,2026-04-30 18:00:00,test,fut esports,astralis,0,1,0,0,1,0,0,0
+7300568,2026-04-30 19:55:00,test,team vitality,g2 esports,1,1,0,0,1,0,0,0
+10092659,2026-04-30 20:00:00,test,rebels gaming,lavked,0,0,1,0,1,0,0,0
+10092660,2026-04-30 20:00:00,test,fnatic,phantom esports,1,0,1,0,1,0,0,0
+7300605,2026-04-30 23:30:00,test,faze clan,furia esports,1,1,0,0,1,0,0,0
+7300606,2026-05-01 02:30:00,test,natus vincere,gamerlegion,1,1,0,0,1,0,0,0
+10092714,2026-05-01 20:10:00,test,fnatic,lavked,1,0,1,0,1,0,0,0
+10092664,2026-05-01 20:35:00,test,team nemesis,sparta esports,1,0,1,0,1,0,0,0
+10092568,2026-05-01 22:30:00,test,g2 esports,faze clan,0,1,0,0,1,0,0,0
+7300742,2026-05-02 02:40:00,test,gamerlegion,astralis,1,1,0,0,1,0,0,0
+7300763,2026-05-02 20:00:00,test,sparta esports,fnatic,1,0,1,0,1,0,0,0
+7300769,2026-05-02 20:30:00,test,natus vincere,faze clan,1,1,0,0,1,0,0,0
+7300789,2026-05-02 23:05:00,test,team vitality,gamerlegion,1,1,0,0,1,0,0,0
+10092831,2026-05-03 11:00:00,test,omega,lavked,0,0,1,0,1,0,0,0
+10092833,2026-05-03 14:20:00,test,ex-ruby,havu gaming,1,0,1,0,1,0,0,0
+10092834,2026-05-03 17:00:00,test,oxuji esports,genone,1,0,1,0,1,0,0,0
+10092741,2026-05-03 20:00:00,test,team nemesis,sparta esports,1,0,1,0,1,0,0,0
+10092835,2026-05-03 20:00:00,test,tdk,inox division,0,0,1,0,1,0,0,0
+7300825,2026-05-03 20:30:00,test,natus vincere,team vitality,0,1,0,0,1,0,0,0
+10092836,2026-05-04 11:00:00,test,favbet team,bebop,1,0,1,0,1,0,0,0
+10092837,2026-05-04 14:00:00,test,tnc esport,unity,1,0,1,0,1,0,0,0
+7300818,2026-05-04 17:00:00,test,mouz nxt,ursa,0,0,1,0,1,0,0,0
+7300817,2026-05-04 20:00:00,test,walczaki,fc famalicão esports,1,0,1,0,1,0,0,0
+10092860,2026-05-05 11:00:00,test,mouz nxt,bebop,1,0,1,0,1,0,0,0
+10092861,2026-05-05 14:00:00,test,tdk,fc famalicão esports,1,0,1,0,1,0,0,0
+10092862,2026-05-05 17:00:00,test,genone,havu gaming,1,0,1,0,1,0,0,0
+10092863,2026-05-05 20:00:00,test,omega,unity,1,0,1,0,1,0,0,0
+7300906,2026-05-06 11:00:00,test,tnc esport,lavked,1,0,1,0,1,0,0,0
+7300905,2026-05-06 14:00:00,test,walczaki,inox division,1,0,1,0,1,0,0,0
+10092866,2026-05-06 17:00:00,test,favbet team,ursa,1,0,1,0,1,0,0,0
+10092888,2026-05-06 17:00:00,test,mouz,ww team,1,0,0,1,1,0,0,0
+7300903,2026-05-06 20:00:00,test,ex-ruby,oxuji esports,1,0,1,0,1,0,0,0
+7300992,2026-05-07 11:00:00,test,unity,bebop,1,0,1,0,1,0,0,0
+7300991,2026-05-07 14:00:00,test,havu gaming,fc famalicão esports,1,0,1,0,1,0,0,0
+7300990,2026-05-07 17:00:00,test,mouz nxt,lavked,0,0,1,0,1,0,0,0
+7300989,2026-05-07 20:00:00,test,oxuji esports,ursa,1,0,1,0,1,0,0,0
+7300988,2026-05-08 11:00:00,test,tdk,genone,1,0,1,0,1,0,0,0
+7300987,2026-05-08 14:00:00,test,omega,inox division,0,0,1,0,1,0,0,0
+7300986,2026-05-08 17:20:00,test,walczaki,ex-ruby,1,0,1,0,1,0,0,0
+7300985,2026-05-08 20:00:00,test,favbet team,tnc esport,0,0,1,0,1,0,0,0
+7300886,2026-05-09 08:00:00,test,g2 esports,fisher college,1,1,0,0,1,0,0,0
+7300887,2026-05-09 08:00:00,test,aurora gaming,heroic,0,1,0,0,1,0,0,0
+7300884,2026-05-09 10:00:00,test,the mongolz,magic,1,1,0,0,1,0,0,0
+7300885,2026-05-09 10:10:00,test,mouz,gentle mates,1,1,0,0,1,0,0,0
+7300890,2026-05-09 13:00:00,test,team spirit,the huns esports,1,1,0,0,1,0,0,0
+7300883,2026-05-09 13:30:00,test,team falcons,k27,1,1,0,0,1,0,0,0
+10092940,2026-05-09 14:00:00,test,genone,ursa,1,0,1,0,1,0,0,0
+7300889,2026-05-09 15:00:00,test,parivision,9z team,0,1,0,0,1,0,0,0
+7300888,2026-05-09 15:35:00,test,furia esports,monte,1,1,0,0,1,0,0,0
+7301077,2026-05-09 17:05:00,test,omega,havu gaming,0,0,1,0,1,0,0,0
+7301076,2026-05-09 20:00:00,test,mouz nxt,unity,1,0,1,0,1,0,0,0
+7301098,2026-05-10 08:00:00,test,k27,gentle mates,0,1,0,0,1,0,0,0
+7301099,2026-05-10 08:00:00,test,mouz,g2 esports,1,1,0,0,1,0,0,0
+7301104,2026-05-10 11:15:00,test,aurora gaming,the huns esports,1,1,0,0,1,0,0,0
+7301105,2026-05-10 11:40:00,test,the mongolz,team spirit,0,1,0,0,1,0,0,0
+7301102,2026-05-10 13:05:00,test,parivision,fisher college,1,1,0,0,1,0,0,0
+10092943,2026-05-10 14:00:00,test,tdk,lavked,1,0,1,0,1,0,0,0
+7301103,2026-05-10 14:20:00,test,furia esports,heroic,1,1,0,0,1,0,0,0
+7301100,2026-05-10 14:50:00,test,monte,magic,1,1,0,0,1,0,0,0
+7301101,2026-05-10 16:10:00,test,team falcons,9z team,0,1,0,0,1,0,0,0
+7301074,2026-05-10 17:00:00,test,favbet team,oxuji esports,0,0,1,0,1,0,0,0
+7301073,2026-05-10 20:00:00,test,ex-ruby,inox division,1,0,1,0,1,0,0,0
+7301168,2026-05-11 08:00:00,test,heroic,gentle mates,0,1,0,0,1,0,0,0
+7301169,2026-05-11 08:00:00,test,parivision,aurora gaming,0,1,0,0,1,0,0,0
+7301166,2026-05-11 09:50:00,test,the mongolz,g2 esports,1,1,0,0,1,0,0,0
+7301167,2026-05-11 10:25:00,test,team falcons,monte,1,1,0,0,1,0,0,0
+7301164,2026-05-11 13:00:00,test,k27,magic,0,1,0,0,1,0,0,0
+7301165,2026-05-11 13:00:00,test,mouz,9z team,0,1,0,0,1,0,0,0
+10093027,2026-05-11 14:00:00,test,mouz nxt,inox division,0,0,1,0,1,0,0,0
+10093010,2026-05-11 15:55:00,test,the huns esports,fisher college,1,1,0,0,1,0,0,0
+7301163,2026-05-11 16:10:00,test,furia esports,team spirit,0,1,0,0,1,0,0,0
+10093028,2026-05-11 17:00:00,test,favbet team,havu gaming,0,0,1,0,1,0,0,0
+7300795,2026-05-11 18:30:00,test,pain gaming,faze clan,1,1,0,0,1,0,0,0
+7300797,2026-05-11 18:30:00,test,b8 esports,betboom team,0,1,0,0,1,0,0,0
+10093029,2026-05-11 20:00:00,test,genone,lavked,0,0,1,0,1,0,0,0
+7300798,2026-05-11 21:00:00,test,team vitality,bcgame,1,1,0,0,1,0,0,0
+7300796,2026-05-11 21:40:00,test,nrg esports,fut esports,0,1,0,0,1,0,0,0
+7300794,2026-05-11 23:30:00,test,natus vincere,passion ua,1,1,0,0,1,0,0,0
+7300793,2026-05-12 00:10:00,test,sinners esports,gamerlegion,0,1,0,0,1,0,0,0
+7300791,2026-05-12 02:00:00,test,team liquid,astralis,0,1,0,0,1,0,0,0
+7300792,2026-05-12 03:25:00,test,legacy,m80,1,1,0,0,1,0,0,0
+7301214,2026-05-12 08:00:00,test,heroic,magic,0,1,0,0,1,0,0,0
+7301215,2026-05-12 08:00:00,test,mouz,aurora gaming,1,1,0,0,1,0,0,0
+7301213,2026-05-12 10:50:00,test,the mongolz,team falcons,0,1,0,0,1,0,0,0
+7301212,2026-05-12 11:00:00,test,monte,the huns esports,1,1,0,0,1,0,0,0
+7301223,2026-05-12 11:00:00,test,sparta esports,oxuji esports,1,0,1,0,1,0,0,0
+7301236,2026-05-12 14:00:00,test,fnatic,havu gaming,1,0,1,0,1,0,0,0
+7301210,2026-05-12 14:30:00,test,parivision,g2 esports,0,1,0,0,1,0,0,0
+7301211,2026-05-12 14:30:00,test,furia esports,gentle mates,1,1,0,0,1,0,0,0
+10093061,2026-05-12 17:00:00,test,bet-m 33,walczaki,0,0,1,0,1,0,0,0
+7301233,2026-05-12 18:30:00,test,bcgame,b8 esports,0,1,0,0,1,0,0,0
+7301237,2026-05-12 18:30:00,test,faze clan,nrg esports,1,1,0,0,1,0,0,0
+7301221,2026-05-12 20:00:00,test,hotu,inox division,1,0,1,0,1,0,0,0
+7301234,2026-05-12 21:00:00,test,team vitality,betboom team,0,1,0,0,1,0,0,0
+7301238,2026-05-12 21:00:00,test,pain gaming,fut esports,1,1,0,0,1,0,0,0
+7301240,2026-05-13 00:09:00,test,natus vincere,gamerlegion,1,1,0,0,1,0,0,0
+7301239,2026-05-13 01:05:00,test,passion ua,sinners esports,0,1,0,0,1,0,0,0
+7301250,2026-05-13 03:00:00,test,legacy,astralis,1,1,0,0,1,0,0,0
+7301249,2026-05-13 04:15:00,test,m80,team liquid,0,1,0,0,1,0,0,0
+7301279,2026-05-13 08:00:00,test,gentle mates,magic,0,1,0,0,1,0,0,0
+7301278,2026-05-13 10:30:00,test,monte,g2 esports,0,1,0,0,1,0,0,0
+7301220,2026-05-13 11:00:00,test,nemiga gaming,ex-ruby,1,0,1,0,1,0,0,0
+7301277,2026-05-13 13:00:00,test,the mongolz,aurora gaming,0,1,0,0,1,0,0,0
+7301235,2026-05-13 14:00:00,test,100 thieves,lavked,0,0,1,0,1,0,0,0
+10093067,2026-05-13 17:00:00,test,kolesie,tdk,0,0,1,0,1,0,0,0
+7301282,2026-05-13 18:30:00,test,team vitality,faze clan,1,1,0,0,1,0,0,0
+7301285,2026-05-13 18:30:00,test,fut esports,b8 esports,0,1,0,0,1,0,0,0
+7301218,2026-05-13 20:00:00,test,betclic,tnc esport,0,0,1,0,1,0,0,0
+7301287,2026-05-13 21:00:00,test,astralis,sinners esports,1,1,0,0,1,0,0,0
+7301315,2026-05-13 21:00:00,test,gamerlegion,team liquid,1,1,0,0,1,0,0,0
+7301284,2026-05-13 23:30:00,test,betboom team,pain gaming,1,1,0,0,1,0,0,0
+10092998,2026-05-13 23:30:00,test,b8 esports,team vitality,0,1,0,0,1,0,0,0
+7301338,2026-05-14 02:00:00,test,astralis,gamerlegion,0,1,0,0,1,0,0,0
+7301286,2026-05-14 02:30:00,test,natus vincere,legacy,0,1,0,0,1,0,0,0
+7301283,2026-05-14 11:00:00,test,sparta esports,nemiga gaming,0,0,1,0,1,0,0,0
+7301346,2026-05-14 14:00:00,test,lavked,tnc esport,1,0,1,0,1,0,0,0
+7301334,2026-05-14 17:00:00,test,fnatic,tdk,1,0,1,0,1,0,0,0
+7301262,2026-05-14 20:00:00,test,hotu,walczaki,0,0,1,0,1,0,0,0
+7301332,2026-05-15 08:00:00,test,mouz,aurora gaming,1,1,0,0,1,0,0,0
+7301331,2026-05-15 11:00:00,test,team spirit,g2 esports,1,1,0,0,1,0,0,0
+7301398,2026-05-15 13:00:00,test,lavked,fnatic,1,0,1,0,1,0,0,0
+7301330,2026-05-15 14:25:00,test,9z team,magic,0,1,0,0,1,0,0,0
+7301416,2026-05-15 16:00:00,test,walczaki,nemiga gaming,0,0,1,0,1,0,0,0
+7301329,2026-05-15 18:40:00,test,furia esports,team falcons,0,1,0,0,1,0,0,0
+7301523,2026-05-15 19:00:00,test,nemiga gaming,lavked,1,0,1,0,1,0,0,0
+10092990,2026-05-15 20:15:00,test,pain gaming,gamerlegion,0,1,0,0,1,0,0,0
+7301371,2026-05-16 00:30:00,test,natus vincere,team vitality,1,1,0,0,1,0,0,0
+10093215,2026-05-16 11:00:00,test,team buster,team strogo,1,1,0,0,1,0,0,0
+7301519,2026-05-16 13:00:00,test,mouz,team spirit,0,1,0,0,1,0,0,0
+7301526,2026-05-16 16:00:00,test,magic,team falcons,0,1,0,0,1,0,0,0
+7301532,2026-05-16 20:15:00,test,legacy,gamerlegion,0,1,0,0,1,0,0,0
+7301527,2026-05-17 00:05:00,test,betboom team,natus vincere,0,1,0,0,1,0,0,0
+7301564,2026-05-17 11:00:00,test,mouz,magic,1,1,0,0,1,0,0,0
+7301563,2026-05-17 14:00:00,test,team spirit,team falcons,1,1,0,0,1,0,0,0
+7301585,2026-05-17 17:55:00,test,legacy,betboom team,1,1,0,0,1,0,0,0
+7301584,2026-05-17 21:25:00,test,natus vincere,gamerlegion,1,1,0,0,1,0,0,0
+7301020,2026-05-20 06:15:00,test,parivision,team liquid,1,1,0,0,1,0,0,0
+7301021,2026-05-20 06:15:00,test,team 3dmax,mibr,0,1,0,0,1,0,0,0
+7301022,2026-05-20 07:20:00,test,b8 esports,ninjas in pyjamas,1,1,0,0,1,0,0,0
+7301023,2026-05-20 07:20:00,test,the mongolz,lynn vision gaming,1,1,0,0,1,0,0,0
+7301016,2026-05-20 08:15:00,test,mouz,tyloo,0,1,0,0,1,0,0,0
+7301017,2026-05-20 08:30:00,test,legacy,nrg esports,1,1,0,0,1,0,0,0
+7301019,2026-05-20 09:30:00,test,team falcons,bcgame,1,1,0,0,1,0,0,0
+10092908,2026-05-20 09:45:00,test,pain gaming,m80,0,1,0,0,1,0,0,0
+7301746,2026-05-20 11:00:00,test,mibr,parivision,1,1,0,0,1,0,0,0
+7301748,2026-05-20 11:00:00,test,the mongolz,b8 esports,0,1,0,0,1,0,0,0
+7301752,2026-05-20 13:45:00,test,team falcons,m80,1,1,0,0,1,0,0,0
+7301750,2026-05-20 14:20:00,test,legacy,tyloo,1,1,0,0,1,0,0,0
+7301745,2026-05-21 06:00:00,test,team 3dmax,team liquid,0,1,0,0,1,0,0,0
+7301749,2026-05-21 06:00:00,test,nrg esports,mouz,0,1,0,0,1,0,0,0
+7301747,2026-05-21 09:10:00,test,lynn vision gaming,ninjas in pyjamas,1,1,0,0,1,0,0,0
+7301751,2026-05-21 09:55:00,test,bcgame,pain gaming,0,1,0,0,1,0,0,0
+7301801,2026-05-21 12:25:00,test,the mongolz,team liquid,1,1,0,0,1,0,0,0
+7301796,2026-05-21 12:35:00,test,m80,mouz,0,1,0,0,1,0,0,0
+7301803,2026-05-21 15:30:00,test,parivision,lynn vision gaming,1,1,0,0,1,0,0,0
+7301802,2026-05-21 15:50:00,test,tyloo,pain gaming,0,1,0,0,1,0,0,0
+7301753,2026-05-22 06:00:00,test,b8 esports,mibr,0,1,0,0,1,0,0,0
+7301777,2026-05-22 06:00:00,test,team falcons,legacy,1,1,0,0,1,0,0,0
+7301812,2026-05-22 08:15:00,test,pain gaming,mouz,0,1,0,0,1,0,0,0
+7301811,2026-05-22 09:00:00,test,parivision,the mongolz,0,1,0,0,1,0,0,0
+7301853,2026-05-22 11:45:00,test,b8 esports,mouz,0,1,0,0,1,0,0,0
+7301862,2026-05-22 12:00:00,test,legacy,the mongolz,1,1,0,0,1,0,0,0
+7301891,2026-05-23 08:00:00,test,team falcons,mouz,1,1,0,0,1,0,0,0
+7301900,2026-05-23 12:25:00,test,mibr,legacy,0,1,0,0,1,0,0,0
+7301930,2026-05-24 06:00:00,test,mouz,mibr,1,1,0,0,1,0,0,0
+7301931,2026-05-24 09:00:00,test,team falcons,legacy,0,1,0,0,1,0,0,0
+7301665,2026-05-25 09:00:00,test,sparta esports,athlon,1,0,1,0,1,0,0,0
+7301666,2026-05-25 09:00:00,test,nuclear tigeres,oxuji esports,1,0,1,0,1,0,0,0
+7302030,2026-05-25 12:00:00,test,athlon,oxuji esports,0,0,1,0,1,0,0,0
+7302031,2026-05-25 12:00:00,test,sparta esports,nuclear tigeres,0,0,1,0,1,0,0,0
+7302034,2026-05-25 16:40:00,test,oxuji esports,sparta esports,1,0,1,0,1,0,0,0
+7301661,2026-05-25 18:50:00,test,ww team,team tricksters,1,0,1,0,1,0,0,0
+7301662,2026-05-25 18:50:00,test,k27,psychoface,1,0,1,0,1,0,0,0
+7302038,2026-05-25 21:45:00,test,team tricksters,psychoface,0,0,1,0,1,0,0,0
+7302039,2026-05-25 21:45:00,test,ww team,k27,0,0,1,0,1,0,0,0
+10093381,2026-05-26 00:35:00,test,ww team,psychoface,0,0,1,0,1,0,0,0
+7301663,2026-05-26 09:00:00,test,arcred,163news,1,0,1,0,1,0,0,0
+7301664,2026-05-26 09:00:00,test,bet-m 33,aurora young blood,0,0,1,0,1,0,0,0
+7302072,2026-05-26 12:30:00,test,arcred,aurora young blood,1,0,1,0,1,0,0,0
+7302073,2026-05-26 12:30:00,test,163news,bet-m 33,0,0,1,0,1,0,0,0
+7302075,2026-05-26 15:15:00,test,bet-m 33,aurora young blood,1,0,1,0,1,0,0,0
+7301659,2026-05-26 18:00:00,test,dark moon,cybershoke esports,0,0,1,0,1,0,0,0
+7301660,2026-05-26 18:00:00,test,1w team,virtus.pro,0,0,1,0,1,0,0,0
+7302022,2026-05-26 20:00:00,test,team nemesis,inox division,1,0,1,0,1,0,0,0
+7302084,2026-05-26 20:30:00,test,cybershoke esports,virtus.pro,0,0,1,0,1,0,0,0
+7302085,2026-05-26 20:30:00,test,dark moon,1w team,0,0,1,0,1,0,0,0
+7302088,2026-05-26 22:45:00,test,1w team,cybershoke esports,0,0,1,0,1,0,0,0
+7302108,2026-05-27 11:00:00,test,johnny speeds,phantom esports,1,1,0,0,1,0,0,0
+7302112,2026-05-27 12:00:00,test,nuclear tigeres,psychoface,1,0,1,0,1,0,0,0
+10093486,2026-05-27 13:00:00,test,team 3dmax,magic,0,0,1,0,1,0,0,0
+7302107,2026-05-27 14:00:00,test,nemiga gaming,vrsdelivery,1,1,0,0,1,0,0,0
+7302111,2026-05-27 15:00:00,test,arcred,cybershoke esports,1,0,1,0,1,0,0,0
+10093488,2026-05-27 15:50:00,test,heroic,ninjas in pyjamas,0,0,1,0,1,0,0,0
+10093438,2026-05-27 17:00:00,test,gentle mates,algo esports,1,1,0,0,1,0,0,0
+10093487,2026-05-27 17:50:00,test,alliance,faze clan,0,0,1,0,1,0,0,0
+10093429,2026-05-27 18:30:00,test,oxuji esports,k27,0,0,1,0,1,0,0,0
+10093489,2026-05-27 19:45:00,test,dendele cs,9z team,1,0,1,0,1,0,0,0
+7302021,2026-05-27 20:00:00,test,tdk,nemiga gaming,1,0,1,0,1,0,0,0
+10093439,2026-05-27 20:00:00,test,eternal fire,fnatic,1,1,0,0,1,0,0,0
+7302109,2026-05-27 20:55:00,test,bet-m 33,virtus.pro,0,0,1,0,1,0,0,0
+7302104,2026-05-28 11:00:00,test,betclic,genone,0,1,0,0,1,0,0,0
+7302126,2026-05-28 12:00:00,test,nuclear tigeres,arcred,0,0,1,0,1,0,0,0
+7302103,2026-05-28 14:00:00,test,tricked esport,just players,0,1,0,0,1,0,0,0
+7302151,2026-05-28 15:00:00,test,k27,virtus.pro,0,0,1,0,1,0,0,0
+10093491,2026-05-28 16:45:00,test,heroic,9z team,0,0,1,0,1,0,0,0
+7302102,2026-05-28 18:00:00,test,1w team,am gaming,0,1,0,0,1,0,0,0
+10093434,2026-05-28 18:00:00,test,nuclear tigeres,k27,1,0,1,0,1,0,0,0
+7302155,2026-05-28 20:00:00,test,team nemesis,tdk,0,0,1,0,1,0,0,0
+10093442,2026-05-28 20:15:00,test,ww team,ex-ruby,1,1,0,0,1,0,0,0
+10093496,2026-05-28 20:35:00,test,magic,faze clan,1,0,1,0,1,0,0,0
+7302173,2026-05-28 21:00:00,test,arcred,virtus.pro,0,0,1,0,1,0,0,0
+10093497,2026-05-28 23:45:00,test,ninjas in pyjamas,dendele cs,1,0,1,0,1,0,0,0
+7302181,2026-05-29 11:00:00,test,am gaming,johnny speeds,0,1,0,0,1,0,0,0
+7302184,2026-05-29 13:00:00,test,faze clan,9z team,1,0,1,0,1,0,0,0
+10093490,2026-05-29 13:00:00,test,team 3dmax,alliance,0,0,1,0,1,0,0,0
+7302183,2026-05-29 14:00:00,test,nemiga gaming,ww team,0,1,0,0,1,0,0,0
+7302193,2026-05-29 17:25:00,test,dendele cs,alliance,1,0,1,0,1,0,0,0
+10093459,2026-05-29 17:55:00,test,gentle mates,eternal fire,1,1,0,0,1,0,0,0
+7302194,2026-05-29 19:45:00,test,magic,ninjas in pyjamas,1,0,1,0,1,0,0,0
+7302175,2026-05-29 21:30:00,test,just players,genone,0,1,0,0,1,0,0,0
+7302216,2026-05-29 21:30:00,test,dendele cs,faze clan,0,0,1,0,1,0,0,0
+7302212,2026-05-30 13:00:00,test,ww team,johnny speeds,1,1,0,0,1,0,0,0
+7302225,2026-05-30 16:00:00,test,ninjas in pyjamas,faze clan,1,0,1,0,1,0,0,0
+10093469,2026-05-30 16:30:00,test,gentle mates,genone,1,1,0,0,1,0,0,0
+7302247,2026-05-30 19:00:00,test,gentle mates,ww team,1,1,0,0,1,0,0,0
+7302246,2026-05-30 19:30:00,test,magic,ninjas in pyjamas,0,0,1,0,1,0,0,0
+7301545,2026-06-02 13:30:00,test,sinners esports,flyquest,0,1,0,0,1,0,0,0
+7301546,2026-06-02 13:30:00,test,m80,lynn vision gaming,1,1,0,0,1,0,0,0
+7301544,2026-06-02 14:50:00,test,mibr,thunderdownunder,0,1,0,0,1,0,0,0
+7301549,2026-06-02 15:00:00,test,b8 esports,tyloo,1,1,0,0,1,0,0,0
+7301543,2026-06-02 15:50:00,test,heroic,dendele cs,0,1,0,0,1,0,0,0
+7301550,2026-06-02 16:05:00,test,gamerlegion,nrg esports,1,1,0,0,1,0,0,0
+7301548,2026-06-02 17:00:00,test,betboom team,gaimin gladiators,1,1,0,0,1,0,0,0
+7301547,2026-06-02 17:25:00,test,big,team liquid,0,1,0,0,1,0,0,0
+10093590,2026-06-02 18:30:00,test,heroic,lynn vision gaming,0,1,0,0,1,0,0,0
+7302349,2026-06-02 18:35:00,test,b8 esports,thunderdownunder,1,1,0,0,1,0,0,0
+7302347,2026-06-02 19:45:00,test,sinners esports,nrg esports,0,1,0,0,1,0,0,0
+10093592,2026-06-02 19:45:00,test,mibr,tyloo,1,1,0,0,1,0,0,0
+7302346,2026-06-02 20:45:00,test,m80,dendele cs,1,1,0,0,1,0,0,0
+7302350,2026-06-02 21:10:00,test,gamerlegion,flyquest,1,1,0,0,1,0,0,0
+7302344,2026-06-02 21:50:00,test,big,gaimin gladiators,1,1,0,0,1,0,0,0
+7302345,2026-06-02 22:25:00,test,betboom team,team liquid,1,1,0,0,1,0,0,0
+7302378,2026-06-03 15:30:00,test,dendele cs,lynn vision gaming,0,1,0,0,1,0,0,0
+7302379,2026-06-03 15:30:00,test,nrg esports,flyquest,1,1,0,0,1,0,0,0
+7302376,2026-06-03 16:30:00,test,thunderdownunder,big,0,1,0,0,1,0,0,0
+7302377,2026-06-03 16:30:00,test,team liquid,mibr,0,1,0,0,1,0,0,0
+7302374,2026-06-03 17:40:00,test,tyloo,sinners esports,1,1,0,0,1,0,0,0
+7302375,2026-06-03 17:50:00,test,gamerlegion,betboom team,0,1,0,0,1,0,0,0
+7302372,2026-06-03 20:00:00,test,gaimin gladiators,heroic,0,1,0,0,1,0,0,0
+7302373,2026-06-03 20:00:00,test,m80,b8 esports,0,1,0,0,1,0,0,0
+7302402,2026-06-04 15:00:00,test,thunderdownunder,flyquest,0,1,0,0,1,0,0,0
+7302403,2026-06-04 15:00:00,test,tyloo,dendele cs,1,1,0,0,1,0,0,0
+7302401,2026-06-04 17:30:00,test,gamerlegion,big,1,1,0,0,1,0,0,0
+7302400,2026-06-04 18:00:00,test,lynn vision gaming,mibr,0,1,0,0,1,0,0,0
+7302398,2026-06-04 20:00:00,test,m80,nrg esports,1,1,0,0,1,0,0,0
+7302399,2026-06-04 20:00:00,test,team liquid,heroic,1,1,0,0,1,0,0,0
+7302427,2026-06-05 15:00:00,test,tyloo,lynn vision gaming,1,1,0,0,1,0,0,0
+7302426,2026-06-05 17:30:00,test,team liquid,flyquest,0,1,0,0,1,0,0,0
+7302425,2026-06-05 20:00:00,test,nrg esports,big,0,1,0,0,1,0,0,0
+7302465,2026-06-06 13:30:00,test,astralis,gamerlegion,1,1,0,0,1,0,0,0
+10093663,2026-06-06 13:30:00,test,9z team,flyquest,1,1,0,0,1,0,0,0
+7302463,2026-06-06 14:30:00,test,fut esports,b8 esports,1,1,0,0,1,0,0,0
+7302469,2026-06-06 14:30:00,test,pain gaming,tyloo,0,1,0,0,1,0,0,0
+7302464,2026-06-06 15:30:00,test,g2 esports,m80,1,1,0,0,1,0,0,0
+7302468,2026-06-06 15:30:00,test,monte,big,1,1,0,0,1,0,0,0
+7302466,2026-06-06 16:50:00,test,team spirit,betboom team,1,1,0,0,1,0,0,0
+10093662,2026-06-06 17:00:00,test,legacy,mibr,0,1,0,0,1,0,0,0
+7302485,2026-06-06 18:30:00,test,fut esports,tyloo,1,1,0,0,1,0,0,0
+10093666,2026-06-06 18:50:00,test,astralis,9z team,0,1,0,0,1,0,0,0
+7302483,2026-06-06 19:40:00,test,g2 esports,monte,1,1,0,0,1,0,0,0
+7302480,2026-06-06 19:55:00,test,pain gaming,big,0,1,0,0,1,0,0,0
+7302482,2026-06-06 21:10:00,test,legacy,flyquest,1,1,0,0,1,0,0,0
+7302479,2026-06-06 21:30:00,test,betboom team,gamerlegion,1,1,0,0,1,0,0,0
+10093673,2026-06-06 22:15:00,test,b8 esports,m80,0,1,0,0,1,0,0,0
+7302478,2026-06-06 22:40:00,test,team spirit,mibr,1,1,0,0,1,0,0,0
+7302512,2026-06-07 15:30:00,test,astralis,tyloo,0,1,0,0,1,0,0,0
+7302513,2026-06-07 15:30:00,test,monte,legacy,1,1,0,0,1,0,0,0
+10093675,2026-06-07 16:30:00,test,mibr,big,0,1,0,0,1,0,0,0
+7302511,2026-06-07 17:25:00,test,betboom team,m80,1,1,0,0,1,0,0,0
+7302508,2026-06-07 17:40:00,test,flyquest,pain gaming,0,1,0,0,1,0,0,0
+7302509,2026-06-07 18:20:00,test,b8 esports,gamerlegion,1,1,0,0,1,0,0,0
+7302506,2026-06-07 20:00:00,test,team spirit,9z team,1,1,0,0,1,0,0,0
+7302507,2026-06-07 21:45:00,test,g2 esports,fut esports,0,1,0,0,1,0,0,0
+7302529,2026-06-08 15:00:00,test,mibr,b8 esports,0,1,0,0,1,0,0,0
+7302530,2026-06-08 15:00:00,test,astralis,pain gaming,0,1,0,0,1,0,0,0
+7302528,2026-06-08 17:30:00,test,monte,betboom team,0,1,0,0,1,0,0,0
+7302527,2026-06-08 18:00:00,test,tyloo,9z team,0,1,0,0,1,0,0,0
+7302525,2026-06-08 20:15:00,test,m80,legacy,0,1,0,0,1,0,0,0
+7302526,2026-06-08 20:25:00,test,g2 esports,big,1,1,0,0,1,0,0,0
+10093794,2026-06-09 11:00:00,test,inox division,bebop,1,0,1,0,1,0,0,0
+10093795,2026-06-09 14:00:00,test,ex-ruby,rustec,1,0,1,0,1,0,0,0
+7302542,2026-06-09 15:00:00,test,monte,pain gaming,1,1,0,0,1,0,0,0
+7302548,2026-06-09 17:00:00,test,virtus.pro,oxuji esports,1,0,1,0,1,0,0,0
+7302541,2026-06-09 17:30:00,test,legacy,tyloo,1,1,0,0,1,0,0,0
+7302540,2026-06-09 20:00:00,test,big,b8 esports,0,1,0,0,1,0,0,0
+7302547,2026-06-09 20:00:00,test,psychoface,genone,0,0,1,0,1,0,0,0
+7302558,2026-06-10 11:00:00,test,sparta esports,brazylijski luz,1,0,1,0,1,0,0,0
+7302557,2026-06-10 14:00:00,test,ursa,heroic academy,1,0,1,0,1,0,0,0
+10093800,2026-06-10 17:00:00,test,kolesie,leo team,0,0,1,0,1,0,0,0
+7302545,2026-06-10 20:30:00,test,illwill,g2 ares,0,0,1,0,1,0,0,0
+7302601,2026-06-11 11:00:00,test,psychoface,brazylijski luz,1,0,1,0,1,0,0,0
+7302562,2026-06-11 12:00:00,test,the mongolz,betboom team,0,1,0,0,1,0,0,0
+7302563,2026-06-11 12:00:00,test,parivision,9z team,0,1,0,0,1,0,0,0
+7302600,2026-06-11 14:00:00,test,illwill,rustec,1,0,1,0,1,0,0,0
+7302568,2026-06-11 15:00:00,test,team vitality,fut esports,1,1,0,0,1,0,0,0
+7302561,2026-06-11 15:10:00,test,mouz,legacy,1,1,0,0,1,0,0,0
+10093937,2026-06-11 17:00:00,test,bebop,oxuji esports,1,0,1,0,1,0,0,0
+7302565,2026-06-11 17:10:00,test,furia esports,b8 esports,1,1,0,0,1,0,0,0
+7302567,2026-06-11 18:00:00,test,team falcons,g2 esports,1,1,0,0,1,0,0,0
+7302564,2026-06-11 19:30:00,test,aurora gaming,monte,1,1,0,0,1,0,0,0
+7302598,2026-06-11 20:00:00,test,kolesie,heroic academy,1,0,1,0,1,0,0,0
+7302566,2026-06-11 21:45:00,test,natus vincere,team spirit,0,1,0,0,1,0,0,0
+7302597,2026-06-12 11:00:00,test,ex-ruby,g2 ares,1,0,1,0,1,0,0,0
+7302611,2026-06-12 12:00:00,test,furia esports,mouz,1,1,0,0,1,0,0,0
+7302618,2026-06-12 12:00:00,test,the mongolz,b8 esports,1,1,0,0,1,0,0,0
+10093940,2026-06-12 14:00:00,test,virtus.pro,inox division,0,0,1,0,1,0,0,0
+7302616,2026-06-12 14:30:00,test,parivision,monte,0,1,0,0,1,0,0,0
+7302617,2026-06-12 15:00:00,test,fut esports,g2 esports,0,1,0,0,1,0,0,0
+10093941,2026-06-12 17:00:00,test,sparta esports,genone,0,0,1,0,1,0,0,0
+7302615,2026-06-12 17:40:00,test,natus vincere,legacy,1,1,0,0,1,0,0,0
+7302614,2026-06-12 18:10:00,test,team falcons,betboom team,0,1,0,0,1,0,0,0
+7302612,2026-06-12 19:45:00,test,team vitality,9z team,0,1,0,0,1,0,0,0
+10093942,2026-06-12 20:15:00,test,ursa,leo team,1,0,1,0,1,0,0,0
+7302613,2026-06-12 20:25:00,test,team spirit,aurora gaming,1,1,0,0,1,0,0,0
+10094046,2026-06-13 11:00:00,test,oxuji esports,brazylijski luz,0,0,1,0,1,0,0,0
+7302668,2026-06-13 12:00:00,test,b8 esports,fut esports,0,1,0,0,1,0,0,0
+7302669,2026-06-13 12:00:00,test,natus vincere,the mongolz,1,1,0,0,1,0,0,0
+10094047,2026-06-13 14:00:00,test,rustec,heroic academy,1,0,1,0,1,0,0,0
+7302666,2026-06-13 15:15:00,test,team falcons,monte,1,1,0,0,1,0,0,0
+7302667,2026-06-13 15:20:00,test,aurora gaming,g2 esports,1,1,0,0,1,0,0,0
+10094048,2026-06-13 17:20:00,test,psychoface,g2 ares,1,0,1,0,1,0,0,0
+7302665,2026-06-13 17:35:00,test,team vitality,mouz,1,1,0,0,1,0,0,0
+7302664,2026-06-13 18:45:00,test,parivision,legacy,0,1,0,0,1,0,0,0
+7302678,2026-06-13 20:00:00,test,kolesie,bebop,1,0,1,0,1,0,0,0
+7302663,2026-06-13 20:40:00,test,betboom team,furia esports,0,1,0,0,1,0,0,0
+7302662,2026-06-13 21:55:00,test,team spirit,9z team,1,1,0,0,1,0,0,0
+7302677,2026-06-14 11:00:00,test,illwill,virtus.pro,1,0,1,0,1,0,0,0
+10094074,2026-06-14 13:30:00,test,nuclear tigeres,oxuji esports,0,0,0,1,1,0,0,0
+10094051,2026-06-14 14:00:00,test,sparta esports,leo team,0,0,1,0,1,0,0,0
+7302735,2026-06-14 15:00:00,test,the mongolz,monte,1,1,0,0,1,0,0,0
+7302736,2026-06-14 15:00:00,test,mouz,fut esports,0,1,0,0,1,0,0,0
+7302727,2026-06-14 16:30:00,test,infinite gaming,virtus.pro,1,0,0,1,1,0,0,0
+7302675,2026-06-14 17:00:00,test,ex-ruby,inox division,0,0,1,0,1,0,0,0
+7302733,2026-06-14 18:20:00,test,aurora gaming,9z team,1,1,0,0,1,0,0,0
+7302734,2026-06-14 18:20:00,test,betboom team,team vitality,0,1,0,0,1,0,0,0
+7302674,2026-06-14 20:00:00,test,ursa,genone,1,0,1,0,1,0,0,0
+7302731,2026-06-14 20:00:00,test,g2 esports,legacy,1,1,0,0,1,0,0,0
+7302732,2026-06-14 20:40:00,test,natus vincere,team falcons,0,1,0,0,1,0,0,0
+10094075,2026-06-15 11:00:00,test,tdk,young ninjas,1,0,0,1,1,0,0,0
+10094076,2026-06-15 13:30:00,test,walczaki,g2 ares,1,0,0,1,1,0,0,0
+7302757,2026-06-15 14:00:00,test,bebop,rustec,1,0,1,0,1,0,0,0
+7302761,2026-06-15 15:00:00,test,9z team,the mongolz,1,1,0,0,1,0,0,0
+7302756,2026-06-15 17:25:00,test,virtus.pro,brazylijski luz,1,0,1,0,1,0,0,0
+7302760,2026-06-15 17:30:00,test,betboom team,fut esports,1,1,0,0,1,0,0,0
+7302759,2026-06-15 20:00:00,test,natus vincere,g2 esports,0,1,0,0,1,0,0,0
+10094149,2026-06-15 20:00:00,test,sparta esports,g2 ares,1,0,1,0,1,0,0,0
+10094077,2026-06-16 11:00:00,test,sashi esport,hyperspirit,1,0,0,1,1,0,0,0
+7302754,2026-06-16 14:00:00,test,illwill,ex-ruby,0,0,1,0,1,0,0,0
+7302723,2026-06-16 14:30:00,test,esport academy cph,kolesie,0,0,0,1,1,0,0,0
+10094145,2026-06-16 18:00:00,test,psychoface,leo team,0,0,1,0,1,0,0,0
+10094146,2026-06-16 21:00:00,test,kolesie,genone,0,0,1,0,1,0,0,0
+7302722,2026-06-17 11:00:00,test,acend,lavked,1,0,0,1,1,0,0,0
+7302797,2026-06-17 14:00:00,test,psychoface,virtus.pro,0,0,1,0,1,0,0,0
+10094080,2026-06-17 14:15:00,test,sparta esports,inox division,0,0,0,1,1,0,0,0
+10094151,2026-06-17 18:00:00,test,sparta esports,bebop,0,0,1,0,1,0,0,0
+7302795,2026-06-17 20:00:00,test,kolesie,illwill,1,0,1,0,1,0,0,0
+7302821,2026-06-18 11:00:00,test,tdk,ursa,1,0,1,0,1,0,0,0
+7302767,2026-06-18 13:30:00,test,tdk,walczaki,0,0,0,1,1,0,0,0
+10094202,2026-06-18 14:00:00,test,gentle mates,kolesie,1,0,1,0,1,0,0,0
+7302742,2026-06-18 16:30:00,test,infinite gaming,oxuji esports,1,0,0,1,1,0,0,0
+7302779,2026-06-18 16:45:00,test,aurora gaming,betboom team,1,1,0,0,1,0,0,0
+10094198,2026-06-18 17:00:00,test,hotu,genone,0,0,1,0,1,0,0,0
+7302778,2026-06-18 20:00:00,test,9z team,furia esports,0,1,0,0,1,0,0,0
+10094199,2026-06-18 20:00:00,test,100 thieves,leo team,1,0,1,0,1,0,0,0
+10094083,2026-06-19 11:00:00,test,sashi esport,kolesie,0,0,0,1,1,0,0,0
+10094196,2026-06-19 11:00:00,test,team nemesis,bebop,1,0,1,0,1,0,0,0
+7302813,2026-06-19 14:00:00,test,acend,inox division,0,0,0,1,1,0,0,0
+7302826,2026-06-19 14:00:00,test,infinite gaming,ex-ruby,0,0,1,0,1,0,0,0
+7302777,2026-06-19 16:45:00,test,team spirit,g2 esports,1,1,0,0,1,0,0,0
+7302827,2026-06-19 17:00:00,test,1w team,inox division,1,0,1,0,1,0,0,0
+7302828,2026-06-19 20:45:00,test,k27,virtus.pro,0,0,1,0,1,0,0,0
+7302776,2026-06-19 22:25:00,test,team vitality,team falcons,0,1,0,0,1,0,0,0
+7302843,2026-06-20 11:00:00,test,infinite gaming,walczaki,0,0,0,1,1,0,0,0
+10094204,2026-06-20 11:00:00,test,team nemesis,tdk,0,0,1,0,1,0,0,0
+7302855,2026-06-20 13:30:00,test,kolesie,inox division,1,0,0,1,1,0,0,0
+7302864,2026-06-20 14:00:00,test,virtus.pro,1w team,1,0,1,0,1,0,0,0
+7302850,2026-06-20 16:45:00,test,furia esports,aurora gaming,1,1,0,0,1,0,0,0
+10094277,2026-06-20 17:15:00,test,gentle mates,ex-ruby,0,0,1,0,1,0,0,0
+7302865,2026-06-20 20:00:00,test,team spirit,team falcons,0,1,0,0,1,0,0,0
+7302847,2026-06-20 21:15:00,test,genone,100 thieves,0,0,1,0,1,0,0,0
+7302868,2026-06-21 11:00:00,test,infinite gaming,inox division,1,0,0,1,1,0,0,0
+7302870,2026-06-21 13:00:00,test,virtus.pro,ex-ruby,0,0,1,0,1,0,0,0
+10094318,2026-06-21 15:30:00,test,team germany,team poland,1,1,0,0,1,0,0,0
+7302875,2026-06-21 16:00:00,test,tdk,100 thieves,1,0,1,0,1,0,0,0
+7302876,2026-06-21 18:00:00,test,team falcons,furia esports,1,1,0,0,1,0,0,0
+7302892,2026-06-21 19:40:00,test,tdk,ex-ruby,1,0,1,0,1,0,0,0
+7302867,2026-06-22 11:00:00,test,walczaki,kolesie,1,0,0,1,1,0,0,0
+10094494,2026-06-23 12:00:00,test,inner circle,am gaming,1,0,0,1,1,0,0,0
+10094501,2026-06-23 12:00:00,test,infinite gaming,esport academy cph,0,0,0,1,1,0,0,0
+10094493,2026-06-23 15:00:00,test,9ine,sashi esport,0,0,0,1,1,0,0,0
+10094495,2026-06-23 18:00:00,test,eternal fire,dendele cs,0,0,0,1,1,0,0,0
+10094499,2026-06-23 18:00:00,test,fokus,og,1,0,0,1,1,0,0,0
+10094500,2026-06-23 18:00:00,test,betclic,echo,0,0,0,1,1,0,0,0
+10094491,2026-06-23 21:00:00,test,gamerlegion,acend,0,0,0,1,1,0,0,0
+10094502,2026-06-23 21:00:00,test,walczaki,k27,1,0,0,1,1,0,0,0
+10094504,2026-06-24 12:00:00,test,infinite gaming,k27,1,0,0,1,1,0,0,0
+10094508,2026-06-24 12:00:00,test,esport academy cph,walczaki,0,0,0,1,1,0,0,0
+10094492,2026-06-24 15:00:00,test,acend,sashi esport,1,0,0,1,1,0,0,0
+10094498,2026-06-24 15:00:00,test,am gaming,eternal fire,1,0,0,1,1,0,0,0
+10094496,2026-06-24 18:00:00,test,inner circle,dendele cs,0,0,0,1,1,0,0,0
+10094507,2026-06-24 18:35:00,test,fokus,echo,0,0,0,1,1,0,0,0
+7302919,2026-06-24 21:00:00,test,og,betclic,0,0,0,1,1,0,0,0
+7302923,2026-06-24 21:00:00,test,gamerlegion,9ine,0,0,0,1,1,0,0,0
+7302941,2026-06-25 12:00:00,test,sashi esport,am gaming,1,0,0,1,1,0,0,0
+7302943,2026-06-25 12:00:00,test,fokus,infinite gaming,0,0,0,1,1,0,0,0
+7302955,2026-06-25 15:00:00,test,esport academy cph,betclic,0,0,0,1,1,0,0,0
+10094511,2026-06-25 15:30:00,test,inner circle,9ine,1,0,0,1,1,0,0,0
+7302944,2026-06-25 18:00:00,test,echo,walczaki,1,0,0,1,1,0,0,0
+10094514,2026-06-25 19:20:00,test,acend,dendele cs,0,0,0,1,1,0,0,0
+7302965,2026-06-25 21:00:00,test,betclic,infinite gaming,0,0,0,1,1,0,0,0
+7302966,2026-06-25 23:00:00,test,inner circle,sashi esport,0,0,0,1,1,0,0,0
+7302974,2026-06-26 18:00:00,test,acend,infinite gaming,1,0,0,1,1,0,0,0
+7302975,2026-06-26 18:00:00,test,walczaki,inner circle,0,0,0,1,1,0,0,0
+7302984,2026-06-27 16:30:00,test,dendele cs,inner circle,0,0,0,1,1,0,0,0
+7302987,2026-06-27 21:20:00,test,echo,acend,0,0,0,1,1,0,0,0
+7303014,2026-06-28 16:30:00,test,dendele cs,echo,0,0,0,1,1,0,0,0
+7303015,2026-06-28 20:00:00,test,inner circle,acend,1,0,0,1,1,0,0,0
+10094567,2026-06-29 12:00:00,test,team overdrive,team recrent,1,0,1,0,1,0,0,0
+10094568,2026-06-29 15:35:00,test,team hooch,team strogo,1,0,1,0,1,0,0,0
+10094569,2026-06-29 18:00:00,test,team aunkere,team burger,1,0,1,0,1,0,0,0
+10094570,2026-06-29 21:00:00,test,team zoner,team shoke,0,0,1,0,1,0,0,0
+10094571,2026-06-30 12:00:00,test,team hooch,team recrent,1,0,1,0,1,0,0,0
+10094572,2026-06-30 15:45:00,test,team strogo,team overdrive,1,0,1,0,1,0,0,0
+10094573,2026-06-30 19:10:00,test,team burger,team shoke,1,0,1,0,1,0,0,0
+10094574,2026-06-30 21:20:00,test,team zoner,team aunkere,0,0,1,0,1,0,0,0
+7302572,2026-07-01 11:45:00,test,faze clan,tyloo,0,1,0,0,1,0,0,0
+7302571,2026-07-01 12:25:00,test,team 3dmax,ninjas in pyjamas,1,1,0,0,1,0,0,0
+10094327,2026-07-01 14:40:00,test,9z team,eyeballers,0,1,0,0,1,0,0,0
+7302569,2026-07-01 14:45:00,test,luminosity gaming,team nemesis,0,1,0,0,1,0,0,0
+10094575,2026-07-01 15:00:00,test,team strogo,team recrent,0,0,1,0,1,0,0,0
+10094328,2026-07-01 17:15:00,test,parivision,alliance,1,1,0,0,1,0,0,0
+10094576,2026-07-01 18:00:00,test,team hooch,team overdrive,1,0,1,0,1,0,0,0
+10094329,2026-07-01 18:45:00,test,betboom team,sinners esports,1,1,0,0,1,0,0,0
+7302574,2026-07-01 19:20:00,test,big,lynn vision gaming,1,1,0,0,1,0,0,0
+10094577,2026-07-01 20:00:00,test,team shoke,team aunkere,1,0,1,0,1,0,0,0
+7302573,2026-07-01 20:50:00,test,b8 esports,mibr,1,1,0,0,1,0,0,0
+10094578,2026-07-01 22:20:00,test,team zoner,team burger,0,0,1,0,1,0,0,0
+7303077,2026-07-02 10:30:00,test,team 3dmax,eyeballers,0,1,0,0,1,0,0,0
+10094803,2026-07-02 11:45:00,test,alliance,ninjas in pyjamas,1,1,0,0,1,0,0,0
+7303081,2026-07-02 12:30:00,test,faze clan,mibr,0,1,0,0,1,0,0,0
+7303075,2026-07-02 13:00:00,test,luminosity gaming,lynn vision gaming,0,1,0,0,1,0,0,0
+10094558,2026-07-02 13:00:00,test,team recrent,team shoke,0,0,1,0,1,0,0,0
+7303074,2026-07-02 15:00:00,test,parivision,tyloo,0,1,0,0,1,0,0,0
+10094557,2026-07-02 16:00:00,test,team burger,team overdrive,1,0,1,0,1,0,0,0
+7303079,2026-07-02 16:15:00,test,betboom team,big,1,1,0,0,1,0,0,0
+10094807,2026-07-02 17:00:00,test,9z team,sinners esports,1,1,0,0,1,0,0,0
+7303078,2026-07-02 18:30:00,test,b8 esports,team nemesis,0,1,0,0,1,0,0,0
+10094560,2026-07-02 19:15:00,test,team aunkere,team shoke,1,0,1,0,1,0,0,0
+10094559,2026-07-02 21:45:00,test,team hooch,team burger,1,0,1,0,1,0,0,0
+7303088,2026-07-03 08:00:00,test,luminosity gaming,ninjas in pyjamas,0,1,0,0,1,0,0,0
+7303095,2026-07-03 08:00:00,test,eyeballers,tyloo,0,1,0,0,1,0,0,0
+7303094,2026-07-03 11:25:00,test,parivision,lynn vision gaming,1,1,0,0,1,0,0,0
+7303091,2026-07-03 13:00:00,test,team 3dmax,9z team,0,1,0,0,1,0,0,0
+10094561,2026-07-03 13:00:00,test,team burger,team recrent,0,0,1,0,1,0,0,0
+7303093,2026-07-03 13:20:00,test,big,mibr,0,1,0,0,1,0,0,0
+10094855,2026-07-03 15:30:00,test,b8 esports,alliance,0,1,0,0,1,0,0,0
+7303089,2026-07-03 16:00:00,test,faze clan,sinners esports,1,1,0,0,1,0,0,0
+10094562,2026-07-03 16:00:00,test,team shoke,team overdrive,1,0,1,0,1,0,0,0
+7303112,2026-07-03 19:00:00,test,team aunkere,team hooch,0,0,1,0,1,0,0,0
+7303090,2026-07-03 19:20:00,test,betboom team,team nemesis,1,1,0,0,1,0,0,0
+7303120,2026-07-03 22:00:00,test,team recrent,team shoke,0,0,1,0,1,0,0,0
+7303127,2026-07-04 08:00:00,test,b8 esports,lynn vision gaming,1,1,0,0,1,0,0,0
+7303128,2026-07-04 08:00:00,test,parivision,mibr,1,1,0,0,1,0,0,0
+7303125,2026-07-04 11:00:00,test,big,ninjas in pyjamas,1,1,0,0,1,0,0,0
+10094860,2026-07-04 13:30:00,test,alliance,9z team,1,1,0,0,1,0,0,0
+7303129,2026-07-04 16:00:00,test,team aunkere,team shoke,0,0,1,0,1,0,0,0
+7303123,2026-07-04 16:20:00,test,faze clan,team 3dmax,1,1,0,0,1,0,0,0
+7303124,2026-07-04 17:50:00,test,eyeballers,team nemesis,0,1,0,0,1,0,0,0
+7303139,2026-07-04 20:30:00,test,team hooch,team shoke,1,0,1,0,1,0,0,0
+7303142,2026-07-05 09:15:00,test,mibr,9z team,0,1,0,0,1,0,0,0
+7303141,2026-07-05 13:00:00,test,b8 esports,big,0,1,0,0,1,0,0,0
+7303140,2026-07-05 16:20:00,test,eyeballers,faze clan,0,1,0,0,1,0,0,0
+7303153,2026-07-09 11:00:00,test,tyloo,9z team,0,1,0,0,1,0,0,0
+10094928,2026-07-09 12:40:00,test,b8 esports,sangrija,1,0,1,0,1,0,0,0
+10094930,2026-07-09 15:10:00,test,virtus.pro,ninjas in pyjamas,1,0,1,0,1,0,0,0
+10094898,2026-07-09 15:30:00,test,team nemesis,alliance,0,1,0,0,1,0,0,0
+7303203,2026-07-09 19:00:00,test,inner circle,genone,1,0,1,0,1,0,0,0
+7303202,2026-07-09 21:30:00,test,esport academy cph,magic,0,0,1,0,1,0,0,0
+7303151,2026-07-10 11:00:00,test,parivision,big,1,1,0,0,1,0,0,0
+7303150,2026-07-10 15:45:00,test,faze clan,betboom team,1,1,0,0,1,0,0,0
+10094929,2026-07-10 16:00:00,test,b8 esports,virtus.pro,0,0,1,0,1,0,0,0
+10094933,2026-07-10 19:20:00,test,inner circle,magic,1,0,1,0,1,0,0,0
+10094901,2026-07-11 11:00:00,test,9z team,alliance,1,1,0,0,1,0,0,0
+7303249,2026-07-11 15:45:00,test,parivision,faze clan,1,1,0,0,1,0,0,0
+7303252,2026-07-11 21:00:00,test,virtus.pro,inner circle,0,0,1,0,1,0,0,0
+7303278,2026-07-12 12:00:00,test,9z team,parivision,1,1,0,0,1,0,0,0
+10095507,2026-07-16 11:00:00,test,ww team,just players,0,0,0,1,1,0,0,0
+10095509,2026-07-16 14:00:00,test,walczaki,sparta esports,1,0,0,1,1,0,0,0
+10095442,2026-07-17 07:00:00,test,монголия,япония,1,1,0,0,1,0,0,0
+10095443,2026-07-17 07:00:00,test,индия,гонконг,1,1,0,0,1,0,0,0
+10095444,2026-07-17 07:00:00,test,китай,южная корея,1,1,0,0,1,0,0,0
+10095445,2026-07-17 07:00:00,test,пакистан,тайвань,1,1,0,0,1,0,0,0
+10095455,2026-07-17 07:00:00,test,малайзия,бруней,1,1,0,0,1,0,0,0
+10095456,2026-07-17 07:00:00,test,филиппины,вьетнам,0,1,0,0,1,0,0,0
+10095457,2026-07-17 07:00:00,test,сингапур,камбоджа,1,1,0,0,1,0,0,0
+10095458,2026-07-17 07:00:00,test,индонезия,таиланд,1,1,0,0,1,0,0,0
+10095446,2026-07-17 08:25:00,test,япония,гонконг,0,1,0,0,1,0,0,0
+10095447,2026-07-17 08:40:00,test,южная корея,тайвань,1,1,0,0,1,0,0,0
+10095449,2026-07-17 08:40:00,test,китай,пакистан,1,1,0,0,1,0,0,0
+10095460,2026-07-17 08:40:00,test,камбоджа,таиланд,0,1,0,0,1,0,0,0
+10095462,2026-07-17 08:40:00,test,сингапур,индонезия,0,1,0,0,1,0,0,0
+10095459,2026-07-17 10:25:00,test,бруней,филиппины,0,1,0,0,1,0,0,0
+10095461,2026-07-17 10:30:00,test,малайзия,вьетнам,0,1,0,0,1,0,0,0
+10095510,2026-07-17 11:00:00,test,1w team,genone,1,0,0,1,1,0,0,0
+10095448,2026-07-17 13:00:00,test,монголия,индия,1,1,0,0,1,0,0,0
+10095512,2026-07-17 13:30:00,test,arcred,the last resort,1,0,0,1,1,0,0,0
+10095426,2026-07-17 15:00:00,test,казахстан,грузия,1,1,0,0,1,0,0,0
+10095427,2026-07-17 15:00:00,test,азербайджан,таджикистан,1,1,0,0,1,0,0,0
+10095428,2026-07-17 15:00:00,test,ливан,ирак,1,1,0,0,1,0,0,0
+10095429,2026-07-17 15:00:00,test,палестина,оаэ,1,1,0,0,1,0,0,0
+10095430,2026-07-17 15:00:00,test,узбекистан,туркменистан,1,1,0,0,1,0,0,0
+10095431,2026-07-17 15:00:00,test,иран,саудовская аравия,1,1,0,0,1,0,0,0
+10095432,2026-07-17 15:00:00,test,турция,армения,1,1,0,0,1,0,0,0
+10095433,2026-07-17 15:00:00,test,кыргызстан,иордания,1,1,0,0,1,0,0,0
+10095435,2026-07-17 16:15:00,test,ливан,палестина,1,1,0,0,1,0,0,0
+10095436,2026-07-17 16:30:00,test,узбекистан,иран,1,1,0,0,1,0,0,0
+10095439,2026-07-17 16:30:00,test,ирак,оаэ,1,1,0,0,1,0,0,0
+10095440,2026-07-17 16:30:00,test,туркменистан,саудовская аравия,0,1,0,0,1,0,0,0
+10095356,2026-07-17 17:00:00,test,косово,хорватия,1,1,0,0,1,0,0,0
+10095357,2026-07-17 17:00:00,test,латвия,эстония,1,1,0,0,1,0,0,0
+10095358,2026-07-17 17:00:00,test,литва,израиль,1,1,0,0,1,0,0,0
+10095359,2026-07-17 17:00:00,test,болгария,чехия,1,1,0,0,1,0,0,0
+10095360,2026-07-17 17:00:00,test,польша,северная македония,1,1,0,0,1,0,0,0
+10095361,2026-07-17 17:00:00,test,сербия,словакия,1,1,0,0,1,0,0,0
+10095362,2026-07-17 17:00:00,test,украина,босния и герцеговина,1,1,0,0,1,0,0,0
+10095363,2026-07-17 17:00:00,test,румыния,венгрия,1,1,0,0,1,0,0,0
+10095382,2026-07-17 17:00:00,test,германия,люксембург,1,1,0,0,1,0,0,0
+10095383,2026-07-17 17:00:00,test,швеция,нидерланды,1,1,0,0,1,0,0,0
+10095384,2026-07-17 17:00:00,test,франция,испания,1,1,0,0,1,0,0,0
+10095385,2026-07-17 17:00:00,test,дания,ирландия,1,1,0,0,1,0,0,0
+10095386,2026-07-17 17:00:00,test,великобритания,швейцария,1,1,0,0,1,0,0,0
+10095387,2026-07-17 17:00:00,test,италия,португалия,1,1,0,0,1,0,0,0
+10095388,2026-07-17 17:00:00,test,финляндия,норвегия,1,1,0,0,1,0,0,0
+10095389,2026-07-17 17:00:00,test,бельгия,исландия,1,1,0,0,1,0,0,0
+10095441,2026-07-17 17:00:00,test,армения,иордания,0,1,0,0,1,0,0,0
+10095434,2026-07-17 17:30:00,test,казахстан,азербайджан,1,1,0,0,1,0,0,0
+10095437,2026-07-17 17:30:00,test,турция,кыргызстан,1,1,0,0,1,0,0,0
+10095438,2026-07-17 17:30:00,test,грузия,таджикистан,0,1,0,0,1,0,0,0
+10095479,2026-07-17 18:00:00,test,иран,ирак,1,1,0,0,1,0,0,0
+10095367,2026-07-17 18:40:00,test,украина,румыния,0,1,0,0,1,0,0,0
+10095391,2026-07-17 18:40:00,test,франция,дания,1,1,0,0,1,0,0,0
+10095397,2026-07-17 18:40:00,test,испания,ирландия,1,1,0,0,1,0,0,0
+10095366,2026-07-17 18:50:00,test,польша,сербия,0,1,0,0,1,0,0,0
+10095390,2026-07-17 18:50:00,test,германия,швеция,1,1,0,0,1,0,0,0
+10095396,2026-07-17 18:50:00,test,люксембург,нидерланды,0,1,0,0,1,0,0,0
+10095468,2026-07-17 19:00:00,test,марокко,египет,1,1,0,0,1,0,0,0
+10095469,2026-07-17 19:00:00,test,алжир,тунис,0,1,0,0,1,0,0,0
+10095482,2026-07-17 19:00:00,test,палестина,саудовская аравия,1,1,0,0,1,0,0,0
+10095481,2026-07-17 19:20:00,test,кыргызстан,таджикистан,1,1,0,0,1,0,0,0
+10095484,2026-07-17 19:20:00,test,азербайджан,иордания,1,1,0,0,1,0,0,0
+10095364,2026-07-17 20:00:00,test,косово,латвия,1,1,0,0,1,0,0,0
+10095365,2026-07-17 20:00:00,test,литва,болгария,1,1,0,0,1,0,0,0
+10095368,2026-07-17 20:00:00,test,хорватия,эстония,0,1,0,0,1,0,0,0
+10095369,2026-07-17 20:00:00,test,израиль,чехия,0,1,0,0,1,0,0,0
+10095370,2026-07-17 20:00:00,test,северная македония,словакия,1,1,0,0,1,0,0,0
+10095371,2026-07-17 20:00:00,test,босния и герцеговина,венгрия,0,1,0,0,1,0,0,0
+10095392,2026-07-17 20:00:00,test,великобритания,италия,1,1,0,0,1,0,0,0
+10095393,2026-07-17 20:00:00,test,финляндия,бельгия,0,1,0,0,1,0,0,0
+10095398,2026-07-17 20:00:00,test,швейцария,португалия,0,1,0,0,1,0,0,0
+10095399,2026-07-17 20:00:00,test,норвегия,исландия,0,1,0,0,1,0,0,0
+10095415,2026-07-17 20:00:00,test,бразилия,парагвай,1,1,0,0,1,0,0,0
+10095416,2026-07-17 20:00:00,test,чили,уругвай,1,1,0,0,1,0,0,0
+10095417,2026-07-17 20:00:00,test,аргентина,венесуэла,1,1,0,0,1,0,0,0
+10095418,2026-07-17 20:00:00,test,колумбия,перу,0,1,0,0,1,0,0,0
+10095474,2026-07-17 20:00:00,test,сенегал,нигерия,1,1,0,0,1,0,0,0
+10095408,2026-07-17 21:00:00,test,мексика,панама,1,1,0,0,1,0,0,0
+10095409,2026-07-17 21:00:00,test,канада,пуэрто-рико,1,1,0,0,1,0,0,0
+10095421,2026-07-17 21:25:00,test,парагвай,уругвай,1,1,0,0,1,0,0,0
+10095422,2026-07-17 22:00:00,test,венесуэла,колумбия,1,1,0,0,1,0,0,0
+10095471,2026-07-17 22:00:00,test,марокко,тунис,1,1,0,0,1,0,0,0
+10095475,2026-07-17 22:30:00,test,южно-африканская республика,сенегал,1,1,0,0,1,0,0,0
+10095450,2026-07-18 07:00:00,test,пакистан,гонконг,1,1,0,0,1,0,0,0
+10095451,2026-07-18 07:00:00,test,индия,южная корея,0,1,0,0,1,0,0,0
+10095463,2026-07-18 07:00:00,test,сингапур,филиппины,0,1,0,0,1,0,0,0
+10095464,2026-07-18 07:00:00,test,малайзия,таиланд,1,1,0,0,1,0,0,0
+10095466,2026-07-18 10:00:00,test,филиппины,малайзия,1,1,0,0,1,0,0,0
+10095453,2026-07-18 11:00:00,test,пакистан,южная корея,1,1,0,0,1,0,0,0
+10095513,2026-07-18 11:00:00,test,eternal fire,brute,1,0,0,1,1,0,0,0
+10095515,2026-07-18 13:30:00,test,nuclear tigeres,atreides,0,0,0,1,1,0,0,0
+10095372,2026-07-18 14:00:00,test,украина,эстония,1,1,0,0,1,0,0,0
+10095373,2026-07-18 14:00:00,test,польша,чехия,1,1,0,0,1,0,0,0
+10095374,2026-07-18 14:00:00,test,болгария,северная македония,1,1,0,0,1,0,0,0
+10095375,2026-07-18 14:00:00,test,латвия,венгрия,1,1,0,0,1,0,0,0
+10095480,2026-07-18 14:00:00,test,узбекистан,турция,0,1,0,0,1,0,0,0
+10095483,2026-07-18 14:00:00,test,казахстан,ливан,1,1,0,0,1,0,0,0
+10095485,2026-07-18 14:00:00,test,палестина,азербайджан,1,1,0,0,1,0,0,0
+10095486,2026-07-18 14:00:00,test,кыргызстан,иран,1,1,0,0,1,0,0,0
+10095400,2026-07-18 15:00:00,test,финляндия,нидерланды,1,1,0,0,1,0,0,0
+10095401,2026-07-18 15:00:00,test,италия,испания,0,1,0,0,1,0,0,0
+10095402,2026-07-18 15:00:00,test,дания,португалия,1,1,0,0,1,0,0,0
+10095403,2026-07-18 15:00:00,test,швеция,исландия,1,1,0,0,1,0,0,0
+10095378,2026-07-18 15:55:00,test,украина,польша,0,1,0,0,1,0,0,0
+10095379,2026-07-18 17:00:00,test,болгария,латвия,1,1,0,0,1,0,0,0
+10095404,2026-07-18 18:00:00,test,финляндия,испания,1,1,0,0,1,0,0,0
+10095405,2026-07-18 18:00:00,test,дания,швеция,1,1,0,0,1,0,0,0
+10095470,2026-07-18 19:00:00,test,египет,алжир,0,1,0,0,1,0,0,0
+10095419,2026-07-18 20:00:00,test,бразилия,чили,1,1,0,0,1,0,0,0
+10095420,2026-07-18 20:00:00,test,аргентина,перу,1,1,0,0,1,0,0,0
+10095476,2026-07-18 20:00:00,test,сенегал,нигерия,1,1,0,0,1,0,0,0
+10095410,2026-07-18 21:00:00,test,сша,мексика,1,1,0,0,1,0,0,0
+10095411,2026-07-18 21:00:00,test,гватемала,канада,0,1,0,0,1,0,0,0
+10095472,2026-07-18 22:00:00,test,тунис,алжир,0,1,0,0,1,0,0,0
+10095424,2026-07-18 22:20:00,test,чили,венесуэла,1,1,0,0,1,0,0,0
+10095423,2026-07-18 22:25:00,test,перу,парагвай,0,1,0,0,1,0,0,0
+10095413,2026-07-18 23:30:00,test,мексика,пуэрто-рико,1,1,0,0,1,0,0,0
+10095412,2026-07-19 01:00:00,test,гватемала,панама,1,1,0,0,1,0,0,0
+10095465,2026-07-19 08:00:00,test,вьетнам,индонезия,0,1,0,0,1,0,0,0
+10095478,2026-07-19 08:00:00,test,австралия,новая зеландия,1,1,0,0,1,0,0,0
+10095452,2026-07-19 09:00:00,test,монголия,китай,0,1,0,0,1,0,0,0
+10095467,2026-07-19 09:30:00,test,вьетнам,филиппины,1,1,0,0,1,0,0,0
+10095516,2026-07-19 11:00:00,test,bet-m 33,basement boys,1,0,0,1,1,0,0,0
+10095454,2026-07-19 12:00:00,test,монголия,пакистан,1,1,0,0,1,0,0,0
+10095503,2026-07-19 13:00:00,test,узбекистан,палестина,1,1,0,0,1,0,0,0
+10095504,2026-07-19 13:00:00,test,ливан,кыргызстан,1,1,0,0,1,0,0,0
+10095376,2026-07-19 14:00:00,test,косово,литва,0,1,0,0,1,0,0,0
+10095377,2026-07-19 14:00:00,test,сербия,румыния,0,1,0,0,1,0,0,0
+10095394,2026-07-19 14:00:00,test,германия,франция,0,1,0,0,1,0,0,0
+10095395,2026-07-19 14:00:00,test,великобритания,бельгия,1,1,0,0,1,0,0,0
+10095518,2026-07-19 14:30:00,test,cybershoke esports,whitebit team,1,0,0,1,1,0,0,0
+10095477,2026-07-19 15:00:00,test,южно-африканская республика,сенегал,1,1,0,0,1,0,0,0
+10095473,2026-07-19 16:00:00,test,марокко,алжир,1,1,0,0,1,0,0,0
+10095506,2026-07-19 16:00:00,test,ливан,узбекистан,0,1,0,0,1,0,0,0
+10095380,2026-07-19 17:00:00,test,косово,польша,0,1,0,0,1,0,0,0
+10095381,2026-07-19 17:00:00,test,сербия,болгария,1,1,0,0,1,0,0,0
+10095407,2026-07-19 17:00:00,test,бельгия,дания,0,1,0,0,1,0,0,0
+10095406,2026-07-19 17:30:00,test,германия,финляндия,1,1,0,0,1,0,0,0
+10095425,2026-07-19 21:00:00,test,парагвай,чили,0,1,0,0,1,0,0,0
+10095414,2026-07-19 23:00:00,test,гватемала,мексика,0,1,0,0,1,0,0,0
+7303404,2026-07-20 11:00:00,test,just players,walczaki,1,0,0,1,1,0,0,0
+7303424,2026-07-20 13:30:00,test,1w team,arcred,1,0,0,1,1,0,0,0
+7303484,2026-07-21 11:00:00,test,eternal fire,atreides,1,0,0,1,1,0,0,0
+7303444,2026-07-21 13:00:00,test,ninjas in pyjamas,m80,1,1,0,0,1,0,0,0
+10095549,2026-07-21 13:00:00,test,magic,walczaki,1,1,0,0,1,0,0,0
+7303504,2026-07-21 13:30:00,test,bet-m 33,cybershoke esports,0,0,0,1,1,0,0,0
+7303451,2026-07-21 15:30:00,test,astralis,team nemesis,1,1,0,0,1,0,0,0
+10095544,2026-07-21 16:00:00,test,hotu,heroic,1,1,0,0,1,0,0,0
+10095550,2026-07-21 16:00:00,test,team 3dmax,gentle mates,0,1,0,0,1,0,0,0
+7303455,2026-07-21 18:35:00,test,mouz,nuclear tigeres,1,1,0,0,1,0,0,0
+10095545,2026-07-21 19:15:00,test,astralis,fokus,1,1,0,0,1,0,0,0
+10095551,2026-07-21 19:30:00,test,magic,gentle mates,1,1,0,0,1,0,0,0
+7303443,2026-07-21 20:55:00,test,wildcard gaming,alliance,1,1,0,0,1,0,0,0
+7303561,2026-07-22 11:00:00,test,just players,1w team,0,0,0,1,1,0,0,0
+7303445,2026-07-22 13:00:00,test,faze clan,eyeballers,1,1,0,0,1,0,0,0
+7303503,2026-07-22 13:00:00,test,aurora gaming,k27,1,1,0,0,1,0,0,0
+7303601,2026-07-22 13:00:00,test,astralis,hotu,0,1,0,0,1,0,0,0
+7303595,2026-07-22 14:10:00,test,eternal fire,cybershoke esports,1,0,0,1,1,0,0,0
+7303448,2026-07-22 15:30:00,test,g2 esports,nemiga gaming,1,1,0,0,1,0,0,0
+7303506,2026-07-22 16:00:00,test,ninjas in pyjamas,100 thieves,1,1,0,0,1,0,0,0
+7303502,2026-07-22 16:15:00,test,infinite gaming,team nemesis,0,1,0,0,1,0,0,0
+7303452,2026-07-22 18:30:00,test,gamerlegion,hotu,0,1,0,0,1,0,0,0
+10095555,2026-07-22 19:30:00,test,nuclear tigeres,echo,0,1,0,0,1,0,0,0
+7303626,2026-07-22 19:50:00,test,aurora gaming,team nemesis,1,1,0,0,1,0,0,0
+7303456,2026-07-22 20:40:00,test,team falcons,100 thieves,0,1,0,0,1,0,0,0
+7303453,2026-07-23 13:00:00,test,aurora gaming,fokus,0,1,0,0,1,0,0,0
+7303596,2026-07-23 13:00:00,test,walczaki,team 3dmax,1,1,0,0,1,0,0,0
+7303449,2026-07-23 16:00:00,test,fut esports,sinners esports,1,1,0,0,1,0,0,0
+7303635,2026-07-23 16:00:00,test,100 thieves,nuclear tigeres,0,1,0,0,1,0,0,0
+7303636,2026-07-23 16:45:00,test,ninjas in pyjamas,echo,1,1,0,0,1,0,0,0
+7303446,2026-07-23 18:55:00,test,pain gaming,gentle mates,1,1,0,0,1,0,0,0
+7303600,2026-07-23 19:55:00,test,fokus,heroic,0,1,0,0,1,0,0,0
+7303625,2026-07-23 19:55:00,test,k27,infinite gaming,0,1,0,0,1,0,0,0
+7303457,2026-07-23 21:05:00,test,team spirit,og,1,1,0,0,1,0,0,0
+7303622,2026-07-24 11:00:00,test,1w team,eternal fire,0,0,0,1,1,0,0,0
+7303447,2026-07-24 12:00:00,test,magic,team 3dmax,0,1,0,0,1,0,0,0
+7303454,2026-07-24 15:15:00,test,the mongolz,heroic,1,1,0,0,1,0,0,0
+7303672,2026-07-24 16:00:00,test,echo,nuclear tigeres,1,1,0,0,1,0,0,0
+7303677,2026-07-24 16:00:00,test,team nemesis,infinite gaming,0,1,0,0,1,0,0,0
+7303458,2026-07-24 18:50:00,test,team vitality,team liquid,0,1,0,0,1,0,0,0
+7303670,2026-07-24 19:00:00,test,gentle mates,walczaki,1,1,0,0,1,0,0,0
+7303674,2026-07-24 19:15:00,test,astralis,heroic,0,1,0,0,1,0,0,0
+7303450,2026-07-24 21:00:00,test,furia esports,dendele cs,0,1,0,0,1,0,0,0
+7303722,2026-07-25 13:00:00,test,faze clan,dendele cs,1,1,0,0,1,0,0,0
+7303726,2026-07-25 14:00:00,test,hotu,infinite gaming,1,1,0,0,1,0,0,0
+7303721,2026-07-25 16:00:00,test,g2 esports,team liquid,0,1,0,0,1,0,0,0
+7303725,2026-07-25 16:15:00,test,aurora gaming,echo,1,1,0,0,1,0,0,0
+7303724,2026-07-25 17:00:00,test,magic,gentle mates,1,1,0,0,1,0,0,0
+7303720,2026-07-25 17:45:00,test,astralis,hotu,1,1,0,0,1,0,0,0
+7303723,2026-07-25 19:00:00,test,ninjas in pyjamas,heroic,1,1,0,0,1,0,0,0
+7303719,2026-07-25 20:30:00,test,mouz,fokus,1,1,0,0,1,0,0,0
+7303718,2026-07-26 13:00:00,test,pain gaming,ninjas in pyjamas,1,1,0,0,1,0,0,0
+7303717,2026-07-26 15:15:00,test,fut esports,team 3dmax,0,1,0,0,1,0,0,0
+7303745,2026-07-26 16:00:00,test,aurora gaming,hotu,1,1,0,0,1,0,0,0
+7303716,2026-07-26 17:35:00,test,the mongolz,wildcard gaming,1,1,0,0,1,0,0,0
+7303715,2026-07-26 19:35:00,test,team spirit,100 thieves,1,1,0,0,1,0,0,0
+7303749,2026-07-26 19:35:00,test,magic,ninjas in pyjamas,1,1,0,0,1,0,0,0
+7303728,2026-07-27 09:30:00,test,arcred,team flacons,1,0,1,0,1,0,0,0
+10095589,2026-07-27 09:30:00,test,cybershoke esports,comanche,1,0,1,0,1,0,0,0
+7303791,2026-07-27 10:55:00,test,comanche,team flacons,0,0,1,0,1,0,0,0
+7303792,2026-07-27 10:55:00,test,cybershoke esports,arcred,0,0,1,0,1,0,0,0
+7303793,2026-07-27 13:35:00,test,team flacons,cybershoke esports,0,0,1,0,1,0,0,0
+7303730,2026-07-27 16:30:00,test,virtus.pro,tokyosavage,1,0,1,0,1,0,0,0
+7303729,2026-07-27 17:00:00,test,ww team,beznegativa,1,0,1,0,1,0,0,0
+7303805,2026-07-27 19:05:00,test,virtus.pro,ww team,1,0,1,0,1,0,0,0
+10095600,2026-07-27 19:05:00,test,tokyosavage,beznegativa,0,0,1,0,1,0,0,0
+10095602,2026-07-27 22:30:00,test,beznegativa,ww team,0,0,1,0,1,0,0,0
+7303733,2026-07-28 09:00:00,test,lavked,fin-esports,1,0,1,0,1,0,0,0
+7303734,2026-07-28 09:00:00,test,nemiga gaming,k28,1,0,1,0,1,0,0,0
+10095595,2026-07-28 12:00:00,test,fin-esports,k28,0,0,1,0,1,0,0,0
+10095596,2026-07-28 12:00:00,test,lavked,nemiga gaming,0,0,1,0,1,0,0,0
+7303829,2026-07-28 13:30:00,test,k28,lavked,1,0,1,0,1,0,0,0
+7303736,2026-07-28 16:40:00,test,tdk,baks esports,0,0,1,0,1,0,0,0
+7303735,2026-07-28 17:00:00,test,high-tech xtreme,bet-m 33,0,0,1,0,1,0,0,0
+7303835,2026-07-28 19:50:00,test,high-tech xtreme,tdk,0,0,1,0,1,0,0,0
+7303836,2026-07-28 19:50:00,test,bet-m 33,baks esports,0,0,1,0,1,0,0,0
+10095607,2026-07-28 22:00:00,test,tdk,bet-m 33,1,0,1,0,1,0,0,0
+7303871,2026-07-29 15:00:00,test,arcred,ww team,0,0,1,0,1,0,0,0
+7303870,2026-07-29 18:30:00,test,nemiga gaming,tdk,0,0,1,0,1,0,0,0
+7303869,2026-07-29 21:05:00,test,cybershoke esports,virtus.pro,0,0,1,0,1,0,0,0
+7303868,2026-07-29 23:00:00,test,k28,baks esports,0,0,1,0,1,0,0,0
+10095801,2026-07-30 11:00:00,test,kuusamo.gg,sinqu esports,0,0,1,0,1,0,0,0
+7303693,2026-07-30 13:00:00,test,ence,bojong,1,0,1,0,1,0,0,0
+7303884,2026-07-30 13:00:00,test,ww team,tdk,1,0,1,0,1,0,0,0
+10095803,2026-07-30 15:00:00,test,kuusamo.gg,bojong,1,0,1,0,1,0,0,0
+7303907,2026-07-30 15:45:00,test,virtus.pro,baks esports,1,0,1,0,1,0,0,0
+7303889,2026-07-30 16:00:00,test,team spirit,team liquid,1,1,0,0,1,0,0,0
+10095804,2026-07-30 16:40:00,test,ence,sinqu esports,1,0,1,0,1,0,0,0
+7303890,2026-07-30 18:20:00,test,mouz,team 3dmax,1,1,0,0,1,0,0,0
+10095805,2026-07-30 19:00:00,test,sinqu esports,bojong,1,0,1,0,1,0,0,0
+7303927,2026-07-30 19:30:00,test,ww team,virtus.pro,1,0,1,0,1,0,0,0
+10095806,2026-07-30 20:25:00,test,ence,kuusamo.gg,1,0,1,0,1,0,0,0
+7303688,2026-07-31 11:00:00,test,havu gaming,trainwrecks esports,1,0,1,0,1,0,0,0
+7303687,2026-07-31 12:35:00,test,rounds,bcgame,0,0,1,0,1,0,0,0
+7303686,2026-07-31 14:00:00,test,havu gaming,bcgame,0,0,1,0,1,0,0,0
+7303887,2026-07-31 15:30:00,test,the mongolz,faze clan,0,1,0,0,1,0,0,0
+10095810,2026-07-31 16:15:00,test,rounds,trainwrecks esports,0,0,1,0,1,0,0,0
+10095811,2026-07-31 18:10:00,test,bcgame,trainwrecks esports,1,0,1,0,1,0,0,0
+7303888,2026-07-31 19:10:00,test,astralis,pain gaming,1,1,0,0,1,0,0,0
+10095812,2026-07-31 19:35:00,test,havu gaming,rounds,1,0,1,0,1,0,0,0
+7303979,2026-08-01 11:00:00,test,ence,havu gaming,1,0,1,0,1,0,0,0
+7303984,2026-08-01 13:30:00,test,faze clan,team spirit,0,1,0,0,1,0,0,0
+7303978,2026-08-01 15:00:00,test,bcgame,sinqu esports,1,0,1,0,1,0,0,0
+7303983,2026-08-01 17:10:00,test,astralis,mouz,0,1,0,0,1,0,0,0
+10095840,2026-08-01 20:00:00,test,team shoke,snailkick team,1,0,1,0,1,0,0,0
+7304019,2026-08-01 20:05:00,test,ence,bcgame,0,0,1,0,1,0,0,0
+10095841,2026-08-01 22:15:00,test,team mokrivskiy,perfecto club,0,0,1,0,1,0,0,0
+7304024,2026-08-02 13:30:00,test,team spirit,mouz,0,1,0,0,1,0,0,0
+10095844,2026-08-02 19:30:00,test,team buster,team morphilina,1,0,1,0,1,0,0,0
+10095842,2026-08-02 22:15:00,test,team morphilina,team mokrivskiy,0,0,1,0,1,0,0,0
+10095843,2026-08-02 22:15:00,test,dmitry_lixxx club,snailkick team,1,0,1,0,1,0,0,0
+10095853,2026-08-03 14:00:00,test,team recrent,perfecto club,0,0,1,0,1,0,0,0
+10095854,2026-08-03 16:45:00,test,perfecto club,team morphilina,0,0,1,0,1,0,0,0
+10095855,2026-08-03 19:30:00,test,team buster,team mokrivskiy,0,0,1,0,1,0,0,0
+10095856,2026-08-03 22:15:00,test,dmitry_lixxx club,team worldedit,0,0,1,0,1,0,0,0
+10095963,2026-08-04 08:00:00,test,team kz,mirage team,1,0,1,0,1,0,0,0
+10095964,2026-08-04 11:05:00,test,liga pro team,klan pedrajas,1,0,1,0,1,0,0,0
+10095957,2026-08-04 14:00:00,test,team pch3lk1n,snailkick team,0,0,1,0,1,0,0,0
+10095965,2026-08-04 14:10:00,test,novaq,eternal fire,1,0,1,0,1,0,0,0
+10095958,2026-08-04 16:45:00,test,team pch3lk1n,team worldedit,0,0,1,0,1,0,0,0
+10095966,2026-08-04 17:15:00,test,minsk house,team hybrids,1,0,1,0,1,0,0,0
+10095956,2026-08-04 19:30:00,test,team buster,team recrent,1,0,1,0,1,0,0,0
+10095959,2026-08-04 20:30:00,test,team shoke,team worldedit,0,0,1,0,1,0,0,0
+10095967,2026-08-05 08:00:00,test,team kz,liga pro team,1,0,1,0,1,0,0,0
+10095968,2026-08-05 11:05:00,test,mirage team,klan pedrajas,0,0,1,0,1,0,0,0
+10095987,2026-08-05 14:00:00,test,dmitry_lixxx club,team pch3lk1n,1,0,1,0,1,0,0,0
+10095969,2026-08-05 14:10:00,test,novaq,minsk house,0,0,1,0,1,0,0,0
+10095970,2026-08-05 16:15:00,test,eternal fire,team hybrids,1,0,1,0,1,0,0,0
+10095988,2026-08-05 16:45:00,test,dmitry_lixxx club,team shoke,0,0,1,0,1,0,0,0
+10095989,2026-08-05 18:45:00,test,team pch3lk1n,team shoke,0,0,1,0,1,0,0,0
+10095985,2026-08-05 19:50:00,test,team recrent,team mokrivskiy,0,0,1,0,1,0,0,0
+10095986,2026-08-05 22:50:00,test,team recrent,team morphilina,1,0,1,0,1,0,0,0
+10095977,2026-08-06 08:00:00,test,klan pedrajas,team kz,0,0,1,0,1,0,0,0
+10095978,2026-08-06 11:05:00,test,liga pro team,mirage team,1,0,1,0,1,0,0,0
+10095990,2026-08-06 14:00:00,test,snailkick team,team worldedit,1,0,1,0,1,0,0,0
+10095979,2026-08-06 14:10:00,test,team hybrids,novaq,0,0,1,0,1,0,0,0
+10095980,2026-08-06 15:20:00,test,minsk house,eternal fire,1,0,1,0,1,0,0,0
+10095991,2026-08-06 16:45:00,test,team buster,perfecto club,1,0,1,0,1,0,0,0
+7304155,2026-08-07 12:45:00,test,9ine,abt esports,1,1,0,0,1,0,0,0
+7304156,2026-08-07 12:45:00,test,heroic,rem,1,1,0,0,1,0,0,0
+7304157,2026-08-07 12:45:00,test,basement boys,bcgame,0,1,0,0,1,0,0,0
+7304160,2026-08-07 12:45:00,test,infinite gaming,aogiri,1,1,0,0,1,0,0,0
+7304161,2026-08-07 12:45:00,test,esport academy cph,saw,0,1,0,0,1,0,0,0
+7304162,2026-08-07 12:45:00,test,dendele cs,queenconso,1,1,0,0,1,0,0,0
+7304163,2026-08-07 12:45:00,test,genone,lafox,1,1,0,0,1,0,0,0
+7304164,2026-08-07 12:45:00,test,hotu,galactik rebels 501st,1,1,0,0,1,0,0,0
+7304165,2026-08-07 12:45:00,test,fluxo,dusty,1,1,0,0,1,0,0,0
+7304166,2026-08-07 12:45:00,test,big,z to forward,1,1,0,0,1,0,0,0
+7304167,2026-08-07 12:45:00,test,astral esports,team_kreazion,1,1,0,0,1,0,0,0
+7304168,2026-08-07 12:45:00,test,inner circle,nio esports,1,1,0,0,1,0,0,0
+10096013,2026-08-07 12:45:00,test,apogee esports,giant pandas,1,1,0,0,1,0,0,0
+10096017,2026-08-07 12:45:00,test,1w team,citron esport,1,1,0,0,1,0,0,0
+10096027,2026-08-07 12:45:00,test,iberian soul,6666 esports,0,1,0,0,1,0,0,0
+10096028,2026-08-07 12:45:00,test,fnatic,fkomar_fpl-c,1,1,0,0,1,0,0,0
+10096101,2026-08-07 13:30:00,test,dmitry_lixxx club,snailkick team,1,0,1,0,1,0,0,0
+10095981,2026-08-07 14:00:00,test,team kz,novaq,1,0,1,0,1,0,0,0
+7304248,2026-08-07 15:00:00,test,giant pandas,aogiri,1,1,0,0,1,0,0,0
+10095994,2026-08-07 15:00:00,test,inner circle,astral esports,1,1,0,0,1,0,0,0
+10095995,2026-08-07 15:00:00,test,nio esports,team_kreazion,0,1,0,0,1,0,0,0
+10095999,2026-08-07 15:00:00,test,big,fluxo,1,1,0,0,1,0,0,0
+10096000,2026-08-07 15:00:00,test,z to forward,dusty,0,1,0,0,1,0,0,0
+10096009,2026-08-07 15:00:00,test,hotu,genone,1,1,0,0,1,0,0,0
+10096010,2026-08-07 15:00:00,test,galactik rebels 501st,lafox,1,1,0,0,1,0,0,0
+10096014,2026-08-07 15:00:00,test,apogee esports,infinite gaming,1,1,0,0,1,0,0,0
+10096004,2026-08-07 15:30:00,test,dendele cs,saw,1,1,0,0,1,0,0,0
+10096005,2026-08-07 15:30:00,test,queenconso,esport academy cph,0,1,0,0,1,0,0,0
+7304253,2026-08-07 15:50:00,test,1w team,bcgame,0,1,0,0,1,0,0,0
+7304252,2026-08-07 16:00:00,test,citron esport,basement boys,0,1,0,0,1,0,0,0
+7304254,2026-08-07 16:00:00,test,rem,abt esports,0,1,0,0,1,0,0,0
+7304255,2026-08-07 16:00:00,test,heroic,9ine,1,1,0,0,1,0,0,0
+7304257,2026-08-07 16:15:00,test,fnatic,6666 esports,1,1,0,0,1,0,0,0
+10096030,2026-08-07 16:15:00,test,fkomar_fpl-c,iberian soul,0,1,0,0,1,0,0,0
+10095845,2026-08-07 17:00:00,test,team mokrivskiy,team worldedit,1,0,1,0,1,0,0,0
+10095982,2026-08-07 17:05:00,test,minsk house,liga pro team,0,0,1,0,1,0,0,0
+7304137,2026-08-07 19:00:00,test,jijiehao,zeste esport,1,1,0,0,1,0,0,0
+7304138,2026-08-07 19:00:00,test,virtus.pro,sangal esports,1,1,0,0,1,0,0,0
+7304143,2026-08-07 19:00:00,test,sashi esport,orion wanderers,1,1,0,0,1,0,0,0
+7304144,2026-08-07 19:00:00,test,fokus,partizan esports,1,1,0,0,1,0,0,0
+7304145,2026-08-07 19:00:00,test,metizport,prestige esport,1,1,0,0,1,0,0,0
+7304146,2026-08-07 19:00:00,test,team liquid,dhala esport,1,1,0,0,1,0,0,0
+7304147,2026-08-07 19:00:00,test,eternal fire,nade gaming,0,1,0,0,1,0,0,0
+7304150,2026-08-07 19:00:00,test,eyeballers,revenix,1,1,0,0,1,0,0,0
+7304152,2026-08-07 19:00:00,test,echo,passion chicha,1,1,0,0,1,0,0,0
+10096033,2026-08-07 19:00:00,test,og,vael,1,1,0,0,1,0,0,0
+10096038,2026-08-07 19:00:00,test,phantom esports,levelone esports,1,1,0,0,1,0,0,0
+10096042,2026-08-07 19:00:00,test,100 thieves,sadfamous,1,1,0,0,1,0,0,0
+10096062,2026-08-07 19:00:00,test,k27,dark tigre,1,1,0,0,1,0,0,0
+10096063,2026-08-07 19:00:00,test,sinners esports,manganese,1,1,0,0,1,0,0,0
+10096057,2026-08-07 19:30:00,test,acend,vandulken,1,1,0,0,1,0,0,0
+10096058,2026-08-07 19:30:00,test,nrg esports,spirit esports,1,1,0,0,1,0,0,0
+10095846,2026-08-07 20:00:00,test,team shoke,team buster,0,0,1,0,1,0,0,0
+10095850,2026-08-07 20:00:00,test,team worldedit,dmitry_lixxx club,0,0,1,0,1,0,0,0
+7304275,2026-08-08 12:00:00,test,dark tigre,manganese,1,1,0,0,1,0,0,0
+7304278,2026-08-08 12:00:00,test,nrg esports,acend,1,1,0,0,1,0,0,0
+7304279,2026-08-08 12:00:00,test,revenix,levelone esports,0,1,0,0,1,0,0,0
+7304280,2026-08-08 12:00:00,test,eyeballers,phantom esports,1,1,0,0,1,0,0,0
+7304281,2026-08-08 12:00:00,test,vael,passion chicha,1,1,0,0,1,0,0,0
+7304282,2026-08-08 12:00:00,test,og,echo,0,1,0,0,1,0,0,0
+7304283,2026-08-08 12:00:00,test,sangal esports,zeste esport,1,1,0,0,1,0,0,0
+7304284,2026-08-08 12:00:00,test,virtus.pro,jijiehao,1,1,0,0,1,0,0,0
+7304285,2026-08-08 12:00:00,test,prestige esport,dhala esport,1,1,0,0,1,0,0,0
+7304286,2026-08-08 12:00:00,test,team liquid,metizport,1,1,0,0,1,0,0,0
+7304287,2026-08-08 12:00:00,test,orion wanderers,partizan esports,0,1,0,0,1,0,0,0
+7304288,2026-08-08 12:00:00,test,sashi esport,fokus,0,1,0,0,1,0,0,0
+7304292,2026-08-08 12:00:00,test,100 thieves,nade gaming,1,1,0,0,1,0,0,0
+10096045,2026-08-08 12:00:00,test,sadfamous,eternal fire,0,1,0,0,1,0,0,0
+10096060,2026-08-08 12:00:00,test,vandulken,spirit esports,0,1,0,0,1,0,0,0
+10096065,2026-08-08 12:00:00,test,k27,sinners esports,1,1,0,0,1,0,0,0
+10095849,2026-08-08 14:00:00,test,team shoke,perfecto club,0,0,1,0,1,0,0,0
+10095984,2026-08-08 14:00:00,test,novaq,minsk house,0,0,1,0,1,0,0,0
+10096066,2026-08-08 14:00:00,test,sinners esports,dark tigre,1,1,0,0,1,0,0,0
+7304301,2026-08-08 14:20:00,test,sangal esports,jijiehao,0,1,0,0,1,0,0,0
+10096046,2026-08-08 14:20:00,test,eternal fire,nade gaming,1,1,0,0,1,0,0,0
+10096051,2026-08-08 14:25:00,test,metizport,prestige esport,0,1,0,0,1,0,0,0
+10096056,2026-08-08 14:30:00,test,sashi esport,partizan esports,1,1,0,0,1,0,0,0
+7304304,2026-08-08 15:15:00,test,spirit esports,acend,0,1,0,0,1,0,0,0
+7304307,2026-08-08 15:45:00,test,levelone esports,phantom esports,0,1,0,0,1,0,0,0
+10096036,2026-08-08 15:45:00,test,vael,og,0,1,0,0,1,0,0,0
+10095847,2026-08-08 16:30:00,test,team mokrivskiy,team buster,0,0,1,0,1,0,0,0
+10095983,2026-08-08 17:05:00,test,team kz,liga pro team,1,0,1,0,1,0,0,0
+7304260,2026-08-08 17:30:00,test,genone,galactik rebels 501st,1,1,0,0,1,0,0,0
+7304261,2026-08-08 17:30:00,test,dusty,fluxo,0,1,0,0,1,0,0,0
+7304268,2026-08-08 17:30:00,test,saw,esport academy cph,1,1,0,0,1,0,0,0
+10095996,2026-08-08 17:30:00,test,astral esports,team_kreazion,1,1,0,0,1,0,0,0
+10096016,2026-08-08 17:30:00,test,giant pandas,infinite gaming,0,1,0,0,1,0,0,0
+10096021,2026-08-08 17:30:00,test,basement boys,1w team,0,1,0,0,1,0,0,0
+10096026,2026-08-08 17:30:00,test,abt esports,9ine,0,1,0,0,1,0,0,0
+10096031,2026-08-08 17:30:00,test,iberian soul,6666 esports,1,1,0,0,1,0,0,0
+10095851,2026-08-08 20:00:00,test,perfecto club,dmitry_lixxx club,1,0,1,0,1,0,0,0
+7304313,2026-08-09 12:00:00,test,heroic,astral esports,1,1,0,0,1,0,0,0
+7304315,2026-08-09 12:00:00,test,k27,saw,1,1,0,0,1,0,0,0
+7304319,2026-08-09 12:00:00,test,infinite gaming,100 thieves,0,1,0,0,1,0,0,0
+7304320,2026-08-09 12:00:00,test,bcgame,og,1,1,0,0,1,0,0,0
+7304321,2026-08-09 12:00:00,test,1w team,team liquid,1,1,0,0,1,0,0,0
+7304322,2026-08-09 12:00:00,test,fokus,acend,0,1,0,0,1,0,0,0
+7304323,2026-08-09 12:00:00,test,9ine,hotu,0,1,0,0,1,0,0,0
+7304324,2026-08-09 12:00:00,test,inner circle,iberian soul,1,1,0,0,1,0,0,0
+7304325,2026-08-09 12:00:00,test,jijiehao,dendele cs,1,1,0,0,1,0,0,0
+7304326,2026-08-09 12:00:00,test,nrg esports,phantom esports,0,1,0,0,1,0,0,0
+7304328,2026-08-09 12:00:00,test,echo,genone,0,1,0,0,1,0,0,0
+7304329,2026-08-09 12:00:00,test,prestige esport,apogee esports,0,1,0,0,1,0,0,0
+7304330,2026-08-09 12:00:00,test,virtus.pro,sashi esport,0,1,0,0,1,0,0,0
+7304331,2026-08-09 12:00:00,test,fluxo,fnatic,0,1,0,0,1,0,0,0
+10096073,2026-08-09 12:00:00,test,sinners esports,eyeballers,0,1,0,0,1,0,0,0
+10096079,2026-08-09 12:00:00,test,eternal fire,big,0,1,0,0,1,0,0,0
+7304349,2026-08-09 14:45:00,test,bcgame,100 thieves,0,1,0,0,1,0,0,0
+7304350,2026-08-09 15:00:00,test,heroic,fnatic,0,1,0,0,1,0,0,0
+7304353,2026-08-09 15:30:00,test,inner circle,hotu,0,1,0,0,1,0,0,0
+7304354,2026-08-09 15:30:00,test,sashi esport,apogee esports,1,1,0,0,1,0,0,0
+7304356,2026-08-09 15:45:00,test,genone,big,0,1,0,0,1,0,0,0
+7304355,2026-08-09 16:00:00,test,acend,1w team,0,1,0,0,1,0,0,0
+7304358,2026-08-09 16:00:00,test,k27,eyeballers,1,1,0,0,1,0,0,0
+10096091,2026-08-09 16:00:00,test,phantom esports,jijiehao,0,1,0,0,1,0,0,0
+10095852,2026-08-09 17:00:00,test,team mokrivskiy,perfecto club,1,0,1,0,1,0,0,0
+7304360,2026-08-09 18:00:00,test,sashi esport,big,0,1,0,0,1,0,0,0
+7304361,2026-08-09 18:30:00,test,k27,fnatic,1,1,0,0,1,0,0,0
+10096098,2026-08-09 18:45:00,test,jijiehao,hotu,1,1,0,0,1,0,0,0
+10096099,2026-08-09 18:50:00,test,1w team,100 thieves,0,1,0,0,1,0,0,0
+10095848,2026-08-09 20:00:00,test,team buster,team mokrivskiy,1,0,1,0,1,0,0,0
+7304369,2026-08-12 12:00:00,test,big,aurora gaming,1,1,0,0,1,0,0,0
+7304371,2026-08-12 12:00:00,test,luminosity gaming,gamerlegion,0,1,0,0,1,0,0,0
+7304378,2026-08-12 13:20:00,test,fut esports,tyloo,1,1,0,0,1,0,0,0
+7304372,2026-08-12 13:35:00,test,team spirit,jijiehao,0,1,0,0,1,0,0,0
+7304370,2026-08-12 15:00:00,test,g2 esports,m80,1,1,0,0,1,0,0,0
+7304375,2026-08-12 15:00:00,test,magic,the mongolz,0,1,0,0,1,0,0,0
+7304365,2026-08-12 16:20:00,test,ninjas in pyjamas,legacy,0,1,0,0,1,0,0,0
+7304368,2026-08-12 16:30:00,test,team falcons,k27,1,1,0,0,1,0,0,0
+7304379,2026-08-12 17:45:00,test,parivision,b8 esports,0,1,0,0,1,0,0,0
+7304366,2026-08-12 18:10:00,test,betboom team,faze clan,0,1,0,0,1,0,0,0
+7304367,2026-08-12 19:25:00,test,mibr,astralis,0,1,0,0,1,0,0,0
+7304376,2026-08-12 19:45:00,test,natus vincere,team 3dmax,1,1,0,0,1,0,0,0
+10096147,2026-08-12 21:00:00,test,wildcard gaming,furia esports,0,1,0,0,1,0,0,0
+7304380,2026-08-12 21:20:00,test,team vitality,100 thieves,1,1,0,0,1,0,0,0
+7304377,2026-08-12 22:30:00,test,lynn vision gaming,mouz,0,1,0,0,1,0,0,0
+7304374,2026-08-12 22:50:00,test,9z team,pain gaming,1,1,0,0,1,0,0,0
+10096488,2026-08-13 13:30:00,test,phantom esports academy,ic prospect,0,0,0,1,1,0,0,0
+7304464,2026-08-13 14:00:00,test,team spirit,luminosity gaming,1,1,0,0,1,0,0,0
+7304465,2026-08-13 14:00:00,test,jijiehao,gamerlegion,0,1,0,0,1,0,0,0
+10096487,2026-08-13 14:00:00,test,wopa esport,bushido wildcats,1,0,0,1,1,0,0,0
+7304469,2026-08-13 16:20:00,test,g2 esports,big,1,1,0,0,1,0,0,0
+7304468,2026-08-13 16:55:00,test,m80,aurora gaming,0,1,0,0,1,0,0,0
+7304473,2026-08-13 19:50:00,test,faze clan,legacy,1,1,0,0,1,0,0,0
+7304475,2026-08-13 19:50:00,test,team falcons,astralis,1,1,0,0,1,0,0,0
+10096489,2026-08-14 11:00:00,test,inox division,vp.prodigy,1,0,0,1,1,0,0,0
+10096490,2026-08-14 13:30:00,test,vitality academy,faze up next,1,0,0,1,1,0,0,0
+7304472,2026-08-14 14:00:00,test,betboom team,ninjas in pyjamas,0,1,0,0,1,0,0,0
+7304482,2026-08-14 14:00:00,test,tyloo,lynn vision gaming,0,1,0,0,1,0,0,0
+7304479,2026-08-14 16:30:00,test,team vitality,b8 esports,0,1,0,0,1,0,0,0
+7304483,2026-08-14 16:30:00,test,fut esports,mouz,1,1,0,0,1,0,0,0
+7304474,2026-08-14 20:05:00,test,k27,mibr,0,1,0,0,1,0,0,0
+7304478,2026-08-14 20:05:00,test,100 thieves,parivision,0,1,0,0,1,0,0,0
+10096491,2026-08-15 11:00:00,test,bushido wildcats,phantom esports academy,0,0,0,1,1,0,0,0
+10096492,2026-08-15 13:30:00,test,vp.prodigy,faze up next,1,0,0,1,1,0,0,0
+7304477,2026-08-15 14:00:00,test,natus vincere,the mongolz,1,1,0,0,1,0,0,0
+7304480,2026-08-15 14:00:00,test,pain gaming,wildcard gaming,1,1,0,0,1,0,0,0
+7304481,2026-08-15 17:10:00,test,9z team,furia esports,0,1,0,0,1,0,0,0
+7304476,2026-08-15 17:15:00,test,team 3dmax,magic,0,1,0,0,1,0,0,0
+7304527,2026-08-15 19:50:00,test,jijiehao,aurora gaming,0,1,0,0,1,0,0,0
+7304528,2026-08-15 21:10:00,test,big,team spirit,0,1,0,0,1,0,0,0
+10096496,2026-08-16 11:00:00,test,wopa esport,ic prospect,0,0,0,1,1,0,0,0
+10096497,2026-08-16 13:45:00,test,inox division,vitality academy,1,0,0,1,1,0,0,0
+7304568,2026-08-16 14:00:00,test,team vitality,lynn vision gaming,1,1,0,0,1,0,0,0
+7304601,2026-08-16 14:00:00,test,the mongolz,pain gaming,1,1,0,0,1,0,0,0
+7304574,2026-08-16 16:15:00,test,mouz,parivision,1,1,0,0,1,0,0,0
+7304609,2026-08-16 16:25:00,test,9z team,magic,0,1,0,0,1,0,0,0
+7304555,2026-08-16 19:00:00,test,astralis,ninjas in pyjamas,1,1,0,0,1,0,0,0
+7304572,2026-08-16 20:45:00,test,legacy,mibr,1,1,0,0,1,0,0,0
+10096493,2026-08-17 11:00:00,test,vitality academy,phantom esports academy,1,0,0,1,1,0,0,0
+10096494,2026-08-17 13:30:00,test,wopa esport,vp.prodigy,1,0,0,1,1,0,0,0
+10096495,2026-08-18 11:00:00,test,vitality academy,wopa esport,1,0,0,1,1,0,0,0
+10096498,2026-08-18 14:10:00,test,ic prospect,inox division,0,0,0,1,1,0,0,0
+10096523,2026-08-19 11:00:00,test,ic prospect,vitality academy,0,0,0,1,1,0,0,0
+7304646,2026-08-19 17:00:00,test,fut esports,magic,1,1,0,0,1,0,0,0
+7304648,2026-08-19 17:00:00,test,g2 esports,astralis,1,1,0,0,1,0,0,0
+7304647,2026-08-19 20:40:00,test,furia esports,aurora gaming,1,1,0,0,1,0,0,0
+7304645,2026-08-19 20:55:00,test,gamerlegion,mouz,0,1,0,0,1,0,0,0
+10096524,2026-08-20 11:00:00,test,inox division,vitality academy,1,0,0,1,1,0,0,0
+7304643,2026-08-20 14:00:00,test,team falcons,the mongolz,1,1,0,0,1,0,0,0
+7304644,2026-08-20 14:00:00,test,natus vincere,legacy,0,1,0,0,1,0,0,0
+7304641,2026-08-20 16:30:00,test,b8 esports,team spirit,0,1,0,0,1,0,0,0
+7304642,2026-08-20 16:40:00,test,faze clan,team vitality,0,1,0,0,1,0,0,0
+7304806,2026-08-20 19:10:00,test,g2 esports,furia esports,0,1,0,0,1,0,0,0
+7304809,2026-08-21 14:00:00,test,fut esports,mouz,1,1,0,0,1,0,0,0
+7304839,2026-08-21 16:50:00,test,legacy,team falcons,1,1,0,0,1,0,0,0
+7304840,2026-08-21 19:30:00,test,team vitality,team spirit,0,1,0,0,1,0,0,0
+7304878,2026-08-22 17:00:00,test,furia esports,fut esports,0,1,0,0,1,0,0,0
+7304890,2026-08-22 20:50:00,test,legacy,team spirit,0,1,0,0,1,0,0,0
+7304922,2026-08-23 11:00:00,test,furia esports,legacy,0,1,0,0,1,0,0,0
+7304921,2026-08-23 15:00:00,test,fut esports,team spirit,0,1,0,0,1,0,0,0
+10096836,2026-08-23 22:05:00,test,1w team,eternal fire,0,1,0,0,1,0,0,0
+10096835,2026-08-23 22:35:00,test,nemiga gaming,bcgame,1,1,0,0,1,0,0,0
+7304956,2026-08-24 19:00:00,test,baks esports,color,0,1,0,0,1,0,0,0
+7304961,2026-08-24 19:00:00,test,100 thieves,inox division,1,1,0,0,1,0,0,0
+10096828,2026-08-24 19:00:00,test,eternal fire,ex-ruby,1,1,0,0,1,0,0,0
+10096830,2026-08-24 19:00:00,test,team quazar,nemiga gaming,0,1,0,0,1,0,0,0
+10096831,2026-08-24 19:00:00,test,echo,cybershoke esports,0,1,0,0,1,0,0,0
+10096832,2026-08-24 19:00:00,test,nuclear tigeres,team spirit academy,1,1,0,0,1,0,0,0
+10096834,2026-08-24 19:00:00,test,insiders esport,ea copenhagen,0,1,0,0,1,0,0,0
+10096829,2026-08-24 19:30:00,test,acend,phantom esports,1,1,0,0,1,0,0,0
+10096837,2026-08-24 20:15:00,test,100 thieves,eternal fire,0,1,0,0,1,0,0,0
+10096839,2026-08-24 20:15:00,test,cybershoke esports,nuclear tigeres,0,1,0,0,1,0,0,0
+10096840,2026-08-24 20:15:00,test,color,ea copenhagen,1,1,0,0,1,0,0,0
+10096838,2026-08-24 21:00:00,test,acend,nemiga gaming,0,1,0,0,1,0,0,0
+7304693,2026-08-26 12:00:00,test,g2 esports,aurora gaming,1,1,0,0,1,0,0,0
+7304692,2026-08-26 14:55:00,test,team spirit,dendele cs,1,1,0,0,1,0,0,0
+10096847,2026-08-26 16:30:00,test,nexora,team tricksters,1,0,0,1,1,0,0,0
+7304691,2026-08-26 17:20:00,test,m80,natus vincere,1,1,0,0,1,0,0,0
+10096845,2026-08-26 18:00:00,test,csgopositive,x-city,0,0,0,1,1,0,0,0
+7304690,2026-08-26 21:00:00,test,furia esports,pain gaming,1,1,0,0,1,0,0,0
+10096846,2026-08-26 21:00:00,test,young tigeres,goldrashers,1,0,0,1,1,0,0,0
+10096848,2026-08-26 22:30:00,test,selekcja,sparx,0,0,0,1,1,0,0,0
+7304689,2026-08-27 12:00:00,test,inner circle,team vitality,1,1,0,0,1,0,0,0
+7304688,2026-08-27 14:30:00,test,mouz,9z team,1,1,0,0,1,0,0,0
+7304687,2026-08-27 17:30:00,test,fut esports,legacy,0,1,0,0,1,0,0,0
+10096925,2026-08-27 17:30:00,test,selekcja,team tricksters,0,0,0,1,1,0,0,0
+10096924,2026-08-27 18:50:00,test,goldrashers,csgopositive,0,0,0,1,1,0,0,0
+7304686,2026-08-27 20:10:00,test,team falcons,lynn vision gaming,1,1,0,0,1,0,0,0
+10096864,2026-08-27 21:00:00,test,young tigeres,x-city,1,0,0,1,1,0,0,0
+10096866,2026-08-27 23:00:00,test,nexora,sparx,0,0,0,1,1,0,0,0
+7305118,2026-08-28 12:00:00,test,dendele cs,aurora gaming,0,1,0,0,1,0,0,0
+7305119,2026-08-28 14:30:00,test,team spirit,g2 esports,1,1,0,0,1,0,0,0
+10096921,2026-08-28 16:00:00,test,team tricksters,nexora,1,0,0,1,1,0,0,0
+7305133,2026-08-28 17:30:00,test,pain gaming,natus vincere,0,1,0,0,1,0,0,0
+10096920,2026-08-28 19:45:00,test,csgopositive,x-city,1,0,0,1,1,0,0,0
+7305134,2026-08-28 20:10:00,test,furia esports,m80,1,1,0,0,1,0,0,0
+7305226,2026-08-29 12:00:00,test,9z team,team vitality,0,1,0,0,1,0,0,0
+7305227,2026-08-29 14:30:00,test,mouz,inner circle,1,1,0,0,1,0,0,0
+7305237,2026-08-29 16:30:00,test,lynn vision gaming,fut esports,0,1,0,0,1,0,0,0
+10095898,2026-08-29 19:00:00,test,x-city,sparx,1,0,0,1,1,0,0,0
+7305238,2026-08-29 19:45:00,test,team falcons,legacy,1,1,0,0,1,0,0,0
+10095897,2026-08-29 21:30:00,test,young tigeres,team tricksters,1,0,0,1,1,0,0,0
+7305270,2026-08-30 12:00:00,test,g2 esports,natus vincere,1,1,0,0,1,0,0,0
+7305283,2026-08-30 15:20:00,test,m80,aurora gaming,0,1,0,0,1,0,0,0
+10095899,2026-08-30 16:00:00,test,team tricksters,sparx,0,0,0,1,1,0,0,0
+7305356,2026-08-30 17:40:00,test,inner circle,fut esports,0,1,0,0,1,0,0,0
+10095900,2026-08-30 20:00:00,test,young tigeres,x-city,1,0,0,1,1,0,0,0
+7305368,2026-08-30 20:10:00,test,legacy,team vitality,0,1,0,0,1,0,0,0
+10097259,2026-08-31 08:00:00,test,the huns esports,staqued,1,1,0,0,1,0,0,0
+10097261,2026-08-31 10:30:00,test,nexvoid,just swing,1,1,0,0,1,0,0,0
+7305284,2026-08-31 12:00:00,test,team spirit,furia esports,1,1,0,0,1,0,0,0
+7305494,2026-08-31 14:15:00,test,kaleido gaming,rare atom,0,1,0,0,1,0,0,0
+7305431,2026-08-31 14:30:00,test,aurora gaming,g2 esports,0,1,0,0,1,0,0,0
+7305492,2026-08-31 16:45:00,test,chinggis warriors,5star esports,0,1,0,0,1,0,0,0
+7305369,2026-08-31 18:35:00,test,team falcons,mouz,0,1,0,0,1,0,0,0
+10097264,2026-08-31 20:00:00,test,virtus.pro,atreides,1,0,0,1,1,0,0,0
+10097265,2026-08-31 20:00:00,test,baks esports,whitebit team,0,0,0,1,1,0,0,0
+10097266,2026-08-31 20:00:00,test,fortress esport,inner circle academy,0,0,0,1,1,0,0,0
+10097267,2026-08-31 20:00:00,test,entropy gaming,azuolas,1,0,0,1,1,0,0,0
+10096539,2026-08-31 21:35:00,test,fut esports,team vitality,0,1,0,0,1,0,0,0
+10097338,2026-09-01 08:00:00,test,staqued,kaleido gaming,0,1,0,0,1,0,0,0
+10097263,2026-09-01 10:00:00,test,the huns esports,rare atom,0,1,0,0,1,0,0,0
+10097337,2026-09-01 10:00:00,test,nexvoid,5star esports,0,1,0,0,1,0,0,0
+7305529,2026-09-01 16:00:00,test,inner circle academy,entropy gaming,0,0,0,1,1,0,0,0
+7305530,2026-09-01 16:00:00,test,virtus.pro,whitebit team,1,0,0,1,1,0,0,0
+10097339,2026-09-01 16:45:00,test,just swing,chinggis warriors,0,1,0,0,1,0,0,0
+7305574,2026-09-01 20:30:00,test,virtus.pro,entropy gaming,0,0,0,1,1,0,0,0
+10097471,2026-09-01 20:30:00,test,whitebit team,inner circle academy,0,0,0,1,1,0,0,0
+10097478,2026-09-02 06:00:00,test,nexvoid,kaleido gaming,1,1,0,0,1,0,0,0
+7305213,2026-09-02 12:00:00,test,magic,k27,1,1,0,0,1,0,0,0
+7305214,2026-09-02 12:00:00,test,team 3dmax,heroic,0,1,0,0,1,0,0,0
+7305215,2026-09-02 12:00:00,test,mibr,eternal fire,0,1,0,0,1,0,0,0
+10096871,2026-09-02 12:00:00,test,nuclear tigeres,gamerlegion,1,1,0,0,1,0,0,0
+10097482,2026-09-02 12:20:00,test,rare atom,5star esports,0,1,0,0,1,0,0,0
+7305208,2026-09-02 15:00:00,test,color,b8 esports,0,1,0,0,1,0,0,0
+7305210,2026-09-02 15:00:00,test,hotu,pain gaming,1,1,0,0,1,0,0,0
+7305211,2026-09-02 15:00:00,test,big,nemiga gaming,0,1,0,0,1,0,0,0
+10097479,2026-09-02 15:30:00,test,the huns esports,chinggis warriors,0,1,0,0,1,0,0,0
+7305209,2026-09-02 15:50:00,test,dendele cs,eyeballers,0,1,0,0,1,0,0,0
+7305600,2026-09-02 18:00:00,test,k27,gamerlegion,1,1,0,0,1,0,0,0
+7305601,2026-09-02 19:00:00,test,magic,nuclear tigeres,0,1,0,0,1,0,0,0
+7305604,2026-09-02 19:00:00,test,eternal fire,heroic,1,1,0,0,1,0,0,0
+7305603,2026-09-02 19:15:00,test,mibr,team 3dmax,1,1,0,0,1,0,0,0
+7305612,2026-09-02 21:15:00,test,dendele cs,color,0,1,0,0,1,0,0,0
+7305609,2026-09-02 21:30:00,test,nemiga gaming,hotu,0,1,0,0,1,0,0,0
+7305613,2026-09-02 21:30:00,test,eyeballers,b8 esports,0,1,0,0,1,0,0,0
+7305608,2026-09-02 22:00:00,test,big,pain gaming,1,1,0,0,1,0,0,0
+7305607,2026-09-03 08:00:00,test,nexvoid,chinggis warriors,0,1,0,0,1,0,0,0
+10097481,2026-09-03 12:00:00,test,rare atom,chinggis warriors,0,1,0,0,1,0,0,0
+10097490,2026-09-03 12:00:00,test,iberian soul,nemiga gaming,0,0,1,0,1,0,0,0
+7305628,2026-09-03 15:00:00,test,eyeballers,mibr,0,1,0,0,1,0,0,0
+7305629,2026-09-03 15:00:00,test,nemiga gaming,k27,0,1,0,0,1,0,0,0
+7305631,2026-09-03 15:00:00,test,heroic,color,1,1,0,0,1,0,0,0
+7305634,2026-09-03 15:00:00,test,magic,big,1,1,0,0,1,0,0,0
+7305541,2026-09-03 15:30:00,test,sinners esports,fokus,0,0,1,0,1,0,0,0
+7305649,2026-09-03 15:30:00,test,5star esports,chinggis warriors,1,1,0,0,1,0,0,0
+7305546,2026-09-03 17:45:00,test,ninjas in pyjamas,sangal esports,1,0,1,0,1,0,0,0
+7305620,2026-09-03 18:00:00,test,eternal fire,nuclear tigeres,0,1,0,0,1,0,0,0
+7305630,2026-09-03 18:00:00,test,hotu,b8 esports,0,1,0,0,1,0,0,0
+7305660,2026-09-03 18:05:00,test,magic,heroic,0,1,0,0,1,0,0,0
+7305661,2026-09-03 18:05:00,test,mibr,k27,0,1,0,0,1,0,0,0
+10096894,2026-09-03 20:15:00,test,hotu,heroic,0,1,0,0,1,0,0,0
+7305543,2026-09-03 21:00:00,test,fnatic,virtus.pro,1,0,1,0,1,0,0,0
+7305665,2026-09-03 21:00:00,test,eternal fire,k27,1,1,0,0,1,0,0,0
+7305545,2026-09-04 12:00:00,test,nuclear tigeres,infinite gaming,1,0,1,0,1,0,0,0
+7305542,2026-09-04 14:30:00,test,hotu,eternal fire,1,0,1,0,1,0,0,0
+10097486,2026-09-04 16:30:00,test,bbl esports,walczaki,1,0,1,0,1,0,0,0
+7305534,2026-09-04 17:00:00,test,team falcons,g2 esports,1,1,0,0,1,0,0,0
+7305666,2026-09-04 18:00:00,test,nuclear tigeres,b8 esports,0,1,0,0,1,0,0,0
+10096895,2026-09-04 18:00:00,test,eternal fire,heroic,0,1,0,0,1,0,0,0
+10097517,2026-09-04 18:00:00,test,nice try,bet-m 33,0,1,0,0,1,0,0,0
+7305719,2026-09-04 18:20:00,test,fokus,bcgame,1,1,0,0,1,0,0,0
+10097519,2026-09-04 18:25:00,test,1w team,brute,1,1,0,0,1,0,0,0
+10097521,2026-09-04 18:25:00,test,nemiga gaming,astral esports,1,1,0,0,1,0,0,0
+7305533,2026-09-04 19:50:00,test,furia esports,team vitality,0,1,0,0,1,0,0,0
+7305539,2026-09-04 21:00:00,test,astral esports,team nemesis,0,0,1,0,1,0,0,0
+7305727,2026-09-04 21:30:00,test,nuclear tigeres,heroic,0,1,0,0,1,0,0,0
+10097516,2026-09-04 22:15:00,test,fokus,bet-m 33,0,1,0,0,1,0,0,0
+10097520,2026-09-04 22:30:00,test,brute,nemiga gaming,0,1,0,0,1,0,0,0
+7305717,2026-09-05 12:00:00,test,bbl esports,fnatic,0,0,1,0,1,0,0,0
+7305718,2026-09-05 15:10:00,test,hotu,fokus,0,0,1,0,1,0,0,0
+7305724,2026-09-05 17:00:00,test,team spirit,team falcons,1,1,0,0,1,0,0,0
+10097494,2026-09-05 18:00:00,test,ninjas in pyjamas,nuclear tigeres,1,0,1,0,1,0,0,0
+10097524,2026-09-05 19:00:00,test,bcgame,ea copenhagen,0,1,0,0,1,0,0,0
+7305733,2026-09-05 19:45:00,test,mouz,team vitality,1,1,0,0,1,0,0,0
+10097492,2026-09-05 20:30:00,test,nemiga gaming,team nemesis,1,0,1,0,1,0,0,0
+7305768,2026-09-06 12:00:00,test,ninjas in pyjamas,fnatic,0,0,1,0,1,0,0,0
+7305791,2026-09-06 14:40:00,test,fokus,nemiga gaming,0,0,1,0,1,0,0,0
+7305785,2026-09-06 17:00:00,test,team spirit,mouz,1,1,0,0,1,0,0,0
+10097729,2026-09-06 18:20:00,test,k27,nordic partners,1,1,0,0,1,0,0,0
+10097728,2026-09-06 18:25:00,test,astral esports,1w team,0,1,0,0,1,0,0,0
+10097727,2026-09-06 18:30:00,test,heroic,drama esports,1,1,0,0,1,0,0,0
+10097730,2026-09-06 18:50:00,test,bbl esports,sinners esports,0,1,0,0,1,0,0,0
+7305863,2026-09-06 20:30:00,test,heroic,1w team,0,1,0,0,1,0,0,0
+10097732,2026-09-06 21:00:00,test,k27,sinners esports,0,1,0,0,1,0,0,0
+7305417,2026-09-08 06:00:00,test,legacy,magic,1,1,0,0,1,0,0,0
+7305678,2026-09-08 06:00:00,test,5star esports,9z team,0,1,0,0,1,0,0,0
+7305421,2026-09-08 08:30:00,test,the mongolz,mibr,0,1,0,0,1,0,0,0
+7305416,2026-09-08 10:45:00,test,alliance,faze clan,1,1,0,0,1,0,0,0
+7305419,2026-09-08 12:25:00,test,big,betboom team,0,1,0,0,1,0,0,0
+7305415,2026-09-08 13:55:00,test,parivision,tyloo,1,1,0,0,1,0,0,0
+7305414,2026-09-08 15:00:00,test,gamerlegion,furia esports,0,1,0,0,1,0,0,0
+7305420,2026-09-08 16:30:00,test,g2 esports,astralis,0,1,0,0,1,0,0,0
+7305940,2026-09-09 06:00:00,test,5star esports,the mongolz,1,1,0,0,1,0,0,0
+7305942,2026-09-09 06:00:00,test,magic,faze clan,1,1,0,0,1,0,0,0
+7305941,2026-09-09 08:50:00,test,9z team,mibr,0,1,0,0,1,0,0,0
+7305943,2026-09-09 10:35:00,test,legacy,alliance,1,1,0,0,1,0,0,0
+7305948,2026-09-09 11:00:00,test,k27,virtus.pro,1,1,0,0,1,0,0,0
+7305953,2026-09-09 11:00:00,test,hotu,wildcard gaming,1,1,0,0,1,0,0,0
+7305964,2026-09-09 11:10:00,test,g2 esports,big,1,1,0,0,1,0,0,0
+10097748,2026-09-09 11:15:00,test,nuclear tigeres,1w team,0,1,0,0,1,0,0,0
+7305956,2026-09-09 13:15:00,test,tyloo,gamerlegion,1,1,0,0,1,0,0,0
+7305947,2026-09-09 14:00:00,test,heroic,bestia,1,1,0,0,1,0,0,0
+10097749,2026-09-09 14:00:00,test,b8 esports,bet-m 33,1,1,0,0,1,0,0,0
+10097968,2026-09-09 14:00:00,test,team 3dmax,acend,1,1,0,0,1,0,0,0
+7305965,2026-09-09 15:00:00,test,astralis,betboom team,0,1,0,0,1,0,0,0
+7305957,2026-09-09 15:55:00,test,parivision,furia esports,0,1,0,0,1,0,0,0
+7305910,2026-09-09 17:00:00,test,shinden,fluxo,0,1,0,0,1,0,0,0
+7305951,2026-09-09 17:00:00,test,100 thieves,bbl esports,0,1,0,0,1,0,0,0
+7305954,2026-09-09 17:00:00,test,eyeballers,team nemesis,0,1,0,0,1,0,0,0
+10097750,2026-09-09 17:00:00,test,ninjas in pyjamas,sinners esports,0,1,0,0,1,0,0,0
+10097751,2026-09-09 20:00:00,test,inner circle,nemiga gaming,0,1,0,0,1,0,0,0
+10097971,2026-09-09 20:00:00,test,1w team,infinite gaming,1,1,0,0,1,0,0,0
+10097970,2026-09-09 20:15:00,test,ninjas in pyjamas,fokus,0,1,0,0,1,0,0,0
+10097979,2026-09-09 20:15:00,test,turma do pagode,dendele cs,0,1,0,0,1,0,0,0
+7305911,2026-09-09 23:00:00,test,imperial esports,galorys,1,1,0,0,1,0,0,0
+7305898,2026-09-10 02:00:00,test,without a roof,nrg esports,0,1,0,0,1,0,0,0
+7305899,2026-09-10 02:00:00,test,team voca,villainous,1,1,0,0,1,0,0,0
+7305912,2026-09-10 02:00:00,test,pain gaming,back to back,1,1,0,0,1,0,0,0
+7305896,2026-09-10 05:00:00,test,team liquid,antivalue,1,1,0,0,1,0,0,0
+10097991,2026-09-10 05:00:00,test,marsborne,chicken coop esports,1,1,0,0,1,0,0,0
+7305986,2026-09-10 06:00:00,test,9z team,g2 esports,0,1,0,0,1,0,0,0
+7305989,2026-09-10 06:00:00,test,alliance,tyloo,1,1,0,0,1,0,0,0
+7305996,2026-09-10 09:00:00,test,parivision,magic,0,1,0,0,1,0,0,0
+7305994,2026-09-10 10:20:00,test,astralis,5star esports,0,1,0,0,1,0,0,0
+7305990,2026-09-10 11:00:00,test,nuclear tigeres,bet-m 33,1,1,0,0,1,0,0,0
+7305992,2026-09-10 11:00:00,test,heroic,k27,1,1,0,0,1,0,0,0
+7305993,2026-09-10 11:00:00,test,bestia,virtus.pro,0,1,0,0,1,0,0,0
+7305997,2026-09-10 12:15:00,test,legacy,furia esports,1,1,0,0,1,0,0,0
+7305995,2026-09-10 13:30:00,test,mibr,betboom team,0,1,0,0,1,0,0,0
+7305999,2026-09-10 14:00:00,test,hotu,team nemesis,1,1,0,0,1,0,0,0
+7306000,2026-09-10 14:00:00,test,wildcard gaming,eyeballers,1,1,0,0,1,0,0,0
+7306039,2026-09-10 14:15:00,test,ninjas in pyjamas,inner circle,0,1,0,0,1,0,0,0
+7306097,2026-09-10 15:00:00,test,magic,alliance,0,1,0,0,1,0,0,0
+7306108,2026-09-10 16:20:00,test,5star esports,g2 esports,0,1,0,0,1,0,0,0
+10097981,2026-09-10 17:00:00,test,shinden,turma do pagode,1,1,0,0,1,0,0,0
+10098064,2026-09-10 17:00:00,test,team 3dmax,bbl esports,0,1,0,0,1,0,0,0
+7305991,2026-09-10 17:15:00,test,1w team,b8 esports,1,1,0,0,1,0,0,0
+7306005,2026-09-10 17:30:00,test,acend,100 thieves,0,1,0,0,1,0,0,0
+10098065,2026-09-10 20:00:00,test,ninjas in pyjamas,infinite gaming,1,1,0,0,1,0,0,0
+10098066,2026-09-10 20:00:00,test,fokus,1w team,1,1,0,0,1,0,0,0
+7306040,2026-09-10 20:15:00,test,sinners esports,nemiga gaming,0,1,0,0,1,0,0,0
+7306087,2026-09-10 21:00:00,test,back to back,galorys,1,1,0,0,1,0,0,0
+7306042,2026-09-11 00:00:00,test,fluxo,dendele cs,0,1,0,0,1,0,0,0
+7306085,2026-09-11 02:00:00,test,villainous,without a roof,0,1,0,0,1,0,0,0
+7306088,2026-09-11 02:00:00,test,pain gaming,imperial esports,0,1,0,0,1,0,0,0
+7306089,2026-09-11 02:00:00,test,antivalue,chicken coop esports,1,1,0,0,1,0,0,0
+7306086,2026-09-11 05:00:00,test,team voca,nrg esports,0,1,0,0,1,0,0,0
+7306090,2026-09-11 05:00:00,test,team liquid,marsborne,1,1,0,0,1,0,0,0
+7306149,2026-09-11 09:00:00,test,mibr,alliance,1,1,0,0,1,0,0,0
+7306117,2026-09-11 11:00:00,test,virtus.pro,k27,1,1,0,0,1,0,0,0
+7306153,2026-09-11 11:00:00,test,b8 esports,inner circle,1,1,0,0,1,0,0,0
+7306148,2026-09-11 12:00:00,test,furia esports,g2 esports,0,1,0,0,1,0,0,0
+7306139,2026-09-11 14:00:00,test,team nemesis,wildcard gaming,0,1,0,0,1,0,0,0
+7306193,2026-09-11 14:00:00,test,sinners esports,nuclear tigeres,0,1,0,0,1,0,0,0
+7306160,2026-09-11 17:00:00,test,100 thieves,team 3dmax,1,1,0,0,1,0,0,0
+7306194,2026-09-11 17:00:00,test,1w team,nemiga gaming,0,1,0,0,1,0,0,0
+7306225,2026-09-11 17:00:00,test,fluxo,back to back,1,1,0,0,1,0,0,0
+7306181,2026-09-11 20:00:00,test,ninjas in pyjamas,1w team,0,1,0,0,1,0,0,0
+7306341,2026-09-11 20:00:00,test,nuclear tigeres,b8 esports,0,1,0,0,1,0,0,0
+7306253,2026-09-11 20:15:00,test,pain gaming,shinden,0,1,0,0,1,0,0,0
+7306254,2026-09-11 23:00:00,test,imperial esports,dendele cs,0,1,0,0,1,0,0,0
+7306265,2026-09-12 02:00:00,test,team voca,antivalue,1,1,0,0,1,0,0,0
+7306273,2026-09-12 02:00:00,test,marsborne,without a roof,0,1,0,0,1,0,0,0
+10097986,2026-09-12 02:00:00,test,fluxo,imperial esports,1,1,0,0,1,0,0,0
+7306274,2026-09-12 05:00:00,test,team liquid,nrg esports,0,1,0,0,1,0,0,0
+10098000,2026-09-12 05:00:00,test,team voca,without a roof,1,1,0,0,1,0,0,0
+7306296,2026-09-12 09:00:00,test,legacy,mibr,1,1,0,0,1,0,0,0
+7306405,2026-09-12 11:00:00,test,virtus.pro,fokus,1,1,0,0,1,0,0,0
+7306391,2026-09-12 13:00:00,test,1w team,b8 esports,0,1,0,0,1,0,0,0
+7306326,2026-09-12 14:00:00,test,betboom team,g2 esports,0,1,0,0,1,0,0,0
+7306404,2026-09-12 14:35:00,test,bbl esports,wildcard gaming,1,1,0,0,1,0,0,0
+7306535,2026-09-12 16:00:00,test,nemiga gaming,b8 esports,1,1,0,0,1,0,0,0
+7306403,2026-09-12 17:00:00,test,hotu,100 thieves,1,1,0,0,1,0,0,0
+7306450,2026-09-12 19:00:00,test,imperial esports,fluxo,0,1,0,0,1,0,0,0
+7306402,2026-09-12 20:00:00,test,heroic,1w team,1,1,0,0,1,0,0,0
+7306468,2026-09-12 22:00:00,test,team liquid,team voca,1,1,0,0,1,0,0,0
+7306608,2026-09-12 22:00:00,test,dendele cs,fluxo,1,1,0,0,1,0,0,0
+7306663,2026-09-13 01:20:00,test,nrg esports,team liquid,0,1,0,0,1,0,0,0
+7306571,2026-09-13 08:00:00,test,flyquest,depo,0,1,0,0,1,0,0,0
+10098201,2026-09-13 09:00:00,test,inox division,forze reload,0,0,1,0,1,0,0,0
+10098202,2026-09-13 09:00:00,test,ex-ruby,baks esports,0,0,1,0,1,0,0,0
+7306574,2026-09-13 11:00:00,test,bbl esports,hotu,0,1,0,0,1,0,0,0
+7306788,2026-09-13 11:15:00,test,tyloo,depo,1,1,0,0,1,0,0,0
+7306561,2026-09-13 12:10:00,test,g2 esports,legacy,0,1,0,0,1,0,0,0
+7306867,2026-09-13 13:00:00,test,inox division,ex-ruby,1,0,1,0,1,0,0,0
+10098204,2026-09-13 13:00:00,test,forze reload,baks esports,0,0,1,0,1,0,0,0
+7306634,2026-09-13 14:15:00,test,heroic,virtus.pro,0,1,0,0,1,0,0,0
+7306899,2026-09-13 16:45:00,test,forze reload,inox division,1,0,1,0,1,0,0,0
+7306907,2026-09-13 18:00:00,test,virtus.pro,hotu,1,1,0,0,1,0,0,0
+10098217,2026-09-13 18:00:00,test,cybershoke esports,doordom,1,0,1,0,1,0,0,0
+7306501,2026-09-13 19:30:00,test,nuclear tigeres,upgrade team,0,0,1,0,1,0,0,0
+7306958,2026-09-13 23:45:00,test,cybershoke esports,upgrade team,0,0,1,0,1,0,0,0
+10098219,2026-09-13 23:45:00,test,nuclear tigeres,doordom,1,0,1,0,1,0,0,0
+10098220,2026-09-14 01:30:00,test,nuclear tigeres,cybershoke esports,0,0,1,0,1,0,0,0
+7306504,2026-09-14 09:00:00,test,butterfly,hyperspace,1,0,1,0,1,0,0,0
+10098206,2026-09-14 09:00:00,test,team nemesis,bet-m 33,1,0,1,0,1,0,0,0
+7307055,2026-09-14 12:00:00,test,bet-m 33,hyperspace,1,0,1,0,1,0,0,0
+7307056,2026-09-14 12:00:00,test,team nemesis,butterfly,1,0,1,0,1,0,0,0
+10098210,2026-09-14 15:30:00,test,bet-m 33,butterfly,1,0,1,0,1,0,0,0
+7306503,2026-09-14 18:00:00,test,nemiga gaming,black phoenix,1,0,1,0,1,0,0,0
+10098212,2026-09-14 18:45:00,test,ww team,young27,0,0,1,0,1,0,0,0
+7307136,2026-09-14 21:50:00,test,ww team,black phoenix,1,0,1,0,1,0,0,0
+7307137,2026-09-14 21:55:00,test,young27,nemiga gaming,0,0,1,0,1,0,0,0
+7307175,2026-09-15 01:05:00,test,young27,ww team,0,0,1,0,1,0,0,0
+7307202,2026-09-15 13:00:00,test,baks esports,cybershoke esports,0,0,1,0,1,0,0,0
+10098313,2026-09-15 14:00:00,test,des0ut team,perfecto team,1,0,1,0,1,0,0,0
+7307199,2026-09-15 16:00:00,test,ww team,team nemesis,0,0,1,0,1,0,0,0
+10098271,2026-09-15 16:10:00,test,bcgame,x-city,0,0,1,0,1,0,0,0
+10098272,2026-09-15 17:00:00,test,x-city,wopa esport,1,0,1,0,1,0,0,0
+10098273,2026-09-15 17:00:00,test,sinners esports,noir verse,0,0,1,0,1,0,0,0
+10098274,2026-09-15 17:00:00,test,sashi esport,ex-rustec,0,0,1,0,1,0,0,0
+10098314,2026-09-15 17:00:00,test,aunkere team,chopper team,1,0,1,0,1,0,0,0
+10098275,2026-09-15 17:45:00,test,sangal esports,nordic partners,1,0,1,0,1,0,0,0
+10098276,2026-09-15 18:00:00,test,x-city,noir verse,0,0,1,0,1,0,0,0
+10098277,2026-09-15 18:45:00,test,ex-rustec,sangal esports,0,0,1,0,1,0,0,0
+7307200,2026-09-15 19:00:00,test,forze reload,upgrade team,0,0,1,0,1,0,0,0
+10098278,2026-09-15 20:00:00,test,noir verse,sangal esports,0,0,1,0,1,0,0,0
+10098315,2026-09-15 20:00:00,test,des0ut team,aunkere team,0,0,1,0,1,0,0,0
+7307201,2026-09-15 22:00:00,test,nemiga gaming,bet-m 33,1,0,1,0,1,0,0,0
+7307345,2026-09-16 13:00:00,test,cybershoke esports,nemiga gaming,0,0,1,0,1,0,0,0
+7307307,2026-09-16 16:30:00,test,upgrade team,team nemesis,0,0,1,0,1,0,0,0
+10098316,2026-09-16 17:00:00,test,perfecto team,chopper team,1,0,1,0,1,0,0,0
+10098347,2026-09-16 17:20:00,test,sinners esports,phantom esports,0,0,1,0,1,0,0,0
+10098350,2026-09-16 17:20:00,test,sashi esport,9ine,1,0,1,0,1,0,0,0
+10098345,2026-09-16 17:35:00,test,bcgame,brute,1,0,1,0,1,0,0,0
+10098348,2026-09-16 17:50:00,test,dinero,ea copenhagen,1,0,1,0,1,0,0,0
+10098346,2026-09-16 18:30:00,test,bcgame,phantom esports,1,0,1,0,1,0,0,0
+10098349,2026-09-16 19:00:00,test,dinero,sashi esport,0,0,1,0,1,0,0,0
+7307466,2026-09-16 19:25:00,test,nemiga gaming,team nemesis,1,0,1,0,1,0,0,0
+10098351,2026-09-16 19:45:00,test,bcgame,sashi esport,1,0,1,0,1,0,0,0
+10098317,2026-09-16 20:30:00,test,des0ut team,perfecto team,1,0,1,0,1,0,0,0
+7306077,2026-09-17 11:00:00,test,b8 esports,metizport,1,0,1,0,1,0,0,0
+7306075,2026-09-17 12:00:00,test,ninjas in pyjamas,m80,0,0,1,0,1,0,0,0
+7306076,2026-09-17 12:30:00,test,gamerlegion,luminosity gaming,1,0,1,0,1,0,0,0
+7306364,2026-09-17 13:00:00,test,mouz,nrg esports,0,1,0,0,1,0,0,0
+7306073,2026-09-17 13:30:00,test,metizport,luminosity gaming,0,0,1,0,1,0,0,0
+10098084,2026-09-17 13:30:00,test,b8 esports,gamerlegion,1,0,1,0,1,0,0,0
+10098318,2026-09-17 14:00:00,test,team ct0m,m3wsu team,0,0,1,0,1,0,0,0
+7306071,2026-09-17 15:30:00,test,ninjas in pyjamas,b8 esports,0,0,1,0,1,0,0,0
+7306072,2026-09-17 15:30:00,test,m80,gamerlegion,1,0,1,0,1,0,0,0
+7306362,2026-09-17 16:10:00,test,team vitality,magic,1,1,0,0,1,0,0,0
+7306070,2026-09-17 17:00:00,test,metizport,ninjas in pyjamas,0,0,1,0,1,0,0,0
+10098089,2026-09-17 17:00:00,test,luminosity gaming,b8 esports,0,0,1,0,1,0,0,0
+10098319,2026-09-17 17:00:00,test,strogo team,shoke team,1,0,1,0,1,0,0,0
+7306363,2026-09-17 18:00:00,test,natus vincere,aurora gaming,0,1,0,0,1,0,0,0
+10098090,2026-09-17 18:00:00,test,gamerlegion,ninjas in pyjamas,1,0,1,0,1,0,0,0
+10098091,2026-09-17 18:00:00,test,m80,metizport,1,0,1,0,1,0,0,0
+7306065,2026-09-17 19:30:00,test,luminosity gaming,m80,1,0,1,0,1,0,0,0
+10098092,2026-09-17 19:30:00,test,metizport,gamerlegion,1,0,1,0,1,0,0,0
+7306361,2026-09-17 20:10:00,test,furia esports,mibr,1,1,0,0,1,0,0,0
+10098321,2026-09-17 20:30:00,test,team ct0m,shoke team,0,0,1,0,1,0,0,0
+10098094,2026-09-17 20:45:00,test,luminosity gaming,ninjas in pyjamas,1,0,1,0,1,0,0,0
+10098095,2026-09-17 20:45:00,test,b8 esports,m80,1,0,1,0,1,0,0,0
+10098101,2026-09-18 11:50:00,test,inner circle,bbl esports,1,0,1,0,1,0,0,0
+7306060,2026-09-18 12:00:00,test,team liquid,infinite gaming,1,0,1,0,1,0,0,0
+7307672,2026-09-18 13:00:00,test,mouz,natus vincere,1,1,0,0,1,0,0,0
+10098105,2026-09-18 13:25:00,test,bbl esports,infinite gaming,1,0,1,0,1,0,0,0
+10098102,2026-09-18 13:30:00,test,team 3dmax,eyeballers,1,0,1,0,1,0,0,0
+7306059,2026-09-18 14:20:00,test,inner circle,team liquid,1,0,1,0,1,0,0,0
+10098320,2026-09-18 15:30:00,test,m3wsu team,strogo team,1,0,1,0,1,0,0,0
+7306056,2026-09-18 15:50:00,test,eyeballers,team liquid,1,0,1,0,1,0,0,0
+10098106,2026-09-18 15:50:00,test,team 3dmax,inner circle,0,0,1,0,1,0,0,0
+7307696,2026-09-18 16:15:00,test,magic,mibr,0,1,0,0,1,0,0,0
+10098108,2026-09-18 17:00:00,test,infinite gaming,inner circle,0,0,1,0,1,0,0,0
+10098109,2026-09-18 17:00:00,test,bbl esports,team 3dmax,0,0,1,0,1,0,0,0
+10098322,2026-09-18 19:00:00,test,shoke team,strogo team,1,0,1,0,1,0,0,0
+7307671,2026-09-18 19:10:00,test,nrg esports,aurora gaming,0,1,0,0,1,0,0,0
+10098110,2026-09-18 19:15:00,test,team liquid,team 3dmax,1,0,1,0,1,0,0,0
+10098111,2026-09-18 19:15:00,test,eyeballers,bbl esports,0,0,1,0,1,0,0,0
+7306051,2026-09-18 20:15:00,test,infinite gaming,eyeballers,0,0,1,0,1,0,0,0
+10098113,2026-09-18 20:15:00,test,bbl esports,team liquid,1,0,1,0,1,0,0,0
+10098114,2026-09-18 21:15:00,test,inner circle,eyeballers,0,0,1,0,1,0,0,0
+10098115,2026-09-18 21:15:00,test,infinite gaming,team 3dmax,0,0,1,0,1,0,0,0
+7307695,2026-09-18 21:40:00,test,team vitality,furia esports,1,1,0,0,1,0,0,0
+7307856,2026-09-19 13:00:00,test,nrg esports,mibr,0,1,0,0,1,0,0,0
+7307869,2026-09-19 14:00:00,test,luminosity gaming,bbl esports,1,0,1,0,1,0,0,0
+10098323,2026-09-19 14:30:00,test,des0ut team,strogo team,0,0,1,0,1,0,0,0
+7307894,2026-09-19 15:00:00,test,furia esports,mouz,1,1,0,0,1,0,0,0
+10098096,2026-09-19 17:00:00,test,team 3dmax,m80,1,0,1,0,1,0,0,0
+10098324,2026-09-19 18:00:00,test,shoke team,perfecto team,1,0,1,0,1,0,0,0
+7307893,2026-09-19 18:25:00,test,aurora gaming,team vitality,1,1,0,0,1,0,0,0
+10098325,2026-09-19 21:15:00,test,aunkere team,strogo team,1,0,1,0,1,0,0,0
+7308042,2026-09-19 21:40:00,test,furia esports,mibr,1,1,0,0,1,0,0,0
+7308145,2026-09-20 15:00:00,test,team vitality,furia esports,1,1,0,0,1,0,0,0
+10098326,2026-09-20 15:00:00,test,m3wsu team,shoke team,0,0,1,0,1,0,0,0
+7308357,2026-09-20 18:00:00,test,aurora gaming,team vitality,0,1,0,0,1,0,0,0
+10098327,2026-09-20 20:00:00,test,aunkere team,shoke team,1,0,1,0,1,0,0,0
+7306305,2026-09-21 13:00:00,test,sashi esport,fokus,0,0,1,0,1,0,0,0
+7306306,2026-09-21 13:00:00,test,astralis,sangal esports,1,0,1,0,1,0,0,0
+7308668,2026-09-21 16:30:00,test,sashi esport,sangal esports,0,0,1,0,1,0,0,0
+10098356,2026-09-21 16:30:00,test,fokus,astralis,0,0,1,0,1,0,0,0
+7308706,2026-09-21 19:00:00,test,sangal esports,fokus,1,0,1,0,1,0,0,0
+7306303,2026-09-22 13:00:00,test,virtus.pro,bbl esports,0,0,1,0,1,0,0,0
+7306304,2026-09-22 13:00:00,test,johnny speeds,heroic,0,0,1,0,1,0,0,0
+7308968,2026-09-22 16:00:00,test,johnny speeds,virtus.pro,1,0,1,0,1,0,0,0
+10098361,2026-09-22 16:00:00,test,heroic,bbl esports,1,0,1,0,1,0,0,0
+10098098,2026-09-22 17:00:00,test,b8 esports,luminosity gaming,0,0,1,0,1,0,0,0
+10098362,2026-09-22 19:00:00,test,johnny speeds,bbl esports,0,0,1,0,1,0,0,0
+7308108,2026-09-22 19:45:00,test,inner circle,team 3dmax,0,0,1,0,1,0,0,0
+7306301,2026-09-23 13:00:00,test,fnatic,phantom esports,0,0,1,0,1,0,0,0
+7306302,2026-09-23 13:00:00,test,100 thieves,ea copenhagen,1,0,1,0,1,0,0,0
+7309212,2026-09-23 16:00:00,test,ea copenhagen,fnatic,0,0,1,0,1,0,0,0
+7309213,2026-09-23 16:00:00,test,100 thieves,phantom esports,1,0,1,0,1,0,0,0
+10098654,2026-09-23 16:00:00,test,ex-rustec,vexar,0,0,0,1,1,0,0,0
+10098655,2026-09-23 18:00:00,test,saint sinners,hyperspirit,0,0,0,1,1,0,0,0
+7309081,2026-09-23 19:15:00,test,luminosity gaming,team 3dmax,0,0,1,0,1,0,0,0
+10098656,2026-09-23 20:00:00,test,6yubojlbl,eternal premium,1,0,0,1,1,0,0,0
+7309255,2026-09-23 20:15:00,test,phantom esports,fnatic,0,0,1,0,1,0,0,0
+10098657,2026-09-23 22:00:00,test,bebop,entropy gaming,1,0,0,1,1,0,0,0
+7309300,2026-09-24 11:00:00,test,nemiga gaming,just players,1,0,0,1,1,0,0,0
+7306308,2026-09-24 13:00:00,test,jijiehao,eternal fire,1,0,1,0,1,0,0,0
+7306309,2026-09-24 13:00:00,test,astral esports,apogee esports,0,0,1,0,1,0,0,0
+7309315,2026-09-24 14:00:00,test,iberian soul,natus vincere junior,1,0,0,1,1,0,0,0
+10098658,2026-09-24 16:00:00,test,lavked,yologang,1,0,0,1,1,0,0,0
+7309423,2026-09-24 16:40:00,test,astral esports,eternal fire,0,0,1,0,1,0,0,0
+10098370,2026-09-24 16:40:00,test,apogee esports,jijiehao,0,0,1,0,1,0,0,0
+10098512,2026-09-24 17:00:00,test,ww team,leo team,0,0,0,1,1,0,0,0
+10098659,2026-09-24 18:00:00,test,nexus gaming,permitta esports,1,0,0,1,1,0,0,0
+10098372,2026-09-24 19:30:00,test,eternal fire,apogee esports,0,0,1,0,1,0,0,0
+10098660,2026-09-24 20:00:00,test,honved esport,team spirit academy,0,0,0,1,1,0,0,0
+7309313,2026-09-24 20:15:00,test,inox division,black phoenix,0,0,0,1,1,0,0,0
+10098661,2026-09-24 22:00:00,test,inox division,megoshort,1,0,0,1,1,0,0,0
+7309497,2026-09-25 11:00:00,test,heroic,fnatic,1,0,1,0,1,0,0,0
+10098510,2026-09-25 11:00:00,test,walczaki,ence,0,0,0,1,1,0,0,0
+10098279,2026-09-25 12:00:00,test,alliance,sinners esports,0,0,1,0,1,0,0,0
+7309311,2026-09-25 14:00:00,test,butterfly,team quazar,1,0,0,1,1,0,0,0
+7309496,2026-09-25 14:00:00,test,100 thieves,bbl esports,1,0,1,0,1,0,0,0
+10098582,2026-09-25 17:00:00,test,astralis,apogee esports,1,0,1,0,1,0,0,0
+7306521,2026-09-25 17:15:00,test,team 3dmax,ninjas in pyjamas,0,0,1,0,1,0,0,0
+10098511,2026-09-25 17:45:00,test,omega,ex-rustec,0,0,0,1,1,0,0,0
+10098662,2026-09-25 20:00:00,test,entropy gaming,eternal premium,0,0,0,1,1,0,0,0
+10098585,2026-09-25 20:15:00,test,jijiehao,sangal esports,0,0,1,0,1,0,0,0
+7306520,2026-09-25 20:25:00,test,magic,eyeballers,1,0,1,0,1,0,0,0
+7309309,2026-09-25 21:15:00,test,state,baks esports,0,0,0,1,1,0,0,0
+10098663,2026-09-25 22:00:00,test,yologang,honved esport,0,0,0,1,1,0,0,0
+7306519,2026-09-25 23:55:00,test,k27,gamerlegion,0,0,1,0,1,0,0,0
+10098589,2026-09-26 11:00:00,test,ence,ex-rustec,0,0,0,1,1,0,0,0
+10098431,2026-09-26 12:00:00,test,alliance,team 3dmax,0,0,1,0,1,0,0,0
+7309652,2026-09-26 13:00:00,test,astralis,100 thieves,0,0,1,0,1,0,0,0
+10098516,2026-09-26 14:00:00,test,nemiga gaming,black phoenix,0,0,0,1,1,0,0,0
+7309733,2026-09-26 15:00:00,test,eyeballers,k27,0,0,1,0,1,0,0,0
+10098680,2026-09-26 16:00:00,test,vexar,nexus gaming,0,0,0,1,1,0,0,0
+7309676,2026-09-26 16:30:00,test,heroic,sangal esports,1,0,1,0,1,0,0,0
+10098517,2026-09-26 17:25:00,test,iberian soul,butterfly,1,0,0,1,1,0,0,0
+7309650,2026-09-26 18:00:00,test,sinners esports,ninjas in pyjamas,0,0,1,0,1,0,0,0
+10098681,2026-09-26 18:00:00,test,inox division,hyperspirit,0,0,0,1,1,0,0,0
+10098682,2026-09-26 20:00:00,test,lavked,team spirit academy,0,0,0,1,1,0,0,0
+7309874,2026-09-26 20:10:00,test,100 thieves,heroic,0,0,1,0,1,0,0,0
+10098581,2026-09-26 20:40:00,test,leo team,baks esports,1,0,0,1,1,0,0,0
+7309734,2026-09-26 21:00:00,test,magic,gamerlegion,1,0,1,0,1,0,0,0
+10098683,2026-09-26 22:00:00,test,6yubojlbl,bebop,0,0,0,1,1,0,0,0
+7309885,2026-09-27 12:00:00,test,sinners esports,k27,1,0,1,0,1,0,0,0
+10098718,2026-09-27 13:30:00,test,leo team,black phoenix,0,0,0,1,1,0,0,0
+7309922,2026-09-27 14:30:00,test,gamerlegion,team 3dmax,1,0,1,0,1,0,0,0
+10098684,2026-09-27 16:00:00,test,lavked,honved esport,1,0,0,1,1,0,0,0
+7309884,2026-09-27 16:30:00,test,iberian soul,ex-rustec,0,0,0,1,1,0,0,0
+7309923,2026-09-27 18:20:00,test,ninjas in pyjamas,magic,1,0,1,0,1,0,0,0
+10098719,2026-09-27 19:00:00,test,ex-rustec,black phoenix,0,0,0,1,1,0,0,0
+10098687,2026-09-27 20:00:00,test,inox division,megoshort,1,0,0,1,1,0,0,0
+10098686,2026-09-27 22:00:00,test,6yubojlbl,eternal premium,1,0,0,1,1,0,0,0
+7310048,2026-09-27 22:05:00,test,gamerlegion,sinners esports,1,0,1,0,1,0,0,0
+7310099,2026-09-28 14:00:00,test,magic,gamerlegion,0,0,1,0,1,0,0,0
+7310211,2026-09-28 17:00:00,test,ninjas in pyjamas,gamerlegion,1,0,1,0,1,0,0,0
+10098685,2026-09-28 18:00:00,test,vexar,permitta esports,0,0,0,1,1,0,0,0
+7309803,2026-09-29 09:00:00,test,upgrade team,refresher,1,0,1,0,1,0,0,0
+7309804,2026-09-29 09:00:00,test,hotu,black phoenix,0,0,1,0,1,0,0,0
+10098750,2026-09-29 10:15:00,test,depo,paqt,0,0,0,1,1,0,0,0
+10098751,2026-09-29 10:15:00,test,bushido wildcats,team vision,0,0,0,1,1,0,0,0
+10098755,2026-09-29 10:15:00,test,ww team,arcred,0,0,0,1,1,0,0,0
+10098756,2026-09-29 10:15:00,test,rune eaters,dnk,1,0,0,1,1,0,0,0
+10098757,2026-09-29 11:00:00,test,arcred,rune eaters,1,0,0,1,1,0,0,0
+10098758,2026-09-29 11:00:00,test,ww team,dnk,0,0,0,1,1,0,0,0
+7310345,2026-09-29 12:00:00,test,hotu,refresher,1,0,1,0,1,0,0,0
+10098612,2026-09-29 12:00:00,test,black phoenix,upgrade team,0,0,1,0,1,0,0,0
+10098752,2026-09-29 12:10:00,test,depo,bushido wildcats,0,0,0,1,1,0,0,0
+10098753,2026-09-29 12:10:00,test,paqt,team vision,1,0,0,1,1,0,0,0
+10098759,2026-09-29 14:50:00,test,rune eaters,dnk,1,0,0,1,1,0,0,0
+10098614,2026-09-29 15:00:00,test,hotu,black phoenix,1,0,1,0,1,0,0,0
+10098754,2026-09-29 15:00:00,test,team vision,bushido wildcats,0,0,0,1,1,0,0,0
+7309801,2026-09-29 18:00:00,test,omega,krytiepacani,1,0,1,0,1,0,0,0
+7309802,2026-09-29 18:00:00,test,team nemesis,darkwall,1,0,1,0,1,0,0,0
+10098627,2026-09-29 20:05:00,test,team nemesis,omega,1,0,1,0,1,0,0,0
+10098628,2026-09-29 20:05:00,test,darkwall,krytiepacani,0,0,1,0,1,0,0,0
+10098629,2026-09-29 23:15:00,test,omega,krytiepacani,0,0,1,0,1,0,0,0
+7309800,2026-09-30 09:00:00,test,nuclear tigeres,magnum,1,0,1,0,1,0,0,0
+10098616,2026-09-30 09:00:00,test,ex-ruby,evo elite,1,0,1,0,1,0,0,0
+10098747,2026-09-30 10:00:00,test,paqt,rune eaters,0,0,0,1,1,0,0,0
+10098617,2026-09-30 11:00:00,test,magnum,evo elite,1,0,1,0,1,0,0,0
+10098618,2026-09-30 11:00:00,test,nuclear tigeres,ex-ruby,1,0,1,0,1,0,0,0
+10098748,2026-09-30 12:00:00,test,arcred,bushido wildcats,0,0,0,1,1,0,0,0
+10098619,2026-09-30 13:30:00,test,ex-ruby,magnum,1,0,1,0,1,0,0,0
+10098749,2026-09-30 14:15:00,test,rune eaters,bushido wildcats,1,0,0,1,1,0,0,0
+10098830,2026-09-30 15:00:00,test,team pch3lk1n,team shoke,0,0,0,1,1,0,0,0
+7309798,2026-09-30 17:30:00,test,k27,baks esports,1,0,1,0,1,0,0,0
+7309797,2026-09-30 17:40:00,test,cybershoke esports,magafans,1,0,1,0,1,0,0,0
+10098831,2026-09-30 18:15:00,test,team serega pirat,team overdrive,1,0,0,1,1,0,0,0
+7310678,2026-09-30 21:00:00,test,cybershoke esports,k27,0,0,1,0,1,0,0,0
+10098623,2026-09-30 21:00:00,test,magafans,baks esports,0,0,1,0,1,0,0,0
+10098832,2026-09-30 21:00:00,test,team serega pirat,team dosia,1,0,0,1,1,0,0,0
+7310702,2026-10-01 00:15:00,test,cybershoke esports,baks esports,1,0,1,0,1,0,0,0
+7306069,2026-10-01 13:00:00,test,luminosity gaming,b8 esports,1,0,1,0,1,0,0,0
+7310684,2026-10-01 13:00:00,test,upgrade team,krytiepacani,1,0,1,0,1,0,0,0
+10098833,2026-10-01 15:00:00,test,team jerry,team shoke,0,0,0,1,1,0,0,0
+7306099,2026-10-01 15:30:00,test,big,fnatic,1,0,1,0,1,0,0,0
+10098905,2026-10-01 15:30:00,test,ex-ruby,k27,0,0,1,0,1,0,0,0
+10098068,2026-10-01 18:30:00,test,alliance,astralis,1,0,1,0,1,0,0,0
+10098834,2026-10-01 18:30:00,test,team pch3lk1n,team jerry,0,0,0,1,1,0,0,0
+7310683,2026-10-01 19:00:00,test,hotu,team nemesis,0,0,1,0,1,0,0,0
+10095905,2026-10-01 20:00:00,test,lavked,hyperspirit,1,0,0,1,1,0,0,0
+7306101,2026-10-01 22:30:00,test,faze clan,nemiga gaming,0,0,1,0,1,0,0,0
+10098907,2026-10-01 22:30:00,test,nuclear tigeres,cybershoke esports,1,0,1,0,1,0,0,0
+10098835,2026-10-01 22:45:00,test,team dosia,team overdrive,0,0,0,1,1,0,0,0
+10095903,2026-10-01 23:00:00,test,inox division,team spirit academy,1,0,0,1,1,0,0,0
+7310794,2026-10-02 13:00:00,test,fnatic,b8 esports,1,0,1,0,1,0,0,0
+7310796,2026-10-02 13:00:00,test,upgrade team,k27,0,0,1,0,1,0,0,0
+7310602,2026-10-02 15:00:00,test,team voca,basement boys,1,0,1,0,1,0,0,0
+7310603,2026-10-02 15:00:00,test,sashi esport,prestige esport,0,0,1,0,1,0,0,0
+7310617,2026-10-02 15:00:00,test,9ine,johnny speeds,0,0,1,0,1,0,0,0
+7310618,2026-10-02 15:00:00,test,fokus,matrix,1,0,1,0,1,0,0,0
+7310619,2026-10-02 15:00:00,test,jijiehao,esport academy copenhagen extra,1,0,1,0,1,0,0,0
+7310632,2026-10-02 15:00:00,test,sportsbetexpert,havu gaming,1,0,1,0,1,0,0,0
+7310633,2026-10-02 15:00:00,test,bbl esports,sangal esports,0,0,1,0,1,0,0,0
+7310647,2026-10-02 15:00:00,test,eternal fire,nordic partners gaming,1,0,1,0,1,0,0,0
+7310808,2026-10-02 15:00:00,test,faze clan,astralis,0,0,1,0,1,0,0,0
+10098836,2026-10-02 15:00:00,test,100 thieves,anteiku,1,0,1,0,1,0,0,0
+10098837,2026-10-02 15:00:00,test,sinners esports,lilmix,1,0,1,0,1,0,0,0
+10098839,2026-10-02 15:00:00,test,ninjas in pyjamas,x3pt,1,0,1,0,1,0,0,0
+10098845,2026-10-02 15:00:00,test,bcgame,glitch,1,0,1,0,1,0,0,0
+7310599,2026-10-02 16:00:00,test,team voca,glitch,1,0,1,0,1,0,0,0
+7310600,2026-10-02 16:00:00,test,sashi esport,basement boys,1,0,1,0,1,0,0,0
+7310614,2026-10-02 16:00:00,test,johnny speeds,esport academy copenhagen extra,1,0,1,0,1,0,0,0
+7310616,2026-10-02 16:00:00,test,jijiehao,matrix,1,0,1,0,1,0,0,0
+7310629,2026-10-02 16:00:00,test,havu gaming,x3pt,1,0,1,0,1,0,0,0
+7310646,2026-10-02 16:00:00,test,100 thieves,lilmix,1,0,1,0,1,0,0,0
+10098848,2026-10-02 16:00:00,test,bcgame,prestige esport,0,0,1,0,1,0,0,0
+10098852,2026-10-02 16:00:00,test,fokus,9ine,1,0,1,0,1,0,0,0
+10098873,2026-10-02 16:00:00,test,nordic partners gaming,anteiku,0,0,1,0,1,0,0,0
+10098874,2026-10-02 16:00:00,test,sinners esports,eternal fire,0,0,1,0,1,0,0,0
+10098884,2026-10-02 16:00:00,test,ninjas in pyjamas,sangal esports,0,0,1,0,1,0,0,0
+10098885,2026-10-02 16:00:00,test,bbl esports,sportsbetexpert,1,0,1,0,1,0,0,0
+10098911,2026-10-02 16:00:00,test,team shoke,team overdrive,1,0,0,1,1,0,0,0
+7310611,2026-10-02 17:00:00,test,9ine,matrix,1,0,1,0,1,0,0,0
+7310612,2026-10-02 17:00:00,test,fokus,esport academy copenhagen extra,1,0,1,0,1,0,0,0
+7310613,2026-10-02 17:00:00,test,jijiehao,johnny speeds,1,0,1,0,1,0,0,0
+7310810,2026-10-02 17:00:00,test,team nemesis,nuclear tigeres,1,0,1,0,1,0,0,0
+7310596,2026-10-02 17:10:00,test,basement boys,prestige esport,1,0,1,0,1,0,0,0
+7310641,2026-10-02 17:10:00,test,eternal fire,lilmix,0,0,1,0,1,0,0,0
+7310643,2026-10-02 17:10:00,test,100 thieves,nordic partners gaming,1,0,1,0,1,0,0,0
+10098876,2026-10-02 17:10:00,test,sinners esports,anteiku,1,0,1,0,1,0,0,0
+7310626,2026-10-02 17:15:00,test,sportsbetexpert,sangal esports,0,0,1,0,1,0,0,0
+7310627,2026-10-02 17:15:00,test,bbl esports,x3pt,1,0,1,0,1,0,0,0
+10098887,2026-10-02 17:15:00,test,ninjas in pyjamas,havu gaming,1,0,1,0,1,0,0,0
+7310597,2026-10-02 17:30:00,test,sashi esport,glitch,0,0,1,0,1,0,0,0
+10098854,2026-10-02 17:30:00,test,bcgame,team voca,1,0,1,0,1,0,0,0
+7310593,2026-10-02 18:00:00,test,prestige esport,glitch,0,0,1,0,1,0,0,0
+7310594,2026-10-02 18:00:00,test,sashi esport,team voca,0,0,1,0,1,0,0,0
+7310609,2026-10-02 18:00:00,test,fokus,johnny speeds,1,0,1,0,1,0,0,0
+7310610,2026-10-02 18:00:00,test,jijiehao,9ine,1,0,1,0,1,0,0,0
+7310623,2026-10-02 18:00:00,test,sangal esports,x3pt,1,0,1,0,1,0,0,0
+7310624,2026-10-02 18:00:00,test,bbl esports,havu gaming,1,0,1,0,1,0,0,0
+7310625,2026-10-02 18:00:00,test,ninjas in pyjamas,sportsbetexpert,1,0,1,0,1,0,0,0
+7310638,2026-10-02 18:00:00,test,lilmix,anteiku,1,0,1,0,1,0,0,0
+7310639,2026-10-02 18:00:00,test,sinners esports,nordic partners gaming,1,0,1,0,1,0,0,0
+7310795,2026-10-02 18:00:00,test,big,luminosity gaming,0,0,1,0,1,0,0,0
+10098857,2026-10-02 18:00:00,test,bcgame,basement boys,1,0,1,0,1,0,0,0
+10098868,2026-10-02 18:00:00,test,matrix,esport academy copenhagen extra,1,0,1,0,1,0,0,0
+10098878,2026-10-02 18:00:00,test,100 thieves,eternal fire,1,0,1,0,1,0,0,0
+7310590,2026-10-02 19:00:00,test,basement boys,glitch,1,0,1,0,1,0,0,0
+7310591,2026-10-02 19:00:00,test,team voca,prestige esport,1,0,1,0,1,0,0,0
+7310605,2026-10-02 19:00:00,test,johnny speeds,matrix,0,0,1,0,1,0,0,0
+7310607,2026-10-02 19:00:00,test,jijiehao,fokus,1,0,1,0,1,0,0,0
+7310620,2026-10-02 19:00:00,test,havu gaming,sangal esports,1,0,1,0,1,0,0,0
+7310621,2026-10-02 19:00:00,test,sportsbetexpert,x3pt,1,0,1,0,1,0,0,0
+7310622,2026-10-02 19:00:00,test,ninjas in pyjamas,bbl esports,1,0,1,0,1,0,0,0
+7310635,2026-10-02 19:00:00,test,nordic partners gaming,lilmix,1,0,1,0,1,0,0,0
+7310636,2026-10-02 19:00:00,test,eternal fire,anteiku,1,0,1,0,1,0,0,0
+7310637,2026-10-02 19:00:00,test,100 thieves,sinners esports,0,0,1,0,1,0,0,0
+10098860,2026-10-02 19:00:00,test,bcgame,sashi esport,1,0,1,0,1,0,0,0
+10098870,2026-10-02 19:00:00,test,9ine,esport academy copenhagen extra,1,0,1,0,1,0,0,0
+10095904,2026-10-02 20:00:00,test,nexus gaming,6yubojlbl,0,0,0,1,1,0,0,0
+10098910,2026-10-02 20:50:00,test,k27,team nemesis,1,0,1,0,1,0,0,0
+7310853,2026-10-02 21:30:00,test,eternal fire,basement boys,1,0,1,0,1,0,0,0
+7310854,2026-10-02 21:30:00,test,team voca,100 thieves,0,0,1,0,1,0,0,0
+7310855,2026-10-02 21:30:00,test,fokus,bbl esports,0,0,1,0,1,0,0,0
+10098071,2026-10-02 21:30:00,test,nemiga gaming,alliance,1,0,1,0,1,0,0,0
+10098912,2026-10-02 21:30:00,test,team serega pirat,team jerry,1,0,0,1,1,0,0,0
+10098919,2026-10-02 21:30:00,test,ninjas in pyjamas,johnny speeds,1,0,1,0,1,0,0,0
+10098913,2026-10-02 22:00:00,test,team jerry,team pch3lk1n,1,0,0,1,1,0,0,0
+10095902,2026-10-02 23:00:00,test,bebop,permitta esports,0,0,0,1,1,0,0,0
+7309973,2026-10-03 12:00:00,test,legacy,parivision,0,1,0,0,1,0,0,0
+7309975,2026-10-03 12:00:00,test,team falcons,tyloo,1,1,0,0,1,0,0,0
+7310862,2026-10-03 12:00:00,test,sinners esports,ninjas in pyjamas,0,0,1,0,1,0,0,0
+7310863,2026-10-03 12:00:00,test,jijiehao,100 thieves,1,0,1,0,1,0,0,0
+7310866,2026-10-03 12:00:00,test,sangal esports,eternal fire,0,0,1,0,1,0,0,0
+7310867,2026-10-03 12:00:00,test,bcgame,bbl esports,0,0,1,0,1,0,0,0
+7310857,2026-10-03 13:00:00,test,big,astralis,0,0,1,0,1,0,0,0
+7309976,2026-10-03 14:30:00,test,team vitality,1w team,1,1,0,0,1,0,0,0
+7309977,2026-10-03 14:55:00,test,team spirit,shinden,1,1,0,0,1,0,0,0
+7310871,2026-10-03 15:30:00,test,jijiehao,eternal fire,0,0,1,0,1,0,0,0
+7310872,2026-10-03 15:30:00,test,ninjas in pyjamas,bbl esports,1,0,1,0,1,0,0,0
+10098078,2026-10-03 15:30:00,test,alliance,fnatic,0,0,1,0,1,0,0,0
+7309971,2026-10-03 17:00:00,test,aurora gaming,9z team,1,1,0,0,1,0,0,0
+10098914,2026-10-03 17:00:00,test,team dosia,team overdrive,0,0,0,1,1,0,0,0
+10095907,2026-10-03 17:30:00,test,6yubojlbl,lavked,1,0,0,1,1,0,0,0
+7310865,2026-10-03 18:00:00,test,nemiga gaming,luminosity gaming,1,0,1,0,1,0,0,0
+7309974,2026-10-03 18:15:00,test,mouz,m80,1,1,0,0,1,0,0,0
+7310519,2026-10-03 19:30:00,test,g2 esports,natus vincere,0,1,0,0,1,0,0,0
+10098915,2026-10-03 19:30:00,test,team shoke,team serega pirat,0,0,0,1,1,0,0,0
+7309972,2026-10-03 20:30:00,test,furia esports,betboom team,1,1,0,0,1,0,0,0
+7310873,2026-10-03 20:30:00,test,astralis,fnatic,1,0,1,0,1,0,0,0
+10098929,2026-10-03 21:00:00,test,ninjas in pyjamas,eternal fire,1,0,1,0,1,0,0,0
+10095906,2026-10-03 22:00:00,test,permitta esports,inox division,0,0,0,1,1,0,0,0
+10098916,2026-10-03 22:00:00,test,team overdrive,team jerry,1,0,0,1,1,0,0,0
+7310879,2026-10-04 12:00:00,test,shinden,legacy,0,1,0,0,1,0,0,0
+7310880,2026-10-04 12:00:00,test,team spirit,parivision,1,1,0,0,1,0,0,0
+7310888,2026-10-04 14:30:00,test,9z team,tyloo,1,1,0,0,1,0,0,0
+10098917,2026-10-04 14:30:00,test,team shoke,team overdrive,0,0,0,1,1,0,0,0
+7310882,2026-10-04 15:00:00,test,luminosity gaming,astralis,0,0,1,0,1,0,0,0
+7310887,2026-10-04 15:20:00,test,team falcons,aurora gaming,1,1,0,0,1,0,0,0
+7310886,2026-10-04 17:00:00,test,g2 esports,1w team,0,1,0,0,1,0,0,0
+10098918,2026-10-04 17:00:00,test,team serega pirat,team overdrive,1,0,0,1,1,0,0,0
+7310883,2026-10-04 17:25:00,test,furia esports,mouz,0,1,0,0,1,0,0,0
+10095909,2026-10-04 19:00:00,test,permitta esports,lavked,1,0,0,1,1,0,0,0
+7310918,2026-10-04 19:25:00,test,nemiga gaming,astralis,0,0,1,0,1,0,0,0
+7310885,2026-10-04 19:30:00,test,team vitality,natus vincere,1,1,0,0,1,0,0,0
+7310884,2026-10-04 20:10:00,test,betboom team,m80,1,1,0,0,1,0,0,0
+10095908,2026-10-04 22:45:00,test,inox division,6yubojlbl,1,0,0,1,1,0,0,0
+7310926,2026-10-05 12:00:00,test,shinden,g2 esports,0,1,0,0,1,0,0,0
+7310927,2026-10-05 12:00:00,test,parivision,furia esports,0,1,0,0,1,0,0,0
+7310925,2026-10-05 14:30:00,test,legacy,1w team,0,1,0,0,1,0,0,0
+7310924,2026-10-05 15:20:00,test,9z team,natus vincere,0,1,0,0,1,0,0,0
+7310923,2026-10-05 17:00:00,test,m80,tyloo,1,1,0,0,1,0,0,0
+7310922,2026-10-05 17:20:00,test,team spirit,mouz,0,1,0,0,1,0,0,0
+7310920,2026-10-05 19:30:00,test,team vitality,team falcons,1,1,0,0,1,0,0,0
+7310921,2026-10-05 20:20:00,test,aurora gaming,betboom team,1,1,0,0,1,0,0,0
+7310954,2026-10-06 15:00:00,test,team spirit,1w team,0,1,0,0,1,0,0,0
+7310955,2026-10-06 15:00:00,test,g2 esports,parivision,0,1,0,0,1,0,0,0
+7310952,2026-10-06 17:30:00,test,9z team,betboom team,1,1,0,0,1,0,0,0
+7310953,2026-10-06 18:45:00,test,furia esports,aurora gaming,0,1,0,0,1,0,0,0
+7310951,2026-10-06 20:00:00,test,legacy,m80,0,1,0,0,1,0,0,0
+7310950,2026-10-06 22:00:00,test,team falcons,natus vincere,1,1,0,0,1,0,0,0
+7310930,2026-10-07 12:00:00,test,hotu,state,1,0,1,0,1,0,0,0
+7311023,2026-10-07 15:00:00,test,furia esports,9z team,1,1,0,0,1,0,0,0
+10098959,2026-10-07 15:00:00,test,sashi esport,acend,0,0,1,0,1,0,0,0
+7311027,2026-10-07 17:30:00,test,parivision,natus vincere,1,1,0,0,1,0,0,0
+10098961,2026-10-07 18:00:00,test,phantom esports,fnatic,0,0,1,0,1,0,0,0
+7310585,2026-10-07 21:00:00,test,k27,metizport,1,0,1,0,1,0,0,0
+7311024,2026-10-07 21:10:00,test,team spirit,m80,1,1,0,0,1,0,0,0
+7310929,2026-10-08 12:00:00,test,bet-m 33,gamerlegion,0,0,1,0,1,0,0,0
+7310584,2026-10-08 15:00:00,test,team nemesis,sinners esports,0,0,1,0,1,0,0,0
+10099235,2026-10-08 17:00:00,test,pure,ea copenhagen,1,0,0,1,1,0,0,0
+10099237,2026-10-08 17:10:00,test,whitebit team,natus vincere junior,0,0,0,1,1,0,0,0
+10098962,2026-10-08 18:00:00,test,apogee esports,ex-ruby,0,0,1,0,1,0,0,0
+10099234,2026-10-08 20:00:00,test,faze clan,sangal esports,1,0,0,1,1,0,0,0
+10098963,2026-10-08 21:00:00,test,color,nuclear tigeres,0,0,1,0,1,0,0,0
+10099238,2026-10-08 21:05:00,test,g2 ares,infinite gaming,1,0,0,1,1,0,0,0
+7311063,2026-10-09 11:30:00,test,1w team,aurora gaming,0,1,0,0,1,0,0,0
+7311030,2026-10-09 12:00:00,test,hotu,acend,1,0,1,0,1,0,0,0
+10099241,2026-10-09 13:00:00,test,sangal esports,ea copenhagen,1,0,0,1,1,0,0,0
+10099242,2026-10-09 13:00:00,test,whitebit team,infinite gaming,1,0,0,1,1,0,0,0
+7311062,2026-10-09 14:30:00,test,team vitality,parivision,1,1,0,0,1,0,0,0
+7311141,2026-10-09 15:00:00,test,sinners esports,gamerlegion,0,0,1,0,1,0,0,0
+10099236,2026-10-09 16:30:00,test,faze clan,pure,1,0,0,1,1,0,0,0
+10099239,2026-10-09 16:30:00,test,natus vincere junior,g2 ares,1,0,0,1,1,0,0,0
+7311061,2026-10-09 17:00:00,test,furia esports,mouz,0,1,0,0,1,0,0,0
+10099073,2026-10-09 18:00:00,test,k27,fnatic,0,0,1,0,1,0,0,0
+7311060,2026-10-09 20:00:00,test,team falcons,team spirit,0,1,0,0,1,0,0,0
+10099243,2026-10-09 20:30:00,test,g2 ares,sangal esports,0,0,0,1,1,0,0,0
+10099244,2026-10-09 20:30:00,test,pure,whitebit team,1,0,0,1,1,0,0,0
+10099075,2026-10-09 21:30:00,test,ex-ruby,nuclear tigeres,1,0,1,0,1,0,0,0
+7311191,2026-10-10 13:00:00,test,faze clan,natus vincere junior,1,0,0,1,1,0,0,0
+10099077,2026-10-10 13:00:00,test,hotu,fnatic,0,0,1,0,1,0,0,0
+10099245,2026-10-10 13:00:00,test,sangal esports,pure,1,0,0,1,1,0,0,0
+10099076,2026-10-10 16:00:00,test,ex-ruby,gamerlegion,1,0,1,0,1,0,0,0
+7311184,2026-10-10 16:45:00,test,team vitality,aurora gaming,1,1,0,0,1,0,0,0
+7311369,2026-10-10 17:40:00,test,natus vincere junior,sangal esports,1,0,0,1,1,0,0,0
+7311261,2026-10-10 20:40:00,test,team spirit,mouz,0,1,0,0,1,0,0,0
+7311395,2026-10-10 21:20:00,test,faze clan,natus vincere junior,1,0,0,1,1,0,0,0
+7311400,2026-10-11 14:30:00,test,aurora gaming,team spirit,1,1,0,0,1,0,0,0
+7311399,2026-10-11 18:00:00,test,team vitality,mouz,1,1,0,0,1,0,0,0
+7310976,2026-10-12 13:00:00,test,ninjas in pyjamas,betclic,1,0,1,0,1,0,0,0
+7310977,2026-10-12 13:00:00,test,inner circle,sangal esports,1,0,1,0,1,0,0,0
+10099322,2026-10-12 16:00:00,test,team ct0m,team scade,1,0,1,0,1,0,0,0
+7311459,2026-10-12 16:30:00,test,betclic,sangal esports,0,0,1,0,1,0,0,0
+7311460,2026-10-12 16:30:00,test,inner circle,ninjas in pyjamas,0,0,1,0,1,0,0,0
+10099323,2026-10-12 18:00:00,test,team overdrive,team serega pirat,1,0,1,0,1,0,0,0
+7311466,2026-10-12 19:00:00,test,inner circle,sangal esports,0,0,1,0,1,0,0,0
+10099324,2026-10-12 20:35:00,test,team aunkere,team strogo,0,0,1,0,1,0,0,0
+10099325,2026-10-12 23:10:00,test,team aunkere,team serega pirat,0,0,1,0,1,0,0,0
+7310974,2026-10-13 13:00:00,test,100 thieves,jijiehao,1,0,1,0,1,0,0,0
+7310975,2026-10-13 13:00:00,test,team liquid,bbl esports,1,0,1,0,1,0,0,0
+10099326,2026-10-13 15:00:00,test,team ct0m,team vladragovsky,1,0,1,0,1,0,0,0
+10099327,2026-10-13 16:00:00,test,team hooch,team scade,1,0,1,0,1,0,0,0
+7311534,2026-10-13 16:15:00,test,jijiehao,bbl esports,1,0,1,0,1,0,0,0
+7311535,2026-10-13 16:15:00,test,100 thieves,team liquid,1,0,1,0,1,0,0,0
+7311538,2026-10-13 19:45:00,test,team liquid,jijiehao,1,0,1,0,1,0,0,0
+10099329,2026-10-13 20:00:00,test,team aunkere,team overdrive,1,0,1,0,1,0,0,0
+7311380,2026-10-14 11:55:00,test,9z team,aurora gaming,1,1,0,0,1,0,0,0
+7310972,2026-10-14 13:00:00,test,fnatic,hotu,0,0,1,0,1,0,0,0
+7310973,2026-10-14 13:00:00,test,astralis,sashi esport,1,0,1,0,1,0,0,0
+10099330,2026-10-14 15:00:00,test,team hooch,team ct0m,1,0,1,0,1,0,0,0
+7311379,2026-10-14 15:30:00,test,team falcons,ninjas in pyjamas,1,1,0,0,1,0,0,0
+7311559,2026-10-14 16:00:00,test,fnatic,sashi esport,1,0,1,0,1,0,0,0
+7311560,2026-10-14 16:00:00,test,hotu,astralis,0,0,1,0,1,0,0,0
+10099331,2026-10-14 16:05:00,test,team scade,team vladragovsky,0,0,1,0,1,0,0,0
+10099328,2026-10-14 18:00:00,test,team strogo,team serega pirat,0,0,1,0,1,0,0,0
+7311378,2026-10-14 18:35:00,test,legacy,parivision,1,1,0,0,1,0,0,0
+7311567,2026-10-14 19:10:00,test,fnatic,hotu,1,0,1,0,1,0,0,0
+10099332,2026-10-14 21:45:00,test,team strogo,team overdrive,1,0,1,0,1,0,0,0
+10099333,2026-10-14 21:50:00,test,team hooch,team vladragovsky,0,0,1,0,1,0,0,0
+7311377,2026-10-14 22:00:00,test,furia esports,betboom team,1,1,0,0,1,0,0,0
+7311565,2026-10-15 11:30:00,test,ninjas in pyjamas,aurora gaming,0,1,0,0,1,0,0,0
+7310970,2026-10-15 13:00:00,test,heroic,team envy,1,0,1,0,1,0,0,0
+7310971,2026-10-15 13:00:00,test,mibr,bcgame,0,0,1,0,1,0,0,0
+7311566,2026-10-15 14:30:00,test,team falcons,9z team,1,1,0,0,1,0,0,0
+10099336,2026-10-15 15:00:00,test,team strogo,team ct0m,0,0,1,0,1,0,0,0
+7311615,2026-10-15 17:00:00,test,team envy,mibr,0,0,1,0,1,0,0,0
+7311616,2026-10-15 17:00:00,test,heroic,bcgame,1,0,1,0,1,0,0,0
+10099337,2026-10-15 17:00:00,test,team vladragovsky,team aunkere,0,0,1,0,1,0,0,0
+10099338,2026-10-15 18:00:00,test,team hooch,team ct0m,0,0,1,0,1,0,0,0
+7311581,2026-10-15 18:10:00,test,parivision,betboom team,0,1,0,0,1,0,0,0
+7311628,2026-10-15 19:35:00,test,mibr,bcgame,1,0,1,0,1,0,0,0
+10099339,2026-10-15 21:00:00,test,team serega pirat,team aunkere,0,0,1,0,1,0,0,0
+7311582,2026-10-15 21:50:00,test,legacy,furia esports,0,1,0,0,1,0,0,0
+7311618,2026-10-16 11:00:00,test,ninjas in pyjamas,team liquid,1,0,1,0,1,0,0,0
+7311622,2026-10-16 11:00:00,test,eternal fire,betclic,0,1,0,0,1,0,0,0
+10099341,2026-10-16 14:10:00,test,team vladragovsky,team hooch,1,0,1,0,1,0,0,0
+7311630,2026-10-16 14:25:00,test,fnatic,heroic,0,0,1,0,1,0,0,0
+7311621,2026-10-16 14:45:00,test,team nemesis,nuclear tigeres,1,1,0,0,1,0,0,0
+7311623,2026-10-16 17:00:00,test,aurora gaming,9z team,1,1,0,0,1,0,0,0
+7311632,2026-10-16 17:00:00,test,astralis,mibr,0,0,1,0,1,0,0,0
+10099340,2026-10-16 17:05:00,test,team strogo,team serega pirat,1,0,1,0,1,0,0,0
+7311620,2026-10-16 18:00:00,test,bbl esports,eyeballers,1,1,0,0,1,0,0,0
+10099342,2026-10-16 19:00:00,test,team ct0m,team aunkere,0,0,1,0,1,0,0,0
+7311638,2026-10-16 20:00:00,test,betboom team,legacy,1,1,0,0,1,0,0,0
+7311617,2026-10-16 20:30:00,test,sangal esports,100 thieves,0,0,1,0,1,0,0,0
+7311619,2026-10-16 20:30:00,test,gamerlegion,ex-rustec,0,1,0,0,1,0,0,0
+10099343,2026-10-16 21:10:00,test,team strogo,team vladragovsky,1,0,1,0,1,0,0,0
+7311673,2026-10-17 11:00:00,test,ninjas in pyjamas,heroic,1,0,1,0,1,0,0,0
+7311677,2026-10-17 11:00:00,test,eternal fire,nuclear tigeres,0,1,0,0,1,0,0,0
+7311697,2026-10-17 14:00:00,test,eyeballers,gamerlegion,1,1,0,0,1,0,0,0
+7311694,2026-10-17 14:25:00,test,mibr,100 thieves,1,0,1,0,1,0,0,0
+10099344,2026-10-17 16:00:00,test,team ct0m,team strogo,0,0,1,0,1,0,0,0
+7311676,2026-10-17 17:00:00,test,betclic,team nemesis,1,1,0,0,1,0,0,0
+7311686,2026-10-17 17:00:00,test,aurora gaming,furia esports,0,1,0,0,1,0,0,0
+7311714,2026-10-17 17:00:00,test,heroic,100 thieves,1,0,1,0,1,0,0,0
+7311696,2026-10-17 20:00:00,test,bbl esports,ex-rustec,1,1,0,0,1,0,0,0
+7311699,2026-10-17 20:00:00,test,team falcons,betboom team,0,1,0,0,1,0,0,0
+10099345,2026-10-17 20:00:00,test,team aunkere,team strogo,1,0,1,0,1,0,0,0
+7311715,2026-10-17 20:20:00,test,ninjas in pyjamas,mibr,1,0,1,0,1,0,0,0
+7311742,2026-10-18 14:30:00,test,team falcons,aurora gaming,0,1,0,0,1,0,0,0
+7311730,2026-10-18 17:00:00,test,team nemesis,eyeballers,1,1,0,0,1,0,0,0
+7311743,2026-10-18 18:45:00,test,betboom team,furia esports,0,1,0,0,1,0,0,0
+7311741,2026-10-18 20:00:00,test,ex-rustec,nuclear tigeres,0,1,0,0,1,0,0,0
+7311439,2026-10-19 12:00:00,test,bcgame,drama esports,1,0,1,0,1,0,0,0
+7311469,2026-10-19 12:00:00,test,the mongolz,alliance,1,0,1,0,1,0,0,0
+7311749,2026-10-19 12:00:00,test,team spirit academy,betclic,0,0,1,0,1,0,0,0
+10099601,2026-10-19 12:00:00,test,infinite gaming,insiders esport,1,0,1,0,1,0,0,0
+10099607,2026-10-19 12:00:00,test,whitebit team,nexus gaming,1,0,1,0,1,0,0,0
+10099602,2026-10-19 12:15:00,test,aimclub,basement boys,0,0,1,0,1,0,0,0
+7311436,2026-10-19 14:00:00,test,sashi esport,mouz nxt,1,0,1,0,1,0,0,0
+7311437,2026-10-19 14:00:00,test,iberian soul,hyperspirit,1,0,1,0,1,0,0,0
+10099616,2026-10-19 14:00:00,test,saw,bayankhongor,1,0,1,0,1,0,0,0
+10099617,2026-10-19 14:00:00,test,astral esports,leo team,1,0,1,0,1,0,0,0
+7311470,2026-10-19 15:00:00,test,big,private,1,0,1,0,1,0,0,0
+7311754,2026-10-19 15:00:00,test,genone,omega,1,0,1,0,1,0,0,0
+7311797,2026-10-19 15:30:00,test,bcgame,whitebit team,1,0,1,0,1,0,0,0
+7311806,2026-10-19 15:40:00,test,iberian soul,sashi esport,1,0,1,0,1,0,0,0
+7311803,2026-10-19 15:45:00,test,basement boys,infinite gaming,0,0,1,0,1,0,0,0
+7311808,2026-10-19 15:45:00,test,saw,astral esports,1,0,1,0,1,0,0,0
+7311740,2026-10-19 17:00:00,test,betclic,bbl esports,0,1,0,0,1,0,0,0
+7311769,2026-10-19 17:00:00,test,nuclear tigeres,team nemesis,0,1,0,0,1,0,0,0
+7311802,2026-10-19 17:00:00,test,aimclub,insiders esport,1,0,1,0,1,0,0,0
+7311796,2026-10-19 17:25:00,test,drama esports,nexus gaming,0,0,1,0,1,0,0,0
+10099619,2026-10-19 17:25:00,test,bayankhongor,leo team,0,0,1,0,1,0,0,0
+7311805,2026-10-19 17:35:00,test,hyperspirit,mouz nxt,1,0,1,0,1,0,0,0
+7311467,2026-10-19 18:00:00,test,team liquid,fnatic,0,0,1,0,1,0,0,0
+7311755,2026-10-19 18:00:00,test,brute,phantom esports,1,0,1,0,1,0,0,0
+10099620,2026-10-19 19:00:00,test,astral esports,leo team,1,0,1,0,1,0,0,0
+7311816,2026-10-19 20:15:00,test,basement boys,aimclub,1,0,1,0,1,0,0,0
+7311468,2026-10-19 20:20:00,test,parivision,magic,1,0,1,0,1,0,0,0
+7311815,2026-10-19 20:50:00,test,sashi esport,hyperspirit,0,0,1,0,1,0,0,0
+10099610,2026-10-19 22:00:00,test,whitebit team,nexus gaming,0,0,1,0,1,0,0,0
+7311751,2026-10-19 22:10:00,test,9ine,unity,0,0,1,0,1,0,0,0
+10099733,2026-10-20 10:00:00,test,team nemesis,fn team,1,0,1,0,1,0,0,0
+10099734,2026-10-20 10:00:00,test,trafficpills esports,nexora,1,0,1,0,1,0,0,0
+7311753,2026-10-20 12:00:00,test,ex-rustec,metizport,0,0,1,0,1,0,0,0
+7311810,2026-10-20 12:00:00,test,private,alliance,1,0,1,0,1,0,0,0
+10099735,2026-10-20 12:00:00,test,team nemesis,trafficpills esports,1,0,1,0,1,0,0,0
+10099736,2026-10-20 12:00:00,test,fn team,nexora,0,0,1,0,1,0,0,0
+7311837,2026-10-20 14:00:00,test,bbl esports,bcgame,0,0,1,0,1,0,0,0
+7311838,2026-10-20 14:00:00,test,eternal fire,infinite gaming,1,0,1,0,1,0,0,0
+7311878,2026-10-20 14:00:00,test,faze clan,astral esports,1,0,1,0,1,0,0,0
+10099532,2026-10-20 14:00:00,test,team envy,basement boys,0,0,1,0,1,0,0,0
+10099737,2026-10-20 14:25:00,test,trafficpills esports,nexora,1,0,1,0,1,0,0,0
+7311756,2026-10-20 15:00:00,test,sangal esports,aurora young blood,1,0,1,0,1,0,0,0
+7311827,2026-10-20 15:00:00,test,team liquid,magic,0,0,1,0,1,0,0,0
+7311817,2026-10-20 17:00:00,test,betclic,team nemesis,1,1,0,0,1,0,0,0
+7311840,2026-10-20 17:00:00,test,sinners esports,saw,1,0,1,0,1,0,0,0
+7311850,2026-10-20 17:00:00,test,heroic,hyperspirit,1,0,1,0,1,0,0,0
+7311839,2026-10-20 17:15:00,test,jijiehao,iberian soul,1,0,1,0,1,0,0,0
+7311876,2026-10-20 17:25:00,test,luminosity gaming,nexus gaming,0,0,1,0,1,0,0,0
+7311752,2026-10-20 18:00:00,test,fokus,ex-zero tenacity,1,0,1,0,1,0,0,0
+7311811,2026-10-20 18:00:00,test,big,the mongolz,1,0,1,0,1,0,0,0
+10099748,2026-10-20 18:45:00,test,ww team,dynastiya,1,0,1,0,1,0,0,0
+10099747,2026-10-20 18:50:00,test,k27,wisp,1,0,1,0,1,0,0,0
+7311828,2026-10-20 20:00:00,test,fnatic,parivision,0,0,1,0,1,0,0,0
+7311899,2026-10-20 20:00:00,test,infinite gaming,team envy,0,0,1,0,1,0,0,0
+7311908,2026-10-20 20:00:00,test,hyperspirit,saw,0,0,1,0,1,0,0,0
+7311750,2026-10-20 20:30:00,test,nice try,aimclub,0,0,1,0,1,0,0,0
+10099749,2026-10-20 20:30:00,test,k27,ww team,1,0,1,0,1,0,0,0
+10099750,2026-10-20 20:30:00,test,wisp,dynastiya,1,0,1,0,1,0,0,0
+7311925,2026-10-20 21:40:00,test,astral esports,iberian soul,0,0,1,0,1,0,0,0
+7311923,2026-10-20 21:50:00,test,bbl esports,luminosity gaming,1,0,1,0,1,0,0,0
+10099751,2026-10-20 23:30:00,test,ww team,wisp,1,0,1,0,1,0,0,0
+7311822,2026-10-21 09:00:00,test,team aces,evo elite,1,0,1,0,1,0,0,0
+7311823,2026-10-21 09:00:00,test,virtus.pro,xmeta,1,0,1,0,1,0,0,0
+7311942,2026-10-21 11:05:00,test,xmeta,evo elite,0,0,1,0,1,0,0,0
+7311943,2026-10-21 11:05:00,test,virtus.pro,team aces,1,0,1,0,1,0,0,0
+7311913,2026-10-21 12:00:00,test,the mongolz,magic,1,0,1,0,1,0,0,0
+7311921,2026-10-21 12:00:00,test,fokus,unity,0,0,1,0,1,0,0,0
+7311898,2026-10-21 14:00:00,test,eternal fire,basement boys,1,0,1,0,1,0,0,0
+7311907,2026-10-21 14:00:00,test,heroic,sinners esports,0,0,1,0,1,0,0,0
+7311924,2026-10-21 14:00:00,test,faze clan,jijiehao,0,0,1,0,1,0,0,0
+7311950,2026-10-21 14:00:00,test,team aces,evo elite,1,0,1,0,1,0,0,0
+7311922,2026-10-21 14:10:00,test,bcgame,nexus gaming,1,0,1,0,1,0,0,0
+7311928,2026-10-21 14:40:00,test,fnatic,private,0,0,1,0,1,0,0,0
+7311930,2026-10-21 15:30:00,test,aimclub,betclic,0,0,1,0,1,0,0,0
+7311820,2026-10-21 18:00:00,test,upgrade team,team flacons,1,0,1,0,1,0,0,0
+7311821,2026-10-21 18:00:00,test,cybershoke esports,blinkdagger,1,0,1,0,1,0,0,0
+7311903,2026-10-21 18:00:00,test,sangal esports,brute,1,0,1,0,1,0,0,0
+7311929,2026-10-21 18:00:00,test,big,parivision,0,0,1,0,1,0,0,0
+7311962,2026-10-21 18:00:00,test,basement boys,iberian soul,1,0,1,0,1,0,0,0
+10099550,2026-10-21 18:20:00,test,heroic,bbl esports,1,0,1,0,1,0,0,0
+7311969,2026-10-21 18:30:00,test,nexus gaming,saw,1,0,1,0,1,0,0,0
+7311968,2026-10-21 18:45:00,test,faze clan,team envy,1,0,1,0,1,0,0,0
+7311983,2026-10-21 20:00:00,test,team flacons,blinkdagger,0,0,1,0,1,0,0,0
+7311984,2026-10-21 20:00:00,test,upgrade team,cybershoke esports,0,0,1,0,1,0,0,0
+7311897,2026-10-21 20:30:00,test,genone,metizport,0,0,1,0,1,0,0,0
+7311964,2026-10-21 21:00:00,test,private,the mongolz,0,0,1,0,1,0,0,0
+7311966,2026-10-21 21:50:00,test,sinners esports,jijiehao,1,0,1,0,1,0,0,0
+7311990,2026-10-21 22:35:00,test,nexus gaming,basement boys,1,0,1,0,1,0,0,0
+7311965,2026-10-21 23:10:00,test,eternal fire,bcgame,1,0,1,0,1,0,0,0
+7311992,2026-10-21 23:10:00,test,faze clan,heroic,1,0,1,0,1,0,0,0
+7312008,2026-10-21 23:55:00,test,blinkdagger,upgrade team,0,0,1,0,1,0,0,0
+7312006,2026-10-22 14:00:00,test,big,the mongolz,0,0,1,0,1,0,0,0
+7312035,2026-10-22 14:30:00,test,team nemesis,ww team,1,0,1,0,1,0,0,0
+7312016,2026-10-22 16:00:00,test,jijiehao,nexus gaming,1,0,1,0,1,0,0,0
+7312031,2026-10-22 16:00:00,test,bcgame,faze clan,1,0,1,0,1,0,0,0
+7311963,2026-10-22 17:00:00,test,unity,betclic,1,0,1,0,1,0,0,0
+7312034,2026-10-22 17:30:00,test,team aces,cybershoke esports,1,0,1,0,1,0,0,0
+7312050,2026-10-22 18:00:00,test,parivision,the mongolz,0,0,1,0,1,0,0,0
+7312030,2026-10-22 19:50:00,test,sinners esports,eternal fire,1,0,1,0,1,0,0,0
+7312053,2026-10-22 19:55:00,test,jijiehao,bcgame,1,0,1,0,1,0,0,0
+7311991,2026-10-22 20:00:00,test,sangal esports,metizport,1,0,1,0,1,0,0,0
+7312033,2026-10-22 20:20:00,test,k27,nexora,1,0,1,0,1,0,0,0
+7312032,2026-10-22 22:40:00,test,upgrade team,virtus.pro,0,0,1,0,1,0,0,0
+7312055,2026-10-23 13:00:00,test,team nemesis,team aces,1,0,1,0,1,0,0,0
+7312079,2026-10-23 16:25:00,test,k27,virtus.pro,0,0,1,0,1,0,0,0
+7312078,2026-10-23 16:50:00,test,eternal fire,jijiehao,1,0,1,0,1,0,0,0
+7312113,2026-10-23 19:25:00,test,team nemesis,virtus.pro,0,0,1,0,1,0,0,0
+7312117,2026-10-23 21:55:00,test,sinners esports,eternal fire,0,0,1,0,1,0,0,0
+7311665,2026-10-24 10:00:00,test,aurora gaming,the mongolz,0,1,0,0,1,0,0,0
+7311666,2026-10-24 10:00:00,test,fut esports,tyloo,1,1,0,0,1,0,0,0
+7311663,2026-10-24 12:15:00,test,mouz,team liquid,0,1,0,0,1,0,0,0
+7311664,2026-10-24 13:35:00,test,team spirit,betboom team,0,1,0,0,1,0,0,0
+7311662,2026-10-24 15:50:00,test,legacy,nemiga gaming,0,1,0,0,1,0,0,0
+7311661,2026-10-24 17:05:00,test,team vitality,9z team,1,1,0,0,1,0,0,0
+7311659,2026-10-24 19:15:00,test,furia esports,dendele cs,1,1,0,0,1,0,0,0
+7311660,2026-10-24 19:20:00,test,g2 esports,natus vincere,0,1,0,0,1,0,0,0
+7312160,2026-10-25 11:00:00,test,team spirit,tyloo,1,1,0,0,1,0,0,0
+7312161,2026-10-25 11:00:00,test,fut esports,team liquid,1,1,0,0,1,0,0,0
+7312159,2026-10-25 12:45:00,test,team vitality,the mongolz,1,1,0,0,1,0,0,0
+7312158,2026-10-25 13:00:00,test,betboom team,nemiga gaming,1,1,0,0,1,0,0,0
+7312156,2026-10-25 16:00:00,test,mouz,9z team,1,1,0,0,1,0,0,0
+7312157,2026-10-25 16:00:00,test,g2 esports,aurora gaming,0,1,0,0,1,0,0,0
+7312154,2026-10-25 18:50:00,test,furia esports,natus vincere,0,1,0,0,1,0,0,0
+7312155,2026-10-25 20:00:00,test,legacy,dendele cs,1,1,0,0,1,0,0,0
+7312189,2026-10-26 11:00:00,test,nemiga gaming,aurora gaming,0,1,0,0,1,0,0,0
+7312190,2026-10-26 11:00:00,test,the mongolz,mouz,0,1,0,0,1,0,0,0
+7312188,2026-10-26 13:25:00,test,team vitality,fut esports,0,1,0,0,1,0,0,0
+7312187,2026-10-26 14:00:00,test,9z team,tyloo,0,1,0,0,1,0,0,0
+7312185,2026-10-26 16:45:00,test,team spirit,furia esports,1,1,0,0,1,0,0,0
+7312186,2026-10-26 17:00:00,test,team liquid,legacy,1,1,0,0,1,0,0,0
+7312183,2026-10-26 19:30:00,test,g2 esports,dendele cs,0,1,0,0,1,0,0,0
+7312184,2026-10-26 20:00:00,test,betboom team,natus vincere,1,1,0,0,1,0,0,0
+7311958,2026-10-27 11:00:00,test,b8 esports,k27,0,0,1,0,1,0,0,0
+7311626,2026-10-27 14:00:00,test,big,magic,1,0,1,0,1,0,0,0
+7311957,2026-10-27 14:00:00,test,alliance,faze clan,0,0,1,0,1,0,0,0
+7312225,2026-10-27 14:00:00,test,team liquid,aurora gaming,0,1,0,0,1,0,0,0
+7312226,2026-10-27 14:00:00,test,nemiga gaming,dendele cs,1,1,0,0,1,0,0,0
+7312224,2026-10-27 15:55:00,test,the mongolz,legacy,1,1,0,0,1,0,0,0
+10099769,2026-10-27 16:30:00,test,k27,faze clan,0,0,1,0,1,0,0,0
+7311625,2026-10-27 17:25:00,test,inner circle,team nemesis,1,0,1,0,1,0,0,0
+7312223,2026-10-27 17:35:00,test,team spirit,mouz,0,1,0,0,1,0,0,0
+7311960,2026-10-27 18:25:00,test,luminosity gaming,hotu,0,0,1,0,1,0,0,0
+7311627,2026-10-27 19:05:00,test,astralis,fnatic,0,0,1,0,1,0,0,0
+7312222,2026-10-27 19:15:00,test,furia esports,tyloo,1,1,0,0,1,0,0,0
+7311959,2026-10-27 20:30:00,test,team envy,gamerlegion,0,0,1,0,1,0,0,0
+7312221,2026-10-27 20:50:00,test,team vitality,natus vincere,1,1,0,0,1,0,0,0
+7311624,2026-10-27 21:30:00,test,eternal fire,mibr,0,0,1,0,1,0,0,0
+7312263,2026-10-28 11:00:00,test,b8 esports,alliance,1,0,1,0,1,0,0,0
+7312269,2026-10-28 14:00:00,test,astralis,magic,1,0,1,0,1,0,0,0
+7312275,2026-10-28 14:00:00,test,the mongolz,nemiga gaming,0,1,0,0,1,0,0,0
+10099771,2026-10-28 14:00:00,test,k27,b8 esports,0,0,1,0,1,0,0,0
+7312278,2026-10-28 16:30:00,test,team nemesis,eternal fire,0,0,1,0,1,0,0,0
+7312274,2026-10-28 16:40:00,test,team liquid,furia esports,0,1,0,0,1,0,0,0
+7312272,2026-10-28 17:30:00,test,hotu,gamerlegion,1,0,1,0,1,0,0,0
+7312273,2026-10-28 19:00:00,test,team spirit,natus vincere,0,1,0,0,1,0,0,0
+7312271,2026-10-28 19:40:00,test,luminosity gaming,team envy,0,0,1,0,1,0,0,0
+7312268,2026-10-28 20:15:00,test,fnatic,big,1,0,1,0,1,0,0,0
+7312277,2026-10-28 21:30:00,test,inner circle,mibr,0,0,1,0,1,0,0,0
+7312353,2026-10-28 23:00:00,test,gamerlegion,team envy,1,0,1,0,1,0,0,0
+7312350,2026-10-29 11:00:00,test,nemiga gaming,fut esports,1,1,0,0,1,0,0,0
+7312256,2026-10-29 12:00:00,test,saw youngsters,whitebit academy,1,0,1,0,1,0,0,0
+7312357,2026-10-29 12:00:00,test,b8 esports,hotu,0,0,1,0,1,0,0,0
+7312383,2026-10-29 13:15:00,test,jijiehao,saw youngsters,1,0,1,0,1,0,0,0
+7312349,2026-10-29 13:25:00,test,team vitality,natus vincere,1,1,0,0,1,0,0,0
+7312346,2026-10-29 14:00:00,test,big,eternal fire,0,0,1,0,1,0,0,0
+7312358,2026-10-29 15:00:00,test,faze clan,gamerlegion,0,0,1,0,1,0,0,0
+7312355,2026-10-29 16:30:00,test,inner circle,astralis,0,0,1,0,1,0,0,0
+10100048,2026-10-29 16:30:00,test,saw youngsters,whitebit academy,0,0,1,0,1,0,0,0
+7312348,2026-10-29 16:45:00,test,aurora gaming,mouz,0,1,0,0,1,0,0,0
+7312254,2026-10-29 17:00:00,test,iberian soul,zotix,1,0,1,0,1,0,0,0
+7312347,2026-10-29 18:20:00,test,betboom team,furia esports,0,1,0,0,1,0,0,0
+7312393,2026-10-29 18:20:00,test,b8 esports,faze clan,0,0,1,0,1,0,0,0
+7312354,2026-10-29 19:30:00,test,fnatic,mibr,1,0,1,0,1,0,0,0
+7312395,2026-10-29 20:00:00,test,tyloo,iberian soul,0,0,1,0,1,0,0,0
+7312394,2026-10-29 21:00:00,test,gamerlegion,hotu,0,0,1,0,1,0,0,0
+7312399,2026-10-29 21:30:00,test,astralis,eternal fire,0,0,1,0,1,0,0,0
+10100054,2026-10-30 00:00:00,test,zotix,tyloo,0,0,1,0,1,0,0,0
+7312255,2026-10-30 12:00:00,test,basement boys,teletubisie,0,0,1,0,1,0,0,0
+7312496,2026-10-30 13:15:00,test,natus vincere,teletubisie,1,0,1,0,1,0,0,0
+7312388,2026-10-30 15:00:00,test,team vitality,nemiga gaming,0,1,0,0,1,0,0,0
+7312409,2026-10-30 16:00:00,test,mibr,eternal fire,0,0,1,0,1,0,0,0
+7312510,2026-10-30 16:30:00,test,basement boys,teletubisie,1,0,1,0,1,0,0,0
+7312403,2026-10-30 18:00:00,test,furia esports,mouz,1,1,0,0,1,0,0,0
+7312253,2026-10-30 19:30:00,test,bcgame,og,1,0,1,0,1,0,0,0
+10099520,2026-10-30 19:30:00,test,fnatic,eternal fire,0,0,1,0,1,0,0,0
+10100056,2026-10-30 19:30:00,test,metizport,snitko esports,1,0,1,0,1,0,0,0
+7312553,2026-10-30 21:15:00,test,og,snitko esports,1,0,1,0,1,0,0,0
+7312554,2026-10-30 21:15:00,test,bcgame,metizport,0,0,1,0,1,0,0,0
+7312572,2026-10-31 00:20:00,test,bcgame,og,0,0,1,0,1,0,0,0
+10100083,2026-10-31 09:00:00,test,metizport,tyloo,1,0,1,0,1,0,0,0
+10100084,2026-10-31 09:00:00,test,natus vincere,whitebit academy,0,0,1,0,1,0,0,0
+7312557,2026-10-31 11:00:00,test,team vitality,mouz,0,1,0,0,1,0,0,0
+7311949,2026-10-31 12:00:00,test,hotu,the huns esports,1,0,0,1,1,0,0,0
+7312556,2026-10-31 14:00:00,test,furia esports,nemiga gaming,1,1,0,0,1,0,0,0
+7311948,2026-10-31 16:00:00,test,1w team,5star esports,1,0,0,1,1,0,0,0
+7312582,2026-10-31 17:30:00,test,jijiehao,basement boys,1,0,1,0,1,0,0,0
+7312581,2026-10-31 20:45:00,test,iberian soul,og,1,0,1,0,1,0,0,0
