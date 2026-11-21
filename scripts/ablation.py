@@ -256,7 +256,8 @@ def main() -> None:
                   f"{r.d_val_logloss:+.4f} | [{r.d_val_lo:+.4f}, {r.d_val_hi:+.4f}] | "
                   f"{'是' if r.val_sig else '否'} | {r.d_oof_logloss:+.4f} |")
 
-    md += ["", "## 2. 只保留一组（极简对照）", "",
+    md += ["", "![特征消融柱状图](../figures/ablation.png)", "",
+           "## 2. 只保留一组（极简对照）", "",
            "| 配置 | 列数 | val 准确率 | val log loss | Δ log loss | OOF log loss | Δ log loss |",
            "|---|---:|---:|---:|---:|---:|---:|"]
     for _, r in df[df.config.str.startswith("only_")].sort_values("d_val_logloss").iterrows():
