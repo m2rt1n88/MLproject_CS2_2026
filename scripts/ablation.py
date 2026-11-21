@@ -173,6 +173,31 @@ def main() -> None:
 
     df.to_csv(out / "metrics.csv", index=False)
 
+    # ---- 配对 bootstrap：Δ log loss 的 95% 置信区间 ----
+    rng = np.random.default_rng(2026)
+    yva = val.team1_won.to_numpy()
+
+    def ll_vec(p):
+        q = np.clip(p, 1e-15, 1 - 1e-15)
+        return -(yva * np.log(q) + (1 - yva) * np.log(1 - q))
+
+    lb = ll_vec(preds["full"]["val"])
+    b_idx = rng.integers(0, len(lb), size=(2000, len(lb)))
+    cis = {}
+    for name in preds:
+        d = ll_vec(preds[name]["val"]) - lb
+        bs = d[b_idx].mean(axis=1)
+        cis[name] = (float(np.percentile(bs, 2.5)), float(np.percentile(bs, 97.5)))
+    df["d_val_lo"] = [cis[c][0] for c in df.config]
+    df["d_val_hi"] = [cis[c][1] for c in df.config]
+    df["val_sig"] = [(lo > 0) or (hi < 0) for lo, hi in zip(df.d_val_lo, df.d_val_hi)]
+    print("\nΔ val log loss 的 95% CI（配对 bootstrap，2000 次）：")
+    for _, r in df[df.config.str.startswith("drop_")].sort_values("d_val_logloss", ascending=False).iterrows():
+        star = "  ← 显著" if r.val_sig else ""
+        print(f"  {r.config:<18} {r.d_val_logloss:+.4f}  [{r.d_val_lo:+.4f}, {r.d_val_hi:+.4f}]{star}")
+    df.to_csv(out / "metrics.csv", index=False)
+    base = df.loc[df.config.eq("full")].iloc[0]
+
     chunks = []
     for name, d in preds.items():
         m = ~np.isnan(d["oof"])
@@ -192,19 +217,23 @@ def main() -> None:
     only_s = df[df.config.eq("only_strength")].iloc[0]
     only_e = df[df.config.eq("only_elo")].iloc[0]
     concl = ["## 0. 先看结论", ""]
-    concl.append(f"1. **只有「{NAMES[worst[5:]]}」组是实质贡献**：删掉后 val log loss "
-                 f"{base.val_logloss:.4f} → {dr.loc[worst,'val_logloss']:.4f}"
-                 f"（{dr.loc[worst,'d_val_logloss']:+.4f}），OOF 同向"
-                 f"（{dr.loc[worst,'d_oof_logloss']:+.4f}）。")
-    concl.append(f"2. **删掉「Elo 差」组几乎不掉分**（Δ = {elo_d:+.4f}）：Elo 的信息被「图论实力」组覆盖，"
-                 f"两者高度冗余。但这不等于 Elo 没用——只留 Elo 也有 {only_e.val_acc:.2%} 准确率。")
-    if len(neg):
-        names = "、".join(f"「{NAMES[i[5:]]}」（{dr.loc[i,'d_val_logloss']:+.4f}）" for i in neg.index)
-        concl.append(f"3. **删掉反而略好的组**：{names}。这些在当前正则强度下属于噪声，"
-                     f"报告里建议直接移除或明确写「未观察到增益」。")
+    sig_pos = dr[(dr.d_val_logloss > 0) & dr.val_sig].sort_values("d_val_logloss", ascending=False)
+    sig_neg = dr[(dr.d_val_logloss < 0) & dr.val_sig].sort_values("d_val_logloss")
+    nonsig = dr[~dr.val_sig].sort_values("d_val_logloss", ascending=False)
+    if len(sig_pos):
+        txt = "、".join(f"「{NAMES[i[5:]]}」{dr.loc[i,'d_val_logloss']:+.4f}"
+                        for i in sig_pos.index)
+        concl.append(f"1. **统计上确有贡献的组**（配对 bootstrap 95% CI 不含 0）：{txt}。"
+                     f"其中「{NAMES[worst[5:]]}」最大。")
+    if len(sig_neg):
+        txt = "、".join(f"「{NAMES[i[5:]]}」{dr.loc[i,'d_val_logloss']:+.4f}" for i in sig_neg.index)
+        concl.append(f"2. **删掉反而显著变好的组**：{txt}。负的 Δ 且 CI 不含 0，说明这些特征在当前"
+                     f"正则强度下学到的是噪声，建议在最终版移除。")
+    if len(nonsig):
+        txt = "、".join(f"「{NAMES[i[5:]]}」{dr.loc[i,'d_val_logloss']:+.4f}" for i in nonsig.index)
+        concl.append(f"3. **与 0 分不开的组**：{txt}（CI 跨零，不能宣称有用也不能宣称无用）。")
     concl.append(f"4. **11 列的「图论实力」组单独就打到 {only_s.val_acc:.2%} / {only_s.val_logloss:.4f}**，"
-                 f"逼近 41 列全量（{base.val_acc:.2%} / {base.val_logloss:.4f}）。"
-                 f"增益主要来自这一组，其余更多是在改善概率质量而非准确率。")
+                 f"逼近 41 列全量（{base.val_acc:.2%} / {base.val_logloss:.4f}）：增益主要来自这一组。")
     concl.append("")
 
     def pct(x):
@@ -218,13 +247,14 @@ def main() -> None:
           "- **测试集不参与**；下表全部来自训练期留出（OOF）与开发验证（val）", "",
           *concl,
           "## 1. 逐个删除一组（Δ 越大 = 这组越重要）", "",
-          "| 配置 | 列数 | val 准确率 | val log loss | Δ log loss | val ECE | OOF log loss | Δ log loss |",
-          "|---|---:|---:|---:|---:|---:|---:|---:|"]
+          "| 配置 | 列数 | val 准确率 | val log loss | Δ log loss | 95% CI | 显著? | OOF Δ |",
+          "|---|---:|---:|---:|---:|---|---:|---:|"]
     order = [base] + [r for _, r in df[df.config.str.startswith("drop_")]
                       .sort_values("d_val_logloss", ascending=False).iterrows()]
     for r in order:
         md.append(f"| {r.label} | {int(r.n_cols)} | {pct(r.val_acc)} | {r.val_logloss:.4f} | "
-                  f"{r.d_val_logloss:+.4f} | {r.val_ece:.4f} | {r.oof_logloss:.4f} | {r.d_oof_logloss:+.4f} |")
+                  f"{r.d_val_logloss:+.4f} | [{r.d_val_lo:+.4f}, {r.d_val_hi:+.4f}] | "
+                  f"{'是' if r.val_sig else '否'} | {r.d_oof_logloss:+.4f} |")
 
     md += ["", "## 2. 只保留一组（极简对照）", "",
            "| 配置 | 列数 | val 准确率 | val log loss | Δ log loss | OOF log loss | Δ log loss |",
@@ -236,7 +266,7 @@ def main() -> None:
     md += ["", "## 3. 怎么读这张表", "",
            "- **Δ log loss > 0**：删掉这组后变差，说明它提供真实信息。数值越大越重要。",
            "- **Δ log loss < 0**：删掉反而更好，说明这组在当前正则强度下是噪声，可以在报告里建议移除。",
-           "- `interactions` 组 9 列里有 6 列恒为 0（赛制全未知），它的 Δ 实际只反映 3 个 tier1 交互。",
+           "- 「赛制/等级交互」组 9 列里有 6 列恒为 0（赛制全未知），它的 Δ 实际只反映 3 个 tier1 交互。",
            "- OOF 与 val 方向一致时结论可靠；只有一边明显时按噪声处理。", ""]
     (out / "ABLATION.md").write_text("\n".join(md) + "\n", encoding="utf8")
     print(f"\n[written] {out/'metrics.csv'}\n[written] {out/'ABLATION.md'}", flush=True)
