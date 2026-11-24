@@ -1,0 +1,60 @@
+{
+  "source": "v9-clean-v2",
+  "n_test": 2159,
+  "date_range": [
+    "2026-04-01 11:00:00",
+    "2026-10-31 20:45:00"
+  ],
+  "stacking_lock_sha256": "1584bdbc64880cfe15179e2a7ddaf5bf8711fa82cefe6107ea09f1dae7e2971d",
+  "lstm_model_sha256": "71ecb516a08c59ee08d31f661ac5d0c087df57993f0ee110389863713f168d03",
+  "recipe": {
+    "name": "m2+lstm/mean",
+    "kind": "mean",
+    "models": [
+      "m2",
+      "lstm"
+    ],
+    "weights": [
+      0.5,
+      0.5
+    ]
+  },
+  "m2_rebuild_max_abs_diff": 1.7629586579470669e-07,
+  "leak_checks": [
+    {
+      "day": "2026-04-01",
+      "n": 28,
+      "max_abs_diff": 0.0
+    },
+    {
+      "day": "2026-05-12",
+      "n": 17,
+      "max_abs_diff": 0.0
+    },
+    {
+      "day": "2026-06-24",
+      "n": 8,
+      "max_abs_diff": 0.0
+    },
+    {
+      "day": "2026-08-09",
+      "n": 30,
+      "max_abs_diff": 0.0
+    },
+    {
+      "day": "2026-09-21",
+      "n": 5,
+      "max_abs_diff": 0.0
+    },
+    {
+      "day": "2026-10-31",
+      "n": 9,
+      "max_abs_diff": 0.0
+    }
+  ],
+  "outputs": {
+    "reports/m3/lstm_test.csv": "fc056c89a013a5cb8e07659c59bfb348e5c8c527d98c5cfb446390195496bdca",
+    "reports/m3/stacking_test.csv": "cb3c6072508c032af73f4ac84b49eb0170c2265657fe7feb3bd566f6e7c69bfc"
+  },
+  "note": "测试期特征由全部比赛在线重建；LSTM 每场只用更早比赛日的历史。预测阶段不计算任何测试指标。"
+}
