@@ -65,7 +65,7 @@
 | `03-calibration-selection/` | 校准、分层、选择性预测、置信区间 | `scripts/m4_report.py`、`reports/M4.md` |
 | `04-basic-models/` | 朴素贝叶斯、决策树、同列数随机森林 | `scripts/train_basic_models.py`、`reports/basic_models/` |
 | `05-figures/` | 五张 slides 用图（200 dpi） | `reports/figures/` |
-| `06-three-models/` | **按组内最终分工，我负责的三个模型**：朴素贝叶斯 / 逻辑回归 / 随机森林 | `scripts/three_models.py`、`reports/three_models/` |
+| `06-three-models/` | **按组内最终分工，我负责的三个模型**：朴素贝叶斯 / 逻辑回归 / 随机森林（含三份分模型说明 + Word 学习手册） | `scripts/three_models.py`、`reports/three_models/` |
 
 ---
 
