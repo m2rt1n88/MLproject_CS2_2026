@@ -9,6 +9,8 @@
 
 用冻结的 M1/M2 补上了此前缺失的**最终测试集评估**，并补齐了分工表里写的**特征消融**、此前完全空白的 **M4 校准与选择性预测**，另加两个课内基础模型（朴素贝叶斯、决策树）。
 
+按组内最后的分工，我负责 **朴素贝叶斯 / 逻辑回归 / 随机森林** 这三个模型的讲解与材料，见 `06-three-models/`。
+
 **没有改动任何已冻结的产物**：`models/`、`data/processed/clean_v2/`、`manifest.json` 一字未动。
 
 ---
@@ -62,7 +64,8 @@
 | `02-ablation/` | 8 组特征逐组删除 + 只留一组对照 | `scripts/ablation.py`、`reports/ablation/` |
 | `03-calibration-selection/` | 校准、分层、选择性预测、置信区间 | `scripts/m4_report.py`、`reports/M4.md` |
 | `04-basic-models/` | 朴素贝叶斯、决策树、同列数随机森林 | `scripts/train_basic_models.py`、`reports/basic_models/` |
-| `05-figures/` | 四张 slides 用图（200 dpi） | `reports/figures/` |
+| `05-figures/` | 五张 slides 用图（200 dpi） | `reports/figures/` |
+| `06-three-models/` | **按组内最终分工，我负责的三个模型**：朴素贝叶斯 / 逻辑回归 / 随机森林 | `scripts/three_models.py`、`reports/three_models/` |
 
 ---
 
