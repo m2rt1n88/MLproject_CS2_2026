@@ -60,6 +60,7 @@
 
 | 目录 | 内容 | 对应主目录文件 |
 |---|---|---|
+| `00-data/` | **我们的数据是什么**：三层结构、核心数字、41 个特征分组、三个坑 | `inspect_data.py`、`DATA_PROFILE.txt` |
 | `01-test-set-eval/` | 测试集特征重建与一次性预测 | `scripts/build_test_features.py` |
 | `02-ablation/` | 8 组特征逐组删除 + 只留一组对照 | `scripts/ablation.py`、`reports/ablation/` |
 | `03-calibration-selection/` | 校准、分层、选择性预测、置信区间 | `scripts/m4_report.py`、`reports/M4.md` |

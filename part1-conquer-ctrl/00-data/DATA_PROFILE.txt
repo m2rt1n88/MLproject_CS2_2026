@@ -1,0 +1,119 @@
+CS2 项目数据速查
+仓库：F:\Git\MLproject_CS2_2026
+
+==========================================================================
+第 1 层 · 原始数据 data/raw/（从 Kaggle 下载，不要改）
+==========================================================================
+  cs2_all_tiers_games.csv       23,888 行   98 列   主表：一行可能是「一整场」也可能是「一张图」
+  cs2_tier1_games.csv           12,866 行   98 列   Tier 1 赛事（和主表有重叠，用 match_id 筛）
+  cs2_tier2_games.csv            9,624 行   98 列   Tier 2 赛事
+  cs2_tier3_games.csv            1,398 行   98 列   Tier 3 赛事
+  players.csv                    1,567 行    2 列   选手 id ↔ 名字
+  teams.csv                     22,788 行    2 列   队伍 id ↔ 名字
+  tournaments.csv                  401 行    1 列   赛事名单
+
+  主表为什么有 98 列？因为它把 5 类信息堆在了一起：
+    · 比赛级   match_id / datetime / tournament / team1 / team2 / score*_match
+    · 地图级   is_total / map_name / score*_game / game_id
+    · 赛制     bestOf / games_played
+    · 阵容     20 个 team{1,2}_player{1..5}_id
+    · 选手数据 60 个 ……_kills / deaths / assists / adr / kast / kddiff
+
+  ⚠️ 关键坑：is_total=True 的行是「整场汇总」，is_total=False 是「单张地图」。
+     直接用 team1_win 当标签会错（行级标记，聚合行不可靠）。
+
+==========================================================================
+第 2 层 · 清洗后的表 data/processed/clean_v2/（一行一场 / 一行一图）
+==========================================================================
+  matches.csv         11,387 行 × 33 列   ← 一行一整场比赛
+  maps.csv            12,387 行 ×  9 列   ← 一行一张地图
+  match_quality.csv   11,387 行 × 17 列   ← 每场的数据质量标记
+
+  时间范围      2023-01-10 → 2026-10-31
+  比赛总数      11,387
+  队伍数        982
+  每队比赛中位数 5
+  队 1 胜率     0.5519   ← 这就是「排序偏置」的来源
+
+  时间切分（写死，不要改）：
+    train   7,260 场  2023-01-10 → 2025-09-30
+    val     1,968 场  2025-10-01 → 2026-03-31
+    test    2,159 场  2026-04-01 → 2026-10-31
+
+  赛区分档：
+    tier2   5,348 场  (47.0%)
+    tier1   5,134 场  (45.1%)
+    tier3     905 场  (7.9%)
+
+  数据完整度（这三个数字决定了能做什么特征）：
+    有地图明细的比赛    52.4%   ← 地图池特征只覆盖一半
+    阵容完整（10 人齐） 68.4%
+    BO 赛制已知          0.0%   ← 清洗时为了保证不泄漏，全部置为未知
+
+==========================================================================
+第 3 层 · 建模用的特征表 clean_v2/m2/{train,val}.csv（一行一场，全是赛前信息）
+==========================================================================
+  train.csv   7,260 行 × 86 列
+  val.csv     1,968 行 × 86 列
+
+  86 列分成四类：
+    · 元数据与标签    7 列  ['match_id', 'date', 'split', 'team1', 'team2', 'team1_won', 'is_swapped']
+    · 单侧队伍特征   41 列  如 team1_elo / team2_elo（成对出现）
+    · 差值特征       31 列  如 diff_elo = team1_elo − team2_elo
+    · 赛制/赛区标记   7 列  ['bo1', 'bo3', 'bo5', 'bo_missing', 'tier1', 'tier2', 'tier3']
+
+  ⚠️ 模型只吃 diff_ 和交互项，不吃单侧特征——因为交换两队时差值会变号，单侧不会。
+
+==========================================================================
+实际长什么样：三行样本
+==========================================================================
+
+① 一场比赛（matches.csv，取队名最短的一场看得清）
+   match_id=10064342  date=2023-10-23 17:00:00  team1=OG  team2=Anonymo Esports  score1=0.0  score2=2.0  tier=tier2  n_maps=0  team1_won=0
+
+② 一张地图（maps.csv）
+   match_id=487653  date=2023-10-27 20:00:00  team1=Monte  team2=Team Falcons  tournament=ESL Challenger League Season 46 — Europe  map_name=overpass  score1=5.0  score2=13.0  team1_won_map=0
+
+③ 一条特征（m2/train.csv，挑 8 个列看）
+     match_id               = 10064153
+     date                   = 2023-10-10 16:30:00
+     team1                  = apeks
+     team2                  = looking4org
+     team1_won              = 0
+     team1_elo              = 1507.5597207377966
+     team2_elo              = 1507.7566802405663
+     diff_elo               = -0.1969595027699142
+     diff_last_overlap      = 0.0
+     team1_prior_adr        = nan
+     tier1                  = 0
+     bo_missing             = 1
+
+   读法：diff_elo = 1508 − 1508 = -0，意思是队 1 的 Elo 比队 2 高 -0 分。
+   所有 ……_prior_adr / ……_last_overlap 都是「这场之前」的历史，绝不包含本场。
+
+==========================================================================
+41 个建模特征的 8 个语义组（消融实验按这个分组）
+==========================================================================
+  Elo 差         2 列   diff_elo, diff_map_elo
+  近期状态          6 列   diff_win_rate10, diff_opponent_weighted_form1, diff_streak, diff_rest_days  …
+  阵容            6 列   diff_last_overlap, diff_lineup_run, diff_lineup_age, diff_prior_adr  …
+  地图池           5 列   diff_maps180, diff_pool_size, diff_map_best, diff_map_mean  …
+  历史交手          1 列   diff_h2h_rate
+  图论实力         11 列   diff_graph90, diff_graph270, diff_team_player, diff_player_team  …
+  经验            1 列   log_experience
+  赛制/等级交互       9 列   diff_graph90_bo1, diff_graph90_bo5, diff_graph90_tier1, diff_team_player_bo1  …
+  合计           41 列   （design() 实际产出 41 列）
+
+  实测覆盖度：
+    diff_last_overlap      非空 72.0%
+    diff_prior_adr         非空 70.5%
+    diff_maps180           非空 100.0%
+
+==========================================================================
+三个常见误解
+==========================================================================
+  ① 「11,394 场」不是我们的样本量。原始 11,394，清洗掉平局/缺比分后是 11,387。
+  ② 「98 列」不等于 98 个特征。模型只用 41 列，且全是「差值」。
+  ③ 「有选手数据」不等于全覆盖。地图行 81% 有 ADR/KAST，比赛级只有 42%。
+
+报告已写入：F:\Git\MLproject_CS2_2026\part1-conquer-ctrl\00-data\DATA_PROFILE.txt
