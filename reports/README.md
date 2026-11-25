@@ -13,7 +13,7 @@
 | [m3/MLP.md](m3/MLP.md) | M3（1/2） | MLP 分类器，41 列特征同口径 | val 63.47% / 0.6362，比 M2 差 0.0024 |
 | [ablation/ABLATION.md](ablation/ABLATION.md) | Part 1 | 特征消融：8 组逐组删除 + 只留一组 | 图论实力最重要，Elo 冗余 |
 | [basic_models/BASIC_MODELS.md](basic_models/BASIC_MODELS.md) | Part 1 | 朴素贝叶斯 + 单棵决策树 + 同 41 列随机森林 | 决策树过拟合曲线；NB 准确率会骗人 |
-| [three_models/THREE_MODELS.md](three_models/THREE_MODELS.md) | Part 1 | 贝叶斯 / 逻辑回归 / 随机森林 同条件对比 | 准确率几乎一样，log loss 差 2.4 倍 |
+| [four_models/MODELS_COMPARISON.md](four_models/MODELS_COMPARISON.md) | Part 1 | 贝叶斯 / 逻辑回归 / 随机森林 / KNN 同条件对比 | 准确率几乎一样，log loss 差 2.4 倍 |
 
 M3（融合）的产物不在主线里，见 `handoff/m3-experiments/`：两轮实验，结论是**没有融合方案能可靠超过 M2**。
 M3 的第一个神经模型（MLP）已按主线口径落地：`scripts/train_mlp.py`，结果见 [m3/MLP.md](m3/MLP.md)。
