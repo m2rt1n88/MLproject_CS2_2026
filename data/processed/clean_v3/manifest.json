@@ -1,0 +1,154 @@
+{
+  "version": "v9-clean-v3",
+  "source_manifest_sha256": "ceda9de40722a3e7dba237f388dd558df99d7923fa9ac6216d54403d0c350107",
+  "raw_rows": 23888,
+  "counts": {
+    "train": 7260,
+    "test": 2159,
+    "val": 1968
+  },
+  "map_rows": 12387,
+  "accepted_player_stat_rows": 118323,
+  "map_statistics_quarantined": 19,
+  "short_map_scores_for_review": 3,
+  "identity_counts": {
+    "source_team_ids": 22788,
+    "normalized_names": 982,
+    "names_with_multiple_source_ids": 861
+  },
+  "quarantined_source_rows": 114,
+  "actions": {
+    "normalize": 47034,
+    "quarantine_match": 7,
+    "drop_duplicate": 4,
+    "flag_review": 2,
+    "fill_from_duplicate": 1,
+    "quarantine_row": 103,
+    "set_missing": 1307,
+    "replace_metadata": 5,
+    "exclude_map_player_statistics": 19
+  },
+  "reason_counts": {
+    "conflicting_duplicate_map_score": {
+      "audit_entries": 2,
+      "source_rows": 2,
+      "matches": 1
+    },
+    "draw_not_binary_target": {
+      "audit_entries": 5,
+      "source_rows": 5,
+      "matches": 5
+    },
+    "duplicate_aggregate": {
+      "audit_entries": 4,
+      "source_rows": 4,
+      "matches": 4
+    },
+    "duplicate_player_within_team": {
+      "audit_entries": 165,
+      "source_rows": 33,
+      "matches": 18
+    },
+    "map_metadata_aligned_to_aggregate": {
+      "audit_entries": 5,
+      "source_rows": 5,
+      "matches": 2
+    },
+    "map_statistics_internal_contradiction": {
+      "audit_entries": 19,
+      "source_rows": 19,
+      "matches": 19
+    },
+    "missing_map_name": {
+      "audit_entries": 90,
+      "source_rows": 90,
+      "matches": 64
+    },
+    "missing_or_invalid_series_score": {
+      "audit_entries": 1,
+      "source_rows": 1,
+      "matches": 1
+    },
+    "missing_team_name": {
+      "audit_entries": 1,
+      "source_rows": 1,
+      "matches": 1
+    },
+    "no_accepted_aggregate": {
+      "audit_entries": 11,
+      "source_rows": 11,
+      "matches": 5
+    },
+    "normalized_team_name": {
+      "audit_entries": 47034,
+      "source_rows": 23884,
+      "matches": 11390
+    },
+    "player_on_both_teams": {
+      "audit_entries": 110,
+      "source_rows": 11,
+      "matches": 6
+    },
+    "recovered_duplicate_aggregate_roster": {
+      "audit_entries": 1,
+      "source_rows": 1,
+      "matches": 1
+    },
+    "tournament_alias_unverified": {
+      "audit_entries": 2,
+      "source_rows": 2,
+      "matches": 2
+    },
+    "unreliable_map_statistics": {
+      "audit_entries": 1032,
+      "source_rows": 19,
+      "matches": 19
+    }
+  },
+  "removed_v2_match_ids": [],
+  "added_v2_match_ids": [],
+  "bo_policy": "unknown for all pre-match rows; never infer from final score",
+  "identity_policy": "NFKC + whitespace + casefold name; source team IDs are not global identities",
+  "feature_policy": "train/val only; earlier-day history; no model fitting or test evaluation",
+  "files": {
+    "matches.csv": "15ebc6fe01bf149b4eab59428ea399abe05652f79eb19c38e5ef6bff49b2d593",
+    "maps.csv": "feea99b2b20f156fc699fb7de6b618ceacfeefd85301c5151960622785a3798a",
+    "player_stats.csv": "53e99ab7044f3c9334227b62c0e3f8c6751cbc742b535d99a5622e1f807a8e4a",
+    "match_quality.csv": "71c594424cd1f4af86c645d9f49f29add962e855964078dd403ea20204d9e094",
+    "audit_log.csv": "14e222eb0db530ab94c34c6c3a987ab45d505bb5f0a6369edd6779d3f111d408",
+    "quarantined_rows.csv": "7836ae5f669855ee5010429319c2e9163171a1e6ddb67beeee95e535d5ac9bfe",
+    "team_identity_audit.csv": "e8c502c36530909e71368d51b9bbe9a6082dfe729aa173fd3a6f3d636fbb7f1c",
+    "m2/train.csv": "44b9fee93edb1563da95a6de7d4097d42d978dbe2528085718cf9cc8e3fb90d7",
+    "m2/val.csv": "8d7d36e96be99a28ebe2a28215143a536c09303567506508e20e4676985e6489"
+  },
+  "feature_changes_vs_v2": {
+    "train": {
+      "compared_matches": 7260,
+      "changed_matches": 1742,
+      "changed_columns": {
+        "diff_prior_adr": 225,
+        "diff_prior_kast": 231,
+        "diff_graph270": 314,
+        "diff_team_player": 848,
+        "diff_player_team": 809,
+        "diff_roster_strength": 721,
+        "diff_opponent_strength": 901,
+        "diff_team_player_tier1": 390
+      }
+    },
+    "val": {
+      "compared_matches": 1968,
+      "changed_matches": 955,
+      "changed_columns": {
+        "diff_prior_adr": 130,
+        "diff_prior_kast": 129,
+        "diff_graph270": 459,
+        "diff_team_player": 829,
+        "diff_player_team": 830,
+        "diff_roster_strength": 752,
+        "diff_opponent_strength": 380,
+        "diff_team_player_tier1": 236
+      }
+    }
+  }
+}
