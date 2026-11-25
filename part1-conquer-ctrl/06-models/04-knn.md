@@ -135,3 +135,64 @@ A：**它俩是同一件事的两端**。逻辑回归假设边界是全局线性
 
 **Q：KNN 有什么实际缺点？**
 A：两个。**预测慢**：每次预测都要和 14,520 个样本算距离，不像逻辑回归一次乘加就完事。**吃权重**：它不支持 `sample_weight`，所以用不了我们的时间衰减，这对"状态会变化"的体育数据是实打实的劣势。
+
+---
+
+## 附：从零手写 KNN（验证你真的懂了）
+
+脚本 `knn_from_scratch.py` 用 20 行纯 numpy 实现了 KNN，并在真实数据上与 sklearn 对照。
+
+### 三步，二十行
+
+```python
+# 第一步：算距离。||a-b||² = ||a||² + ||b||² - 2ab，把逐对相减变成一次矩阵乘法
+def knn_distance(X_train, X_query):
+    q2 = (X_query ** 2).sum(axis=1)[:, None]
+    t2 = (X_train ** 2).sum(axis=1)[None, :]
+    cross = X_query @ X_train.T
+    d2 = q2 + t2 - 2.0 * cross
+    return np.sqrt(np.maximum(d2, 0.0))
+
+# 第二、三步：找最近 k 个 + 投票
+def knn_predict_proba(X_train, y_train, X_query, k=135):
+    probs = np.empty(len(X_query))
+    for start in range(0, len(X_query), 400):          # 分块，避免一次开出 28M 的距离矩阵
+        sl = slice(start, start + 400)
+        dist = knn_distance(X_train, X_query[sl])
+        idx = np.argpartition(dist, k - 1, axis=1)[:, :k]   # 只找前 k 小，不排序，比 argsort 快
+        probs[sl] = y_train[idx].mean(axis=1)               # 投票取平均 = 概率
+    return probs
+```
+
+### 验证结果
+
+| 项目 | 结果 |
+|---|---|
+| 无并列的样本 | 1,734 / 1,968（88.1%） |
+| 这些样本上的最大概率差 | **0.000e+00** —— 完全一致 |
+| 有并列的样本 | 234 场（11.9%） |
+
+### 一个真实的发现：11.9% 的验证样本存在距离并列
+
+原因：训练集 14,520 行里有 **665 行特征向量是重复的**，其中 **522 行是全零向量**。
+
+全零向量来自"两队都没有历史记录"的比赛——Elo 都是 1500，所有差值特征都是 0，于是 522 场冷启动比赛在特征空间里**完全重合**。
+
+后果：
+
+- 当一场比赛的"第 135 个邻居"和"第 136 个邻居"距离相等时，**选哪 135 个完全取决于实现的取舍规则**。
+- 手写版和 sklearn 在这些样本上给出不同概率（最大差 0.126）。**这不是 bug，是 KNN 在这种数据上的真实脆弱性。**
+- 极端例子：验证集有 21 场全零比赛，它们到那 522 个全零训练点的距离都是 0。手写版平均给 0.5037，sklearn 给 0.5111，真实胜率 0.5714——**模型其实是在猜这批样本的基准胜率。**
+
+### 这一条可以写进报告
+
+> KNN 对特征空间中的重复点敏感。我们的数据里 522 场冷启动比赛的特征向量完全重合，
+> 导致 11.9% 的验证样本第 k 个邻居存在并列，预测概率取决于实现的取舍规则。
+> 这是我们没有选 KNN 作为主模型的一个次要理由。
+
+### 怎么自己跑
+
+```powershell
+cd F:\Git\MLproject_CS2_2026
+F:\venvs\ml-cs2\Scripts\python.exe -B -m scripts.knn_from_scratch
+```
