@@ -1,0 +1,324 @@
+{
+  "data_sha256": "bebefd3aae19d66958693f759767e0f71efac2a40e2e4af593eab6ee96c7a023",
+  "versions": {
+    "python": "3.13.3",
+    "numpy": "2.4.1",
+    "pandas": "2.3.3",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.7.2",
+    "joblib": "1.6.0",
+    "threadpoolctl": "3.8.0",
+    "xgboost": "3.1.3",
+    "lightgbm": "4.6.0",
+    "tabpfn": "0.1.10",
+    "torch": "2.9.1"
+  },
+  "grouped_repeats": 30,
+  "tabpfn_checkpoint_sha256": "3c9aadaeddbf51462af8c0ee4b3ca3c697890f77e92318abbb0821b75261c392",
+  "models": [
+    "majority",
+    "m1_random_forest",
+    "m2_logistic",
+    "m1_logistic",
+    "gaussian_nb",
+    "decision_tree",
+    "knn",
+    "mlp",
+    "lightgbm",
+    "linear_svm",
+    "adaboost",
+    "bradley_terry",
+    "bradley_terry_context",
+    "rolling_elo",
+    "two_feature_logistic",
+    "l1_logistic",
+    "xgboost",
+    "tabpfn_v1",
+    "lightgbm_team_only",
+    "lightgbm_player_only",
+    "m3_stacking"
+  ],
+  "boundaries": {
+    "grouped_01": {
+      "train_maps": 814,
+      "test_maps": 196,
+      "train_series": 461,
+      "test_series": 116,
+      "train_last_day": "2024-01-20",
+      "test_first_day": "2023-11-12"
+    },
+    "grouped_02": {
+      "train_maps": 819,
+      "test_maps": 191,
+      "train_series": 461,
+      "test_series": 116,
+      "train_last_day": "2024-01-20",
+      "test_first_day": "2023-11-13"
+    },
+    "grouped_03": {
+      "train_maps": 807,
+      "test_maps": 203,
+      "train_series": 461,
+      "test_series": 116,
+      "train_last_day": "2024-01-20",
+      "test_first_day": "2023-11-13"
+    },
+    "grouped_04": {
+      "train_maps": 798,
+      "test_maps": 212,
+      "train_series": 461,
+      "test_series": 116,
+      "train_last_day": "2024-01-20",
+      "test_first_day": "2023-11-13"
+    },
+    "grouped_05": {
+      "train_maps": 797,
+      "test_maps": 213,
+      "train_series": 461,
+      "test_series": 116,
+      "train_last_day": "2024-01-20",
+      "test_first_day": "2023-11-12"
+    },
+    "grouped_06": {
+      "train_maps": 809,
+      "test_maps": 201,
+      "train_series": 461,
+      "test_series": 116,
+      "train_last_day": "2024-01-20",
+      "test_first_day": "2023-11-12"
+    },
+    "grouped_07": {
+      "train_maps": 810,
+      "test_maps": 200,
+      "train_series": 461,
+      "test_series": 116,
+      "train_last_day": "2024-01-20",
+      "test_first_day": "2023-11-13"
+    },
+    "grouped_08": {
+      "train_maps": 797,
+      "test_maps": 213,
+      "train_series": 461,
+      "test_series": 116,
+      "train_last_day": "2024-01-20",
+      "test_first_day": "2023-11-13"
+    },
+    "grouped_09": {
+      "train_maps": 812,
+      "test_maps": 198,
+      "train_series": 461,
+      "test_series": 116,
+      "train_last_day": "2024-01-20",
+      "test_first_day": "2023-11-12"
+    },
+    "grouped_10": {
+      "train_maps": 806,
+      "test_maps": 204,
+      "train_series": 461,
+      "test_series": 116,
+      "train_last_day": "2024-01-20",
+      "test_first_day": "2023-11-12"
+    },
+    "grouped_11": {
+      "train_maps": 809,
+      "test_maps": 201,
+      "train_series": 461,
+      "test_series": 116,
+      "train_last_day": "2024-01-20",
+      "test_first_day": "2023-11-12"
+    },
+    "grouped_12": {
+      "train_maps": 800,
+      "test_maps": 210,
+      "train_series": 461,
+      "test_series": 116,
+      "train_last_day": "2024-01-20",
+      "test_first_day": "2023-11-12"
+    },
+    "grouped_13": {
+      "train_maps": 809,
+      "test_maps": 201,
+      "train_series": 461,
+      "test_series": 116,
+      "train_last_day": "2024-01-20",
+      "test_first_day": "2023-11-12"
+    },
+    "grouped_14": {
+      "train_maps": 812,
+      "test_maps": 198,
+      "train_series": 461,
+      "test_series": 116,
+      "train_last_day": "2024-01-20",
+      "test_first_day": "2023-11-12"
+    },
+    "grouped_15": {
+      "train_maps": 805,
+      "test_maps": 205,
+      "train_series": 461,
+      "test_series": 116,
+      "train_last_day": "2024-01-20",
+      "test_first_day": "2023-11-12"
+    },
+    "grouped_16": {
+      "train_maps": 799,
+      "test_maps": 211,
+      "train_series": 461,
+      "test_series": 116,
+      "train_last_day": "2024-01-20",
+      "test_first_day": "2023-11-13"
+    },
+    "grouped_17": {
+      "train_maps": 805,
+      "test_maps": 205,
+      "train_series": 461,
+      "test_series": 116,
+      "train_last_day": "2024-01-20",
+      "test_first_day": "2023-11-12"
+    },
+    "grouped_18": {
+      "train_maps": 812,
+      "test_maps": 198,
+      "train_series": 461,
+      "test_series": 116,
+      "train_last_day": "2024-01-20",
+      "test_first_day": "2023-11-12"
+    },
+    "grouped_19": {
+      "train_maps": 824,
+      "test_maps": 186,
+      "train_series": 461,
+      "test_series": 116,
+      "train_last_day": "2024-01-20",
+      "test_first_day": "2023-11-12"
+    },
+    "grouped_20": {
+      "train_maps": 813,
+      "test_maps": 197,
+      "train_series": 461,
+      "test_series": 116,
+      "train_last_day": "2024-01-20",
+      "test_first_day": "2023-11-12"
+    },
+    "grouped_21": {
+      "train_maps": 791,
+      "test_maps": 219,
+      "train_series": 461,
+      "test_series": 116,
+      "train_last_day": "2024-01-20",
+      "test_first_day": "2023-11-13"
+    },
+    "grouped_22": {
+      "train_maps": 805,
+      "test_maps": 205,
+      "train_series": 461,
+      "test_series": 116,
+      "train_last_day": "2024-01-20",
+      "test_first_day": "2023-11-13"
+    },
+    "grouped_23": {
+      "train_maps": 796,
+      "test_maps": 214,
+      "train_series": 461,
+      "test_series": 116,
+      "train_last_day": "2024-01-20",
+      "test_first_day": "2023-11-13"
+    },
+    "grouped_24": {
+      "train_maps": 807,
+      "test_maps": 203,
+      "train_series": 461,
+      "test_series": 116,
+      "train_last_day": "2024-01-20",
+      "test_first_day": "2023-11-12"
+    },
+    "grouped_25": {
+      "train_maps": 812,
+      "test_maps": 198,
+      "train_series": 461,
+      "test_series": 116,
+      "train_last_day": "2024-01-20",
+      "test_first_day": "2023-11-13"
+    },
+    "grouped_26": {
+      "train_maps": 806,
+      "test_maps": 204,
+      "train_series": 461,
+      "test_series": 116,
+      "train_last_day": "2024-01-20",
+      "test_first_day": "2023-11-12"
+    },
+    "grouped_27": {
+      "train_maps": 808,
+      "test_maps": 202,
+      "train_series": 461,
+      "test_series": 116,
+      "train_last_day": "2024-01-20",
+      "test_first_day": "2023-11-12"
+    },
+    "grouped_28": {
+      "train_maps": 803,
+      "test_maps": 207,
+      "train_series": 461,
+      "test_series": 116,
+      "train_last_day": "2024-01-20",
+      "test_first_day": "2023-11-13"
+    },
+    "grouped_29": {
+      "train_maps": 814,
+      "test_maps": 196,
+      "train_series": 461,
+      "test_series": 116,
+      "train_last_day": "2024-01-20",
+      "test_first_day": "2023-11-13"
+    },
+    "grouped_30": {
+      "train_maps": 799,
+      "test_maps": 211,
+      "train_series": 461,
+      "test_series": 116,
+      "train_last_day": "2024-01-20",
+      "test_first_day": "2023-11-12"
+    },
+    "date_holdout": {
+      "train_maps": 790,
+      "test_maps": 220,
+      "train_series": 421,
+      "test_series": 156,
+      "train_last_day": "2024-01-15",
+      "test_first_day": "2024-01-16"
+    }
+  },
+  "deployed_training_maps": 1010,
+  "deployed_training_series": 577,
+  "deployed_training_last_day": "2024-01-20",
+  "model_sha256": {
+    "majority": "f828fc7a9d796b825a5801f50b021fb2e9ae0e5ff8762869ac2f57cdf5f993a3",
+    "m1_random_forest": "7360ad17f6c3085c991e6a2d8966b9e6ff04bc6d93ee072e118d4b6d2a7182a9",
+    "m2_logistic": "2cef59baed82324879ec22231e5e418ecd5dec71662e0934cccd032d5563f07d",
+    "m1_logistic": "4caf56736ecb1b098176733f43fbbaaa08a80057980ef9c68a4a894809b8a6e1",
+    "gaussian_nb": "00ef114c7837cb26bf3d0cb04b8deecff4673b557f8db4ad6f600effc799ddc3",
+    "decision_tree": "ce757cab160cb42838cfd82eeec3f7461b2ee926259243f2995d2488ecd58ec3",
+    "knn": "82d0f7fb42d25635219abe5fef741b8e81e6b73d6d6da3e188e2921de09a7b51",
+    "mlp": "da7143399f943fd2d9f5cf4a03a91fa09a2a564f83750c49d7f5632648696338",
+    "lightgbm": "99bee7134b62c6b7d6688c7f55096e1931d887352101feac2344c9eb2496da79",
+    "linear_svm": "ea8466170fa546983f406ac629fe0b087a24ba706a75d2c27efc50a33ab0b655",
+    "adaboost": "3b69d9660770b7a6768d684c1ae9df56856b00a5287a7496c6e83403f785387b",
+    "bradley_terry": "5ed06b1ecb6de70252bca6a9b21b25d334726aebc2cedba4948311e2da42167d",
+    "bradley_terry_context": "1fb8eaed4181b7bbbf82c4d3831356482ec4af7b5615e462dfbd0f94147b1efa",
+    "rolling_elo": "9e42924b499fba70e9a644af01a81d95ce41e17abd5ec7fad147e84e23d94b89",
+    "two_feature_logistic": "9be6bdc68f54cddab30eb33cb43a3b4c0aa0c8ea962dc23fc7196ae6903294ff",
+    "l1_logistic": "e4786c1dce0306232907d97a9487d7d14a034080a6dfad544711a13bf2196662",
+    "xgboost": "1a58ee6be13c984cbc0f45624643cd47e3a18ff97af63caf24c5eeb4c2ea411a",
+    "tabpfn_v1": "95102e81eac32a2b2dc86abc92edc1fee15fe5a7dbf36cb3c6821f268b3923c2",
+    "lightgbm_team_only": "44a5d95a3131dd57296c5f64361b2220fa3dd052d100726da63f1e7dc86571b1",
+    "lightgbm_player_only": "7230640df805277fd093502b6be5853aee59e41c13950e24281f3174c8b25e94",
+    "m3_stacking": "e46303dd016abb136a76e8001b6b69146b8b0aa08981a294f6e47dc854ba0981"
+  },
+  "report_sha256": {
+    "summary.csv": "e4663e09460cba2413cb01f8fb84e433a9545a1686d1c4bb81a5ac4d31711c42",
+    "fold_metrics.csv": "33dfe642657269a8ad7bbea215ecce668b92688176920281ee81b0c37a18cdb3",
+    "heldout_predictions.csv": "3a097b63fa0c042b7d4e10b71c91d3ba86393f594112f5bb14115ced25bd37fe",
+    "model_load_check.csv": "89ba4fa1cb23ac917ac7d552403b0946bf05c3ada3f2f08464d23533ec9c6978"
+  },
+  "elapsed_seconds": 179.0
+}

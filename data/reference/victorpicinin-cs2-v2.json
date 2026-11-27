@@ -1,0 +1,16 @@
+{
+  "kaggle_ref": "victorpicinin/counter-strike-2-hltv-match-data",
+  "title": "Counter Strike 2 Match Data/Status for Betting",
+  "version": 2,
+  "kaggle_license": "Apache 2.0",
+  "download_url": "https://www.kaggle.com/api/v1/datasets/download/victorpicinin/counter-strike-2-hltv-match-data?datasetVersionNumber=2",
+  "archive": "data/raw/victorpicinin-cs2-v2.zip",
+  "archive_sha256": "a7db666e931eaddd7b314361fe8fad38d59679ccb6c53ed3643af4587acafeb4",
+  "raw_member": "CS2_HLTV_MATCH_DATA2.csv",
+  "raw_row_count": 1202,
+  "complete_map_rows": 1010,
+  "complete_series_count": 577,
+  "upstream_repo": "https://github.com/archotium/cs2-match-prediction.git",
+  "upstream_commit": "9199a3c1baeaeffc9cf015de2caefd1f337ec1f0",
+  "task": "known-map binary map winner; separate from the Ektarr v9 series prediction release"
+}

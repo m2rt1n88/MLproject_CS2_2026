@@ -1,0 +1,3 @@
+-r requirements-core.txt
+tabpfn==0.1.10
+torch==2.9.1

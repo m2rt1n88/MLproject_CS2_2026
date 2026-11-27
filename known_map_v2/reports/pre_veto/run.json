@@ -1,0 +1,19 @@
+{
+  "data_sha256": "bebefd3aae19d66958693f759767e0f71efac2a40e2e4af593eab6ee96c7a023",
+  "known_predictions_sha256": "3a097b63fa0c042b7d4e10b71c91d3ba86393f594112f5bb14115ced25bd37fe",
+  "history_features": [
+    "elo",
+    "winrate_all",
+    "winrate_14d",
+    "log_maps_all",
+    "log_maps_14d",
+    "days_idle",
+    "mean_opponent_elo"
+  ],
+  "history_cutoff": "strictly earlier day, training outcomes only",
+  "date_coverage": {
+    "2": 157,
+    "1": 51,
+    "0": 12
+  }
+}
