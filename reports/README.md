@@ -11,6 +11,7 @@
 | [M2.md](M2.md) | M2 | 增强逻辑回归，41 个特征 | 验证 63.26% / 0.633779 |
 | [M4.md](M4.md) | M4 | 校准、分层、选择性预测、bootstrap CI | 测试 62.76% / 0.6332，ECE 0.0185 |
 | [m3/MLP.md](m3/MLP.md) | M3（1/2） | MLP 分类器，41 列特征同口径 | val 63.47% / 0.6362，比 M2 差 0.0024 |
+| [m3_known_map/MLP.md](m3_known_map/MLP.md) | M3（2/2） | 单图预测：BO3 拆单图，地图作为输入 | 分组 71.91% / 0.5428，日期留出 73.64% |
 | [ablation/ABLATION.md](ablation/ABLATION.md) | Part 1 | 特征消融：8 组逐组删除 + 只留一组 | 图论实力最重要，Elo 冗余 |
 | [basic_models/BASIC_MODELS.md](basic_models/BASIC_MODELS.md) | Part 1 | 朴素贝叶斯 + 单棵决策树 + 同 41 列随机森林 | 决策树过拟合曲线；NB 准确率会骗人 |
 | [four_models/MODELS_COMPARISON.md](four_models/MODELS_COMPARISON.md) | Part 1 | 贝叶斯 / 逻辑回归 / 随机森林 / KNN 同条件对比 | 准确率几乎一样，log loss 差 2.4 倍 |

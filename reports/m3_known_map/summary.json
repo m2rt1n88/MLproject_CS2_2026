@@ -1,0 +1,17 @@
+{
+  "model": "mlp",
+  "grouped_repeats": 30,
+  "grouped_accuracy_mean": 0.7190686976663694,
+  "grouped_accuracy_sd": 0.0300185342517114,
+  "grouped_log_loss_mean": 0.5428236183423032,
+  "grouped_log_loss_sd": 0.03209965700504208,
+  "grouped_roc_auc_mean": 0.7963151647997211,
+  "date_n_test": 220,
+  "date_correct": 162,
+  "date_accuracy": 0.7363636363636363,
+  "date_log_loss": 0.5113171953828111,
+  "date_roc_auc": 0.8205921712947474,
+  "selected": "two_a3",
+  "selected_view": "two",
+  "inner_logloss": 0.545124973733731
+}
