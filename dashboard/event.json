@@ -1,0 +1,445 @@
+{
+  "name": "PGL Major Singapore 2026",
+  "source": "https://majors.im/2026/singapore",
+  "scheduleSnapshot": "2026-11-26",
+  "start": "2026-11-24",
+  "end": "2026-12-13",
+  "roster": [
+    {
+      "id": "nip",
+      "name": "Ninjas in Pyjamas",
+      "history": "Ninjas in Pyjamas",
+      "stage": 1,
+      "seed": 1
+    },
+    {
+      "id": "pv",
+      "name": "PVISION",
+      "history": "PARIVISION",
+      "stage": 1,
+      "seed": 2
+    },
+    {
+      "id": "hero",
+      "name": "HEROIC",
+      "history": "Heroic",
+      "stage": 1,
+      "seed": 3
+    },
+    {
+      "id": "faze",
+      "name": "FaZe Clan",
+      "history": "FaZe Clan",
+      "stage": 1,
+      "seed": 4
+    },
+    {
+      "id": "liqu",
+      "name": "Team Liquid",
+      "history": "Team Liquid",
+      "stage": 1,
+      "seed": 5
+    },
+    {
+      "id": "ef",
+      "name": "Eternal Fire",
+      "history": "Eternal Fire",
+      "stage": 1,
+      "seed": 6
+    },
+    {
+      "id": "100t",
+      "name": "100 Thieves",
+      "history": "100 Thieves",
+      "stage": 1,
+      "seed": 7
+    },
+    {
+      "id": "9z",
+      "name": "9z Team",
+      "history": "9z Team",
+      "stage": 1,
+      "seed": 8
+    },
+    {
+      "id": "m80",
+      "name": "M80",
+      "history": "M80",
+      "stage": 1,
+      "seed": 9
+    },
+    {
+      "id": "dend",
+      "name": "DENDELE",
+      "history": "DENDELE CS",
+      "stage": 1,
+      "seed": 10
+    },
+    {
+      "id": "impe",
+      "name": "Imperial Esports",
+      "history": "Imperial Esports",
+      "stage": 1,
+      "seed": 11
+    },
+    {
+      "id": "wild",
+      "name": "Wildcard",
+      "history": "Wildcard Gaming",
+      "stage": 1,
+      "seed": 12
+    },
+    {
+      "id": "bc.g",
+      "name": "GOSH",
+      "history": "BCGame",
+      "stage": 1,
+      "seed": 13
+    },
+    {
+      "id": "fly",
+      "name": "FlyQuest",
+      "history": "FlyQuest",
+      "stage": 1,
+      "seed": 14
+    },
+    {
+      "id": "cw",
+      "name": "Chinggis Warriors",
+      "history": "Chinggis Warriors",
+      "stage": 1,
+      "seed": 15
+    },
+    {
+      "id": "lvg",
+      "name": "Lynn Vision Gaming",
+      "history": "Lynn Vision Gaming",
+      "stage": 1,
+      "seed": 16
+    },
+    {
+      "id": "fut",
+      "name": "FUT Esports",
+      "history": "FUT Esports",
+      "stage": 2,
+      "seed": 1
+    },
+    {
+      "id": "nemi",
+      "name": "Nemiga Gaming",
+      "history": "Nemiga Gaming",
+      "stage": 2,
+      "seed": 2
+    },
+    {
+      "id": "g2",
+      "name": "G2 Esports",
+      "history": "G2 Esports",
+      "stage": 2,
+      "seed": 3
+    },
+    {
+      "id": "1win",
+      "name": "The One",
+      "history": "1win Team",
+      "stage": 2,
+      "seed": 4
+    },
+    {
+      "id": "navi",
+      "name": "Natus Vincere",
+      "history": "Natus Vincere",
+      "stage": 2,
+      "seed": 5
+    },
+    {
+      "id": "astr",
+      "name": "Astralis",
+      "history": "Astralis",
+      "stage": 2,
+      "seed": 6
+    },
+    {
+      "id": "mong",
+      "name": "The MongolZ",
+      "history": "The Mongolz",
+      "stage": 2,
+      "seed": 7
+    },
+    {
+      "id": "mibr",
+      "name": "MIBR",
+      "history": "MIBR",
+      "stage": 2,
+      "seed": 8
+    },
+    {
+      "id": "mouz",
+      "name": "MOUZ",
+      "history": "MOUZ",
+      "stage": 3,
+      "seed": 1
+    },
+    {
+      "id": "vita",
+      "name": "Team Vitality",
+      "history": "Team Vitality",
+      "stage": 3,
+      "seed": 2
+    },
+    {
+      "id": "furi",
+      "name": "FURIA",
+      "history": "FURIA Esports",
+      "stage": 3,
+      "seed": 3
+    },
+    {
+      "id": "auro",
+      "name": "Aurora Gaming",
+      "history": "Aurora Gaming",
+      "stage": 3,
+      "seed": 4
+    },
+    {
+      "id": "spir",
+      "name": "Team Spirit",
+      "history": "Team Spirit",
+      "stage": 3,
+      "seed": 5
+    },
+    {
+      "id": "betb",
+      "name": "BB Team",
+      "history": "BetBoom Team",
+      "stage": 3,
+      "seed": 6
+    },
+    {
+      "id": "falc",
+      "name": "Team Falcons",
+      "history": "Team Falcons",
+      "stage": 3,
+      "seed": 7
+    },
+    {
+      "id": "lega",
+      "name": "Legacy",
+      "history": "Legacy",
+      "stage": 3,
+      "seed": 8
+    }
+  ],
+  "fixtures": [
+    {
+      "id": 2400494,
+      "a": "hero",
+      "b": "impe",
+      "stage": 1,
+      "time": "2026-11-24T04:05:00Z"
+    },
+    {
+      "id": 2400495,
+      "a": "9z",
+      "b": "lvg",
+      "stage": 1,
+      "time": "2026-11-24T04:05:00Z"
+    },
+    {
+      "id": 2400496,
+      "a": "nip",
+      "b": "m80",
+      "stage": 1,
+      "time": "2026-11-24T05:05:00Z"
+    },
+    {
+      "id": 2400497,
+      "a": "100t",
+      "b": "cw",
+      "stage": 1,
+      "time": "2026-11-24T05:25:00Z"
+    },
+    {
+      "id": 2400498,
+      "a": "liqu",
+      "b": "bc.g",
+      "stage": 1,
+      "time": "2026-11-24T06:10:00Z"
+    },
+    {
+      "id": 2400499,
+      "a": "pv",
+      "b": "dend",
+      "stage": 1,
+      "time": "2026-11-24T06:25:00Z"
+    },
+    {
+      "id": 2400500,
+      "a": "faze",
+      "b": "wild",
+      "stage": 1,
+      "time": "2026-11-24T07:00:00Z"
+    },
+    {
+      "id": 2400501,
+      "a": "ef",
+      "b": "fly",
+      "stage": 1,
+      "time": "2026-11-24T07:20:00Z"
+    },
+    {
+      "id": 2400557,
+      "a": "nip",
+      "b": "lvg",
+      "stage": 1,
+      "time": "2026-11-24T08:45:00Z"
+    },
+    {
+      "id": 2400558,
+      "a": "hero",
+      "b": "cw",
+      "stage": 1,
+      "time": "2026-11-24T08:45:00Z"
+    },
+    {
+      "id": 2400560,
+      "a": "9z",
+      "b": "m80",
+      "stage": 1,
+      "time": "2026-11-24T09:40:00Z"
+    },
+    {
+      "id": 2400559,
+      "a": "100t",
+      "b": "impe",
+      "stage": 1,
+      "time": "2026-11-24T09:50:00Z"
+    },
+    {
+      "id": 2400562,
+      "a": "ef",
+      "b": "dend",
+      "stage": 1,
+      "time": "2026-11-24T10:45:00Z"
+    },
+    {
+      "id": 2400561,
+      "a": "pv",
+      "b": "fly",
+      "stage": 1,
+      "time": "2026-11-24T11:00:00Z"
+    },
+    {
+      "id": 2400563,
+      "a": "liqu",
+      "b": "wild",
+      "stage": 1,
+      "time": "2026-11-24T11:55:00Z"
+    },
+    {
+      "id": 2400564,
+      "a": "faze",
+      "b": "bc.g",
+      "stage": 1,
+      "time": "2026-11-24T12:10:00Z"
+    },
+    {
+      "id": 2400565,
+      "a": "hero",
+      "b": "m80",
+      "stage": 1,
+      "time": "2026-11-25T06:00:00Z"
+    },
+    {
+      "id": 2400566,
+      "a": "ef",
+      "b": "100t",
+      "stage": 1,
+      "time": "2026-11-25T06:00:00Z"
+    },
+    {
+      "id": 2400568,
+      "a": "wild",
+      "b": "lvg",
+      "stage": 1,
+      "time": "2026-11-25T07:00:00Z"
+    },
+    {
+      "id": 2400567,
+      "a": "pv",
+      "b": "faze",
+      "stage": 1,
+      "time": "2026-11-25T07:10:00Z"
+    },
+    {
+      "id": 2400570,
+      "a": "9z",
+      "b": "dend",
+      "stage": 1,
+      "time": "2026-11-25T08:05:00Z"
+    },
+    {
+      "id": 2400569,
+      "a": "impe",
+      "b": "fly",
+      "stage": 1,
+      "time": "2026-11-25T08:30:00Z"
+    },
+    {
+      "id": 2400572,
+      "a": "bc.g",
+      "b": "cw",
+      "stage": 1,
+      "time": "2026-11-25T10:00:00Z"
+    },
+    {
+      "id": 2400571,
+      "a": "nip",
+      "b": "liqu",
+      "stage": 1,
+      "time": "2026-11-25T11:00:00Z"
+    },
+    {
+      "id": 2400573,
+      "a": "m80",
+      "b": "ef",
+      "stage": 1,
+      "time": "2026-11-26T06:00:00Z"
+    },
+    {
+      "id": 2400574,
+      "a": "hero",
+      "b": "faze",
+      "stage": 1,
+      "time": "2026-11-26T06:00:00Z"
+    },
+    {
+      "id": 2400575,
+      "a": "lvg",
+      "b": "pv",
+      "stage": 1,
+      "time": "2026-11-26T08:30:00Z"
+    },
+    {
+      "id": 2400576,
+      "a": "100t",
+      "b": "9z",
+      "stage": 1,
+      "time": "2026-11-26T08:30:00Z"
+    },
+    {
+      "id": 2400577,
+      "a": "impe",
+      "b": "liqu",
+      "stage": 1,
+      "time": "2026-11-26T11:00:00Z"
+    },
+    {
+      "id": 2400578,
+      "a": "wild",
+      "b": "cw",
+      "stage": 1,
+      "time": "2026-11-26T11:00:00Z"
+    }
+  ]
+}

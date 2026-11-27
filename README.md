@@ -20,6 +20,16 @@ python -B -m scripts.train_m1_m2 verify
 
 `verify` 使用交付的权重和预测核对成绩；`python -B -m scripts.train_m1_m2 train` 从冻结特征重新训练两版并生成[逐场预测和指标](reports/release)。本机可用 `.\.venv\m1\python.exe` 替换 `python`。重建清洗表用 `python -B -m scripts.build_clean_match_dataset`，运行检查用 `python -B -m unittest discover -s tests`。
 
+## 新加坡 Major 胜率 Dashboard
+
+用浏览器打开 [dashboard/index.html](dashboard/index.html) 即可查看，不用启动服务或安装网页依赖。页面显示 Majors.im 的 2026-11-26 对阵快照，也支持从 32 支参赛队中任选两队比较胜率。队徽来自同一赛事页面，已随网页保存，可离线显示。已公布和假想对阵都用同一套 M2 胜率，不模拟赛程、晋级或 Pick’em。
+
+预测统一以 2026-11-24 开赛日为基准，只使用截至 2026-10-31（UTC）的 v9 历史数据；不把 Major 赛果写入特征，也不使用赛制（与冻结 M2 的训练口径一致）。队伍改名映射和已公布对阵保存在 [dashboard/event.json](dashboard/event.json)。赛程不自动同步；添加新对阵后，使用项目的 Python 3.13 环境重新生成展示数据：
+
+```powershell
+python -B -m scripts.build_singapore_dashboard
+```
+
 ## 项目资料
 
 - [项目计划](PLAN.md)：课程的八种模型、两组分工、M3–M5 的目标及验收方式。

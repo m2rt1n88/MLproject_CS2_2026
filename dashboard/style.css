@@ -1,0 +1,104 @@
+:root { --bg: #101314; --panel: #181d1f; --panel2: #1c2224; --text: #f4f6f3; --muted: #a5b1ad; --line: #303b3b; --lime: #d5fc6d; --neutral: #829590; --mono: ui-monospace,Consolas,monospace; color-scheme: dark; }
+
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.55 system-ui,sans-serif; }
+a { color: var(--lime); text-underline-offset: 4px; }
+select { font: inherit; }
+.wrap { width: min(1160px,calc(100% - 56px)); margin: auto; }
+
+/* Header and event summary */
+.top { border-bottom: 1px solid var(--line); background: #141819; }
+.top-inner, .section-header, footer { display: flex; align-items: center; }
+.top-inner, .section-header { justify-content: space-between; gap: 20px; }
+.top-inner { height: 64px; }
+.brand, .kicker, .vs, .fixture-meta { font-family: var(--mono); font-weight: 700; letter-spacing: .06em; }
+.brand { display: flex; align-items: center; gap: 10px; }
+.mark { width: 29px; height: 29px; display: grid; place-items: center; background: var(--lime); color: #14200d; border-radius: 5px; font-size: 20px; line-height: 1; }
+.group-credit { color: var(--muted); font-size: 12px; text-align: right; }
+.group-number { color: var(--lime); font-weight: 700; white-space: nowrap; margin-left: 8px; }
+.kicker span { display: inline-block; width: 7px; height: 7px; background: var(--lime); border-radius: 50%; margin-right: 7px; }
+.hero { margin-top: 28px; padding: 42px 38px 32px; border: 1px solid #39463c; border-radius: 14px; position: relative; overflow: hidden; background: radial-gradient(ellipse at 90% 15%,#293a27 0%,transparent 52%),#171d1b; }
+.hero:before { content: ""; position: absolute; inset: 0; pointer-events: none; background: repeating-linear-gradient(135deg,transparent 0 35px,#d5fc6d14 35px 36px); mask-image: linear-gradient(90deg,transparent 30%,#000); opacity: .65; }
+.hero > * { position: relative; }
+.kicker { color: var(--lime); font-size: 12px; }
+.hero h1 { margin: 10px 0 0; font-size: clamp(2.6rem,7vw,5.4rem); line-height: 1.02; letter-spacing: -.072em; }
+.hero h1 span { color: var(--lime); }
+.hero-sub { margin: 14px 0 26px; color: #ced9d3; font-size: 17px; }
+.event-meta { display: flex; gap: 0; }
+.event-meta > div { padding: 0 22px; border-right: 1px solid #48574d; }
+.event-meta > div:first-child { padding-left: 0; }
+.event-meta > div:last-child { border: 0; }
+.event-meta small, .control label { color: var(--muted); display: block; font-size: 12px; }
+.event-meta strong { font: 700 18px/1.4 var(--mono); }
+
+/* Match controls and cards */
+.section { margin-top: 36px; }
+.section-header { margin-bottom: 14px; align-items: end; }
+.section h2 { margin: 3px 0 0; font-size: 25px; line-height: 1.25; }
+.control label { margin-bottom: 5px; }
+.control select { width: 100%; padding: 9px 36px 9px 11px; border: 1px solid #465552; border-radius: 7px; background: var(--panel2); color: var(--text); min-height: 42px; }
+.control select:focus-visible, a:focus-visible { outline: 2px solid var(--lime); outline-offset: 3px; }
+.fixture-grid { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 11px; }
+.fixture, .compare-panel { border: 1px solid var(--line); background: var(--panel); border-radius: 10px; }
+.fixture { padding: 15px 17px; }
+.fixture-meta { display: flex; justify-content: space-between; gap: 8px; color: var(--muted); font-size: 11px; margin-bottom: 9px; }
+.fixture-meta a { color: var(--muted); }
+.fixture-meta a:hover { color: var(--lime); }
+.match-pair, .selectors { display: grid; grid-template-columns: minmax(0,1fr) auto minmax(0,1fr); }
+.match-pair { align-items: center; gap: 9px; }
+.name { font-weight: 700; overflow-wrap: anywhere; line-height: 1.25; }
+.percent { margin-top: 4px; font: 700 22px/1.2 var(--mono); }
+.favorite .percent { color: var(--lime); }
+.rail { display: flex; height: 7px; border-radius: 6px; overflow: hidden; gap: 2px; margin-top: 10px; background: #293435; }
+.rail span { display: block; background: var(--neutral); min-width: 0; }
+.rail span.favorite { background: var(--lime); }
+.compare-panel { padding: 18px; }
+.selectors { gap: 14px; align-items: end; }
+.vs { color: var(--muted); padding-bottom: 10px; }
+.compare-result { margin-top: 20px; padding-top: 16px; border-top: 1px solid var(--line); }
+.compare-result .percent { font-size: 32px; }
+.empty { color: var(--muted); margin: 10px 0; grid-column: 1/-1; }
+footer { justify-content: flex-end; border-top: 1px solid var(--line); margin: 40px 0 0; padding: 17px 0 28px; color: var(--muted); font-size: 12px; }
+
+/* Local team crests */
+.match-vs { color: var(--muted); font: 700 10px var(--mono); letter-spacing: .05em; }
+.side { display: flex; align-items: center; gap: 10px; min-width: 0; }
+.side:last-child { text-align: right; flex-direction: row-reverse; }
+.team-label { min-width: 0; }
+.team-logo { --crest-size: 52px; display: grid; place-items: center; flex: 0 0 var(--crest-size); width: var(--crest-size); height: var(--crest-size); border: 1px solid #3b484f; border-radius: 8px; background: #141c22; }
+.team-logo img { display: block; width: 82%; height: 82%; object-fit: contain; }
+.team-logo [hidden] { display: none; }
+.logo-fallback { font: 700 12px var(--mono); color: var(--muted); }
+.favorite .team-logo { background: #1e2b2c; border-color: #688684; }
+.compare-result .team-logo { --crest-size: 66px; }
+
+@media (max-width: 660px) {
+  .wrap { width: calc(100% - 28px); }
+  .hero { padding: 29px 19px 22px; margin-top: 15px; }
+  .hero h1 { font-size: clamp(2.25rem,9vw,3.2rem); }
+  .hero-sub { font-size: 15px; margin-bottom: 19px; }
+  .event-meta > div { padding: 0 13px; }
+  .event-meta strong { font-size: 15px; }
+  .fixture-grid { grid-template-columns: 1fr; }
+  .section-header { align-items: start; flex-wrap: wrap; gap: 10px; }
+  .compare-panel { padding: 12px; }
+  .selectors { gap: 6px; }
+  .control select { padding-right: 9px; }
+  footer { align-items: start; flex-direction: column; }
+}
+
+@media (max-width: 410px) {
+  .match-pair { gap: 5px; }
+  .side { gap: 6px; }
+  .fixture .name { font-size: 13px; }
+  .fixture .percent { font-size: 19px; }
+  .team-logo, .compare-result .team-logo { --crest-size: 38px; }
+  .compare-result .percent { font-size: 24px; }
+}
+
+@media (max-width: 440px) {
+  .top-inner { gap: 12px; }
+  .brand { font-size: 12px; }
+  .mark { flex-shrink: 0; }
+  .group-number { display: block; margin-left: 0; }
+}

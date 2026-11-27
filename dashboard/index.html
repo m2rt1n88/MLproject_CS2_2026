@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>Singapore Major 2026 | CS2 Win Predictions</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="predictions.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <header class="top">
+    <div class="wrap top-inner">
+      <div class="brand"><span class="mark" aria-hidden="true">↗</span> CS2 MATCH LAB</div>
+      <span class="group-credit">BNBU Machine Learning 2026 1001 <span class="group-number">Group 18</span></span>
+    </div>
+  </header>
+  <main class="wrap">
+    <section class="hero" aria-labelledby="title">
+      <div class="kicker"><span></span>PGL MAJOR &nbsp; / &nbsp; 2026</div>
+      <h1 id="title">Singapore Major<span>.</span></h1>
+      <p class="hero-sub">CS2 match win probabilities</p>
+      <div class="event-meta">
+        <div><small>Event dates</small><strong>Nov 24 – Dec 13</strong></div>
+        <div><small>Teams</small><strong id="team-count">—</strong></div>
+        <div><small>Fixtures listed</small><strong id="fixture-count">—</strong></div>
+      </div>
+    </section>
+    <p class="empty" id="load-error" role="alert" hidden>Predictions could not be loaded.</p>
+    <noscript>Enable JavaScript to view predictions.</noscript>
+    <section class="section" aria-labelledby="fixture-title">
+      <div class="section-header">
+        <div>
+          <div class="kicker">01 / FIXTURES</div>
+          <h2 id="fixture-title">Published Matches</h2>
+        </div>
+        <div class="control">
+          <label for="match-day">Match date · Singapore time</label>
+          <select id="match-day"></select>
+        </div>
+      </div>
+      <div id="fixtures" class="fixture-grid" aria-live="polite"></div>
+    </section>
+    <section class="section" aria-labelledby="compare-title">
+      <div class="section-header">
+        <div>
+          <div class="kicker">02 / MATCHUP</div>
+          <h2 id="compare-title">Compare Two Teams</h2>
+        </div>
+      </div>
+      <div class="compare-panel">
+        <div class="selectors">
+          <div class="control">
+            <label for="team-a">Team A</label>
+            <select id="team-a"></select>
+          </div>
+          <span class="vs" aria-hidden="true">VS</span>
+          <div class="control">
+            <label for="team-b">Team B</label>
+            <select id="team-b"></select>
+          </div>
+        </div>
+        <div id="comparison" aria-live="polite"></div>
+      </div>
+    </section>
+    <footer><a id="event-source" href="https://majors.im/2026/singapore">Fixtures and team logos: Majors.im ↗</a></footer>
+  </main>
+</body>
+</html>
