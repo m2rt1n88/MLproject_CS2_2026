@@ -64,3 +64,7 @@ data/raw/*.zip
 ~$*.docx
 ~$*.xlsx
 ~$*.pptx
+
+# V2 partner delivery outputs are reproducible; commit only the source docs and snapshots.
+/handoff/CS2-v2-*/
+/handoff/CS2-v2-*.zip

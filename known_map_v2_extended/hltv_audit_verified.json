@@ -1,0 +1,226 @@
+{
+  "kaggle_timestamp_audit": {
+    "frozen_map_rows": 1010,
+    "raw_player_identity_columns": [],
+    "overlap_checked_maps": 111,
+    "overlap_full_team_single_map_target_fingerprint_matches": [
+      {
+        "day": "2023-12-30",
+        "hltv_match_id": 2368784,
+        "clean_match_id": 764514,
+        "map": "nuke",
+        "team": "VP.Prodigy"
+      },
+      {
+        "day": "2024-01-19",
+        "hltv_match_id": 2369273,
+        "clean_match_id": 794636,
+        "map": "inferno",
+        "team": "Eternal Fire"
+      }
+    ],
+    "independently_verified_example": {
+      "day": "2024-01-19",
+      "map": "inferno",
+      "hltv_match_id": 2369273,
+      "hltv_mapstats_id": 169190,
+      "source": "https://www.hltv.org/stats/matches/mapstatsid/169190/eternal-fire-vs-mouz",
+      "target_rounds": 30,
+      "matched_players": [
+        {
+          "player": "MAJ3R",
+          "raw_slot": "T1_player0",
+          "kills": 18,
+          "deaths": 22,
+          "hs": 7,
+          "hs_percent": "38.9%",
+          "raw_rating_2_0": 0.97
+        },
+        {
+          "player": "XANTARES",
+          "raw_slot": "T1_player1",
+          "kills": 16,
+          "deaths": 21,
+          "hs": 8,
+          "hs_percent": "50.0%",
+          "raw_rating_2_0": 0.96
+        },
+        {
+          "player": "woxic",
+          "raw_slot": "T1_player2",
+          "kills": 21,
+          "deaths": 20,
+          "hs": 5,
+          "hs_percent": "23.8%",
+          "raw_rating_2_0": 1.13
+        },
+        {
+          "player": "Calyx",
+          "raw_slot": "T1_player3",
+          "kills": 24,
+          "deaths": 18,
+          "hs": 16,
+          "hs_percent": "66.7%",
+          "raw_rating_2_0": 1.11
+        },
+        {
+          "player": "Wicadia",
+          "raw_slot": "T1_player4",
+          "kills": 19,
+          "deaths": 19,
+          "hs": 14,
+          "hs_percent": "73.7%",
+          "raw_rating_2_0": 1.12
+        },
+        {
+          "player": "Brollan",
+          "raw_slot": "T2_player0",
+          "kills": 24,
+          "deaths": 19,
+          "hs": 12,
+          "hs_percent": "50.0%",
+          "raw_rating_2_0": 1.39
+        }
+      ]
+    }
+  },
+  "hltv_cache": {
+    "series": 12,
+    "maps": 30,
+    "player_maps": 300,
+    "fields_in_player_records": [
+      "adr",
+      "deaths",
+      "kast",
+      "kills",
+      "player_id",
+      "rating",
+      "rating_version",
+      "team_id"
+    ],
+    "rating_versions": {
+      "3.0": 300
+    }
+  },
+  "pilot": {
+    "appended_patch_history_rows": 14,
+    "target_maps_changed": 9,
+    "complete_on_original_features": 7373,
+    "headshot_replay_audit": {
+      "counts": {
+        "source_maps": 1988,
+        "no_unique_local_series": 1908,
+        "player_names_sides_or_kd_disagree": 2,
+        "inconsistent_replay_counts": 21,
+        "no_unique_complete_local_map": 46,
+        "duplicate_or_conflicting_local_map_keys": 0,
+        "accepted_maps": 11,
+        "accepted_player_maps": 106,
+        "accepted_maps_all_ten_players": 7
+      },
+      "dates": [
+        "2026-03-24",
+        "2026-04-21"
+      ]
+    },
+    "headshot_target_maps_at_least_one_team": 1,
+    "headshot_target_maps_both_teams": 0,
+    "first_changed_target_day": "2026-04-06",
+    "cells_gained": 85,
+    "cells_lost": 30,
+    "all_missing_columns": [
+      "T1_Grenade_dmg_/_Round_max",
+      "T1_Grenade_dmg_/_Round_mean",
+      "T1_Grenade_dmg_/_Round_min",
+      "T1_Grenade_dmg_/_Round_std",
+      "T1_Grenade_dmg_/_Round_sum",
+      "T1_Headshot_%_max",
+      "T1_Headshot_%_mean",
+      "T1_Headshot_%_min",
+      "T1_Headshot_%_std",
+      "T1_Headshot_%_sum",
+      "T1_Rating_2.0_max",
+      "T1_Rating_2.0_mean",
+      "T1_Rating_2.0_min",
+      "T1_Rating_2.0_std",
+      "T1_Rating_2.0_sum",
+      "T1_Saved_by_teammate_/_round_max",
+      "T1_Saved_by_teammate_/_round_mean",
+      "T1_Saved_by_teammate_/_round_min",
+      "T1_Saved_by_teammate_/_round_std",
+      "T1_Saved_by_teammate_/_round_sum",
+      "T1_Saved_teammates_/_round_max",
+      "T1_Saved_teammates_/_round_mean",
+      "T1_Saved_teammates_/_round_min",
+      "T1_Saved_teammates_/_round_std",
+      "T1_Saved_teammates_/_round_sum",
+      "T2_Grenade_dmg_/_Round_max",
+      "T2_Grenade_dmg_/_Round_mean",
+      "T2_Grenade_dmg_/_Round_min",
+      "T2_Grenade_dmg_/_Round_std",
+      "T2_Grenade_dmg_/_Round_sum",
+      "T2_Rating_2.0_max",
+      "T2_Rating_2.0_mean",
+      "T2_Rating_2.0_min",
+      "T2_Rating_2.0_std",
+      "T2_Rating_2.0_sum",
+      "T2_Saved_by_teammate_/_round_max",
+      "T2_Saved_by_teammate_/_round_mean",
+      "T2_Saved_by_teammate_/_round_min",
+      "T2_Saved_by_teammate_/_round_std",
+      "T2_Saved_by_teammate_/_round_sum",
+      "T2_Saved_teammates_/_round_max",
+      "T2_Saved_teammates_/_round_mean",
+      "T2_Saved_teammates_/_round_min",
+      "T2_Saved_teammates_/_round_std",
+      "T2_Saved_teammates_/_round_sum"
+    ],
+    "changed_targets": [
+      {
+        "day": "2026-04-06",
+        "matchID": -7299262,
+        "map": "mirage"
+      },
+      {
+        "day": "2026-10-21",
+        "matchID": -7311962,
+        "map": "ancient"
+      },
+      {
+        "day": "2026-10-21",
+        "matchID": -7311962,
+        "map": "mirage"
+      },
+      {
+        "day": "2026-10-29",
+        "matchID": -7312254,
+        "map": "ancient"
+      },
+      {
+        "day": "2026-10-29",
+        "matchID": -7312395,
+        "map": "ancient"
+      },
+      {
+        "day": "2026-10-29",
+        "matchID": -7312395,
+        "map": "inferno"
+      },
+      {
+        "day": "2026-10-29",
+        "matchID": -7312395,
+        "map": "nuke"
+      },
+      {
+        "day": "2026-10-31",
+        "matchID": -7312581,
+        "map": "inferno"
+      },
+      {
+        "day": "2026-10-31",
+        "matchID": -7312581,
+        "map": "nuke"
+      }
+    ]
+  }
+}

@@ -1,0 +1,6258 @@
+{
+  "version": "clean-v3-verified-map-metrics-v1",
+  "source_sha256": {
+    "matches.csv": "15ebc6fe01bf149b4eab59428ea399abe05652f79eb19c38e5ef6bff49b2d593",
+    "maps.csv": "feea99b2b20f156fc699fb7de6b618ceacfeefd85301c5151960622785a3798a",
+    "player_stats.csv": "53e99ab7044f3c9334227b62c0e3f8c6751cbc742b535d99a5622e1f807a8e4a"
+  },
+  "rows": [
+    {
+      "match_id": 1680007,
+      "map_name": "inferno",
+      "day": "2024-10-03",
+      "side": 1,
+      "player_id": 5271,
+      "kills": 23,
+      "deaths": 8,
+      "adr": 112.9,
+      "kast": 80.0,
+      "scores": [
+        13,
+        7
+      ],
+      "rounds": 20,
+      "hltv_id": 2376472,
+      "mapstats_id": 185622,
+      "hltv_player_id": 21302,
+      "identity_proven_by": [
+        185622,
+        185620
+      ],
+      "identity_as_of": "2024-10-03",
+      "sha256": "551325b99b64ba593a651170ee4ee6b99da9db477d0ac69b7d91c5190356b262",
+      "source": "archived-hltv-html:2376472.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 2.17
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 1680007,
+      "map_name": "inferno",
+      "day": "2024-10-03",
+      "side": 1,
+      "player_id": 4379,
+      "kills": 13,
+      "deaths": 15,
+      "adr": 87.0,
+      "kast": 70.0,
+      "scores": [
+        13,
+        7
+      ],
+      "rounds": 20,
+      "hltv_id": 2376472,
+      "mapstats_id": 185622,
+      "hltv_player_id": 21784,
+      "identity_proven_by": [
+        185622,
+        185620
+      ],
+      "identity_as_of": "2024-10-03",
+      "sha256": "551325b99b64ba593a651170ee4ee6b99da9db477d0ac69b7d91c5190356b262",
+      "source": "archived-hltv-html:2376472.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.17
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 1680007,
+      "map_name": "inferno",
+      "day": "2024-10-03",
+      "side": 1,
+      "player_id": 5198,
+      "kills": 12,
+      "deaths": 10,
+      "adr": 55.7,
+      "kast": 70.0,
+      "scores": [
+        13,
+        7
+      ],
+      "rounds": 20,
+      "hltv_id": 2376472,
+      "mapstats_id": 185622,
+      "hltv_player_id": 21783,
+      "identity_proven_by": [
+        185622,
+        185620
+      ],
+      "identity_as_of": "2024-10-03",
+      "sha256": "551325b99b64ba593a651170ee4ee6b99da9db477d0ac69b7d91c5190356b262",
+      "source": "archived-hltv-html:2376472.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.14
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 1680007,
+      "map_name": "inferno",
+      "day": "2024-10-03",
+      "side": 1,
+      "player_id": 1644,
+      "kills": 13,
+      "deaths": 15,
+      "adr": 85.5,
+      "kast": 80.0,
+      "scores": [
+        13,
+        7
+      ],
+      "rounds": 20,
+      "hltv_id": 2376472,
+      "mapstats_id": 185622,
+      "hltv_player_id": 8311,
+      "identity_proven_by": [
+        185622,
+        185620
+      ],
+      "identity_as_of": "2024-10-03",
+      "sha256": "551325b99b64ba593a651170ee4ee6b99da9db477d0ac69b7d91c5190356b262",
+      "source": "archived-hltv-html:2376472.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.09
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 1680007,
+      "map_name": "inferno",
+      "day": "2024-10-03",
+      "side": 1,
+      "player_id": 700,
+      "kills": 12,
+      "deaths": 12,
+      "adr": 60.0,
+      "kast": 80.0,
+      "scores": [
+        13,
+        7
+      ],
+      "rounds": 20,
+      "hltv_id": 2376472,
+      "mapstats_id": 185622,
+      "hltv_player_id": 5351,
+      "identity_proven_by": [
+        185622,
+        185620
+      ],
+      "identity_as_of": "2024-10-03",
+      "sha256": "551325b99b64ba593a651170ee4ee6b99da9db477d0ac69b7d91c5190356b262",
+      "source": "archived-hltv-html:2376472.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 0.91
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 1680007,
+      "map_name": "inferno",
+      "day": "2024-10-03",
+      "side": 2,
+      "player_id": 3368,
+      "kills": 18,
+      "deaths": 15,
+      "adr": 98.8,
+      "kast": 70.0,
+      "scores": [
+        13,
+        7
+      ],
+      "rounds": 20,
+      "hltv_id": 2376472,
+      "mapstats_id": 185622,
+      "hltv_player_id": 20119,
+      "identity_proven_by": [
+        185622,
+        185620
+      ],
+      "identity_as_of": "2024-10-03",
+      "sha256": "551325b99b64ba593a651170ee4ee6b99da9db477d0ac69b7d91c5190356b262",
+      "source": "archived-hltv-html:2376472.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.43
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 1680007,
+      "map_name": "inferno",
+      "day": "2024-10-03",
+      "side": 2,
+      "player_id": 568,
+      "kills": 17,
+      "deaths": 15,
+      "adr": 94.0,
+      "kast": 75.0,
+      "scores": [
+        13,
+        7
+      ],
+      "rounds": 20,
+      "hltv_id": 2376472,
+      "mapstats_id": 185622,
+      "hltv_player_id": 14218,
+      "identity_proven_by": [
+        185622,
+        185620
+      ],
+      "identity_as_of": "2024-10-03",
+      "sha256": "551325b99b64ba593a651170ee4ee6b99da9db477d0ac69b7d91c5190356b262",
+      "source": "archived-hltv-html:2376472.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.17
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 1680007,
+      "map_name": "inferno",
+      "day": "2024-10-03",
+      "side": 2,
+      "player_id": 4705,
+      "kills": 10,
+      "deaths": 13,
+      "adr": 54.2,
+      "kast": 60.0,
+      "scores": [
+        13,
+        7
+      ],
+      "rounds": 20,
+      "hltv_id": 2376472,
+      "mapstats_id": 185622,
+      "hltv_player_id": 21164,
+      "identity_proven_by": [
+        185622,
+        185620
+      ],
+      "identity_as_of": "2024-10-03",
+      "sha256": "551325b99b64ba593a651170ee4ee6b99da9db477d0ac69b7d91c5190356b262",
+      "source": "archived-hltv-html:2376472.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 0.71
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 1680007,
+      "map_name": "inferno",
+      "day": "2024-10-03",
+      "side": 2,
+      "player_id": 4275,
+      "kills": 11,
+      "deaths": 17,
+      "adr": 48.4,
+      "kast": 45.0,
+      "scores": [
+        13,
+        7
+      ],
+      "rounds": 20,
+      "hltv_id": 2376472,
+      "mapstats_id": 185622,
+      "hltv_player_id": 20878,
+      "identity_proven_by": [
+        185622,
+        185620
+      ],
+      "identity_as_of": "2024-10-03",
+      "sha256": "551325b99b64ba593a651170ee4ee6b99da9db477d0ac69b7d91c5190356b262",
+      "source": "archived-hltv-html:2376472.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 0.67
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 1680007,
+      "map_name": "inferno",
+      "day": "2024-10-03",
+      "side": 2,
+      "player_id": 3435,
+      "kills": 4,
+      "deaths": 14,
+      "adr": 41.1,
+      "kast": 65.0,
+      "scores": [
+        13,
+        7
+      ],
+      "rounds": 20,
+      "hltv_id": 2376472,
+      "mapstats_id": 185622,
+      "hltv_player_id": 19065,
+      "identity_proven_by": [
+        185622,
+        185620
+      ],
+      "identity_as_of": "2024-10-03",
+      "sha256": "551325b99b64ba593a651170ee4ee6b99da9db477d0ac69b7d91c5190356b262",
+      "source": "archived-hltv-html:2376472.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 0.51
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 1680007,
+      "map_name": "mirage",
+      "day": "2024-10-03",
+      "side": 1,
+      "player_id": 4379,
+      "kills": 15,
+      "deaths": 14,
+      "adr": 88.6,
+      "kast": 76.2,
+      "scores": [
+        8,
+        13
+      ],
+      "rounds": 21,
+      "hltv_id": 2376472,
+      "mapstats_id": 185620,
+      "hltv_player_id": 21784,
+      "identity_proven_by": [
+        185622,
+        185620
+      ],
+      "identity_as_of": "2024-10-03",
+      "sha256": "551325b99b64ba593a651170ee4ee6b99da9db477d0ac69b7d91c5190356b262",
+      "source": "archived-hltv-html:2376472.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.45
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 1680007,
+      "map_name": "mirage",
+      "day": "2024-10-03",
+      "side": 1,
+      "player_id": 5271,
+      "kills": 13,
+      "deaths": 13,
+      "adr": 76.0,
+      "kast": 85.7,
+      "scores": [
+        8,
+        13
+      ],
+      "rounds": 21,
+      "hltv_id": 2376472,
+      "mapstats_id": 185620,
+      "hltv_player_id": 21302,
+      "identity_proven_by": [
+        185622,
+        185620
+      ],
+      "identity_as_of": "2024-10-03",
+      "sha256": "551325b99b64ba593a651170ee4ee6b99da9db477d0ac69b7d91c5190356b262",
+      "source": "archived-hltv-html:2376472.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.13
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 1680007,
+      "map_name": "mirage",
+      "day": "2024-10-03",
+      "side": 1,
+      "player_id": 700,
+      "kills": 14,
+      "deaths": 15,
+      "adr": 56.5,
+      "kast": 66.7,
+      "scores": [
+        8,
+        13
+      ],
+      "rounds": 21,
+      "hltv_id": 2376472,
+      "mapstats_id": 185620,
+      "hltv_player_id": 5351,
+      "identity_proven_by": [
+        185622,
+        185620
+      ],
+      "identity_as_of": "2024-10-03",
+      "sha256": "551325b99b64ba593a651170ee4ee6b99da9db477d0ac69b7d91c5190356b262",
+      "source": "archived-hltv-html:2376472.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 0.81
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 1680007,
+      "map_name": "mirage",
+      "day": "2024-10-03",
+      "side": 1,
+      "player_id": 1644,
+      "kills": 10,
+      "deaths": 15,
+      "adr": 57.5,
+      "kast": 76.2,
+      "scores": [
+        8,
+        13
+      ],
+      "rounds": 21,
+      "hltv_id": 2376472,
+      "mapstats_id": 185620,
+      "hltv_player_id": 8311,
+      "identity_proven_by": [
+        185622,
+        185620
+      ],
+      "identity_as_of": "2024-10-03",
+      "sha256": "551325b99b64ba593a651170ee4ee6b99da9db477d0ac69b7d91c5190356b262",
+      "source": "archived-hltv-html:2376472.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 0.69
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 1680007,
+      "map_name": "mirage",
+      "day": "2024-10-03",
+      "side": 1,
+      "player_id": 5198,
+      "kills": 6,
+      "deaths": 13,
+      "adr": 37.7,
+      "kast": 57.1,
+      "scores": [
+        8,
+        13
+      ],
+      "rounds": 21,
+      "hltv_id": 2376472,
+      "mapstats_id": 185620,
+      "hltv_player_id": 21783,
+      "identity_proven_by": [
+        185622,
+        185620
+      ],
+      "identity_as_of": "2024-10-03",
+      "sha256": "551325b99b64ba593a651170ee4ee6b99da9db477d0ac69b7d91c5190356b262",
+      "source": "archived-hltv-html:2376472.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 0.52
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 1680007,
+      "map_name": "mirage",
+      "day": "2024-10-03",
+      "side": 2,
+      "player_id": 4275,
+      "kills": 17,
+      "deaths": 9,
+      "adr": 79.7,
+      "kast": 81.0,
+      "scores": [
+        8,
+        13
+      ],
+      "rounds": 21,
+      "hltv_id": 2376472,
+      "mapstats_id": 185620,
+      "hltv_player_id": 20878,
+      "identity_proven_by": [
+        185622,
+        185620
+      ],
+      "identity_as_of": "2024-10-03",
+      "sha256": "551325b99b64ba593a651170ee4ee6b99da9db477d0ac69b7d91c5190356b262",
+      "source": "archived-hltv-html:2376472.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.64
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 1680007,
+      "map_name": "mirage",
+      "day": "2024-10-03",
+      "side": 2,
+      "player_id": 4705,
+      "kills": 14,
+      "deaths": 10,
+      "adr": 85.6,
+      "kast": 76.2,
+      "scores": [
+        8,
+        13
+      ],
+      "rounds": 21,
+      "hltv_id": 2376472,
+      "mapstats_id": 185620,
+      "hltv_player_id": 21164,
+      "identity_proven_by": [
+        185622,
+        185620
+      ],
+      "identity_as_of": "2024-10-03",
+      "sha256": "551325b99b64ba593a651170ee4ee6b99da9db477d0ac69b7d91c5190356b262",
+      "source": "archived-hltv-html:2376472.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.3
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 1680007,
+      "map_name": "mirage",
+      "day": "2024-10-03",
+      "side": 2,
+      "player_id": 568,
+      "kills": 15,
+      "deaths": 17,
+      "adr": 89.5,
+      "kast": 90.5,
+      "scores": [
+        8,
+        13
+      ],
+      "rounds": 21,
+      "hltv_id": 2376472,
+      "mapstats_id": 185620,
+      "hltv_player_id": 14218,
+      "identity_proven_by": [
+        185622,
+        185620
+      ],
+      "identity_as_of": "2024-10-03",
+      "sha256": "551325b99b64ba593a651170ee4ee6b99da9db477d0ac69b7d91c5190356b262",
+      "source": "archived-hltv-html:2376472.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.16
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 1680007,
+      "map_name": "mirage",
+      "day": "2024-10-03",
+      "side": 2,
+      "player_id": 3368,
+      "kills": 13,
+      "deaths": 10,
+      "adr": 62.6,
+      "kast": 71.4,
+      "scores": [
+        8,
+        13
+      ],
+      "rounds": 21,
+      "hltv_id": 2376472,
+      "mapstats_id": 185620,
+      "hltv_player_id": 20119,
+      "identity_proven_by": [
+        185622,
+        185620
+      ],
+      "identity_as_of": "2024-10-03",
+      "sha256": "551325b99b64ba593a651170ee4ee6b99da9db477d0ac69b7d91c5190356b262",
+      "source": "archived-hltv-html:2376472.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.0
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 1680007,
+      "map_name": "mirage",
+      "day": "2024-10-03",
+      "side": 2,
+      "player_id": 3435,
+      "kills": 11,
+      "deaths": 13,
+      "adr": 62.9,
+      "kast": 71.4,
+      "scores": [
+        8,
+        13
+      ],
+      "rounds": 21,
+      "hltv_id": 2376472,
+      "mapstats_id": 185620,
+      "hltv_player_id": 19065,
+      "identity_proven_by": [
+        185622,
+        185620
+      ],
+      "identity_as_of": "2024-10-03",
+      "sha256": "551325b99b64ba593a651170ee4ee6b99da9db477d0ac69b7d91c5190356b262",
+      "source": "archived-hltv-html:2376472.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 0.92
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 1680007,
+      "map_name": "nuke",
+      "day": "2024-10-03",
+      "side": 1,
+      "player_id": 1644,
+      "kills": 22,
+      "deaths": 17,
+      "adr": 102.9,
+      "kast": 83.3,
+      "scores": [
+        13,
+        11
+      ],
+      "rounds": 24,
+      "hltv_id": 2376472,
+      "mapstats_id": 185614,
+      "hltv_player_id": 8311,
+      "identity_proven_by": [
+        185622,
+        185620
+      ],
+      "identity_as_of": "2024-10-03",
+      "sha256": "551325b99b64ba593a651170ee4ee6b99da9db477d0ac69b7d91c5190356b262",
+      "source": "archived-hltv-html:2376472.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.56
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 1680007,
+      "map_name": "nuke",
+      "day": "2024-10-03",
+      "side": 1,
+      "player_id": 5271,
+      "kills": 21,
+      "deaths": 15,
+      "adr": 81.8,
+      "kast": 87.5,
+      "scores": [
+        13,
+        11
+      ],
+      "rounds": 24,
+      "hltv_id": 2376472,
+      "mapstats_id": 185614,
+      "hltv_player_id": 21302,
+      "identity_proven_by": [
+        185622,
+        185620
+      ],
+      "identity_as_of": "2024-10-03",
+      "sha256": "551325b99b64ba593a651170ee4ee6b99da9db477d0ac69b7d91c5190356b262",
+      "source": "archived-hltv-html:2376472.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.45
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 1680007,
+      "map_name": "nuke",
+      "day": "2024-10-03",
+      "side": 1,
+      "player_id": 5198,
+      "kills": 15,
+      "deaths": 12,
+      "adr": 53.9,
+      "kast": 66.7,
+      "scores": [
+        13,
+        11
+      ],
+      "rounds": 24,
+      "hltv_id": 2376472,
+      "mapstats_id": 185614,
+      "hltv_player_id": 21783,
+      "identity_proven_by": [
+        185622,
+        185620
+      ],
+      "identity_as_of": "2024-10-03",
+      "sha256": "551325b99b64ba593a651170ee4ee6b99da9db477d0ac69b7d91c5190356b262",
+      "source": "archived-hltv-html:2376472.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.08
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 1680007,
+      "map_name": "nuke",
+      "day": "2024-10-03",
+      "side": 1,
+      "player_id": 700,
+      "kills": 16,
+      "deaths": 22,
+      "adr": 92.5,
+      "kast": 75.0,
+      "scores": [
+        13,
+        11
+      ],
+      "rounds": 24,
+      "hltv_id": 2376472,
+      "mapstats_id": 185614,
+      "hltv_player_id": 5351,
+      "identity_proven_by": [
+        185622,
+        185620
+      ],
+      "identity_as_of": "2024-10-03",
+      "sha256": "551325b99b64ba593a651170ee4ee6b99da9db477d0ac69b7d91c5190356b262",
+      "source": "archived-hltv-html:2376472.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 0.92
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 1680007,
+      "map_name": "nuke",
+      "day": "2024-10-03",
+      "side": 2,
+      "player_id": 3368,
+      "kills": 24,
+      "deaths": 17,
+      "adr": 93.8,
+      "kast": 66.7,
+      "scores": [
+        13,
+        11
+      ],
+      "rounds": 24,
+      "hltv_id": 2376472,
+      "mapstats_id": 185614,
+      "hltv_player_id": 20119,
+      "identity_proven_by": [
+        185622,
+        185620
+      ],
+      "identity_as_of": "2024-10-03",
+      "sha256": "551325b99b64ba593a651170ee4ee6b99da9db477d0ac69b7d91c5190356b262",
+      "source": "archived-hltv-html:2376472.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.37
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 1680007,
+      "map_name": "nuke",
+      "day": "2024-10-03",
+      "side": 2,
+      "player_id": 4275,
+      "kills": 17,
+      "deaths": 14,
+      "adr": 71.6,
+      "kast": 75.0,
+      "scores": [
+        13,
+        11
+      ],
+      "rounds": 24,
+      "hltv_id": 2376472,
+      "mapstats_id": 185614,
+      "hltv_player_id": 20878,
+      "identity_proven_by": [
+        185622,
+        185620
+      ],
+      "identity_as_of": "2024-10-03",
+      "sha256": "551325b99b64ba593a651170ee4ee6b99da9db477d0ac69b7d91c5190356b262",
+      "source": "archived-hltv-html:2376472.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.19
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 1680007,
+      "map_name": "nuke",
+      "day": "2024-10-03",
+      "side": 2,
+      "player_id": 3435,
+      "kills": 14,
+      "deaths": 20,
+      "adr": 78.6,
+      "kast": 83.3,
+      "scores": [
+        13,
+        11
+      ],
+      "rounds": 24,
+      "hltv_id": 2376472,
+      "mapstats_id": 185614,
+      "hltv_player_id": 19065,
+      "identity_proven_by": [
+        185622,
+        185620
+      ],
+      "identity_as_of": "2024-10-03",
+      "sha256": "551325b99b64ba593a651170ee4ee6b99da9db477d0ac69b7d91c5190356b262",
+      "source": "archived-hltv-html:2376472.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 0.93
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 1680007,
+      "map_name": "nuke",
+      "day": "2024-10-03",
+      "side": 2,
+      "player_id": 568,
+      "kills": 14,
+      "deaths": 19,
+      "adr": 72.3,
+      "kast": 70.8,
+      "scores": [
+        13,
+        11
+      ],
+      "rounds": 24,
+      "hltv_id": 2376472,
+      "mapstats_id": 185614,
+      "hltv_player_id": 14218,
+      "identity_proven_by": [
+        185622,
+        185620
+      ],
+      "identity_as_of": "2024-10-03",
+      "sha256": "551325b99b64ba593a651170ee4ee6b99da9db477d0ac69b7d91c5190356b262",
+      "source": "archived-hltv-html:2376472.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 0.92
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 1680007,
+      "map_name": "nuke",
+      "day": "2024-10-03",
+      "side": 2,
+      "player_id": 4705,
+      "kills": 14,
+      "deaths": 15,
+      "adr": 58.3,
+      "kast": 79.2,
+      "scores": [
+        13,
+        11
+      ],
+      "rounds": 24,
+      "hltv_id": 2376472,
+      "mapstats_id": 185614,
+      "hltv_player_id": 21164,
+      "identity_proven_by": [
+        185622,
+        185620
+      ],
+      "identity_as_of": "2024-10-03",
+      "sha256": "551325b99b64ba593a651170ee4ee6b99da9db477d0ac69b7d91c5190356b262",
+      "source": "archived-hltv-html:2376472.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 0.84
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7303252,
+      "map_name": "dust2",
+      "day": "2026-07-11",
+      "side": 1,
+      "player_id": 27048,
+      "kills": 17,
+      "deaths": 15,
+      "adr": 78.2,
+      "kast": 68.2,
+      "scores": [
+        9,
+        13
+      ],
+      "rounds": 22,
+      "hltv_id": 2395661,
+      "mapstats_id": 232691,
+      "hltv_player_id": 24952,
+      "identity_proven_by": [
+        232691,
+        232687
+      ],
+      "identity_as_of": "2026-07-11",
+      "sha256": "28bd8cfb16675dec16b95effaf9b643b8533fc8d207e92f9db6c13eed20bf166",
+      "source": "archived-hltv-html:2395661.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.03
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7303252,
+      "map_name": "dust2",
+      "day": "2026-07-11",
+      "side": 1,
+      "player_id": 178,
+      "kills": 14,
+      "deaths": 15,
+      "adr": 66.8,
+      "kast": 72.7,
+      "scores": [
+        9,
+        13
+      ],
+      "rounds": 22,
+      "hltv_id": 2395661,
+      "mapstats_id": 232691,
+      "hltv_player_id": 8789,
+      "identity_proven_by": [
+        232691,
+        232687
+      ],
+      "identity_as_of": "2026-07-11",
+      "sha256": "28bd8cfb16675dec16b95effaf9b643b8533fc8d207e92f9db6c13eed20bf166",
+      "source": "archived-hltv-html:2395661.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 0.9
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7303252,
+      "map_name": "dust2",
+      "day": "2026-07-11",
+      "side": 1,
+      "player_id": 20792,
+      "kills": 13,
+      "deaths": 12,
+      "adr": 71.1,
+      "kast": 77.3,
+      "scores": [
+        9,
+        13
+      ],
+      "rounds": 22,
+      "hltv_id": 2395661,
+      "mapstats_id": 232691,
+      "hltv_player_id": 23637,
+      "identity_proven_by": [
+        232691,
+        232687
+      ],
+      "identity_as_of": "2026-07-11",
+      "sha256": "28bd8cfb16675dec16b95effaf9b643b8533fc8d207e92f9db6c13eed20bf166",
+      "source": "archived-hltv-html:2395661.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 0.88
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7303252,
+      "map_name": "dust2",
+      "day": "2026-07-11",
+      "side": 1,
+      "player_id": 27658,
+      "kills": 12,
+      "deaths": 14,
+      "adr": 57.6,
+      "kast": 68.2,
+      "scores": [
+        9,
+        13
+      ],
+      "rounds": 22,
+      "hltv_id": 2395661,
+      "mapstats_id": 232691,
+      "hltv_player_id": 24292,
+      "identity_proven_by": [
+        232691,
+        232687
+      ],
+      "identity_as_of": "2026-07-11",
+      "sha256": "28bd8cfb16675dec16b95effaf9b643b8533fc8d207e92f9db6c13eed20bf166",
+      "source": "archived-hltv-html:2395661.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 0.84
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7303252,
+      "map_name": "dust2",
+      "day": "2026-07-11",
+      "side": 2,
+      "player_id": 2109,
+      "kills": 15,
+      "deaths": 16,
+      "adr": 80.5,
+      "kast": 81.8,
+      "scores": [
+        9,
+        13
+      ],
+      "rounds": 22,
+      "hltv_id": 2395661,
+      "mapstats_id": 232691,
+      "hltv_player_id": 16147,
+      "identity_proven_by": [
+        232691,
+        232687
+      ],
+      "identity_as_of": "2026-07-11",
+      "sha256": "28bd8cfb16675dec16b95effaf9b643b8533fc8d207e92f9db6c13eed20bf166",
+      "source": "archived-hltv-html:2395661.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.33
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7303252,
+      "map_name": "dust2",
+      "day": "2026-07-11",
+      "side": 2,
+      "player_id": 8304,
+      "kills": 17,
+      "deaths": 10,
+      "adr": 68.5,
+      "kast": 72.7,
+      "scores": [
+        9,
+        13
+      ],
+      "rounds": 22,
+      "hltv_id": 2395661,
+      "mapstats_id": 232691,
+      "hltv_player_id": 23415,
+      "identity_proven_by": [
+        232691,
+        232687
+      ],
+      "identity_as_of": "2026-07-11",
+      "sha256": "28bd8cfb16675dec16b95effaf9b643b8533fc8d207e92f9db6c13eed20bf166",
+      "source": "archived-hltv-html:2395661.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.3
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7303252,
+      "map_name": "dust2",
+      "day": "2026-07-11",
+      "side": 2,
+      "player_id": 25560,
+      "kills": 16,
+      "deaths": 13,
+      "adr": 82.1,
+      "kast": 77.3,
+      "scores": [
+        9,
+        13
+      ],
+      "rounds": 22,
+      "hltv_id": 2395661,
+      "mapstats_id": 232691,
+      "hltv_player_id": 24282,
+      "identity_proven_by": [
+        232691,
+        232687
+      ],
+      "identity_as_of": "2026-07-11",
+      "sha256": "28bd8cfb16675dec16b95effaf9b643b8533fc8d207e92f9db6c13eed20bf166",
+      "source": "archived-hltv-html:2395661.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.14
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7303252,
+      "map_name": "dust2",
+      "day": "2026-07-11",
+      "side": 2,
+      "player_id": 26198,
+      "kills": 13,
+      "deaths": 16,
+      "adr": 81.7,
+      "kast": 54.5,
+      "scores": [
+        9,
+        13
+      ],
+      "rounds": 22,
+      "hltv_id": 2395661,
+      "mapstats_id": 232691,
+      "hltv_player_id": 24168,
+      "identity_proven_by": [
+        232691,
+        232687
+      ],
+      "identity_as_of": "2026-07-11",
+      "sha256": "28bd8cfb16675dec16b95effaf9b643b8533fc8d207e92f9db6c13eed20bf166",
+      "source": "archived-hltv-html:2395661.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.09
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7303252,
+      "map_name": "dust2",
+      "day": "2026-07-11",
+      "side": 2,
+      "player_id": 2799,
+      "kills": 10,
+      "deaths": 12,
+      "adr": 53.7,
+      "kast": 72.7,
+      "scores": [
+        9,
+        13
+      ],
+      "rounds": 22,
+      "hltv_id": 2395661,
+      "mapstats_id": 232691,
+      "hltv_player_id": 19592,
+      "identity_proven_by": [
+        232691,
+        232687
+      ],
+      "identity_as_of": "2026-07-11",
+      "sha256": "28bd8cfb16675dec16b95effaf9b643b8533fc8d207e92f9db6c13eed20bf166",
+      "source": "archived-hltv-html:2395661.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.0
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7303252,
+      "map_name": "mirage",
+      "day": "2026-07-11",
+      "side": 1,
+      "player_id": 178,
+      "kills": 14,
+      "deaths": 15,
+      "adr": 74.2,
+      "kast": 77.3,
+      "scores": [
+        9,
+        13
+      ],
+      "rounds": 22,
+      "hltv_id": 2395661,
+      "mapstats_id": 232687,
+      "hltv_player_id": 8789,
+      "identity_proven_by": [
+        232691,
+        232687
+      ],
+      "identity_as_of": "2026-07-11",
+      "sha256": "28bd8cfb16675dec16b95effaf9b643b8533fc8d207e92f9db6c13eed20bf166",
+      "source": "archived-hltv-html:2395661.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.21
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7303252,
+      "map_name": "mirage",
+      "day": "2026-07-11",
+      "side": 1,
+      "player_id": 20792,
+      "kills": 16,
+      "deaths": 14,
+      "adr": 69.8,
+      "kast": 68.2,
+      "scores": [
+        9,
+        13
+      ],
+      "rounds": 22,
+      "hltv_id": 2395661,
+      "mapstats_id": 232687,
+      "hltv_player_id": 23637,
+      "identity_proven_by": [
+        232691,
+        232687
+      ],
+      "identity_as_of": "2026-07-11",
+      "sha256": "28bd8cfb16675dec16b95effaf9b643b8533fc8d207e92f9db6c13eed20bf166",
+      "source": "archived-hltv-html:2395661.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.17
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7303252,
+      "map_name": "mirage",
+      "day": "2026-07-11",
+      "side": 1,
+      "player_id": 27048,
+      "kills": 12,
+      "deaths": 13,
+      "adr": 62.5,
+      "kast": 81.8,
+      "scores": [
+        9,
+        13
+      ],
+      "rounds": 22,
+      "hltv_id": 2395661,
+      "mapstats_id": 232687,
+      "hltv_player_id": 24952,
+      "identity_proven_by": [
+        232691,
+        232687
+      ],
+      "identity_as_of": "2026-07-11",
+      "sha256": "28bd8cfb16675dec16b95effaf9b643b8533fc8d207e92f9db6c13eed20bf166",
+      "source": "archived-hltv-html:2395661.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 0.97
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7303252,
+      "map_name": "mirage",
+      "day": "2026-07-11",
+      "side": 1,
+      "player_id": 27658,
+      "kills": 7,
+      "deaths": 14,
+      "adr": 46.5,
+      "kast": 72.7,
+      "scores": [
+        9,
+        13
+      ],
+      "rounds": 22,
+      "hltv_id": 2395661,
+      "mapstats_id": 232687,
+      "hltv_player_id": 24292,
+      "identity_proven_by": [
+        232691,
+        232687
+      ],
+      "identity_as_of": "2026-07-11",
+      "sha256": "28bd8cfb16675dec16b95effaf9b643b8533fc8d207e92f9db6c13eed20bf166",
+      "source": "archived-hltv-html:2395661.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 0.83
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7303252,
+      "map_name": "mirage",
+      "day": "2026-07-11",
+      "side": 2,
+      "player_id": 2109,
+      "kills": 13,
+      "deaths": 12,
+      "adr": 67.5,
+      "kast": 77.3,
+      "scores": [
+        9,
+        13
+      ],
+      "rounds": 22,
+      "hltv_id": 2395661,
+      "mapstats_id": 232687,
+      "hltv_player_id": 16147,
+      "identity_proven_by": [
+        232691,
+        232687
+      ],
+      "identity_as_of": "2026-07-11",
+      "sha256": "28bd8cfb16675dec16b95effaf9b643b8533fc8d207e92f9db6c13eed20bf166",
+      "source": "archived-hltv-html:2395661.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.23
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7303252,
+      "map_name": "mirage",
+      "day": "2026-07-11",
+      "side": 2,
+      "player_id": 8304,
+      "kills": 15,
+      "deaths": 9,
+      "adr": 75.7,
+      "kast": 77.3,
+      "scores": [
+        9,
+        13
+      ],
+      "rounds": 22,
+      "hltv_id": 2395661,
+      "mapstats_id": 232687,
+      "hltv_player_id": 23415,
+      "identity_proven_by": [
+        232691,
+        232687
+      ],
+      "identity_as_of": "2026-07-11",
+      "sha256": "28bd8cfb16675dec16b95effaf9b643b8533fc8d207e92f9db6c13eed20bf166",
+      "source": "archived-hltv-html:2395661.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.18
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7303252,
+      "map_name": "mirage",
+      "day": "2026-07-11",
+      "side": 2,
+      "player_id": 26198,
+      "kills": 19,
+      "deaths": 14,
+      "adr": 82.0,
+      "kast": 72.7,
+      "scores": [
+        9,
+        13
+      ],
+      "rounds": 22,
+      "hltv_id": 2395661,
+      "mapstats_id": 232687,
+      "hltv_player_id": 24168,
+      "identity_proven_by": [
+        232691,
+        232687
+      ],
+      "identity_as_of": "2026-07-11",
+      "sha256": "28bd8cfb16675dec16b95effaf9b643b8533fc8d207e92f9db6c13eed20bf166",
+      "source": "archived-hltv-html:2395661.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.15
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7303252,
+      "map_name": "mirage",
+      "day": "2026-07-11",
+      "side": 2,
+      "player_id": 25560,
+      "kills": 13,
+      "deaths": 13,
+      "adr": 67.7,
+      "kast": 72.7,
+      "scores": [
+        9,
+        13
+      ],
+      "rounds": 22,
+      "hltv_id": 2395661,
+      "mapstats_id": 232687,
+      "hltv_player_id": 24282,
+      "identity_proven_by": [
+        232691,
+        232687
+      ],
+      "identity_as_of": "2026-07-11",
+      "sha256": "28bd8cfb16675dec16b95effaf9b643b8533fc8d207e92f9db6c13eed20bf166",
+      "source": "archived-hltv-html:2395661.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 0.9
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7303252,
+      "map_name": "mirage",
+      "day": "2026-07-11",
+      "side": 2,
+      "player_id": 2799,
+      "kills": 10,
+      "deaths": 8,
+      "adr": 53.2,
+      "kast": 81.8,
+      "scores": [
+        9,
+        13
+      ],
+      "rounds": 22,
+      "hltv_id": 2395661,
+      "mapstats_id": 232687,
+      "hltv_player_id": 19592,
+      "identity_proven_by": [
+        232691,
+        232687
+      ],
+      "identity_as_of": "2026-07-11",
+      "sha256": "28bd8cfb16675dec16b95effaf9b643b8533fc8d207e92f9db6c13eed20bf166",
+      "source": "archived-hltv-html:2395661.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 0.85
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7309884,
+      "map_name": "ancient",
+      "day": "2026-09-27",
+      "side": 1,
+      "player_id": 3513,
+      "kills": 17,
+      "deaths": 12,
+      "adr": 89.2,
+      "kast": 66.7,
+      "scores": [
+        5,
+        13
+      ],
+      "rounds": 18,
+      "hltv_id": 2397854,
+      "mapstats_id": 239894,
+      "hltv_player_id": 21014,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "38b35625754f03ae034cb99a4c72c23ce34a970d931ecbf1a0afd692f49a0f34",
+      "source": "archived-hltv-html:2397854.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 1.55
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7309884,
+      "map_name": "ancient",
+      "day": "2026-09-27",
+      "side": 1,
+      "player_id": 772,
+      "kills": 15,
+      "deaths": 14,
+      "adr": 89.3,
+      "kast": 72.2,
+      "scores": [
+        5,
+        13
+      ],
+      "rounds": 18,
+      "hltv_id": 2397854,
+      "mapstats_id": 239894,
+      "hltv_player_id": 9254,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "38b35625754f03ae034cb99a4c72c23ce34a970d931ecbf1a0afd692f49a0f34",
+      "source": "archived-hltv-html:2397854.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 1.11
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7309884,
+      "map_name": "ancient",
+      "day": "2026-09-27",
+      "side": 1,
+      "player_id": 773,
+      "kills": 6,
+      "deaths": 15,
+      "adr": 62.3,
+      "kast": 66.7,
+      "scores": [
+        5,
+        13
+      ],
+      "rounds": 18,
+      "hltv_id": 2397854,
+      "mapstats_id": 239894,
+      "hltv_player_id": 8371,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "38b35625754f03ae034cb99a4c72c23ce34a970d931ecbf1a0afd692f49a0f34",
+      "source": "archived-hltv-html:2397854.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 0.6
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7309884,
+      "map_name": "ancient",
+      "day": "2026-09-27",
+      "side": 1,
+      "player_id": 1662,
+      "kills": 9,
+      "deaths": 15,
+      "adr": 57.9,
+      "kast": 66.7,
+      "scores": [
+        5,
+        13
+      ],
+      "rounds": 18,
+      "hltv_id": 2397854,
+      "mapstats_id": 239894,
+      "hltv_player_id": 18749,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "38b35625754f03ae034cb99a4c72c23ce34a970d931ecbf1a0afd692f49a0f34",
+      "source": "archived-hltv-html:2397854.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 0.6
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7309884,
+      "map_name": "ancient",
+      "day": "2026-09-27",
+      "side": 1,
+      "player_id": 1394,
+      "kills": 6,
+      "deaths": 15,
+      "adr": 44.1,
+      "kast": 50.0,
+      "scores": [
+        5,
+        13
+      ],
+      "rounds": 18,
+      "hltv_id": 2397854,
+      "mapstats_id": 239894,
+      "hltv_player_id": 19509,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "38b35625754f03ae034cb99a4c72c23ce34a970d931ecbf1a0afd692f49a0f34",
+      "source": "archived-hltv-html:2397854.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 0.39
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7309884,
+      "map_name": "ancient",
+      "day": "2026-09-27",
+      "side": 2,
+      "player_id": 27523,
+      "kills": 21,
+      "deaths": 8,
+      "adr": 114.9,
+      "kast": 94.4,
+      "scores": [
+        5,
+        13
+      ],
+      "rounds": 18,
+      "hltv_id": 2397854,
+      "mapstats_id": 239894,
+      "hltv_player_id": 24190,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "38b35625754f03ae034cb99a4c72c23ce34a970d931ecbf1a0afd692f49a0f34",
+      "source": "archived-hltv-html:2397854.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 2.27
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7309884,
+      "map_name": "ancient",
+      "day": "2026-09-27",
+      "side": 2,
+      "player_id": 1962,
+      "kills": 19,
+      "deaths": 10,
+      "adr": 88.3,
+      "kast": 77.8,
+      "scores": [
+        5,
+        13
+      ],
+      "rounds": 18,
+      "hltv_id": 2397854,
+      "mapstats_id": 239894,
+      "hltv_player_id": 17011,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "38b35625754f03ae034cb99a4c72c23ce34a970d931ecbf1a0afd692f49a0f34",
+      "source": "archived-hltv-html:2397854.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 1.76
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7309884,
+      "map_name": "ancient",
+      "day": "2026-09-27",
+      "side": 2,
+      "player_id": 26918,
+      "kills": 14,
+      "deaths": 13,
+      "adr": 97.4,
+      "kast": 66.7,
+      "scores": [
+        5,
+        13
+      ],
+      "rounds": 18,
+      "hltv_id": 2397854,
+      "mapstats_id": 239894,
+      "hltv_player_id": 24485,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "38b35625754f03ae034cb99a4c72c23ce34a970d931ecbf1a0afd692f49a0f34",
+      "source": "archived-hltv-html:2397854.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 1.28
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7309884,
+      "map_name": "ancient",
+      "day": "2026-09-27",
+      "side": 2,
+      "player_id": 3539,
+      "kills": 6,
+      "deaths": 14,
+      "adr": 35.6,
+      "kast": 50.0,
+      "scores": [
+        5,
+        13
+      ],
+      "rounds": 18,
+      "hltv_id": 2397854,
+      "mapstats_id": 239894,
+      "hltv_player_id": 19297,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "38b35625754f03ae034cb99a4c72c23ce34a970d931ecbf1a0afd692f49a0f34",
+      "source": "archived-hltv-html:2397854.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 0.4
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7309884,
+      "map_name": "mirage",
+      "day": "2026-09-27",
+      "side": 1,
+      "player_id": 1394,
+      "kills": 12,
+      "deaths": 12,
+      "adr": 62.5,
+      "kast": 52.9,
+      "scores": [
+        4,
+        13
+      ],
+      "rounds": 17,
+      "hltv_id": 2397854,
+      "mapstats_id": 239910,
+      "hltv_player_id": 19509,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "38b35625754f03ae034cb99a4c72c23ce34a970d931ecbf1a0afd692f49a0f34",
+      "source": "archived-hltv-html:2397854.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 1.02
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7309884,
+      "map_name": "mirage",
+      "day": "2026-09-27",
+      "side": 1,
+      "player_id": 772,
+      "kills": 11,
+      "deaths": 12,
+      "adr": 60.7,
+      "kast": 58.8,
+      "scores": [
+        4,
+        13
+      ],
+      "rounds": 17,
+      "hltv_id": 2397854,
+      "mapstats_id": 239910,
+      "hltv_player_id": 9254,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "38b35625754f03ae034cb99a4c72c23ce34a970d931ecbf1a0afd692f49a0f34",
+      "source": "archived-hltv-html:2397854.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 0.98
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7309884,
+      "map_name": "mirage",
+      "day": "2026-09-27",
+      "side": 1,
+      "player_id": 773,
+      "kills": 11,
+      "deaths": 10,
+      "adr": 65.5,
+      "kast": 52.9,
+      "scores": [
+        4,
+        13
+      ],
+      "rounds": 17,
+      "hltv_id": 2397854,
+      "mapstats_id": 239910,
+      "hltv_player_id": 8371,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "38b35625754f03ae034cb99a4c72c23ce34a970d931ecbf1a0afd692f49a0f34",
+      "source": "archived-hltv-html:2397854.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 0.91
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7309884,
+      "map_name": "mirage",
+      "day": "2026-09-27",
+      "side": 1,
+      "player_id": 1662,
+      "kills": 9,
+      "deaths": 16,
+      "adr": 64.9,
+      "kast": 58.8,
+      "scores": [
+        4,
+        13
+      ],
+      "rounds": 17,
+      "hltv_id": 2397854,
+      "mapstats_id": 239910,
+      "hltv_player_id": 18749,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "38b35625754f03ae034cb99a4c72c23ce34a970d931ecbf1a0afd692f49a0f34",
+      "source": "archived-hltv-html:2397854.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 0.64
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7309884,
+      "map_name": "mirage",
+      "day": "2026-09-27",
+      "side": 1,
+      "player_id": 3513,
+      "kills": 7,
+      "deaths": 12,
+      "adr": 50.5,
+      "kast": 58.8,
+      "scores": [
+        4,
+        13
+      ],
+      "rounds": 17,
+      "hltv_id": 2397854,
+      "mapstats_id": 239910,
+      "hltv_player_id": 21014,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "38b35625754f03ae034cb99a4c72c23ce34a970d931ecbf1a0afd692f49a0f34",
+      "source": "archived-hltv-html:2397854.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 0.53
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7309884,
+      "map_name": "mirage",
+      "day": "2026-09-27",
+      "side": 2,
+      "player_id": 1962,
+      "kills": 12,
+      "deaths": 8,
+      "adr": 79.8,
+      "kast": 76.5,
+      "scores": [
+        4,
+        13
+      ],
+      "rounds": 17,
+      "hltv_id": 2397854,
+      "mapstats_id": 239910,
+      "hltv_player_id": 17011,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "38b35625754f03ae034cb99a4c72c23ce34a970d931ecbf1a0afd692f49a0f34",
+      "source": "archived-hltv-html:2397854.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 1.53
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7309884,
+      "map_name": "mirage",
+      "day": "2026-09-27",
+      "side": 2,
+      "player_id": 26918,
+      "kills": 17,
+      "deaths": 12,
+      "adr": 95.4,
+      "kast": 70.6,
+      "scores": [
+        4,
+        13
+      ],
+      "rounds": 17,
+      "hltv_id": 2397854,
+      "mapstats_id": 239910,
+      "hltv_player_id": 24485,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "38b35625754f03ae034cb99a4c72c23ce34a970d931ecbf1a0afd692f49a0f34",
+      "source": "archived-hltv-html:2397854.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 1.42
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7309884,
+      "map_name": "mirage",
+      "day": "2026-09-27",
+      "side": 2,
+      "player_id": 27523,
+      "kills": 11,
+      "deaths": 9,
+      "adr": 71.5,
+      "kast": 76.5,
+      "scores": [
+        4,
+        13
+      ],
+      "rounds": 17,
+      "hltv_id": 2397854,
+      "mapstats_id": 239910,
+      "hltv_player_id": 24190,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "38b35625754f03ae034cb99a4c72c23ce34a970d931ecbf1a0afd692f49a0f34",
+      "source": "archived-hltv-html:2397854.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 1.18
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7309884,
+      "map_name": "mirage",
+      "day": "2026-09-27",
+      "side": 2,
+      "player_id": 3539,
+      "kills": 10,
+      "deaths": 13,
+      "adr": 86.6,
+      "kast": 64.7,
+      "scores": [
+        4,
+        13
+      ],
+      "rounds": 17,
+      "hltv_id": 2397854,
+      "mapstats_id": 239910,
+      "hltv_player_id": 19297,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "38b35625754f03ae034cb99a4c72c23ce34a970d931ecbf1a0afd692f49a0f34",
+      "source": "archived-hltv-html:2397854.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 1.08
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7310345,
+      "map_name": "anubis",
+      "day": "2026-09-29",
+      "side": 1,
+      "player_id": 6574,
+      "kills": 15,
+      "deaths": 4,
+      "adr": 107.1,
+      "kast": 92.3,
+      "scores": [
+        13,
+        0
+      ],
+      "rounds": 13,
+      "hltv_id": 2398774,
+      "mapstats_id": 240067,
+      "hltv_player_id": 22535,
+      "identity_proven_by": [
+        240067,
+        240063
+      ],
+      "identity_as_of": "2026-09-29",
+      "sha256": "51de7d012f37da8ff5559abc8d1f2dd58a89a466d77f87a8f106aa8810510f69",
+      "source": "archived-hltv-html:2398774.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 2.4
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7310345,
+      "map_name": "anubis",
+      "day": "2026-09-29",
+      "side": 1,
+      "player_id": 2790,
+      "kills": 15,
+      "deaths": 6,
+      "adr": 86.5,
+      "kast": 100.0,
+      "scores": [
+        13,
+        0
+      ],
+      "rounds": 13,
+      "hltv_id": 2398774,
+      "mapstats_id": 240067,
+      "hltv_player_id": 18752,
+      "identity_proven_by": [
+        240067,
+        240063
+      ],
+      "identity_as_of": "2026-09-29",
+      "sha256": "51de7d012f37da8ff5559abc8d1f2dd58a89a466d77f87a8f106aa8810510f69",
+      "source": "archived-hltv-html:2398774.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 2.2
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7310345,
+      "map_name": "anubis",
+      "day": "2026-09-29",
+      "side": 1,
+      "player_id": 5135,
+      "kills": 13,
+      "deaths": 6,
+      "adr": 114.6,
+      "kast": 92.3,
+      "scores": [
+        13,
+        0
+      ],
+      "rounds": 13,
+      "hltv_id": 2398774,
+      "mapstats_id": 240067,
+      "hltv_player_id": 21385,
+      "identity_proven_by": [
+        240067,
+        240063
+      ],
+      "identity_as_of": "2026-09-29",
+      "sha256": "51de7d012f37da8ff5559abc8d1f2dd58a89a466d77f87a8f106aa8810510f69",
+      "source": "archived-hltv-html:2398774.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 2.07
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7310345,
+      "map_name": "anubis",
+      "day": "2026-09-29",
+      "side": 1,
+      "player_id": 493,
+      "kills": 11,
+      "deaths": 6,
+      "adr": 94.2,
+      "kast": 92.3,
+      "scores": [
+        13,
+        0
+      ],
+      "rounds": 13,
+      "hltv_id": 2398774,
+      "mapstats_id": 240067,
+      "hltv_player_id": 16612,
+      "identity_proven_by": [
+        240067,
+        240063
+      ],
+      "identity_as_of": "2026-09-29",
+      "sha256": "51de7d012f37da8ff5559abc8d1f2dd58a89a466d77f87a8f106aa8810510f69",
+      "source": "archived-hltv-html:2398774.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 1.79
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7310345,
+      "map_name": "anubis",
+      "day": "2026-09-29",
+      "side": 1,
+      "player_id": 25889,
+      "kills": 9,
+      "deaths": 7,
+      "adr": 68.7,
+      "kast": 92.3,
+      "scores": [
+        13,
+        0
+      ],
+      "rounds": 13,
+      "hltv_id": 2398774,
+      "mapstats_id": 240067,
+      "hltv_player_id": 24806,
+      "identity_proven_by": [
+        240067,
+        240063
+      ],
+      "identity_as_of": "2026-09-29",
+      "sha256": "51de7d012f37da8ff5559abc8d1f2dd58a89a466d77f87a8f106aa8810510f69",
+      "source": "archived-hltv-html:2398774.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 1.23
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7310345,
+      "map_name": "mirage",
+      "day": "2026-09-29",
+      "side": 1,
+      "player_id": 25889,
+      "kills": 16,
+      "deaths": 1,
+      "adr": 105.8,
+      "kast": 92.3,
+      "scores": [
+        13,
+        0
+      ],
+      "rounds": 13,
+      "hltv_id": 2398774,
+      "mapstats_id": 240063,
+      "hltv_player_id": 24806,
+      "identity_proven_by": [
+        240067,
+        240063
+      ],
+      "identity_as_of": "2026-09-29",
+      "sha256": "51de7d012f37da8ff5559abc8d1f2dd58a89a466d77f87a8f106aa8810510f69",
+      "source": "archived-hltv-html:2398774.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 2.4
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7310345,
+      "map_name": "mirage",
+      "day": "2026-09-29",
+      "side": 1,
+      "player_id": 2790,
+      "kills": 16,
+      "deaths": 6,
+      "adr": 126.2,
+      "kast": 84.6,
+      "scores": [
+        13,
+        0
+      ],
+      "rounds": 13,
+      "hltv_id": 2398774,
+      "mapstats_id": 240063,
+      "hltv_player_id": 18752,
+      "identity_proven_by": [
+        240067,
+        240063
+      ],
+      "identity_as_of": "2026-09-29",
+      "sha256": "51de7d012f37da8ff5559abc8d1f2dd58a89a466d77f87a8f106aa8810510f69",
+      "source": "archived-hltv-html:2398774.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 1.97
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7310345,
+      "map_name": "mirage",
+      "day": "2026-09-29",
+      "side": 1,
+      "player_id": 5135,
+      "kills": 12,
+      "deaths": 2,
+      "adr": 86.5,
+      "kast": 92.3,
+      "scores": [
+        13,
+        0
+      ],
+      "rounds": 13,
+      "hltv_id": 2398774,
+      "mapstats_id": 240063,
+      "hltv_player_id": 21385,
+      "identity_proven_by": [
+        240067,
+        240063
+      ],
+      "identity_as_of": "2026-09-29",
+      "sha256": "51de7d012f37da8ff5559abc8d1f2dd58a89a466d77f87a8f106aa8810510f69",
+      "source": "archived-hltv-html:2398774.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 1.89
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7310345,
+      "map_name": "mirage",
+      "day": "2026-09-29",
+      "side": 1,
+      "player_id": 493,
+      "kills": 11,
+      "deaths": 4,
+      "adr": 98.5,
+      "kast": 92.3,
+      "scores": [
+        13,
+        0
+      ],
+      "rounds": 13,
+      "hltv_id": 2398774,
+      "mapstats_id": 240063,
+      "hltv_player_id": 16612,
+      "identity_proven_by": [
+        240067,
+        240063
+      ],
+      "identity_as_of": "2026-09-29",
+      "sha256": "51de7d012f37da8ff5559abc8d1f2dd58a89a466d77f87a8f106aa8810510f69",
+      "source": "archived-hltv-html:2398774.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 1.69
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7310345,
+      "map_name": "mirage",
+      "day": "2026-09-29",
+      "side": 1,
+      "player_id": 6574,
+      "kills": 10,
+      "deaths": 4,
+      "adr": 78.0,
+      "kast": 100.0,
+      "scores": [
+        13,
+        0
+      ],
+      "rounds": 13,
+      "hltv_id": 2398774,
+      "mapstats_id": 240063,
+      "hltv_player_id": 22535,
+      "identity_proven_by": [
+        240067,
+        240063
+      ],
+      "identity_as_of": "2026-09-29",
+      "sha256": "51de7d012f37da8ff5559abc8d1f2dd58a89a466d77f87a8f106aa8810510f69",
+      "source": "archived-hltv-html:2398774.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 1.42
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7309800,
+      "map_name": "dust2",
+      "day": "2026-09-30",
+      "side": 1,
+      "player_id": 28586,
+      "kills": 15,
+      "deaths": 7,
+      "adr": 107.0,
+      "kast": 85.7,
+      "scores": [
+        13,
+        1
+      ],
+      "rounds": 14,
+      "hltv_id": 2398781,
+      "mapstats_id": 240172,
+      "hltv_player_id": 26180,
+      "identity_proven_by": [
+        240172,
+        240174
+      ],
+      "identity_as_of": "2026-09-30",
+      "sha256": "f48a41c6f794fdda263c6ade81f37332011e32b40407a1fd518c109be196c801",
+      "source": "archived-hltv-html:2398781.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 2.21
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7309800,
+      "map_name": "dust2",
+      "day": "2026-09-30",
+      "side": 1,
+      "player_id": 8188,
+      "kills": 16,
+      "deaths": 4,
+      "adr": 109.9,
+      "kast": 92.9,
+      "scores": [
+        13,
+        1
+      ],
+      "rounds": 14,
+      "hltv_id": 2398781,
+      "mapstats_id": 240172,
+      "hltv_player_id": 24171,
+      "identity_proven_by": [
+        240172,
+        240174
+      ],
+      "identity_as_of": "2026-09-30",
+      "sha256": "f48a41c6f794fdda263c6ade81f37332011e32b40407a1fd518c109be196c801",
+      "source": "archived-hltv-html:2398781.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 2.14
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7309800,
+      "map_name": "dust2",
+      "day": "2026-09-30",
+      "side": 1,
+      "player_id": 8085,
+      "kills": 9,
+      "deaths": 7,
+      "adr": 75.1,
+      "kast": 85.7,
+      "scores": [
+        13,
+        1
+      ],
+      "rounds": 14,
+      "hltv_id": 2398781,
+      "mapstats_id": 240172,
+      "hltv_player_id": 22878,
+      "identity_proven_by": [
+        240172,
+        240174
+      ],
+      "identity_as_of": "2026-09-30",
+      "sha256": "f48a41c6f794fdda263c6ade81f37332011e32b40407a1fd518c109be196c801",
+      "source": "archived-hltv-html:2398781.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 1.43
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7309800,
+      "map_name": "dust2",
+      "day": "2026-09-30",
+      "side": 1,
+      "player_id": 27035,
+      "kills": 9,
+      "deaths": 5,
+      "adr": 64.2,
+      "kast": 78.6,
+      "scores": [
+        13,
+        1
+      ],
+      "rounds": 14,
+      "hltv_id": 2398781,
+      "mapstats_id": 240172,
+      "hltv_player_id": 24568,
+      "identity_proven_by": [
+        240172,
+        240174
+      ],
+      "identity_as_of": "2026-09-30",
+      "sha256": "f48a41c6f794fdda263c6ade81f37332011e32b40407a1fd518c109be196c801",
+      "source": "archived-hltv-html:2398781.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 1.37
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7309800,
+      "map_name": "dust2",
+      "day": "2026-09-30",
+      "side": 1,
+      "player_id": 28316,
+      "kills": 6,
+      "deaths": 6,
+      "adr": 46.3,
+      "kast": 85.7,
+      "scores": [
+        13,
+        1
+      ],
+      "rounds": 14,
+      "hltv_id": 2398781,
+      "mapstats_id": 240172,
+      "hltv_player_id": 25807,
+      "identity_proven_by": [
+        240172,
+        240174
+      ],
+      "identity_as_of": "2026-09-30",
+      "sha256": "f48a41c6f794fdda263c6ade81f37332011e32b40407a1fd518c109be196c801",
+      "source": "archived-hltv-html:2398781.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 1.23
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7309800,
+      "map_name": "dust2",
+      "day": "2026-09-30",
+      "side": 2,
+      "player_id": 29646,
+      "kills": 8,
+      "deaths": 10,
+      "adr": 81.3,
+      "kast": 57.1,
+      "scores": [
+        13,
+        1
+      ],
+      "rounds": 14,
+      "hltv_id": 2398781,
+      "mapstats_id": 240172,
+      "hltv_player_id": 26514,
+      "identity_proven_by": [
+        238227,
+        240172
+      ],
+      "identity_as_of": "2026-09-30",
+      "sha256": "f48a41c6f794fdda263c6ade81f37332011e32b40407a1fd518c109be196c801",
+      "source": "archived-hltv-html:2398781.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 0.89
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7309800,
+      "map_name": "inferno",
+      "day": "2026-09-30",
+      "side": 1,
+      "player_id": 27035,
+      "kills": 17,
+      "deaths": 6,
+      "adr": 125.7,
+      "kast": 100.0,
+      "scores": [
+        13,
+        2
+      ],
+      "rounds": 15,
+      "hltv_id": 2398781,
+      "mapstats_id": 240174,
+      "hltv_player_id": 24568,
+      "identity_proven_by": [
+        240172,
+        240174
+      ],
+      "identity_as_of": "2026-09-30",
+      "sha256": "f48a41c6f794fdda263c6ade81f37332011e32b40407a1fd518c109be196c801",
+      "source": "archived-hltv-html:2398781.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 2.49
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7309800,
+      "map_name": "inferno",
+      "day": "2026-09-30",
+      "side": 1,
+      "player_id": 28316,
+      "kills": 14,
+      "deaths": 7,
+      "adr": 96.8,
+      "kast": 86.7,
+      "scores": [
+        13,
+        2
+      ],
+      "rounds": 15,
+      "hltv_id": 2398781,
+      "mapstats_id": 240174,
+      "hltv_player_id": 25807,
+      "identity_proven_by": [
+        240172,
+        240174
+      ],
+      "identity_as_of": "2026-09-30",
+      "sha256": "f48a41c6f794fdda263c6ade81f37332011e32b40407a1fd518c109be196c801",
+      "source": "archived-hltv-html:2398781.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 1.81
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7309800,
+      "map_name": "inferno",
+      "day": "2026-09-30",
+      "side": 1,
+      "player_id": 8085,
+      "kills": 13,
+      "deaths": 9,
+      "adr": 94.1,
+      "kast": 93.3,
+      "scores": [
+        13,
+        2
+      ],
+      "rounds": 15,
+      "hltv_id": 2398781,
+      "mapstats_id": 240174,
+      "hltv_player_id": 22878,
+      "identity_proven_by": [
+        240172,
+        240174
+      ],
+      "identity_as_of": "2026-09-30",
+      "sha256": "f48a41c6f794fdda263c6ade81f37332011e32b40407a1fd518c109be196c801",
+      "source": "archived-hltv-html:2398781.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 1.67
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7309800,
+      "map_name": "inferno",
+      "day": "2026-09-30",
+      "side": 1,
+      "player_id": 8188,
+      "kills": 9,
+      "deaths": 5,
+      "adr": 61.1,
+      "kast": 86.7,
+      "scores": [
+        13,
+        2
+      ],
+      "rounds": 15,
+      "hltv_id": 2398781,
+      "mapstats_id": 240174,
+      "hltv_player_id": 24171,
+      "identity_proven_by": [
+        240172,
+        240174
+      ],
+      "identity_as_of": "2026-09-30",
+      "sha256": "f48a41c6f794fdda263c6ade81f37332011e32b40407a1fd518c109be196c801",
+      "source": "archived-hltv-html:2398781.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 1.42
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7309800,
+      "map_name": "inferno",
+      "day": "2026-09-30",
+      "side": 1,
+      "player_id": 28586,
+      "kills": 13,
+      "deaths": 6,
+      "adr": 62.7,
+      "kast": 80.0,
+      "scores": [
+        13,
+        2
+      ],
+      "rounds": 15,
+      "hltv_id": 2398781,
+      "mapstats_id": 240174,
+      "hltv_player_id": 26180,
+      "identity_proven_by": [
+        240172,
+        240174
+      ],
+      "identity_as_of": "2026-09-30",
+      "sha256": "f48a41c6f794fdda263c6ade81f37332011e32b40407a1fd518c109be196c801",
+      "source": "archived-hltv-html:2398781.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 1.17
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7309800,
+      "map_name": "inferno",
+      "day": "2026-09-30",
+      "side": 2,
+      "player_id": 29646,
+      "kills": 10,
+      "deaths": 14,
+      "adr": 82.7,
+      "kast": 60.0,
+      "scores": [
+        13,
+        2
+      ],
+      "rounds": 15,
+      "hltv_id": 2398781,
+      "mapstats_id": 240174,
+      "hltv_player_id": 26514,
+      "identity_proven_by": [
+        238227,
+        240172
+      ],
+      "identity_as_of": "2026-09-30",
+      "sha256": "f48a41c6f794fdda263c6ade81f37332011e32b40407a1fd518c109be196c801",
+      "source": "archived-hltv-html:2398781.html",
+      "imported_utc": "2026-11-27T13:29:12+00:00",
+      "metrics": {
+        "rating": 0.83
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311839,
+      "map_name": "ancient",
+      "day": "2026-10-20",
+      "side": 1,
+      "player_id": 1942,
+      "kills": 15,
+      "deaths": 14,
+      "adr": 88.6,
+      "kast": 65.2,
+      "scores": [
+        13,
+        10
+      ],
+      "rounds": 23,
+      "hltv_id": 2399616,
+      "mapstats_id": 242346,
+      "hltv_player_id": 18790,
+      "identity_proven_by": [
+        242346,
+        242326
+      ],
+      "identity_as_of": "2026-10-20",
+      "sha256": "36830ab216f165ddebf9caae20e525f5f59214d2c7290cdfee22acac6a5efdd9",
+      "source": "archived-hltv-html:2399616.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 1.45
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311839,
+      "map_name": "ancient",
+      "day": "2026-10-20",
+      "side": 1,
+      "player_id": 958,
+      "kills": 15,
+      "deaths": 14,
+      "adr": 70.7,
+      "kast": 60.9,
+      "scores": [
+        13,
+        10
+      ],
+      "rounds": 23,
+      "hltv_id": 2399616,
+      "mapstats_id": 242346,
+      "hltv_player_id": 18120,
+      "identity_proven_by": [
+        242346,
+        242326
+      ],
+      "identity_as_of": "2026-10-20",
+      "sha256": "36830ab216f165ddebf9caae20e525f5f59214d2c7290cdfee22acac6a5efdd9",
+      "source": "archived-hltv-html:2399616.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 1.08
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311839,
+      "map_name": "ancient",
+      "day": "2026-10-20",
+      "side": 1,
+      "player_id": 1473,
+      "kills": 13,
+      "deaths": 10,
+      "adr": 69.7,
+      "kast": 78.3,
+      "scores": [
+        13,
+        10
+      ],
+      "rounds": 23,
+      "hltv_id": 2399616,
+      "mapstats_id": 242346,
+      "hltv_player_id": 18163,
+      "identity_proven_by": [
+        242346,
+        242326
+      ],
+      "identity_as_of": "2026-10-20",
+      "sha256": "36830ab216f165ddebf9caae20e525f5f59214d2c7290cdfee22acac6a5efdd9",
+      "source": "archived-hltv-html:2399616.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 1.01
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311839,
+      "map_name": "ancient",
+      "day": "2026-10-20",
+      "side": 1,
+      "player_id": 4033,
+      "kills": 14,
+      "deaths": 11,
+      "adr": 50.5,
+      "kast": 65.2,
+      "scores": [
+        13,
+        10
+      ],
+      "rounds": 23,
+      "hltv_id": 2399616,
+      "mapstats_id": 242346,
+      "hltv_player_id": 17675,
+      "identity_proven_by": [
+        242346,
+        242326
+      ],
+      "identity_as_of": "2026-10-20",
+      "sha256": "36830ab216f165ddebf9caae20e525f5f59214d2c7290cdfee22acac6a5efdd9",
+      "source": "archived-hltv-html:2399616.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 0.99
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311839,
+      "map_name": "ancient",
+      "day": "2026-10-20",
+      "side": 1,
+      "player_id": 6836,
+      "kills": 12,
+      "deaths": 14,
+      "adr": 64.9,
+      "kast": 65.2,
+      "scores": [
+        13,
+        10
+      ],
+      "rounds": 23,
+      "hltv_id": 2399616,
+      "mapstats_id": 242346,
+      "hltv_player_id": 22419,
+      "identity_proven_by": [
+        242346,
+        242326
+      ],
+      "identity_as_of": "2026-10-20",
+      "sha256": "36830ab216f165ddebf9caae20e525f5f59214d2c7290cdfee22acac6a5efdd9",
+      "source": "archived-hltv-html:2399616.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 0.91
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311839,
+      "map_name": "ancient",
+      "day": "2026-10-20",
+      "side": 2,
+      "player_id": 772,
+      "kills": 20,
+      "deaths": 14,
+      "adr": 103.8,
+      "kast": 73.9,
+      "scores": [
+        13,
+        10
+      ],
+      "rounds": 23,
+      "hltv_id": 2399616,
+      "mapstats_id": 242346,
+      "hltv_player_id": 9254,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "36830ab216f165ddebf9caae20e525f5f59214d2c7290cdfee22acac6a5efdd9",
+      "source": "archived-hltv-html:2399616.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 1.29
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311839,
+      "map_name": "ancient",
+      "day": "2026-10-20",
+      "side": 2,
+      "player_id": 1394,
+      "kills": 10,
+      "deaths": 11,
+      "adr": 47.7,
+      "kast": 69.6,
+      "scores": [
+        13,
+        10
+      ],
+      "rounds": 23,
+      "hltv_id": 2399616,
+      "mapstats_id": 242346,
+      "hltv_player_id": 19509,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "36830ab216f165ddebf9caae20e525f5f59214d2c7290cdfee22acac6a5efdd9",
+      "source": "archived-hltv-html:2399616.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 0.9
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311839,
+      "map_name": "ancient",
+      "day": "2026-10-20",
+      "side": 2,
+      "player_id": 1662,
+      "kills": 9,
+      "deaths": 15,
+      "adr": 57.0,
+      "kast": 56.5,
+      "scores": [
+        13,
+        10
+      ],
+      "rounds": 23,
+      "hltv_id": 2399616,
+      "mapstats_id": 242346,
+      "hltv_player_id": 18749,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "36830ab216f165ddebf9caae20e525f5f59214d2c7290cdfee22acac6a5efdd9",
+      "source": "archived-hltv-html:2399616.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 0.74
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311839,
+      "map_name": "ancient",
+      "day": "2026-10-20",
+      "side": 2,
+      "player_id": 773,
+      "kills": 13,
+      "deaths": 17,
+      "adr": 55.1,
+      "kast": 65.2,
+      "scores": [
+        13,
+        10
+      ],
+      "rounds": 23,
+      "hltv_id": 2399616,
+      "mapstats_id": 242346,
+      "hltv_player_id": 8371,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "36830ab216f165ddebf9caae20e525f5f59214d2c7290cdfee22acac6a5efdd9",
+      "source": "archived-hltv-html:2399616.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 0.73
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311839,
+      "map_name": "ancient",
+      "day": "2026-10-20",
+      "side": 2,
+      "player_id": 3513,
+      "kills": 11,
+      "deaths": 16,
+      "adr": 54.1,
+      "kast": 60.9,
+      "scores": [
+        13,
+        10
+      ],
+      "rounds": 23,
+      "hltv_id": 2399616,
+      "mapstats_id": 242346,
+      "hltv_player_id": 21014,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "36830ab216f165ddebf9caae20e525f5f59214d2c7290cdfee22acac6a5efdd9",
+      "source": "archived-hltv-html:2399616.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 0.73
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311839,
+      "map_name": "inferno",
+      "day": "2026-10-20",
+      "side": 1,
+      "player_id": 4033,
+      "kills": 17,
+      "deaths": 11,
+      "adr": 89.8,
+      "kast": 68.8,
+      "scores": [
+        3,
+        13
+      ],
+      "rounds": 16,
+      "hltv_id": 2399616,
+      "mapstats_id": 242326,
+      "hltv_player_id": 17675,
+      "identity_proven_by": [
+        242346,
+        242326
+      ],
+      "identity_as_of": "2026-10-20",
+      "sha256": "36830ab216f165ddebf9caae20e525f5f59214d2c7290cdfee22acac6a5efdd9",
+      "source": "archived-hltv-html:2399616.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 1.45
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311839,
+      "map_name": "inferno",
+      "day": "2026-10-20",
+      "side": 1,
+      "player_id": 6836,
+      "kills": 10,
+      "deaths": 14,
+      "adr": 65.1,
+      "kast": 68.8,
+      "scores": [
+        3,
+        13
+      ],
+      "rounds": 16,
+      "hltv_id": 2399616,
+      "mapstats_id": 242326,
+      "hltv_player_id": 22419,
+      "identity_proven_by": [
+        242346,
+        242326
+      ],
+      "identity_as_of": "2026-10-20",
+      "sha256": "36830ab216f165ddebf9caae20e525f5f59214d2c7290cdfee22acac6a5efdd9",
+      "source": "archived-hltv-html:2399616.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 0.87
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311839,
+      "map_name": "inferno",
+      "day": "2026-10-20",
+      "side": 1,
+      "player_id": 1473,
+      "kills": 7,
+      "deaths": 12,
+      "adr": 65.2,
+      "kast": 56.2,
+      "scores": [
+        3,
+        13
+      ],
+      "rounds": 16,
+      "hltv_id": 2399616,
+      "mapstats_id": 242326,
+      "hltv_player_id": 18163,
+      "identity_proven_by": [
+        242346,
+        242326
+      ],
+      "identity_as_of": "2026-10-20",
+      "sha256": "36830ab216f165ddebf9caae20e525f5f59214d2c7290cdfee22acac6a5efdd9",
+      "source": "archived-hltv-html:2399616.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 0.67
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311839,
+      "map_name": "inferno",
+      "day": "2026-10-20",
+      "side": 1,
+      "player_id": 958,
+      "kills": 7,
+      "deaths": 14,
+      "adr": 54.8,
+      "kast": 75.0,
+      "scores": [
+        3,
+        13
+      ],
+      "rounds": 16,
+      "hltv_id": 2399616,
+      "mapstats_id": 242326,
+      "hltv_player_id": 18120,
+      "identity_proven_by": [
+        242346,
+        242326
+      ],
+      "identity_as_of": "2026-10-20",
+      "sha256": "36830ab216f165ddebf9caae20e525f5f59214d2c7290cdfee22acac6a5efdd9",
+      "source": "archived-hltv-html:2399616.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 0.61
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311839,
+      "map_name": "inferno",
+      "day": "2026-10-20",
+      "side": 1,
+      "player_id": 1942,
+      "kills": 5,
+      "deaths": 12,
+      "adr": 50.1,
+      "kast": 50.0,
+      "scores": [
+        3,
+        13
+      ],
+      "rounds": 16,
+      "hltv_id": 2399616,
+      "mapstats_id": 242326,
+      "hltv_player_id": 18790,
+      "identity_proven_by": [
+        242346,
+        242326
+      ],
+      "identity_as_of": "2026-10-20",
+      "sha256": "36830ab216f165ddebf9caae20e525f5f59214d2c7290cdfee22acac6a5efdd9",
+      "source": "archived-hltv-html:2399616.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 0.47
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311839,
+      "map_name": "inferno",
+      "day": "2026-10-20",
+      "side": 2,
+      "player_id": 3513,
+      "kills": 16,
+      "deaths": 8,
+      "adr": 82.8,
+      "kast": 75.0,
+      "scores": [
+        3,
+        13
+      ],
+      "rounds": 16,
+      "hltv_id": 2399616,
+      "mapstats_id": 242326,
+      "hltv_player_id": 21014,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "36830ab216f165ddebf9caae20e525f5f59214d2c7290cdfee22acac6a5efdd9",
+      "source": "archived-hltv-html:2399616.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 1.94
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311839,
+      "map_name": "inferno",
+      "day": "2026-10-20",
+      "side": 2,
+      "player_id": 772,
+      "kills": 14,
+      "deaths": 12,
+      "adr": 100.9,
+      "kast": 75.0,
+      "scores": [
+        3,
+        13
+      ],
+      "rounds": 16,
+      "hltv_id": 2399616,
+      "mapstats_id": 242326,
+      "hltv_player_id": 9254,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "36830ab216f165ddebf9caae20e525f5f59214d2c7290cdfee22acac6a5efdd9",
+      "source": "archived-hltv-html:2399616.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 1.65
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311839,
+      "map_name": "inferno",
+      "day": "2026-10-20",
+      "side": 2,
+      "player_id": 1662,
+      "kills": 15,
+      "deaths": 10,
+      "adr": 110.5,
+      "kast": 75.0,
+      "scores": [
+        3,
+        13
+      ],
+      "rounds": 16,
+      "hltv_id": 2399616,
+      "mapstats_id": 242326,
+      "hltv_player_id": 18749,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "36830ab216f165ddebf9caae20e525f5f59214d2c7290cdfee22acac6a5efdd9",
+      "source": "archived-hltv-html:2399616.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 1.53
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311839,
+      "map_name": "inferno",
+      "day": "2026-10-20",
+      "side": 2,
+      "player_id": 773,
+      "kills": 8,
+      "deaths": 8,
+      "adr": 53.1,
+      "kast": 75.0,
+      "scores": [
+        3,
+        13
+      ],
+      "rounds": 16,
+      "hltv_id": 2399616,
+      "mapstats_id": 242326,
+      "hltv_player_id": 8371,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "36830ab216f165ddebf9caae20e525f5f59214d2c7290cdfee22acac6a5efdd9",
+      "source": "archived-hltv-html:2399616.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 1.16
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311839,
+      "map_name": "inferno",
+      "day": "2026-10-20",
+      "side": 2,
+      "player_id": 1394,
+      "kills": 8,
+      "deaths": 8,
+      "adr": 56.3,
+      "kast": 81.2,
+      "scores": [
+        3,
+        13
+      ],
+      "rounds": 16,
+      "hltv_id": 2399616,
+      "mapstats_id": 242326,
+      "hltv_player_id": 19509,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "36830ab216f165ddebf9caae20e525f5f59214d2c7290cdfee22acac6a5efdd9",
+      "source": "archived-hltv-html:2399616.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 0.87
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311839,
+      "map_name": "mirage",
+      "day": "2026-10-20",
+      "side": 1,
+      "player_id": 6836,
+      "kills": 21,
+      "deaths": 11,
+      "adr": 113.8,
+      "kast": 88.9,
+      "scores": [
+        13,
+        5
+      ],
+      "rounds": 18,
+      "hltv_id": 2399616,
+      "mapstats_id": 242337,
+      "hltv_player_id": 22419,
+      "identity_proven_by": [
+        242346,
+        242326
+      ],
+      "identity_as_of": "2026-10-20",
+      "sha256": "36830ab216f165ddebf9caae20e525f5f59214d2c7290cdfee22acac6a5efdd9",
+      "source": "archived-hltv-html:2399616.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 1.91
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311839,
+      "map_name": "mirage",
+      "day": "2026-10-20",
+      "side": 1,
+      "player_id": 1473,
+      "kills": 14,
+      "deaths": 9,
+      "adr": 74.8,
+      "kast": 94.4,
+      "scores": [
+        13,
+        5
+      ],
+      "rounds": 18,
+      "hltv_id": 2399616,
+      "mapstats_id": 242337,
+      "hltv_player_id": 18163,
+      "identity_proven_by": [
+        242346,
+        242326
+      ],
+      "identity_as_of": "2026-10-20",
+      "sha256": "36830ab216f165ddebf9caae20e525f5f59214d2c7290cdfee22acac6a5efdd9",
+      "source": "archived-hltv-html:2399616.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 1.64
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311839,
+      "map_name": "mirage",
+      "day": "2026-10-20",
+      "side": 1,
+      "player_id": 4033,
+      "kills": 14,
+      "deaths": 8,
+      "adr": 79.4,
+      "kast": 77.8,
+      "scores": [
+        13,
+        5
+      ],
+      "rounds": 18,
+      "hltv_id": 2399616,
+      "mapstats_id": 242337,
+      "hltv_player_id": 17675,
+      "identity_proven_by": [
+        242346,
+        242326
+      ],
+      "identity_as_of": "2026-10-20",
+      "sha256": "36830ab216f165ddebf9caae20e525f5f59214d2c7290cdfee22acac6a5efdd9",
+      "source": "archived-hltv-html:2399616.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 1.45
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311839,
+      "map_name": "mirage",
+      "day": "2026-10-20",
+      "side": 1,
+      "player_id": 958,
+      "kills": 12,
+      "deaths": 12,
+      "adr": 75.1,
+      "kast": 83.3,
+      "scores": [
+        13,
+        5
+      ],
+      "rounds": 18,
+      "hltv_id": 2399616,
+      "mapstats_id": 242337,
+      "hltv_player_id": 18120,
+      "identity_proven_by": [
+        242346,
+        242326
+      ],
+      "identity_as_of": "2026-10-20",
+      "sha256": "36830ab216f165ddebf9caae20e525f5f59214d2c7290cdfee22acac6a5efdd9",
+      "source": "archived-hltv-html:2399616.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 1.2
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311839,
+      "map_name": "mirage",
+      "day": "2026-10-20",
+      "side": 1,
+      "player_id": 1942,
+      "kills": 9,
+      "deaths": 13,
+      "adr": 54.4,
+      "kast": 77.8,
+      "scores": [
+        13,
+        5
+      ],
+      "rounds": 18,
+      "hltv_id": 2399616,
+      "mapstats_id": 242337,
+      "hltv_player_id": 18790,
+      "identity_proven_by": [
+        242346,
+        242326
+      ],
+      "identity_as_of": "2026-10-20",
+      "sha256": "36830ab216f165ddebf9caae20e525f5f59214d2c7290cdfee22acac6a5efdd9",
+      "source": "archived-hltv-html:2399616.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 0.84
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311839,
+      "map_name": "mirage",
+      "day": "2026-10-20",
+      "side": 2,
+      "player_id": 773,
+      "kills": 12,
+      "deaths": 12,
+      "adr": 77.0,
+      "kast": 66.7,
+      "scores": [
+        13,
+        5
+      ],
+      "rounds": 18,
+      "hltv_id": 2399616,
+      "mapstats_id": 242337,
+      "hltv_player_id": 8371,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "36830ab216f165ddebf9caae20e525f5f59214d2c7290cdfee22acac6a5efdd9",
+      "source": "archived-hltv-html:2399616.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 0.99
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311839,
+      "map_name": "mirage",
+      "day": "2026-10-20",
+      "side": 2,
+      "player_id": 1394,
+      "kills": 12,
+      "deaths": 13,
+      "adr": 77.7,
+      "kast": 66.7,
+      "scores": [
+        13,
+        5
+      ],
+      "rounds": 18,
+      "hltv_id": 2399616,
+      "mapstats_id": 242337,
+      "hltv_player_id": 19509,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "36830ab216f165ddebf9caae20e525f5f59214d2c7290cdfee22acac6a5efdd9",
+      "source": "archived-hltv-html:2399616.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 0.91
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311839,
+      "map_name": "mirage",
+      "day": "2026-10-20",
+      "side": 2,
+      "player_id": 3513,
+      "kills": 12,
+      "deaths": 14,
+      "adr": 74.3,
+      "kast": 66.7,
+      "scores": [
+        13,
+        5
+      ],
+      "rounds": 18,
+      "hltv_id": 2399616,
+      "mapstats_id": 242337,
+      "hltv_player_id": 21014,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "36830ab216f165ddebf9caae20e525f5f59214d2c7290cdfee22acac6a5efdd9",
+      "source": "archived-hltv-html:2399616.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 0.9
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311839,
+      "map_name": "mirage",
+      "day": "2026-10-20",
+      "side": 2,
+      "player_id": 1662,
+      "kills": 12,
+      "deaths": 16,
+      "adr": 79.1,
+      "kast": 61.1,
+      "scores": [
+        13,
+        5
+      ],
+      "rounds": 18,
+      "hltv_id": 2399616,
+      "mapstats_id": 242337,
+      "hltv_player_id": 18749,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "36830ab216f165ddebf9caae20e525f5f59214d2c7290cdfee22acac6a5efdd9",
+      "source": "archived-hltv-html:2399616.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 0.7
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311839,
+      "map_name": "mirage",
+      "day": "2026-10-20",
+      "side": 2,
+      "player_id": 772,
+      "kills": 5,
+      "deaths": 15,
+      "adr": 34.1,
+      "kast": 55.6,
+      "scores": [
+        13,
+        5
+      ],
+      "rounds": 18,
+      "hltv_id": 2399616,
+      "mapstats_id": 242337,
+      "hltv_player_id": 9254,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "36830ab216f165ddebf9caae20e525f5f59214d2c7290cdfee22acac6a5efdd9",
+      "source": "archived-hltv-html:2399616.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 0.37
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311962,
+      "map_name": "ancient",
+      "day": "2026-10-21",
+      "side": 2,
+      "player_id": 1394,
+      "kills": 10,
+      "deaths": 12,
+      "adr": 48.8,
+      "kast": 86.7,
+      "scores": [
+        13,
+        2
+      ],
+      "rounds": 15,
+      "hltv_id": 2399627,
+      "mapstats_id": 242488,
+      "hltv_player_id": 19509,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "623a0b1e990115417b7baa93b06ffe35606f96ab6e0d88c28672f053912fe8e9",
+      "source": "archived-hltv-html:2399627.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 0.94
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311962,
+      "map_name": "ancient",
+      "day": "2026-10-21",
+      "side": 2,
+      "player_id": 1662,
+      "kills": 10,
+      "deaths": 12,
+      "adr": 67.9,
+      "kast": 66.7,
+      "scores": [
+        13,
+        2
+      ],
+      "rounds": 15,
+      "hltv_id": 2399627,
+      "mapstats_id": 242488,
+      "hltv_player_id": 18749,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "623a0b1e990115417b7baa93b06ffe35606f96ab6e0d88c28672f053912fe8e9",
+      "source": "archived-hltv-html:2399627.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 0.79
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311962,
+      "map_name": "ancient",
+      "day": "2026-10-21",
+      "side": 2,
+      "player_id": 773,
+      "kills": 7,
+      "deaths": 12,
+      "adr": 56.4,
+      "kast": 46.7,
+      "scores": [
+        13,
+        2
+      ],
+      "rounds": 15,
+      "hltv_id": 2399627,
+      "mapstats_id": 242488,
+      "hltv_player_id": 8371,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "623a0b1e990115417b7baa93b06ffe35606f96ab6e0d88c28672f053912fe8e9",
+      "source": "archived-hltv-html:2399627.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 0.61
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311962,
+      "map_name": "ancient",
+      "day": "2026-10-21",
+      "side": 2,
+      "player_id": 772,
+      "kills": 6,
+      "deaths": 13,
+      "adr": 66.1,
+      "kast": 73.3,
+      "scores": [
+        13,
+        2
+      ],
+      "rounds": 15,
+      "hltv_id": 2399627,
+      "mapstats_id": 242488,
+      "hltv_player_id": 9254,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "623a0b1e990115417b7baa93b06ffe35606f96ab6e0d88c28672f053912fe8e9",
+      "source": "archived-hltv-html:2399627.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 0.58
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311962,
+      "map_name": "ancient",
+      "day": "2026-10-21",
+      "side": 2,
+      "player_id": 3513,
+      "kills": 7,
+      "deaths": 13,
+      "adr": 69.6,
+      "kast": 66.7,
+      "scores": [
+        13,
+        2
+      ],
+      "rounds": 15,
+      "hltv_id": 2399627,
+      "mapstats_id": 242488,
+      "hltv_player_id": 21014,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "623a0b1e990115417b7baa93b06ffe35606f96ab6e0d88c28672f053912fe8e9",
+      "source": "archived-hltv-html:2399627.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 0.58
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311962,
+      "map_name": "ancient",
+      "day": "2026-10-21",
+      "side": 1,
+      "player_id": 7754,
+      "kills": 14,
+      "deaths": 6,
+      "adr": 89.5,
+      "kast": 80.0,
+      "scores": [
+        13,
+        2
+      ],
+      "rounds": 15,
+      "hltv_id": 2399627,
+      "mapstats_id": 242488,
+      "hltv_player_id": 22945,
+      "identity_proven_by": [
+        242488,
+        242457
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "623a0b1e990115417b7baa93b06ffe35606f96ab6e0d88c28672f053912fe8e9",
+      "source": "archived-hltv-html:2399627.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 1.91
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311962,
+      "map_name": "ancient",
+      "day": "2026-10-21",
+      "side": 1,
+      "player_id": 25536,
+      "kills": 12,
+      "deaths": 5,
+      "adr": 77.3,
+      "kast": 86.7,
+      "scores": [
+        13,
+        2
+      ],
+      "rounds": 15,
+      "hltv_id": 2399627,
+      "mapstats_id": 242488,
+      "hltv_player_id": 24246,
+      "identity_proven_by": [
+        242488,
+        242457
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "623a0b1e990115417b7baa93b06ffe35606f96ab6e0d88c28672f053912fe8e9",
+      "source": "archived-hltv-html:2399627.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 1.77
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311962,
+      "map_name": "ancient",
+      "day": "2026-10-21",
+      "side": 1,
+      "player_id": 3398,
+      "kills": 13,
+      "deaths": 9,
+      "adr": 77.8,
+      "kast": 86.7,
+      "scores": [
+        13,
+        2
+      ],
+      "rounds": 15,
+      "hltv_id": 2399627,
+      "mapstats_id": 242488,
+      "hltv_player_id": 20422,
+      "identity_proven_by": [
+        242488,
+        242457
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "623a0b1e990115417b7baa93b06ffe35606f96ab6e0d88c28672f053912fe8e9",
+      "source": "archived-hltv-html:2399627.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 1.45
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311962,
+      "map_name": "ancient",
+      "day": "2026-10-21",
+      "side": 1,
+      "player_id": 3400,
+      "kills": 10,
+      "deaths": 8,
+      "adr": 82.5,
+      "kast": 86.7,
+      "scores": [
+        13,
+        2
+      ],
+      "rounds": 15,
+      "hltv_id": 2399627,
+      "mapstats_id": 242488,
+      "hltv_player_id": 20421,
+      "identity_proven_by": [
+        242488,
+        242457
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "623a0b1e990115417b7baa93b06ffe35606f96ab6e0d88c28672f053912fe8e9",
+      "source": "archived-hltv-html:2399627.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 1.43
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311962,
+      "map_name": "ancient",
+      "day": "2026-10-21",
+      "side": 1,
+      "player_id": 7929,
+      "kills": 13,
+      "deaths": 12,
+      "adr": 96.8,
+      "kast": 86.7,
+      "scores": [
+        13,
+        2
+      ],
+      "rounds": 15,
+      "hltv_id": 2399627,
+      "mapstats_id": 242488,
+      "hltv_player_id": 21692,
+      "identity_proven_by": [
+        242488,
+        242457
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "623a0b1e990115417b7baa93b06ffe35606f96ab6e0d88c28672f053912fe8e9",
+      "source": "archived-hltv-html:2399627.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 1.36
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311962,
+      "map_name": "mirage",
+      "day": "2026-10-21",
+      "side": 2,
+      "player_id": 3513,
+      "kills": 17,
+      "deaths": 21,
+      "adr": 73.1,
+      "kast": 62.1,
+      "scores": [
+        16,
+        13
+      ],
+      "rounds": 29,
+      "hltv_id": 2399627,
+      "mapstats_id": 242457,
+      "hltv_player_id": 21014,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "623a0b1e990115417b7baa93b06ffe35606f96ab6e0d88c28672f053912fe8e9",
+      "source": "archived-hltv-html:2399627.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 1.03
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311962,
+      "map_name": "mirage",
+      "day": "2026-10-21",
+      "side": 2,
+      "player_id": 772,
+      "kills": 19,
+      "deaths": 23,
+      "adr": 73.2,
+      "kast": 58.6,
+      "scores": [
+        16,
+        13
+      ],
+      "rounds": 29,
+      "hltv_id": 2399627,
+      "mapstats_id": 242457,
+      "hltv_player_id": 9254,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "623a0b1e990115417b7baa93b06ffe35606f96ab6e0d88c28672f053912fe8e9",
+      "source": "archived-hltv-html:2399627.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 1.01
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311962,
+      "map_name": "mirage",
+      "day": "2026-10-21",
+      "side": 2,
+      "player_id": 1662,
+      "kills": 17,
+      "deaths": 20,
+      "adr": 77.4,
+      "kast": 69.0,
+      "scores": [
+        16,
+        13
+      ],
+      "rounds": 29,
+      "hltv_id": 2399627,
+      "mapstats_id": 242457,
+      "hltv_player_id": 18749,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "623a0b1e990115417b7baa93b06ffe35606f96ab6e0d88c28672f053912fe8e9",
+      "source": "archived-hltv-html:2399627.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 1.0
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311962,
+      "map_name": "mirage",
+      "day": "2026-10-21",
+      "side": 2,
+      "player_id": 773,
+      "kills": 19,
+      "deaths": 20,
+      "adr": 69.4,
+      "kast": 58.6,
+      "scores": [
+        16,
+        13
+      ],
+      "rounds": 29,
+      "hltv_id": 2399627,
+      "mapstats_id": 242457,
+      "hltv_player_id": 8371,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "623a0b1e990115417b7baa93b06ffe35606f96ab6e0d88c28672f053912fe8e9",
+      "source": "archived-hltv-html:2399627.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 0.93
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311962,
+      "map_name": "mirage",
+      "day": "2026-10-21",
+      "side": 2,
+      "player_id": 1394,
+      "kills": 16,
+      "deaths": 21,
+      "adr": 54.1,
+      "kast": 65.5,
+      "scores": [
+        16,
+        13
+      ],
+      "rounds": 29,
+      "hltv_id": 2399627,
+      "mapstats_id": 242457,
+      "hltv_player_id": 19509,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "623a0b1e990115417b7baa93b06ffe35606f96ab6e0d88c28672f053912fe8e9",
+      "source": "archived-hltv-html:2399627.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 0.62
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311962,
+      "map_name": "mirage",
+      "day": "2026-10-21",
+      "side": 1,
+      "player_id": 7929,
+      "kills": 32,
+      "deaths": 18,
+      "adr": 108.2,
+      "kast": 79.3,
+      "scores": [
+        16,
+        13
+      ],
+      "rounds": 29,
+      "hltv_id": 2399627,
+      "mapstats_id": 242457,
+      "hltv_player_id": 21692,
+      "identity_proven_by": [
+        242488,
+        242457
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "623a0b1e990115417b7baa93b06ffe35606f96ab6e0d88c28672f053912fe8e9",
+      "source": "archived-hltv-html:2399627.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 1.91
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311962,
+      "map_name": "mirage",
+      "day": "2026-10-21",
+      "side": 1,
+      "player_id": 7754,
+      "kills": 22,
+      "deaths": 20,
+      "adr": 78.6,
+      "kast": 75.9,
+      "scores": [
+        16,
+        13
+      ],
+      "rounds": 29,
+      "hltv_id": 2399627,
+      "mapstats_id": 242457,
+      "hltv_player_id": 22945,
+      "identity_proven_by": [
+        242488,
+        242457
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "623a0b1e990115417b7baa93b06ffe35606f96ab6e0d88c28672f053912fe8e9",
+      "source": "archived-hltv-html:2399627.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 1.2
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311962,
+      "map_name": "mirage",
+      "day": "2026-10-21",
+      "side": 1,
+      "player_id": 3400,
+      "kills": 19,
+      "deaths": 18,
+      "adr": 69.9,
+      "kast": 69.0,
+      "scores": [
+        16,
+        13
+      ],
+      "rounds": 29,
+      "hltv_id": 2399627,
+      "mapstats_id": 242457,
+      "hltv_player_id": 20421,
+      "identity_proven_by": [
+        242488,
+        242457
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "623a0b1e990115417b7baa93b06ffe35606f96ab6e0d88c28672f053912fe8e9",
+      "source": "archived-hltv-html:2399627.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 1.04
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311962,
+      "map_name": "mirage",
+      "day": "2026-10-21",
+      "side": 1,
+      "player_id": 25536,
+      "kills": 12,
+      "deaths": 16,
+      "adr": 52.0,
+      "kast": 75.9,
+      "scores": [
+        16,
+        13
+      ],
+      "rounds": 29,
+      "hltv_id": 2399627,
+      "mapstats_id": 242457,
+      "hltv_player_id": 24246,
+      "identity_proven_by": [
+        242488,
+        242457
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "623a0b1e990115417b7baa93b06ffe35606f96ab6e0d88c28672f053912fe8e9",
+      "source": "archived-hltv-html:2399627.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 1.01
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311962,
+      "map_name": "mirage",
+      "day": "2026-10-21",
+      "side": 1,
+      "player_id": 3398,
+      "kills": 20,
+      "deaths": 19,
+      "adr": 82.8,
+      "kast": 58.6,
+      "scores": [
+        16,
+        13
+      ],
+      "rounds": 29,
+      "hltv_id": 2399627,
+      "mapstats_id": 242457,
+      "hltv_player_id": 20422,
+      "identity_proven_by": [
+        242488,
+        242457
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "623a0b1e990115417b7baa93b06ffe35606f96ab6e0d88c28672f053912fe8e9",
+      "source": "archived-hltv-html:2399627.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 0.91
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311962,
+      "map_name": "nuke",
+      "day": "2026-10-21",
+      "side": 2,
+      "player_id": 772,
+      "kills": 19,
+      "deaths": 17,
+      "adr": 99.9,
+      "kast": 78.3,
+      "scores": [
+        10,
+        13
+      ],
+      "rounds": 23,
+      "hltv_id": 2399627,
+      "mapstats_id": 242473,
+      "hltv_player_id": 9254,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "623a0b1e990115417b7baa93b06ffe35606f96ab6e0d88c28672f053912fe8e9",
+      "source": "archived-hltv-html:2399627.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 1.48
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311962,
+      "map_name": "nuke",
+      "day": "2026-10-21",
+      "side": 2,
+      "player_id": 773,
+      "kills": 15,
+      "deaths": 17,
+      "adr": 79.7,
+      "kast": 78.3,
+      "scores": [
+        10,
+        13
+      ],
+      "rounds": 23,
+      "hltv_id": 2399627,
+      "mapstats_id": 242473,
+      "hltv_player_id": 8371,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "623a0b1e990115417b7baa93b06ffe35606f96ab6e0d88c28672f053912fe8e9",
+      "source": "archived-hltv-html:2399627.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 1.22
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311962,
+      "map_name": "nuke",
+      "day": "2026-10-21",
+      "side": 2,
+      "player_id": 1394,
+      "kills": 18,
+      "deaths": 13,
+      "adr": 80.0,
+      "kast": 82.6,
+      "scores": [
+        10,
+        13
+      ],
+      "rounds": 23,
+      "hltv_id": 2399627,
+      "mapstats_id": 242473,
+      "hltv_player_id": 19509,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "623a0b1e990115417b7baa93b06ffe35606f96ab6e0d88c28672f053912fe8e9",
+      "source": "archived-hltv-html:2399627.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 1.22
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311962,
+      "map_name": "nuke",
+      "day": "2026-10-21",
+      "side": 2,
+      "player_id": 1662,
+      "kills": 18,
+      "deaths": 13,
+      "adr": 62.4,
+      "kast": 87.0,
+      "scores": [
+        10,
+        13
+      ],
+      "rounds": 23,
+      "hltv_id": 2399627,
+      "mapstats_id": 242473,
+      "hltv_player_id": 18749,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "623a0b1e990115417b7baa93b06ffe35606f96ab6e0d88c28672f053912fe8e9",
+      "source": "archived-hltv-html:2399627.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 1.21
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311962,
+      "map_name": "nuke",
+      "day": "2026-10-21",
+      "side": 2,
+      "player_id": 3513,
+      "kills": 14,
+      "deaths": 14,
+      "adr": 76.7,
+      "kast": 73.9,
+      "scores": [
+        10,
+        13
+      ],
+      "rounds": 23,
+      "hltv_id": 2399627,
+      "mapstats_id": 242473,
+      "hltv_player_id": 21014,
+      "identity_proven_by": [
+        239894,
+        239910
+      ],
+      "identity_as_of": "2026-09-27",
+      "sha256": "623a0b1e990115417b7baa93b06ffe35606f96ab6e0d88c28672f053912fe8e9",
+      "source": "archived-hltv-html:2399627.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 1.11
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311962,
+      "map_name": "nuke",
+      "day": "2026-10-21",
+      "side": 1,
+      "player_id": 25536,
+      "kills": 16,
+      "deaths": 15,
+      "adr": 66.9,
+      "kast": 69.6,
+      "scores": [
+        10,
+        13
+      ],
+      "rounds": 23,
+      "hltv_id": 2399627,
+      "mapstats_id": 242473,
+      "hltv_player_id": 24246,
+      "identity_proven_by": [
+        242488,
+        242457
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "623a0b1e990115417b7baa93b06ffe35606f96ab6e0d88c28672f053912fe8e9",
+      "source": "archived-hltv-html:2399627.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 1.23
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311962,
+      "map_name": "nuke",
+      "day": "2026-10-21",
+      "side": 1,
+      "player_id": 3400,
+      "kills": 21,
+      "deaths": 17,
+      "adr": 101.0,
+      "kast": 78.3,
+      "scores": [
+        10,
+        13
+      ],
+      "rounds": 23,
+      "hltv_id": 2399627,
+      "mapstats_id": 242473,
+      "hltv_player_id": 20421,
+      "identity_proven_by": [
+        242488,
+        242457
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "623a0b1e990115417b7baa93b06ffe35606f96ab6e0d88c28672f053912fe8e9",
+      "source": "archived-hltv-html:2399627.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 1.2
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311962,
+      "map_name": "nuke",
+      "day": "2026-10-21",
+      "side": 1,
+      "player_id": 3398,
+      "kills": 14,
+      "deaths": 17,
+      "adr": 71.3,
+      "kast": 73.9,
+      "scores": [
+        10,
+        13
+      ],
+      "rounds": 23,
+      "hltv_id": 2399627,
+      "mapstats_id": 242473,
+      "hltv_player_id": 20422,
+      "identity_proven_by": [
+        242488,
+        242457
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "623a0b1e990115417b7baa93b06ffe35606f96ab6e0d88c28672f053912fe8e9",
+      "source": "archived-hltv-html:2399627.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 0.86
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311962,
+      "map_name": "nuke",
+      "day": "2026-10-21",
+      "side": 1,
+      "player_id": 7754,
+      "kills": 13,
+      "deaths": 16,
+      "adr": 48.2,
+      "kast": 60.9,
+      "scores": [
+        10,
+        13
+      ],
+      "rounds": 23,
+      "hltv_id": 2399627,
+      "mapstats_id": 242473,
+      "hltv_player_id": 22945,
+      "identity_proven_by": [
+        242488,
+        242457
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "623a0b1e990115417b7baa93b06ffe35606f96ab6e0d88c28672f053912fe8e9",
+      "source": "archived-hltv-html:2399627.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 0.82
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311962,
+      "map_name": "nuke",
+      "day": "2026-10-21",
+      "side": 1,
+      "player_id": 7929,
+      "kills": 10,
+      "deaths": 20,
+      "adr": 63.8,
+      "kast": 56.5,
+      "scores": [
+        10,
+        13
+      ],
+      "rounds": 23,
+      "hltv_id": 2399627,
+      "mapstats_id": 242473,
+      "hltv_player_id": 21692,
+      "identity_proven_by": [
+        242488,
+        242457
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "623a0b1e990115417b7baa93b06ffe35606f96ab6e0d88c28672f053912fe8e9",
+      "source": "archived-hltv-html:2399627.html",
+      "imported_utc": "2026-11-27T13:29:13+00:00",
+      "metrics": {
+        "rating": 0.64
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311921,
+      "map_name": "cache",
+      "day": "2026-10-21",
+      "side": 1,
+      "player_id": 8065,
+      "kills": 18,
+      "deaths": 14,
+      "adr": 114.4,
+      "kast": 90.0,
+      "scores": [
+        13,
+        7
+      ],
+      "rounds": 20,
+      "hltv_id": 2399780,
+      "mapstats_id": 242404,
+      "hltv_player_id": 24332,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "6f90a852691cf5115622cdb7c4f369fda8152b006f8cea2ee2ec44e985299065",
+      "source": "archived-hltv-html:2399780.html",
+      "imported_utc": "2026-11-27T13:29:14+00:00",
+      "metrics": {
+        "rating": 1.58
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311921,
+      "map_name": "cache",
+      "day": "2026-10-21",
+      "side": 1,
+      "player_id": 1199,
+      "kills": 17,
+      "deaths": 10,
+      "adr": 75.7,
+      "kast": 80.0,
+      "scores": [
+        13,
+        7
+      ],
+      "rounds": 20,
+      "hltv_id": 2399780,
+      "mapstats_id": 242404,
+      "hltv_player_id": 16486,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "6f90a852691cf5115622cdb7c4f369fda8152b006f8cea2ee2ec44e985299065",
+      "source": "archived-hltv-html:2399780.html",
+      "imported_utc": "2026-11-27T13:29:14+00:00",
+      "metrics": {
+        "rating": 1.42
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311921,
+      "map_name": "cache",
+      "day": "2026-10-21",
+      "side": 1,
+      "player_id": 7328,
+      "kills": 12,
+      "deaths": 11,
+      "adr": 65.3,
+      "kast": 80.0,
+      "scores": [
+        13,
+        7
+      ],
+      "rounds": 20,
+      "hltv_id": 2399780,
+      "mapstats_id": 242404,
+      "hltv_player_id": 22759,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "6f90a852691cf5115622cdb7c4f369fda8152b006f8cea2ee2ec44e985299065",
+      "source": "archived-hltv-html:2399780.html",
+      "imported_utc": "2026-11-27T13:29:14+00:00",
+      "metrics": {
+        "rating": 1.36
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311921,
+      "map_name": "cache",
+      "day": "2026-10-21",
+      "side": 1,
+      "player_id": 3637,
+      "kills": 14,
+      "deaths": 11,
+      "adr": 92.6,
+      "kast": 80.0,
+      "scores": [
+        13,
+        7
+      ],
+      "rounds": 20,
+      "hltv_id": 2399780,
+      "mapstats_id": 242404,
+      "hltv_player_id": 20625,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "6f90a852691cf5115622cdb7c4f369fda8152b006f8cea2ee2ec44e985299065",
+      "source": "archived-hltv-html:2399780.html",
+      "imported_utc": "2026-11-27T13:29:14+00:00",
+      "metrics": {
+        "rating": 1.28
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311921,
+      "map_name": "cache",
+      "day": "2026-10-21",
+      "side": 1,
+      "player_id": 5630,
+      "kills": 15,
+      "deaths": 11,
+      "adr": 62.9,
+      "kast": 85.0,
+      "scores": [
+        13,
+        7
+      ],
+      "rounds": 20,
+      "hltv_id": 2399780,
+      "mapstats_id": 242404,
+      "hltv_player_id": 21815,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "6f90a852691cf5115622cdb7c4f369fda8152b006f8cea2ee2ec44e985299065",
+      "source": "archived-hltv-html:2399780.html",
+      "imported_utc": "2026-11-27T13:29:14+00:00",
+      "metrics": {
+        "rating": 1.03
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311921,
+      "map_name": "cache",
+      "day": "2026-10-21",
+      "side": 2,
+      "player_id": 3806,
+      "kills": 15,
+      "deaths": 14,
+      "adr": 85.0,
+      "kast": 60.0,
+      "scores": [
+        13,
+        7
+      ],
+      "rounds": 20,
+      "hltv_id": 2399780,
+      "mapstats_id": 242404,
+      "hltv_player_id": 20345,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "6f90a852691cf5115622cdb7c4f369fda8152b006f8cea2ee2ec44e985299065",
+      "source": "archived-hltv-html:2399780.html",
+      "imported_utc": "2026-11-27T13:29:14+00:00",
+      "metrics": {
+        "rating": 1.26
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311921,
+      "map_name": "cache",
+      "day": "2026-10-21",
+      "side": 2,
+      "player_id": 4431,
+      "kills": 11,
+      "deaths": 17,
+      "adr": 59.1,
+      "kast": 65.0,
+      "scores": [
+        13,
+        7
+      ],
+      "rounds": 20,
+      "hltv_id": 2399780,
+      "mapstats_id": 242404,
+      "hltv_player_id": 21165,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "6f90a852691cf5115622cdb7c4f369fda8152b006f8cea2ee2ec44e985299065",
+      "source": "archived-hltv-html:2399780.html",
+      "imported_utc": "2026-11-27T13:29:14+00:00",
+      "metrics": {
+        "rating": 0.76
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311921,
+      "map_name": "cache",
+      "day": "2026-10-21",
+      "side": 2,
+      "player_id": 2837,
+      "kills": 9,
+      "deaths": 16,
+      "adr": 44.5,
+      "kast": 90.0,
+      "scores": [
+        13,
+        7
+      ],
+      "rounds": 20,
+      "hltv_id": 2399780,
+      "mapstats_id": 242404,
+      "hltv_player_id": 19815,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "6f90a852691cf5115622cdb7c4f369fda8152b006f8cea2ee2ec44e985299065",
+      "source": "archived-hltv-html:2399780.html",
+      "imported_utc": "2026-11-27T13:29:14+00:00",
+      "metrics": {
+        "rating": 0.72
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311921,
+      "map_name": "dust2",
+      "day": "2026-10-21",
+      "side": 1,
+      "player_id": 8065,
+      "kills": 18,
+      "deaths": 14,
+      "adr": 71.6,
+      "kast": 76.2,
+      "scores": [
+        8,
+        13
+      ],
+      "rounds": 21,
+      "hltv_id": 2399780,
+      "mapstats_id": 242414,
+      "hltv_player_id": 24332,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "6f90a852691cf5115622cdb7c4f369fda8152b006f8cea2ee2ec44e985299065",
+      "source": "archived-hltv-html:2399780.html",
+      "imported_utc": "2026-11-27T13:29:14+00:00",
+      "metrics": {
+        "rating": 1.36
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311921,
+      "map_name": "dust2",
+      "day": "2026-10-21",
+      "side": 1,
+      "player_id": 3637,
+      "kills": 13,
+      "deaths": 18,
+      "adr": 86.7,
+      "kast": 66.7,
+      "scores": [
+        8,
+        13
+      ],
+      "rounds": 21,
+      "hltv_id": 2399780,
+      "mapstats_id": 242414,
+      "hltv_player_id": 20625,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "6f90a852691cf5115622cdb7c4f369fda8152b006f8cea2ee2ec44e985299065",
+      "source": "archived-hltv-html:2399780.html",
+      "imported_utc": "2026-11-27T13:29:14+00:00",
+      "metrics": {
+        "rating": 1.04
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311921,
+      "map_name": "dust2",
+      "day": "2026-10-21",
+      "side": 1,
+      "player_id": 5630,
+      "kills": 16,
+      "deaths": 17,
+      "adr": 79.0,
+      "kast": 66.7,
+      "scores": [
+        8,
+        13
+      ],
+      "rounds": 21,
+      "hltv_id": 2399780,
+      "mapstats_id": 242414,
+      "hltv_player_id": 21815,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "6f90a852691cf5115622cdb7c4f369fda8152b006f8cea2ee2ec44e985299065",
+      "source": "archived-hltv-html:2399780.html",
+      "imported_utc": "2026-11-27T13:29:14+00:00",
+      "metrics": {
+        "rating": 1.0
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311921,
+      "map_name": "dust2",
+      "day": "2026-10-21",
+      "side": 1,
+      "player_id": 7328,
+      "kills": 9,
+      "deaths": 14,
+      "adr": 60.6,
+      "kast": 66.7,
+      "scores": [
+        8,
+        13
+      ],
+      "rounds": 21,
+      "hltv_id": 2399780,
+      "mapstats_id": 242414,
+      "hltv_player_id": 22759,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "6f90a852691cf5115622cdb7c4f369fda8152b006f8cea2ee2ec44e985299065",
+      "source": "archived-hltv-html:2399780.html",
+      "imported_utc": "2026-11-27T13:29:14+00:00",
+      "metrics": {
+        "rating": 0.88
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311921,
+      "map_name": "dust2",
+      "day": "2026-10-21",
+      "side": 1,
+      "player_id": 1199,
+      "kills": 8,
+      "deaths": 19,
+      "adr": 43.1,
+      "kast": 52.4,
+      "scores": [
+        8,
+        13
+      ],
+      "rounds": 21,
+      "hltv_id": 2399780,
+      "mapstats_id": 242414,
+      "hltv_player_id": 16486,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "6f90a852691cf5115622cdb7c4f369fda8152b006f8cea2ee2ec44e985299065",
+      "source": "archived-hltv-html:2399780.html",
+      "imported_utc": "2026-11-27T13:29:14+00:00",
+      "metrics": {
+        "rating": 0.45
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311921,
+      "map_name": "dust2",
+      "day": "2026-10-21",
+      "side": 2,
+      "player_id": 3806,
+      "kills": 23,
+      "deaths": 13,
+      "adr": 99.2,
+      "kast": 90.5,
+      "scores": [
+        8,
+        13
+      ],
+      "rounds": 21,
+      "hltv_id": 2399780,
+      "mapstats_id": 242414,
+      "hltv_player_id": 20345,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "6f90a852691cf5115622cdb7c4f369fda8152b006f8cea2ee2ec44e985299065",
+      "source": "archived-hltv-html:2399780.html",
+      "imported_utc": "2026-11-27T13:29:14+00:00",
+      "metrics": {
+        "rating": 1.75
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311921,
+      "map_name": "dust2",
+      "day": "2026-10-21",
+      "side": 2,
+      "player_id": 4431,
+      "kills": 20,
+      "deaths": 15,
+      "adr": 100.2,
+      "kast": 81.0,
+      "scores": [
+        8,
+        13
+      ],
+      "rounds": 21,
+      "hltv_id": 2399780,
+      "mapstats_id": 242414,
+      "hltv_player_id": 21165,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "6f90a852691cf5115622cdb7c4f369fda8152b006f8cea2ee2ec44e985299065",
+      "source": "archived-hltv-html:2399780.html",
+      "imported_utc": "2026-11-27T13:29:14+00:00",
+      "metrics": {
+        "rating": 1.55
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311921,
+      "map_name": "dust2",
+      "day": "2026-10-21",
+      "side": 2,
+      "player_id": 2837,
+      "kills": 15,
+      "deaths": 13,
+      "adr": 64.0,
+      "kast": 76.2,
+      "scores": [
+        8,
+        13
+      ],
+      "rounds": 21,
+      "hltv_id": 2399780,
+      "mapstats_id": 242414,
+      "hltv_player_id": 19815,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "6f90a852691cf5115622cdb7c4f369fda8152b006f8cea2ee2ec44e985299065",
+      "source": "archived-hltv-html:2399780.html",
+      "imported_utc": "2026-11-27T13:29:14+00:00",
+      "metrics": {
+        "rating": 1.07
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311921,
+      "map_name": "mirage",
+      "day": "2026-10-21",
+      "side": 1,
+      "player_id": 5630,
+      "kills": 15,
+      "deaths": 10,
+      "adr": 72.0,
+      "kast": 81.0,
+      "scores": [
+        8,
+        13
+      ],
+      "rounds": 21,
+      "hltv_id": 2399780,
+      "mapstats_id": 242395,
+      "hltv_player_id": 21815,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "6f90a852691cf5115622cdb7c4f369fda8152b006f8cea2ee2ec44e985299065",
+      "source": "archived-hltv-html:2399780.html",
+      "imported_utc": "2026-11-27T13:29:14+00:00",
+      "metrics": {
+        "rating": 1.2
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311921,
+      "map_name": "mirage",
+      "day": "2026-10-21",
+      "side": 1,
+      "player_id": 8065,
+      "kills": 17,
+      "deaths": 15,
+      "adr": 76.6,
+      "kast": 81.0,
+      "scores": [
+        8,
+        13
+      ],
+      "rounds": 21,
+      "hltv_id": 2399780,
+      "mapstats_id": 242395,
+      "hltv_player_id": 24332,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "6f90a852691cf5115622cdb7c4f369fda8152b006f8cea2ee2ec44e985299065",
+      "source": "archived-hltv-html:2399780.html",
+      "imported_utc": "2026-11-27T13:29:14+00:00",
+      "metrics": {
+        "rating": 1.14
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311921,
+      "map_name": "mirage",
+      "day": "2026-10-21",
+      "side": 1,
+      "player_id": 7328,
+      "kills": 15,
+      "deaths": 17,
+      "adr": 67.6,
+      "kast": 71.4,
+      "scores": [
+        8,
+        13
+      ],
+      "rounds": 21,
+      "hltv_id": 2399780,
+      "mapstats_id": 242395,
+      "hltv_player_id": 22759,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "6f90a852691cf5115622cdb7c4f369fda8152b006f8cea2ee2ec44e985299065",
+      "source": "archived-hltv-html:2399780.html",
+      "imported_utc": "2026-11-27T13:29:14+00:00",
+      "metrics": {
+        "rating": 0.91
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311921,
+      "map_name": "mirage",
+      "day": "2026-10-21",
+      "side": 1,
+      "player_id": 3637,
+      "kills": 13,
+      "deaths": 15,
+      "adr": 74.7,
+      "kast": 61.9,
+      "scores": [
+        8,
+        13
+      ],
+      "rounds": 21,
+      "hltv_id": 2399780,
+      "mapstats_id": 242395,
+      "hltv_player_id": 20625,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "6f90a852691cf5115622cdb7c4f369fda8152b006f8cea2ee2ec44e985299065",
+      "source": "archived-hltv-html:2399780.html",
+      "imported_utc": "2026-11-27T13:29:14+00:00",
+      "metrics": {
+        "rating": 0.84
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311921,
+      "map_name": "mirage",
+      "day": "2026-10-21",
+      "side": 1,
+      "player_id": 1199,
+      "kills": 9,
+      "deaths": 17,
+      "adr": 59.4,
+      "kast": 57.1,
+      "scores": [
+        8,
+        13
+      ],
+      "rounds": 21,
+      "hltv_id": 2399780,
+      "mapstats_id": 242395,
+      "hltv_player_id": 16486,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "6f90a852691cf5115622cdb7c4f369fda8152b006f8cea2ee2ec44e985299065",
+      "source": "archived-hltv-html:2399780.html",
+      "imported_utc": "2026-11-27T13:29:14+00:00",
+      "metrics": {
+        "rating": 0.55
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311921,
+      "map_name": "mirage",
+      "day": "2026-10-21",
+      "side": 2,
+      "player_id": 4431,
+      "kills": 17,
+      "deaths": 12,
+      "adr": 81.1,
+      "kast": 81.0,
+      "scores": [
+        8,
+        13
+      ],
+      "rounds": 21,
+      "hltv_id": 2399780,
+      "mapstats_id": 242395,
+      "hltv_player_id": 21165,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "6f90a852691cf5115622cdb7c4f369fda8152b006f8cea2ee2ec44e985299065",
+      "source": "archived-hltv-html:2399780.html",
+      "imported_utc": "2026-11-27T13:29:14+00:00",
+      "metrics": {
+        "rating": 1.6
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311921,
+      "map_name": "mirage",
+      "day": "2026-10-21",
+      "side": 2,
+      "player_id": 2837,
+      "kills": 9,
+      "deaths": 15,
+      "adr": 59.3,
+      "kast": 71.4,
+      "scores": [
+        8,
+        13
+      ],
+      "rounds": 21,
+      "hltv_id": 2399780,
+      "mapstats_id": 242395,
+      "hltv_player_id": 19815,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "6f90a852691cf5115622cdb7c4f369fda8152b006f8cea2ee2ec44e985299065",
+      "source": "archived-hltv-html:2399780.html",
+      "imported_utc": "2026-11-27T13:29:14+00:00",
+      "metrics": {
+        "rating": 1.02
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311921,
+      "map_name": "mirage",
+      "day": "2026-10-21",
+      "side": 2,
+      "player_id": 3806,
+      "kills": 13,
+      "deaths": 13,
+      "adr": 58.4,
+      "kast": 71.4,
+      "scores": [
+        8,
+        13
+      ],
+      "rounds": 21,
+      "hltv_id": 2399780,
+      "mapstats_id": 242395,
+      "hltv_player_id": 20345,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "6f90a852691cf5115622cdb7c4f369fda8152b006f8cea2ee2ec44e985299065",
+      "source": "archived-hltv-html:2399780.html",
+      "imported_utc": "2026-11-27T13:29:14+00:00",
+      "metrics": {
+        "rating": 0.95
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311963,
+      "map_name": "ancient",
+      "day": "2026-10-22",
+      "side": 1,
+      "player_id": 3806,
+      "kills": 23,
+      "deaths": 16,
+      "adr": 97.6,
+      "kast": 66.7,
+      "scores": [
+        13,
+        11
+      ],
+      "rounds": 24,
+      "hltv_id": 2399784,
+      "mapstats_id": 242582,
+      "hltv_player_id": 20345,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "d6df9c118c464004d7a9f7be04f37c62e0ac6599ad1ddc077adc100c57c7a200",
+      "source": "archived-hltv-html:2399784.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.5
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311963,
+      "map_name": "ancient",
+      "day": "2026-10-22",
+      "side": 1,
+      "player_id": 4431,
+      "kills": 18,
+      "deaths": 13,
+      "adr": 86.8,
+      "kast": 75.0,
+      "scores": [
+        13,
+        11
+      ],
+      "rounds": 24,
+      "hltv_id": 2399784,
+      "mapstats_id": 242582,
+      "hltv_player_id": 21165,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "d6df9c118c464004d7a9f7be04f37c62e0ac6599ad1ddc077adc100c57c7a200",
+      "source": "archived-hltv-html:2399784.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.29
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311963,
+      "map_name": "ancient",
+      "day": "2026-10-22",
+      "side": 1,
+      "player_id": 2837,
+      "kills": 18,
+      "deaths": 16,
+      "adr": 66.7,
+      "kast": 70.8,
+      "scores": [
+        13,
+        11
+      ],
+      "rounds": 24,
+      "hltv_id": 2399784,
+      "mapstats_id": 242582,
+      "hltv_player_id": 19815,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "d6df9c118c464004d7a9f7be04f37c62e0ac6599ad1ddc077adc100c57c7a200",
+      "source": "archived-hltv-html:2399784.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 0.97
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311963,
+      "map_name": "ancient",
+      "day": "2026-10-22",
+      "side": 2,
+      "player_id": 2786,
+      "kills": 18,
+      "deaths": 16,
+      "adr": 79.5,
+      "kast": 75.0,
+      "scores": [
+        13,
+        11
+      ],
+      "rounds": 24,
+      "hltv_id": 2399784,
+      "mapstats_id": 242582,
+      "hltv_player_id": 18979,
+      "identity_proven_by": [
+        242590,
+        242602
+      ],
+      "identity_as_of": "2026-10-22",
+      "sha256": "d6df9c118c464004d7a9f7be04f37c62e0ac6599ad1ddc077adc100c57c7a200",
+      "source": "archived-hltv-html:2399784.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.15
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311963,
+      "map_name": "ancient",
+      "day": "2026-10-22",
+      "side": 2,
+      "player_id": 6729,
+      "kills": 15,
+      "deaths": 19,
+      "adr": 70.7,
+      "kast": 75.0,
+      "scores": [
+        13,
+        11
+      ],
+      "rounds": 24,
+      "hltv_id": 2399784,
+      "mapstats_id": 242582,
+      "hltv_player_id": 22473,
+      "identity_proven_by": [
+        242590,
+        242602
+      ],
+      "identity_as_of": "2026-10-22",
+      "sha256": "d6df9c118c464004d7a9f7be04f37c62e0ac6599ad1ddc077adc100c57c7a200",
+      "source": "archived-hltv-html:2399784.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.11
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311963,
+      "map_name": "ancient",
+      "day": "2026-10-22",
+      "side": 2,
+      "player_id": 5774,
+      "kills": 18,
+      "deaths": 14,
+      "adr": 69.7,
+      "kast": 66.7,
+      "scores": [
+        13,
+        11
+      ],
+      "rounds": 24,
+      "hltv_id": 2399784,
+      "mapstats_id": 242582,
+      "hltv_player_id": 21763,
+      "identity_proven_by": [
+        242590,
+        242602
+      ],
+      "identity_as_of": "2026-10-22",
+      "sha256": "d6df9c118c464004d7a9f7be04f37c62e0ac6599ad1ddc077adc100c57c7a200",
+      "source": "archived-hltv-html:2399784.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.02
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311963,
+      "map_name": "ancient",
+      "day": "2026-10-22",
+      "side": 2,
+      "player_id": 5773,
+      "kills": 14,
+      "deaths": 15,
+      "adr": 67.4,
+      "kast": 62.5,
+      "scores": [
+        13,
+        11
+      ],
+      "rounds": 24,
+      "hltv_id": 2399784,
+      "mapstats_id": 242582,
+      "hltv_player_id": 20960,
+      "identity_proven_by": [
+        242590,
+        242602
+      ],
+      "identity_as_of": "2026-10-22",
+      "sha256": "d6df9c118c464004d7a9f7be04f37c62e0ac6599ad1ddc077adc100c57c7a200",
+      "source": "archived-hltv-html:2399784.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 0.79
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311963,
+      "map_name": "ancient",
+      "day": "2026-10-22",
+      "side": 2,
+      "player_id": 528,
+      "kills": 9,
+      "deaths": 18,
+      "adr": 54.0,
+      "kast": 58.3,
+      "scores": [
+        13,
+        11
+      ],
+      "rounds": 24,
+      "hltv_id": 2399784,
+      "mapstats_id": 242582,
+      "hltv_player_id": 18070,
+      "identity_proven_by": [
+        242590,
+        242602
+      ],
+      "identity_as_of": "2026-10-22",
+      "sha256": "d6df9c118c464004d7a9f7be04f37c62e0ac6599ad1ddc077adc100c57c7a200",
+      "source": "archived-hltv-html:2399784.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 0.71
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311963,
+      "map_name": "cache",
+      "day": "2026-10-22",
+      "side": 1,
+      "player_id": 3806,
+      "kills": 12,
+      "deaths": 15,
+      "adr": 59.6,
+      "kast": 57.9,
+      "scores": [
+        6,
+        13
+      ],
+      "rounds": 19,
+      "hltv_id": 2399784,
+      "mapstats_id": 242590,
+      "hltv_player_id": 20345,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "d6df9c118c464004d7a9f7be04f37c62e0ac6599ad1ddc077adc100c57c7a200",
+      "source": "archived-hltv-html:2399784.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 0.96
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311963,
+      "map_name": "cache",
+      "day": "2026-10-22",
+      "side": 1,
+      "player_id": 4431,
+      "kills": 12,
+      "deaths": 15,
+      "adr": 65.5,
+      "kast": 73.7,
+      "scores": [
+        6,
+        13
+      ],
+      "rounds": 19,
+      "hltv_id": 2399784,
+      "mapstats_id": 242590,
+      "hltv_player_id": 21165,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "d6df9c118c464004d7a9f7be04f37c62e0ac6599ad1ddc077adc100c57c7a200",
+      "source": "archived-hltv-html:2399784.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 0.94
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311963,
+      "map_name": "cache",
+      "day": "2026-10-22",
+      "side": 1,
+      "player_id": 2837,
+      "kills": 7,
+      "deaths": 14,
+      "adr": 56.6,
+      "kast": 57.9,
+      "scores": [
+        6,
+        13
+      ],
+      "rounds": 19,
+      "hltv_id": 2399784,
+      "mapstats_id": 242590,
+      "hltv_player_id": 19815,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "d6df9c118c464004d7a9f7be04f37c62e0ac6599ad1ddc077adc100c57c7a200",
+      "source": "archived-hltv-html:2399784.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 0.81
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311963,
+      "map_name": "cache",
+      "day": "2026-10-22",
+      "side": 2,
+      "player_id": 6729,
+      "kills": 14,
+      "deaths": 8,
+      "adr": 82.6,
+      "kast": 84.2,
+      "scores": [
+        6,
+        13
+      ],
+      "rounds": 19,
+      "hltv_id": 2399784,
+      "mapstats_id": 242590,
+      "hltv_player_id": 22473,
+      "identity_proven_by": [
+        242590,
+        242602
+      ],
+      "identity_as_of": "2026-10-22",
+      "sha256": "d6df9c118c464004d7a9f7be04f37c62e0ac6599ad1ddc077adc100c57c7a200",
+      "source": "archived-hltv-html:2399784.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.75
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311963,
+      "map_name": "cache",
+      "day": "2026-10-22",
+      "side": 2,
+      "player_id": 2786,
+      "kills": 22,
+      "deaths": 10,
+      "adr": 106.9,
+      "kast": 73.7,
+      "scores": [
+        6,
+        13
+      ],
+      "rounds": 19,
+      "hltv_id": 2399784,
+      "mapstats_id": 242590,
+      "hltv_player_id": 18979,
+      "identity_proven_by": [
+        242590,
+        242602
+      ],
+      "identity_as_of": "2026-10-22",
+      "sha256": "d6df9c118c464004d7a9f7be04f37c62e0ac6599ad1ddc077adc100c57c7a200",
+      "source": "archived-hltv-html:2399784.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.69
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311963,
+      "map_name": "cache",
+      "day": "2026-10-22",
+      "side": 2,
+      "player_id": 5774,
+      "kills": 15,
+      "deaths": 12,
+      "adr": 73.7,
+      "kast": 68.4,
+      "scores": [
+        6,
+        13
+      ],
+      "rounds": 19,
+      "hltv_id": 2399784,
+      "mapstats_id": 242590,
+      "hltv_player_id": 21763,
+      "identity_proven_by": [
+        242590,
+        242602
+      ],
+      "identity_as_of": "2026-10-22",
+      "sha256": "d6df9c118c464004d7a9f7be04f37c62e0ac6599ad1ddc077adc100c57c7a200",
+      "source": "archived-hltv-html:2399784.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.17
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311963,
+      "map_name": "cache",
+      "day": "2026-10-22",
+      "side": 2,
+      "player_id": 528,
+      "kills": 7,
+      "deaths": 11,
+      "adr": 54.1,
+      "kast": 78.9,
+      "scores": [
+        6,
+        13
+      ],
+      "rounds": 19,
+      "hltv_id": 2399784,
+      "mapstats_id": 242590,
+      "hltv_player_id": 18070,
+      "identity_proven_by": [
+        242590,
+        242602
+      ],
+      "identity_as_of": "2026-10-22",
+      "sha256": "d6df9c118c464004d7a9f7be04f37c62e0ac6599ad1ddc077adc100c57c7a200",
+      "source": "archived-hltv-html:2399784.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 0.78
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311963,
+      "map_name": "cache",
+      "day": "2026-10-22",
+      "side": 2,
+      "player_id": 5773,
+      "kills": 9,
+      "deaths": 14,
+      "adr": 61.5,
+      "kast": 68.4,
+      "scores": [
+        6,
+        13
+      ],
+      "rounds": 19,
+      "hltv_id": 2399784,
+      "mapstats_id": 242590,
+      "hltv_player_id": 20960,
+      "identity_proven_by": [
+        242590,
+        242602
+      ],
+      "identity_as_of": "2026-10-22",
+      "sha256": "d6df9c118c464004d7a9f7be04f37c62e0ac6599ad1ddc077adc100c57c7a200",
+      "source": "archived-hltv-html:2399784.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 0.77
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311963,
+      "map_name": "dust2",
+      "day": "2026-10-22",
+      "side": 1,
+      "player_id": 2837,
+      "kills": 19,
+      "deaths": 4,
+      "adr": 124.8,
+      "kast": 94.1,
+      "scores": [
+        13,
+        4
+      ],
+      "rounds": 17,
+      "hltv_id": 2399784,
+      "mapstats_id": 242602,
+      "hltv_player_id": 19815,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "d6df9c118c464004d7a9f7be04f37c62e0ac6599ad1ddc077adc100c57c7a200",
+      "source": "archived-hltv-html:2399784.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 2.36
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311963,
+      "map_name": "dust2",
+      "day": "2026-10-22",
+      "side": 1,
+      "player_id": 3806,
+      "kills": 11,
+      "deaths": 8,
+      "adr": 76.7,
+      "kast": 88.2,
+      "scores": [
+        13,
+        4
+      ],
+      "rounds": 17,
+      "hltv_id": 2399784,
+      "mapstats_id": 242602,
+      "hltv_player_id": 20345,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "d6df9c118c464004d7a9f7be04f37c62e0ac6599ad1ddc077adc100c57c7a200",
+      "source": "archived-hltv-html:2399784.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.49
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311963,
+      "map_name": "dust2",
+      "day": "2026-10-22",
+      "side": 1,
+      "player_id": 4431,
+      "kills": 13,
+      "deaths": 12,
+      "adr": 78.7,
+      "kast": 70.6,
+      "scores": [
+        13,
+        4
+      ],
+      "rounds": 17,
+      "hltv_id": 2399784,
+      "mapstats_id": 242602,
+      "hltv_player_id": 21165,
+      "identity_proven_by": [
+        242404,
+        242414
+      ],
+      "identity_as_of": "2026-10-21",
+      "sha256": "d6df9c118c464004d7a9f7be04f37c62e0ac6599ad1ddc077adc100c57c7a200",
+      "source": "archived-hltv-html:2399784.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.35
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311963,
+      "map_name": "dust2",
+      "day": "2026-10-22",
+      "side": 2,
+      "player_id": 5774,
+      "kills": 13,
+      "deaths": 13,
+      "adr": 77.6,
+      "kast": 58.8,
+      "scores": [
+        13,
+        4
+      ],
+      "rounds": 17,
+      "hltv_id": 2399784,
+      "mapstats_id": 242602,
+      "hltv_player_id": 21763,
+      "identity_proven_by": [
+        242590,
+        242602
+      ],
+      "identity_as_of": "2026-10-22",
+      "sha256": "d6df9c118c464004d7a9f7be04f37c62e0ac6599ad1ddc077adc100c57c7a200",
+      "source": "archived-hltv-html:2399784.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 1.19
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311963,
+      "map_name": "dust2",
+      "day": "2026-10-22",
+      "side": 2,
+      "player_id": 2786,
+      "kills": 11,
+      "deaths": 12,
+      "adr": 72.9,
+      "kast": 76.5,
+      "scores": [
+        13,
+        4
+      ],
+      "rounds": 17,
+      "hltv_id": 2399784,
+      "mapstats_id": 242602,
+      "hltv_player_id": 18979,
+      "identity_proven_by": [
+        242590,
+        242602
+      ],
+      "identity_as_of": "2026-10-22",
+      "sha256": "d6df9c118c464004d7a9f7be04f37c62e0ac6599ad1ddc077adc100c57c7a200",
+      "source": "archived-hltv-html:2399784.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 0.81
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311963,
+      "map_name": "dust2",
+      "day": "2026-10-22",
+      "side": 2,
+      "player_id": 6729,
+      "kills": 9,
+      "deaths": 13,
+      "adr": 62.6,
+      "kast": 47.1,
+      "scores": [
+        13,
+        4
+      ],
+      "rounds": 17,
+      "hltv_id": 2399784,
+      "mapstats_id": 242602,
+      "hltv_player_id": 22473,
+      "identity_proven_by": [
+        242590,
+        242602
+      ],
+      "identity_as_of": "2026-10-22",
+      "sha256": "d6df9c118c464004d7a9f7be04f37c62e0ac6599ad1ddc077adc100c57c7a200",
+      "source": "archived-hltv-html:2399784.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 0.73
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311963,
+      "map_name": "dust2",
+      "day": "2026-10-22",
+      "side": 2,
+      "player_id": 528,
+      "kills": 4,
+      "deaths": 14,
+      "adr": 46.6,
+      "kast": 47.1,
+      "scores": [
+        13,
+        4
+      ],
+      "rounds": 17,
+      "hltv_id": 2399784,
+      "mapstats_id": 242602,
+      "hltv_player_id": 18070,
+      "identity_proven_by": [
+        242590,
+        242602
+      ],
+      "identity_as_of": "2026-10-22",
+      "sha256": "d6df9c118c464004d7a9f7be04f37c62e0ac6599ad1ddc077adc100c57c7a200",
+      "source": "archived-hltv-html:2399784.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 0.43
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 7311963,
+      "map_name": "dust2",
+      "day": "2026-10-22",
+      "side": 2,
+      "player_id": 5773,
+      "kills": 3,
+      "deaths": 15,
+      "adr": 29.4,
+      "kast": 47.1,
+      "scores": [
+        13,
+        4
+      ],
+      "rounds": 17,
+      "hltv_id": 2399784,
+      "mapstats_id": 242602,
+      "hltv_player_id": 20960,
+      "identity_proven_by": [
+        242590,
+        242602
+      ],
+      "identity_as_of": "2026-10-22",
+      "sha256": "d6df9c118c464004d7a9f7be04f37c62e0ac6599ad1ddc077adc100c57c7a200",
+      "source": "archived-hltv-html:2399784.html",
+      "imported_utc": "2026-11-27T13:22:00+00:00",
+      "metrics": {
+        "rating": 0.3
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    }
+  ],
+  "report": {
+    "complete_hltv_maps": 30,
+    "score_disagreement_maps": 3,
+    "linked_series": 11,
+    "unproven_or_conflicted_player_rows": 75,
+    "rated_frozen_player_rows": 181,
+    "rated_patched_player_rows": 14
+  }
+}
