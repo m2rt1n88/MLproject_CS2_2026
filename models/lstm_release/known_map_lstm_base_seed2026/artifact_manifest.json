@@ -1,0 +1,7 @@
+{
+  "checkpoint.pt": "2ef469743d21e9351e386a6c1fb6ab3d1615e29f8ea48962275ee4c6d53ef21d",
+  "config.json": "42aba3ab8f738b7d6a513ea9078f4cc6aed1afba2c3b61edb5abb6c71a7d0af8",
+  "scaler.json": "8974eb47e86b0b55667eb690d360dac8376190a477b394ab7f289db1fdd14efb",
+  "map_vocab.json": "c98f5378be87fd860fbddcb8daa02982e44a7a1e9f34de153523ef6e0856c68a",
+  "fingerprint.json": "647fe88b24fdedeff0858114111cadbefae7126aea38142c41435415223c5771"
+}

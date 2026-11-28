@@ -1,0 +1,56 @@
+{
+  "feature_set": "headshots_only",
+  "seed": 2026,
+  "source_sha256": {
+    "matches.csv": "15ebc6fe01bf149b4eab59428ea399abe05652f79eb19c38e5ef6bff49b2d593",
+    "maps.csv": "feea99b2b20f156fc699fb7de6b618ceacfeefd85301c5151960622785a3798a",
+    "player_stats.csv": "53e99ab7044f3c9334227b62c0e3f8c6751cbc742b535d99a5622e1f807a8e4a"
+  },
+  "n_excluded_review_maps": 3,
+  "code_sha256": "c26e860a085870bfc8bad28689af37cb51cebefc3192c0f9c30e59b519436e61",
+  "n_rows": {
+    "inner_train": 6718,
+    "early_stop": 673,
+    "val": 1596
+  },
+  "max_row_date": "2026-03-31",
+  "torch": "2.14.1+cu126",
+  "metric_snapshot": {
+    "folder": "known_map_v2_extended\\data\\bulk_with_headshots_v1\\dataset",
+    "sha256": {
+      "metric_history.json": "3a490885d90a99c314266b7dd3b8ba0b78af16c51d8c21dc28a1ac0c53388967",
+      "headshot_history.json": "612a9e0b2c7f87ddd06f80e995cd01e460208a2a814928c6d5b0b2471b1552d7",
+      "hltv_history_patch.json": "671ad55c54ddfc00e1f460eaeb39e147720be6bf2f6f641368c6c542d133643a",
+      "manifest.json": "a0fec488208c08fc12419000b904c0e2c46332b2a9b5b192581ad3fb3c73322b"
+    },
+    "manifest_version": "known-map-v2-extended-v1-hltv-pilot-headshots-five-metrics",
+    "manifest_clean_v3_sha256": {
+      "matches.csv": "15ebc6fe01bf149b4eab59428ea399abe05652f79eb19c38e5ef6bff49b2d593",
+      "maps.csv": "feea99b2b20f156fc699fb7de6b618ceacfeefd85301c5151960622785a3798a",
+      "player_stats.csv": "53e99ab7044f3c9334227b62c0e3f8c6751cbc742b535d99a5622e1f807a8e4a"
+    },
+    "validated_counts": {
+      "rating": 37422,
+      "headshot_kills": 258,
+      "opencs2_headshot_kills": 106
+    },
+    "basic_patch": {
+      "rows": 14,
+      "used_as_history": false,
+      "days": [
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22"
+      ],
+      "reason": "only validates metric rows; all rows are after the development end and are not in the frozen clean_v3 player table"
+    },
+    "events": {
+      "rows": 37408,
+      "rating": 37408,
+      "headshot_hltv": 258,
+      "headshot_opencs2": 106,
+      "skipped_not_in_frozen_player_table": 14
+    }
+  },
+  "elapsed_s": 7.2
+}

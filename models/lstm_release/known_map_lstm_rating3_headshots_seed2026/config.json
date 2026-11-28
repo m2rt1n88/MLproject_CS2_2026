@@ -1,0 +1,81 @@
+{
+  "feature_set": "rating3_headshots",
+  "model": {
+    "hidden": 32,
+    "emb": 8,
+    "mlp": 32,
+    "dropout": 0.1
+  },
+  "n_static": 35,
+  "n_seq": 8,
+  "static_names": [
+    "map_winrate_shrunk",
+    "map_minus_overall_winrate",
+    "map_margin_shrunk",
+    "log_map_games",
+    "log_overall_games",
+    "map_cold_start",
+    "overall_cold_start",
+    "log_days_since_map",
+    "log_days_since_any",
+    "overall_elo",
+    "map_elo",
+    "map_elo_minus_overall",
+    "player_map_adr",
+    "player_map_kast",
+    "player_map_kd",
+    "player_map_adr_specialty",
+    "player_map_kast_specialty",
+    "player_map_kd_specialty",
+    "player_coverage",
+    "player_map_coverage",
+    "log_player_map_rounds",
+    "log_roster_age_days",
+    "roster_missing",
+    "hs_overall_rate",
+    "hs_map_specialty",
+    "hs_coverage",
+    "hs_map_coverage",
+    "log_hs_kills",
+    "hs_missing",
+    "rating3_overall_mean",
+    "rating3_map_specialty",
+    "rating3_coverage",
+    "rating3_map_coverage",
+    "log_rating3_rounds",
+    "rating3_missing"
+  ],
+  "seq_names": [
+    "won_pm1",
+    "round_margin",
+    "opponent_elo",
+    "log_days_gap",
+    "same_target_map",
+    "team_adr",
+    "team_kast",
+    "player_stats_missing"
+  ],
+  "splits": {
+    "inner_train": [
+      "2024-01-21",
+      "2025-07-31"
+    ],
+    "early_stop": [
+      "2025-08-01",
+      "2025-09-30"
+    ],
+    "val": [
+      "2025-10-01",
+      "2026-03-31"
+    ]
+  },
+  "warmup_end": "2024-01-21",
+  "dev_end_exclusive": "2026-04-01",
+  "seed": 2026,
+  "epochs_max": 15,
+  "patience": 3,
+  "batch": 256,
+  "lr": 0.002,
+  "best_epoch": 1,
+  "checkpoint_sha256": "bc713e507894a2ef158ecf358f94eef8583d3d2396323d3c84d58d21253ecef5"
+}

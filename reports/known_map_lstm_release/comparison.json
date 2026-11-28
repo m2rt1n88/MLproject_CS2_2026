@@ -1,0 +1,83 @@
+{
+  "seeds": [
+    2026
+  ],
+  "sets": [
+    "base",
+    "headshots_only",
+    "rating3_headshots"
+  ],
+  "complete": true,
+  "missing_feature_sets": [],
+  "note": "delta_logloss = logloss(feature_set) - logloss(base); positive = worse than base. Single seed; not statistically significant.",
+  "results": {
+    "base": {
+      "2026": {
+        "val_logloss": 0.6587903499603271,
+        "val_auc": 0.6262603767560665,
+        "val_accuracy": 0.5983709273182958,
+        "val_brier": 0.23352666199207306,
+        "best_epoch": 1,
+        "epochs_run": 4,
+        "model_dir_bytes": 42505,
+        "coverage_val": {},
+        "delta_logloss_vs_base": 0.0
+      }
+    },
+    "headshots_only": {
+      "2026": {
+        "val_logloss": 0.6664664149284363,
+        "val_auc": 0.6167903895274586,
+        "val_accuracy": 0.593358395989975,
+        "val_brier": 0.23694896697998047,
+        "best_epoch": 1,
+        "epochs_run": 4,
+        "model_dir_bytes": 45256,
+        "coverage_val": {
+          "headshots": {
+            "rows": 1596,
+            "any_side_nonzero": 410,
+            "both_sides_nonzero": 29,
+            "team1_nonzero": 212,
+            "team2_nonzero": 227,
+            "team1_mean": 0.06929824561403508,
+            "team2_mean": 0.07969924812030076
+          }
+        },
+        "delta_logloss_vs_base": 0.0077
+      }
+    },
+    "rating3_headshots": {
+      "2026": {
+        "val_logloss": 0.6702435612678528,
+        "val_auc": 0.6062172733077906,
+        "val_accuracy": 0.5971177944862155,
+        "val_brier": 0.23876908421516418,
+        "best_epoch": 1,
+        "epochs_run": 4,
+        "model_dir_bytes": 46501,
+        "coverage_val": {
+          "headshots": {
+            "rows": 1596,
+            "any_side_nonzero": 410,
+            "both_sides_nonzero": 29,
+            "team1_nonzero": 212,
+            "team2_nonzero": 227,
+            "team1_mean": 0.06929824561403508,
+            "team2_mean": 0.07969924812030076
+          },
+          "rating3": {
+            "rows": 1596,
+            "any_side_nonzero": 1563,
+            "both_sides_nonzero": 1331,
+            "team1_nonzero": 1484,
+            "team2_nonzero": 1410,
+            "team1_mean": 0.7309523809523809,
+            "team2_mean": 0.7200501253132833
+          }
+        },
+        "delta_logloss_vs_base": 0.0115
+      }
+    }
+  }
+}

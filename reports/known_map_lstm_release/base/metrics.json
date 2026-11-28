@@ -1,0 +1,159 @@
+{
+  "feature_set": "base",
+  "seeds": [
+    2026
+  ],
+  "runs": [
+    {
+      "feature_set": "base",
+      "seed": 2026,
+      "best_epoch": 1,
+      "epochs_run": 4,
+      "splits": {
+        "inner_train": {
+          "lstm": {
+            "n": 6718,
+            "logloss": 0.6675887107849121,
+            "brier": 0.23760199546813965,
+            "auc": 0.6205003279578163,
+            "accuracy": 0.5885680261982733
+          },
+          "constant": {
+            "n": 6718,
+            "logloss": 0.6909418220867888,
+            "brier": 0.24889813160308968,
+            "auc": 0.5,
+            "accuracy": 0.5331944030961596
+          },
+          "static_logistic": {
+            "n": 6718,
+            "logloss": 0.6655091643333435,
+            "brier": 0.23666496574878693,
+            "auc": 0.6236400522311102,
+            "accuracy": 0.5910985412325097
+          }
+        },
+        "early_stop": {
+          "lstm": {
+            "n": 673,
+            "logloss": 0.6717662811279297,
+            "brier": 0.23958534002304077,
+            "auc": 0.6226335047992788,
+            "accuracy": 0.5794947994056464
+          },
+          "constant": {
+            "n": 673,
+            "logloss": 0.6934787518549499,
+            "brier": 0.2501647307166325,
+            "auc": 0.5,
+            "accuracy": 0.5141158989598811
+          },
+          "static_logistic": {
+            "n": 673,
+            "logloss": 0.6767057776451111,
+            "brier": 0.24177472293376923,
+            "auc": 0.6173923034770465,
+            "accuracy": 0.5676077265973254
+          }
+        },
+        "val": {
+          "lstm": {
+            "n": 1596,
+            "logloss": 0.6587903499603271,
+            "brier": 0.23352666199207306,
+            "auc": 0.6262603767560665,
+            "accuracy": 0.5983709273182958
+          },
+          "constant": {
+            "n": 1596,
+            "logloss": 0.6868575008351958,
+            "brier": 0.24685897476807794,
+            "auc": 0.5,
+            "accuracy": 0.5639097744360902
+          },
+          "static_logistic": {
+            "n": 1596,
+            "logloss": 0.6602832674980164,
+            "brier": 0.23409965634346008,
+            "auc": 0.6260504469987229,
+            "accuracy": 0.5952380952380952
+          }
+        }
+      },
+      "coverage": {
+        "inner_train": {},
+        "early_stop": {},
+        "val": {}
+      },
+      "coverage_buckets": {},
+      "train_log": [
+        {
+          "epoch": 1,
+          "train_loss": 0.6783873637221547,
+          "early_stop": {
+            "n": 673,
+            "logloss": 0.6717662811279297,
+            "brier": 0.23958534002304077,
+            "auc": 0.6226335047992788,
+            "accuracy": 0.5794947994056464
+          }
+        },
+        {
+          "epoch": 2,
+          "train_loss": 0.6687778109736158,
+          "early_stop": {
+            "n": 673,
+            "logloss": 0.673408567905426,
+            "brier": 0.24036026000976562,
+            "auc": 0.6183998868678298,
+            "accuracy": 0.5765230312035661
+          }
+        },
+        {
+          "epoch": 3,
+          "train_loss": 0.6656413680565219,
+          "early_stop": {
+            "n": 673,
+            "logloss": 0.6745375394821167,
+            "brier": 0.2407047003507614,
+            "auc": 0.622279966767425,
+            "accuracy": 0.5824665676077266
+          }
+        },
+        {
+          "epoch": 4,
+          "train_loss": 0.6633721621450337,
+          "early_stop": {
+            "n": 673,
+            "logloss": 0.671957790851593,
+            "brier": 0.2395956814289093,
+            "auc": 0.622819112266002,
+            "accuracy": 0.5839524517087668
+          }
+        }
+      ],
+      "fingerprint": {
+        "feature_set": "base",
+        "seed": 2026,
+        "source_sha256": {
+          "matches.csv": "15ebc6fe01bf149b4eab59428ea399abe05652f79eb19c38e5ef6bff49b2d593",
+          "maps.csv": "feea99b2b20f156fc699fb7de6b618ceacfeefd85301c5151960622785a3798a",
+          "player_stats.csv": "53e99ab7044f3c9334227b62c0e3f8c6751cbc742b535d99a5622e1f807a8e4a"
+        },
+        "n_excluded_review_maps": 3,
+        "code_sha256": "c26e860a085870bfc8bad28689af37cb51cebefc3192c0f9c30e59b519436e61",
+        "n_rows": {
+          "inner_train": 6718,
+          "early_stop": 673,
+          "val": 1596
+        },
+        "max_row_date": "2026-03-31",
+        "torch": "2.14.1+cu126",
+        "metric_snapshot": null,
+        "elapsed_s": 6.1
+      },
+      "model_dir_bytes": 42505
+    }
+  ],
+  "paired_note": "seeds are paired; use same seed set across feature sets for matched comparison"
+}

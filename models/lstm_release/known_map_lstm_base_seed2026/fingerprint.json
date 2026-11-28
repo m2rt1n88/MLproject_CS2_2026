@@ -1,0 +1,20 @@
+{
+  "feature_set": "base",
+  "seed": 2026,
+  "source_sha256": {
+    "matches.csv": "15ebc6fe01bf149b4eab59428ea399abe05652f79eb19c38e5ef6bff49b2d593",
+    "maps.csv": "feea99b2b20f156fc699fb7de6b618ceacfeefd85301c5151960622785a3798a",
+    "player_stats.csv": "53e99ab7044f3c9334227b62c0e3f8c6751cbc742b535d99a5622e1f807a8e4a"
+  },
+  "n_excluded_review_maps": 3,
+  "code_sha256": "c26e860a085870bfc8bad28689af37cb51cebefc3192c0f9c30e59b519436e61",
+  "n_rows": {
+    "inner_train": 6718,
+    "early_stop": 673,
+    "val": 1596
+  },
+  "max_row_date": "2026-03-31",
+  "torch": "2.14.1+cu126",
+  "metric_snapshot": null,
+  "elapsed_s": 6.1
+}

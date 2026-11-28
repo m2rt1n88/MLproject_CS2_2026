@@ -1,0 +1,45 @@
+test_base_has_no_rating_or_new_metric_features (known_map_recent.lstm.tests.test_lstm.LeakageTests.test_base_has_no_rating_or_new_metric_features)
+base feature set must not contain rating or headshot names. ... ok
+test_bo3_two_played_maps_are_two_rows (known_map_recent.lstm.tests.test_lstm.LeakageTests.test_bo3_two_played_maps_are_two_rows) ... ok
+test_no_rows_on_or_after_dev_end (known_map_recent.lstm.tests.test_lstm.LeakageTests.test_no_rows_on_or_after_dev_end) ... ok
+test_query_before_ingest_raises (known_map_recent.lstm.tests.test_lstm.LeakageTests.test_query_before_ingest_raises) ... ok
+test_rating2_not_present_in_any_feature_set (known_map_recent.lstm.tests.test_lstm.LeakageTests.test_rating2_not_present_in_any_feature_set) ... ok
+test_same_day_same_series_no_leak (known_map_recent.lstm.tests.test_lstm.LeakageTests.test_same_day_same_series_no_leak) ... ok
+test_target_roster_not_input_but_feeds_next_day (known_map_recent.lstm.tests.test_lstm.LeakageTests.test_target_roster_not_input_but_feeds_next_day) ... ok
+test_headshot_independent_of_rating3 (known_map_recent.lstm.tests.test_lstm.MetricStateTests.test_headshot_independent_of_rating3)
+HS features must be computed independently even when rating3 is also enabled. ... ok
+test_headshot_rate_aggregation (known_map_recent.lstm.tests.test_lstm.MetricStateTests.test_headshot_rate_aggregation)
+hs rate = sum(hs_kills) / sum(kills), tested against explicit values. ... ok
+test_metric_coverage_explicit_fractions (known_map_recent.lstm.tests.test_lstm.MetricStateTests.test_metric_coverage_explicit_fractions)
+headshots coverage = seen / 5 for the proxy roster. ... ok
+test_metric_events_same_day_not_in_query (known_map_recent.lstm.tests.test_lstm.MetricStateTests.test_metric_events_same_day_not_in_query)
+Metric events on day D must not appear in features queried on day D. ... ok
+test_metrics_absent_in_base_feature_set (known_map_recent.lstm.tests.test_lstm.MetricStateTests.test_metrics_absent_in_base_feature_set)
+base HistoryState must not accumulate metric state at all. ... ok
+test_metrics_not_ingested_on_query_day (known_map_recent.lstm.tests.test_lstm.MetricStateTests.test_metrics_not_ingested_on_query_day)
+Metric events on day D must not affect features queried on day D. ... ok
+test_missing_distinct_from_zero (known_map_recent.lstm.tests.test_lstm.MetricStateTests.test_missing_distinct_from_zero)
+A player with no metric history must produce missing_mask=1, not observed_rate=0. ... ok
+test_rating3_aggregation (known_map_recent.lstm.tests.test_lstm.MetricStateTests.test_rating3_aggregation)
+rating3 = sum(rating*rounds) / sum(rounds). ... ok
+test_zero_kills_hs_undefined (known_map_recent.lstm.tests.test_lstm.MetricStateTests.test_zero_kills_hs_undefined)
+headshot_kills with kills=0 must not enter the rate denominator but doesn't raise. ... ok
+test_incompatible_checkpoint_raises (known_map_recent.lstm.tests.test_lstm.ModelTests.test_incompatible_checkpoint_raises) ... ok
+test_manifest_tamper_rejected (known_map_recent.lstm.tests.test_lstm.ModelTests.test_manifest_tamper_rejected)
+Modifying scaler or vocab after save must be caught on load. ... ok
+test_nonbase_predictor_loads_source_and_checks_snapshot (known_map_recent.lstm.tests.test_lstm.ModelTests.test_nonbase_predictor_loads_source_and_checks_snapshot)
+Non-base Predictor must not NameError when source=None; must catch wrong snapshot hash. ... ok
+test_predictor_round_trip_prior_days_only (known_map_recent.lstm.tests.test_lstm.ModelTests.test_predictor_round_trip_prior_days_only) ... ok
+test_predictor_warns_in_training_window (known_map_recent.lstm.tests.test_lstm.ModelTests.test_predictor_warns_in_training_window) ... ok
+test_scaler_fitted_on_inner_train_only (known_map_recent.lstm.tests.test_lstm.ModelTests.test_scaler_fitted_on_inner_train_only) ... ok
+test_swap_symmetry_zero_length_target_map (known_map_recent.lstm.tests.test_lstm.ModelTests.test_swap_symmetry_zero_length_target_map) ... ok
+test_tempdir_inside_project (known_map_recent.lstm.tests.test_lstm.ModelTests.test_tempdir_inside_project)
+TemporaryDirectory used in tests must land inside project temp/, not OS tmp. ... ok
+test_cold_start_and_unknown_lineup (known_map_recent.lstm.tests.test_lstm.QueryTests.test_cold_start_and_unknown_lineup) ... ok
+test_provided_lineup_validation (known_map_recent.lstm.tests.test_lstm.QueryTests.test_provided_lineup_validation) ... ok
+test_target_map_changes_input (known_map_recent.lstm.tests.test_lstm.QueryTests.test_target_map_changes_input) ... ok
+
+----------------------------------------------------------------------
+Ran 27 tests in 2.524s
+
+OK

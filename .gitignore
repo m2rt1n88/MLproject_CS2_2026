@@ -38,6 +38,7 @@ kaggle.json
 /models/*
 !/models/m1/
 !/models/m2/
+!/models/lstm_release/
 /models/m1/*
 /models/m2/*
 *.pkl

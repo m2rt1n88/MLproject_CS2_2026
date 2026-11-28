@@ -1,0 +1,79 @@
+{
+  "p_team1": 0.5583563446998596,
+  "p_team2": 0.4416436553001404,
+  "map_name": "mirage",
+  "map_known": true,
+  "feature_set": "rating3_headshots",
+  "history_before": "2027-01-15",
+  "team1": {
+    "team": "team vitality",
+    "team_known": true,
+    "map_name": "mirage",
+    "lineup_source": "proxy",
+    "lineup_ids": [
+      146,
+      1443,
+      1549,
+      550,
+      2179
+    ],
+    "player_coverage": 1.0,
+    "player_map_coverage": 1.0,
+    "team_map_games": 93,
+    "team_games": 506,
+    "sequence_length": 20,
+    "feature_set": "rating3_headshots",
+    "metric_coverage": {
+      "headshots": {
+        "players": 0,
+        "map_players": 0,
+        "coverage": 0.0,
+        "map_coverage": 0.0,
+        "raw_mean": null
+      },
+      "rating3": {
+        "players": 5,
+        "map_players": 5,
+        "coverage": 1.0,
+        "map_coverage": 1.0,
+        "raw_mean": 1.2109981928632803
+      }
+    }
+  },
+  "team2": {
+    "team": "team spirit",
+    "team_known": true,
+    "map_name": "mirage",
+    "lineup_source": "proxy",
+    "lineup_ids": [
+      1003,
+      3397,
+      3395,
+      965,
+      4710
+    ],
+    "player_coverage": 1.0,
+    "player_map_coverage": 1.0,
+    "team_map_games": 112,
+    "team_games": 493,
+    "sequence_length": 20,
+    "feature_set": "rating3_headshots",
+    "metric_coverage": {
+      "headshots": {
+        "players": 0,
+        "map_players": 0,
+        "coverage": 0.0,
+        "map_coverage": 0.0,
+        "raw_mean": null
+      },
+      "rating3": {
+        "players": 1,
+        "map_players": 1,
+        "coverage": 0.2,
+        "map_coverage": 0.2,
+        "raw_mean": 1.1861609570418703
+      }
+    }
+  },
+  "warnings": []
+}
