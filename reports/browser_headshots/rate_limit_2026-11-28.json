@@ -1,0 +1,21 @@
+{
+  "event": "HTTP 429 Too Many Requests from HLTV during serial Browser download of pending_mapstats.json",
+  "reported_by": "orchestrator (Browser MCP session); this file only records it, no request was made by browser_headshots",
+  "recorded_utc": "2026-11-28T09:20:53Z",
+  "time_evidence": "429 occurred after the last successful save; mapstats_180833.html LastWriteTimeUtc is 2026-11-28T09:20:35.0925630Z, recorded_utc is when this lane logged it (exact 429 response time not captured)",
+  "queue": "temp/browser_headshots/pending_mapstats.json",
+  "failed": {
+    "step": 11,
+    "queue_index": 10,
+    "id": 181847,
+    "match_id": 2374994,
+    "url": "https://www.hltv.org/stats/matches/mapstatsid/181847/mindfreak-vs-rooster",
+    "http_status": 429,
+    "saved_file": null,
+    "retried": false
+  },
+  "not_run": {"steps": "12-150", "queue_index_from": 11, "first_not_run_id": 181849},
+  "succeeded_before_429": [224871, 224885, 224901, 232163, 232169, 232175, 232178, 180804, 180822, 180833],
+  "action": "all HLTV network access stopped; no retry; no manual Cloudflare step requested; offline import continued with the 29 saved mapstats pages",
+  "resume_hint": "resume from queue_index 10 (id 181847) only after the orchestrator decides; already saved files are excluded by id"
+}

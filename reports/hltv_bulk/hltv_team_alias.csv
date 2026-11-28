@@ -1,0 +1,196 @@
+hltv_team_id,local_team_key,evidence,maps_matched,first_hltv_match_id,n_pages
+8474,100 thieves,exact_series_signature;map_score_orientation,3,2392284,20
+13844,163news,exact_series_signature,2,2394624,1
+12000,500,exact_series_signature,3,2369536,27
+13708,5actors,exact_series_signature,3,2391312,1
+13380,9boompro,exact_series_signature,3,2384724,4
+10278,9ine,exact_series_signature,3,2369665,45
+11006,9z academy,exact_series_signature,2,2374228,1
+13518,acend,exact_series_signature,4,2392537,9
+13757,acrobats,exact_series_signature,3,2392285,3
+6810,aimclub,exact_series_signature;map_score_orientation,2,2392601,3
+12474,alliance,exact_series_signature;map_score_orientation,3,2369535,13
+12812,allinners,exact_series_signature,3,2388816,3
+4501,alternate attax,exact_series_signature,3,2369633,22
+14018,antivalue,map_score_orientation,2,2397735,1
+9806,apeks,exact_series_signature,3,2369411,14
+10459,arcred,exact_series_signature,3,2378666,13
+6665,astralis,exact_series_signature;map_score_orientation;two_map_fingerprint,4,2368864,114
+13235,astrum,exact_series_signature,3,2382094,5
+13668,atreides,exact_series_signature,2,2395548,1
+13691,back to back,exact_series_signature,3,2397762,1
+11518,bad news eagles,exact_series_signature,2,2379747,1
+12587,bad news kangaroos,exact_series_signature,3,2369391,7
+13181,basement boys,exact_series_signature,3,2379890,7
+13613,bebop,exact_series_signature,2,2393814,2
+12144,bestia,exact_series_signature,3,2370792,10
+12916,betclic,exact_series_signature;map_score_orientation,3,2378759,22
+12431,betera,exact_series_signature,2,2384719,1
+7532,big,exact_series_signature;map_score_orientation;two_map_fingerprint,4,2368880,90
+13924,black phoenix,exact_series_signature,2,2397844,2
+12772,blessed,exact_series_signature,3,2370982,3
+5347,bluejays,exact_series_signature,3,2381608,2
+12534,boss,exact_series_signature,3,2371524,4
+12745,brazylijski luz,exact_series_signature,2,2370352,4
+13281,bushido wildcats,exact_series_signature,3,2384249,1
+12646,chinggis warriors,exact_series_signature,3,2372471,7
+5752,cloud9,exact_series_signature;map_score_orientation,3,2368881,28
+13973,color,exact_series_signature,2,2397326,1
+5005,complexity,exact_series_signature;map_score_orientation,3,2368875,55
+13046,cs2news,exact_series_signature,3,2379000,2
+13594,cybershoke prospects,exact_series_signature,2,2392891,1
+12885,dash,exact_series_signature,2,2375432,1
+13784,deorum,exact_series_signature,2,2393047,2
+12536,depo,exact_series_signature,3,2388808,6
+12937,drillas,exact_series_signature,3,2375937,6
+10125,dusty,exact_series_signature,2,2396454,1
+12548,dusty roots,exact_series_signature,2,2374234,1
+12768,ecf,exact_series_signature,3,2371686,2
+13871,echo,exact_series_signature,3,2395392,7
+13121,eco warriors,exact_series_signature,2,2379021,1
+11419,ecstatic,exact_series_signature;map_score_orientation,3,2369940,31
+13131,egoisto,exact_series_signature,2,2379002,2
+5775,elevate,exact_series_signature,3,2370198,1
+4869,ence,exact_series_signature;map_score_orientation,4,2369412,51
+12450,ence athena,exact_series_signature,2,2375816,1
+10831,entropiq,exact_series_signature,2,2369630,3
+12097,eruption,exact_series_signature,2,2381632,2
+12289,espionage,exact_series_signature,2,2369630,4
+11251,eternal fire,exact_series_signature;map_score_orientation,5,2369487,64
+13617,ex-ruby,exact_series_signature,3,2389051,11
+13901,ex-rustec,exact_series_signature,2,2397854,4
+13573,ex-zero tenacity,exact_series_signature,3,2393047,3
+11737,eyeballers,exact_series_signature;map_score_orientation,3,2370336,40
+6667,faze clan,map_score_orientation;two_map_fingerprint,4,2368868,128
+12769,fisher college,exact_series_signature,1,2394129,1
+6668,fluffy gangsters,exact_series_signature,2,2377883,2
+11837,fluxo,exact_series_signature;map_score_orientation,3,2370792,15
+12774,flyquest,exact_series_signature;map_score_orientation;two_map_fingerprint,3,2370921,45
+12301,flyquest red,exact_series_signature,3,2377577,1
+4991,fnatic,exact_series_signature;map_score_orientation,3,2369751,87
+13679,fokus,exact_series_signature,4,2390828,9
+8135,forze,exact_series_signature,3,2369694,13
+12857,forze reload,exact_series_signature,3,2384597,2
+13547,friendly campers,exact_series_signature,2,2389257,1
+12889,g2 ares,exact_series_signature,2,2374203,5
+5995,g2 esports,map_score_orientation;two_map_fingerprint,5,2368874,116
+11571,gaimin gladiators,exact_series_signature;map_score_orientation,3,2371686,13
+9928,gamerlegion,exact_series_signature;map_score_orientation,3,2368868,109
+11609,genone,exact_series_signature,3,2375072,16
+13404,gentle mates,exact_series_signature;map_score_orientation,3,2385396,31
+13106,getting info,exact_series_signature,2,2381607,2
+12415,gods reign,exact_series_signature,2,2370996,4
+6902,godsent,exact_series_signature,2,2369536,2
+12527,guild eagles,exact_series_signature,3,2369695,7
+12471,gun5,exact_series_signature,3,2382168,2
+7175,heroic,exact_series_signature;map_score_orientation;two_map_fingerprint,4,2368881,121
+13233,heroic academy,exact_series_signature,3,2395172,1
+13153,hesta,exact_series_signature,3,2379276,1
+11581,hotu,exact_series_signature;map_score_orientation,3,2376197,41
+12921,housebets,exact_series_signature,1,2380017,1
+13012,hyperspirit,exact_series_signature,2,2399604,2
+13104,iberian soul,exact_series_signature,3,2378659,18
+13501,illwill,exact_series_signature;map_score_orientation,3,2389237,11
+13117,inner circle,exact_series_signature;map_score_orientation,4,2385908,16
+13814,inox division,exact_series_signature,2,2393811,9
+12124,insilio,exact_series_signature,3,2369700,14
+11164,into the breach,exact_series_signature,3,2374590,14
+10245,jijiehao,exact_series_signature;map_score_orientation,3,2370116,17
+12604,johnny speeds,exact_series_signature,3,2374213,9
+13776,just players,exact_series_signature,2,2394439,2
+12895,k27,exact_series_signature,5,2379006,37
+13930,k28,exact_series_signature,3,2396267,1
+13314,kolesie,exact_series_signature,4,2388902,7
+13962,lafox,exact_series_signature,2,2396458,1
+12609,lavked,exact_series_signature,3,2392283,8
+12468,legacy,exact_series_signature;map_score_orientation,3,2370206,62
+12670,leon,exact_series_signature,2,2370969,1
+12421,let her cook,exact_series_signature,2,2375287,2
+10854,los kogutos,exact_series_signature,2,2390056,1
+13783,luminous,exact_series_signature,2,2393056,2
+12376,m80,exact_series_signature;map_score_orientation;two_map_fingerprint,3,2369480,48
+13592,magic,exact_series_signature;map_score_orientation;two_map_fingerprint,5,2389057,34
+14067,magnum,exact_series_signature,2,2398781,1
+13124,marsborne,exact_series_signature;map_score_orientation,3,2381615,3
+13172,mercenaires,exact_series_signature,3,2380984,1
+12886,meteor,exact_series_signature,3,2374656,2
+11641,metizport,exact_series_signature;map_score_orientation,5,2369635,44
+9215,mibr,exact_series_signature;map_score_orientation,3,2370782,66
+12483,might,exact_series_signature,3,2381608,2
+11668,mindfreak,exact_series_signature,3,2369392,6
+13128,moneyf,exact_series_signature,2,2378756,2
+11811,monte,exact_series_signature;map_score_orientation,3,2369414,76
+12520,monte gen,exact_series_signature,3,2374767,8
+13251,mousquetaires,exact_series_signature,2,2387119,1
+4494,mouz,exact_series_signature;map_score_orientation;two_map_fingerprint,5,2369415,110
+11176,mouz nxt,exact_series_signature,3,2370953,13
+4608,natus vincere,exact_series_signature;map_score_orientation;two_map_fingerprint,5,2368875,114
+11675,navi javelins,exact_series_signature,3,2375287,4
+14002,nexora,exact_series_signature,2,2399846,1
+13667,nexvoid,exact_series_signature,2,2397409,1
+4411,ninjas in pyjamas,exact_series_signature;map_score_orientation,5,2368874,85
+12900,nomads,exact_series_signature,2,2382273,2
+13178,novaq,exact_series_signature,3,2380984,10
+13027,nuclear tigeres,exact_series_signature,3,2384818,21
+11768,oddik,exact_series_signature;map_score_orientation,3,2369309,8
+10503,og,exact_series_signature;map_score_orientation,3,2368862,42
+13479,omega,exact_series_signature,3,2388808,3
+12594,onyx ravens,exact_series_signature,2,2371648,2
+13470,oramond,exact_series_signature,2,2390062,1
+12467,parivision,exact_series_signature;map_score_orientation;two_map_fingerprint,3,2370128,89
+8038,party astronauts,exact_series_signature,3,2371422,2
+13947,passion chicha,exact_series_signature,1,2396483,1
+12426,passion ua,exact_series_signature;map_score_orientation,3,2369535,51
+13782,pivosquad,exact_series_signature,2,2393052,1
+14030,private,exact_series_signature,2,2398989,4
+12502,project g,exact_series_signature,3,2374398,1
+13799,psychoface,exact_series_signature,3,2394618,5
+13245,qmistry,exact_series_signature,3,2384284,1
+13510,qwentry,exact_series_signature,2,2390062,1
+11514,rare atom,exact_series_signature;map_score_orientation,3,2369078,19
+7176,red canids,exact_series_signature;map_score_orientation,3,2369309,7
+14064,refresher,exact_series_signature,2,2398774,1
+13951,rem,exact_series_signature,1,2396463,1
+13960,revenix,exact_series_signature,2,2396485,1
+13192,roler coaster,exact_series_signature,1,2379873,1
+9881,rooster,exact_series_signature;map_score_orientation,3,2369391,15
+12694,ruby,exact_series_signature,3,2369695,13
+12559,rush b,exact_series_signature,3,2370181,10
+12834,rustec,exact_series_signature,2,2389703,2
+10567,saw,exact_series_signature;map_score_orientation,3,2369741,59
+12901,semperfi,exact_series_signature;map_score_orientation,3,2381630,3
+12788,sheer conquer,exact_series_signature,2,2371561,1
+12959,shinden,exact_series_signature;map_score_orientation,2,2397728,3
+8637,sprout,exact_series_signature,3,2369635,1
+13623,state,exact_series_signature,3,2398975,1
+12203,sunday school,exact_series_signature,2,2371422,1
+12738,system5,exact_series_signature,3,2370511,7
+13644,tdk,exact_series_signature,3,2390074,7
+12341,team aunkere,exact_series_signature,3,2395646,2
+13373,team hooch,exact_series_signature,5,2395646,2
+5973,team liquid,map_score_orientation;two_map_fingerprint,4,2368870,101
+13341,team recrent,exact_series_signature,3,2395647,1
+11476,team shoke,exact_series_signature,5,2395647,3
+9565,team vitality,map_score_orientation;two_map_fingerprint,5,2368862,121
+12949,teamwork,exact_series_signature,1,2375212,1
+12884,the art of war,exact_series_signature,3,2374998,1
+13369,the glecs,exact_series_signature,3,2384277,2
+6248,the mongolz,exact_series_signature;map_score_orientation;two_map_fingerprint,4,2369483,105
+13931,tokyosavage,exact_series_signature,2,2396258,1
+5996,tsm,exact_series_signature,3,2370517,17
+12166,twisted minds,exact_series_signature,2,2370116,1
+4863,tyloo,exact_series_signature;map_score_orientation;two_map_fingerprint,4,2369078,42
+12267,unity,exact_series_signature,3,2377015,3
+13002,unpaid,exact_series_signature,2,2376814,1
+13231,ursa,exact_series_signature,3,2388910,6
+12755,vikings kr,exact_series_signature,2,2374225,1
+5378,virtus.pro,exact_series_signature;map_score_orientation;two_map_fingerprint,3,2368880,99
+10864,vp.prodigy,exact_series_signature;map_score_orientation,3,2370763,7
+13808,walczaki,exact_series_signature,4,2393811,8
+13583,whitebird,exact_series_signature,3,2389699,6
+13593,winners,exact_series_signature,2,2388812,1
+14103,xmeta,exact_series_signature,2,2399834,1
+10960,young ninjas,exact_series_signature,3,2370138,6
+13707,younglings,exact_series_signature,3,2391312,1
+13966,z to forward,exact_series_signature,2,2396453,1
+11523,zero tenacity,exact_series_signature,3,2371383,40

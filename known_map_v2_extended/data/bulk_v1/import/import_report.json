@@ -1,0 +1,136 @@
+{
+  "imported_utc": "2026-11-28T09:23:59+00:00",
+  "parser": "bulk-match-parse-v1",
+  "folders": [
+    "temp\\hltv_bulk",
+    "temp\\hltv_verified"
+  ],
+  "plan_series": 1750,
+  "plan_unlinked_target_maps": 7651,
+  "note_unlinked": "target maps without any plan HLTV link need a separate discovery step; they are not covered by this import",
+  "saved_match_pages": 1750,
+  "saved_mapstats_pages": 29,
+  "identical_duplicate_files": 0,
+  "parsed_this_run": 0,
+  "manifest_problems": [],
+  "series_status": {
+    "accepted": 1675,
+    "no_match": 51,
+    "rejected": 24
+  },
+  "series_reasons": {
+    "rejected: local_series_link: per-map scores disagree with the local series": 18,
+    "rejected: parse: map scores do not reproduce the series score": 4,
+    "no_match: local_series_link: # local series match ('#-#-#', (('astralis', #), ('liquid', #)), #)": 2,
+    "rejected: linked, but no player-map passed two-map identity": 2,
+    "no_match: local_series_link: # local series match ('#-#-#', (('astralis', #), ('gamerlegion', #)), #": 2,
+    "no_match: local_series_link: # local series match ('#-#-#', (('g#', #), ('vitality', #)), #)": 2,
+    "no_match: local_series_link: # local series match ('#-#-#', (('g#', #), ('m#', #)), #)": 2,
+    "no_match: local_series_link: # local series match ('#-#-#', (('g#', #), ('gamerlegion', #)), #)": 2,
+    "no_match: local_series_link: # local series match ('#-#-#', (('g#', #), ('the mongolz', #)), #)": 2,
+    "no_match: local_series_link: # local series match ('#-#-#', (('faze', #), ('mouz', #)), #)": 2,
+    "no_match: local_series_link: # local series match ('#-#-#', (('fluxo', #), ('legacy', #)), #)": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('bestia', #), ('fluxo', #)), #)": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('g#', #), ('gaimin gladiators', #)), #": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('faze', #), ('flyquest', #)), #)": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('g#', #), ('legacy', #)), #)": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('fnatic', #), ('genone', #)), #)": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('g#', #), ('liquid', #)), #)": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('liquid', #), ('vitality', #)), #)": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('g#', #), ('heroic', #)), #)": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('faze', #), ('illwill', #)), #)": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('big', #), ('heroic', #)), #)": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('gamerlegion', #), ('natus vincere', #": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('liquid', #), ('natus vincere', #)), #": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('legacy', #), ('m#', #)), #)": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('fnatic', #), ('red canids', #)), #)": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('antivalue', #), ('liquid', #)), #)": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('natus vincere', #), ('vitality', #)),": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('boss', #), ('party astronauts', #)), ": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('fluxo', #), ('red canids', #)), #)": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('legacy', #), ('red canids', #)), #)": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('bestia', #), ('red canids', #)), #)": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('boss', #), ('elevate', #)), #)": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('mouz', #), ('vitality', #)), #)": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('gamerlegion', #), ('liquid', #)), #)": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('faze', #), ('og', #)), #)": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('aimclub', #), ('faze', #)), #)": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('g#', #), ('natus vincere', #)), #)": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('faze', #), ('vitality', #)), #)": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('gamerlegion', #), ('vitality', #)), #": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('g#', #), ('ninjas in pyjamas', #)), #": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('legacy', #), ('natus vincere', #)), #": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('eternal fire', #), ('faze', #)), #)": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('faze', #), ('ninjas in pyjamas', #)),": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('fluffy aimers', #), ('liquid', #)), #": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('liquid', #), ('passion ua', #)), #)": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('liquid', #), ('marsborne', #)), #)": 1,
+    "no_match: local_series_link: # local series match ('#-#-#', (('fisher college', #), ('g#', #)), #)": 1
+  },
+  "series_by_provenance": {
+    "match_page": 1666,
+    "mapstats_page": 11
+  },
+  "series_by_link_method": {
+    "exact_signature": 1022,
+    "plan_anchor_fp_alias": 406,
+    "plan_anchor_exact_names": 249
+  },
+  "accepted_by_link_method": {
+    "exact_signature": 1021,
+    "plan_anchor_fp_alias": 406,
+    "plan_anchor_exact_names": 248
+  },
+  "anchor_failures": {
+    "anchor: UTC day or BO differs": 20,
+    "anchor: # orientations pass (plan_anchor_exact_names; needs score agreement)": 18,
+    "anchor: # orientations pass (plan_anchor_fp_alias; needs score agreement and two complete #v# fingerprint maps)": 31
+  },
+  "dropped_page_maps": {
+    "map_absent_from_local_snapshot": 295,
+    "local_map_quarantined_or_excluded": 1
+  },
+  "linked_series": 1677,
+  "linked_maps": 3848,
+  "map_box_issues": {},
+  "accepted_player_maps": 37392,
+  "new_rating_rows": 37207,
+  "duplicate_existing_rows": 185,
+  "isolated_conflicts": [],
+  "skipped_by_reason": {
+    "no_local_fingerprint": 744,
+    "no_matching_local_box_on_this_map": 283,
+    "single_map_identity_evidence": 61
+  },
+  "new_rows_by_year": {
+    "2024": 13903,
+    "2025": 12437,
+    "2026": 10867
+  },
+  "new_rows_by_provenance": {
+    "match_page": 36966,
+    "mapstats_page": 241
+  },
+  "new_rating_maps": 3821,
+  "rating_note": "HLTV Rating 3.0 as displayed at capture time; HLTV recomputed it retroactively, so it is not a snapshot of what was visible before the match",
+  "metrics_not_exported": {
+    "headshot_kills": "available on HLTV mapstats pages, but not implemented in this rating lane; a separate lane (browser_headshots.py) owns its schema/validation",
+    "grenade_damage": "not on per-map scoreboards; HLTV all-time leaderboards show GADR, which is not a 90-day past-only value and is not imported; left missing, never zero-filled",
+    "saved_by_teammate": "not shown on HLTV scoreboards; left missing, never zero-filled",
+    "saved_teammates": "not shown on HLTV scoreboards; left missing, never zero-filled"
+  },
+  "rating_patch_counts": {
+    "rating": 37207
+  },
+  "merged_history_counts": {
+    "rating": 37422
+  },
+  "files_sha256": {
+    "capture_manifest.json": "daa9a4a9e9f30ea94a840d99ad4cc07346256229de850c1fd6b299bf3b4503e4",
+    "metric_history.json": "32774df74971c4b6ebfebfb882de246510000e8c6092ee3be6d8a1143e504c1a",
+    "queue_status.json": "a003edec8b0c697fb61bba97932813cb84dfabf924a24af363275b596f1097af",
+    "rating_patch.json": "222ee1f153d8b7d5328bfa39e4a31de633d6bcc47410ddc68ff3b2ac5709c438",
+    "skipped_player_maps.json": "022054cf18f17bdbbf9283146e9476eb45ea2a5c034f1de34c378ebf7f79ccce",
+    "unlinked_target_maps.json": "37b278feab589166583d42e283f3af7bee22a6551a87e9be21d9a9de76754bc4"
+  }
+}

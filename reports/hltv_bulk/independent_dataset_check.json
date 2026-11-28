@@ -1,0 +1,10 @@
+{
+  "rows": 12615,
+  "series": 6150,
+  "changed_rows": 1247,
+  "null_to_value": 6460,
+  "value_to_null": 0,
+  "new_rating_rows": 37207,
+  "accepted_series": 1675,
+  "both_team_rating_complete": 45
+}

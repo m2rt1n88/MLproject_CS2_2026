@@ -1,0 +1,136 @@
+{
+  "run_dir": "temp/browser_headshots/run_v1",
+  "imported_utc": "2026-11-28T09:16:08+00:00",
+  "capture_sources": [
+    {
+      "folder": "temp/hltv_verified",
+      "manifest": "capture_manifest.json",
+      "manifest_sha256": "ad2ab98d485aecae7cffa744bcb73844378e36e77753a12d083cb483a7e5a597",
+      "pages": 6,
+      "method": "user Chrome Browser MCP download after manual Cloudflare verification",
+      "capture_time_evidence": "filesystem LastWriteTimeUtc at download; not historical publication time"
+    },
+    {
+      "folder": "temp/hltv_bulk",
+      "manifest": "derived_manifest_0_hltv_bulk.json",
+      "manifest_sha256": "cc8dd1d21e30ba719f29ad9b531d1ab60a38f12dbb71c11b55e977f33c2cc322",
+      "pages": 21,
+      "method": "pages saved by the user Chrome Browser MCP session into temp/hltv_bulk without a manifest; manifest derived offline by browser_headshots (match URL = page canonical, mapstats URL = link on that match page, repeated on the mapstats page)",
+      "capture_time_evidence": "filesystem LastWriteTimeUtc of the saved file; not historical publication time"
+    }
+  ],
+  "mapstats_pages_without_saved_match_link": {
+    "D:\\Handle\\Study\\UIC_work\\Year_2_semester_0\\Machine Learning (1002)\\Project\\MLproject_CS2_2026\\temp\\hltv_bulk": []
+  },
+  "match_page_khs_scan": {
+    "match_pages_scanned": 1750,
+    "match_pages_with_khs_markup": 0,
+    "examples": []
+  },
+  "series_with_mapstats": 8,
+  "series_linked": 7,
+  "maps_captured": 19,
+  "rejected_series": [
+    {
+      "hltv_match_id": 2388813,
+      "stage": "local_series_link",
+      "reason": "per-map scores disagree with the local series"
+    }
+  ],
+  "accepted_headshot_player_maps": 158,
+  "opencs2": {
+    "opencs2_rows": 106
+  },
+  "opencs2_conflicts": [],
+  "merge": {
+    "new_headshot_only_rows": 120,
+    "rating_rows_combined_with_headshots": 38
+  },
+  "not_merged": [],
+  "skipped_player_maps": [
+    {
+      "hltv_match_id": 2395661,
+      "mapstats_id": 232687,
+      "map_name": "mirage",
+      "hltv_player_id": 24950,
+      "nickname": "AquaRS",
+      "reason": "single_map_identity_evidence"
+    },
+    {
+      "hltv_match_id": 2395661,
+      "mapstats_id": 232691,
+      "map_name": "dust2",
+      "hltv_player_id": 20101,
+      "nickname": "fame",
+      "reason": "no_local_fingerprint"
+    }
+  ],
+  "skipped_by_reason": {
+    "single_map_identity_evidence": 1,
+    "no_local_fingerprint": 1
+  },
+  "per_series": {
+    "2372085": {
+      "local_match_id": 1223280,
+      "maps": 2,
+      "headshot_rows": 20
+    },
+    "2374653": {
+      "local_match_id": 1500931,
+      "maps": 3,
+      "headshot_rows": 30
+    },
+    "2376907": {
+      "local_match_id": 1808260,
+      "maps": 3,
+      "headshot_rows": 30
+    },
+    "2383597": {
+      "local_match_id": 3267467,
+      "maps": 2,
+      "headshot_rows": 20
+    },
+    "2384281": {
+      "local_match_id": 3500687,
+      "maps": 2,
+      "headshot_rows": 20
+    },
+    "2388813": {
+      "local_match_id": null,
+      "maps": 3,
+      "headshot_rows": 0
+    },
+    "2388906": {
+      "local_match_id": 6085809,
+      "maps": 2,
+      "headshot_rows": 20
+    },
+    "2395661": {
+      "local_match_id": 7303252,
+      "maps": 2,
+      "headshot_rows": 18
+    }
+  },
+  "base_counts": {
+    "rating": 215
+  },
+  "headshot_patch_counts": {
+    "headshot_kills": 158
+  },
+  "merged_history_counts": {
+    "rating": 215,
+    "headshot_kills": 158
+  },
+  "merged_history_sources": {
+    "hltv_accepted_map_scoreboard": 177,
+    "hltv_verified_map_multi_source": 38,
+    "hltv_verified_map_headshots": 120
+  },
+  "scope": "K(hs) only from saved mapstats pages; saved match pages carry no K(hs) and add no headshots",
+  "files_sha256": {
+    "capture.json": "f5134d6777a66882d29d91142cdd806aea7f18641d16107fca72bce0f1150dee",
+    "derived_manifest_0_hltv_bulk.json": "cc8dd1d21e30ba719f29ad9b531d1ab60a38f12dbb71c11b55e977f33c2cc322",
+    "headshot_patch.json": "b0f60249c6195724fe0f4edab4bae176a60be4c3fdf2e3fb6d93e2dd4a2101d2",
+    "metric_history.json": "4158d6fefc9f73a55fd0175080926248e1244d25122accbd251ecc6e125a4a48"
+  }
+}

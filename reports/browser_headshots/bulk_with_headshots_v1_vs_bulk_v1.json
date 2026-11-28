@@ -1,0 +1,108 @@
+{
+  "files_sha256_equal": {
+    "headshot_history.json": true,
+    "hltv_history_patch.json": true,
+    "manifest.json": false,
+    "maps.csv": false,
+    "metric_history.json": false,
+    "row_provenance.csv": false
+  },
+  "shape": {
+    "bulk_v1": [
+      12615,
+      158
+    ],
+    "with_headshots": [
+      12615,
+      158
+    ]
+  },
+  "columns_equal": true,
+  "row_keys_equal": null,
+  "changed_columns": 10,
+  "changed_column_families": [
+    "Headshot_%"
+  ],
+  "changed_columns_detail": {
+    "T1_Headshot_%_max": {
+      "changed_rows": 14,
+      "nonnull_bulk_v1": 1010,
+      "nonnull_with_hs": 1024
+    },
+    "T1_Headshot_%_mean": {
+      "changed_rows": 14,
+      "nonnull_bulk_v1": 1010,
+      "nonnull_with_hs": 1024
+    },
+    "T1_Headshot_%_min": {
+      "changed_rows": 14,
+      "nonnull_bulk_v1": 1010,
+      "nonnull_with_hs": 1024
+    },
+    "T1_Headshot_%_std": {
+      "changed_rows": 14,
+      "nonnull_bulk_v1": 1010,
+      "nonnull_with_hs": 1024
+    },
+    "T1_Headshot_%_sum": {
+      "changed_rows": 14,
+      "nonnull_bulk_v1": 1010,
+      "nonnull_with_hs": 1024
+    },
+    "T2_Headshot_%_max": {
+      "changed_rows": 21,
+      "nonnull_bulk_v1": 1011,
+      "nonnull_with_hs": 1032
+    },
+    "T2_Headshot_%_mean": {
+      "changed_rows": 21,
+      "nonnull_bulk_v1": 1011,
+      "nonnull_with_hs": 1032
+    },
+    "T2_Headshot_%_min": {
+      "changed_rows": 21,
+      "nonnull_bulk_v1": 1011,
+      "nonnull_with_hs": 1032
+    },
+    "T2_Headshot_%_std": {
+      "changed_rows": 21,
+      "nonnull_bulk_v1": 1011,
+      "nonnull_with_hs": 1032
+    },
+    "T2_Headshot_%_sum": {
+      "changed_rows": 21,
+      "nonnull_bulk_v1": 1011,
+      "nonnull_with_hs": 1032
+    }
+  },
+  "manifest_keys_changed": [
+    "appended_complete_common_rows",
+    "appended_five_metric_coverage",
+    "appended_non_null_by_feature",
+    "appended_unavailable_columns",
+    "common_candidates",
+    "files_sha256",
+    "metric_history"
+  ],
+  "manifest_version": {
+    "bulk_v1": "known-map-v2-extended-v1-hltv-pilot-headshots-five-metrics",
+    "with_headshots": "known-map-v2-extended-v1-hltv-pilot-headshots-five-metrics"
+  },
+  "manifest_metric_history": {
+    "bulk_v1": {
+      "file": "metric_history.json",
+      "sha256": "32774df74971c4b6ebfebfb882de246510000e8c6092ee3be6d8a1143e504c1a",
+      "valid_map_player_rows": {
+        "rating": 37422
+      }
+    },
+    "with_headshots": {
+      "file": "metric_history.json",
+      "sha256": "3a490885d90a99c314266b7dd3b8ba0b78af16c51d8c21dc28a1ac0c53388967",
+      "valid_map_player_rows": {
+        "rating": 37422,
+        "headshot_kills": 258
+      }
+    }
+  }
+}

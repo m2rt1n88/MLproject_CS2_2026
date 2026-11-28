@@ -1,0 +1,59 @@
+{
+  "generated_utc": "2026-11-28T09:19:14+00:00",
+  "counts": {
+    "pages_total": 1748,
+    "header_bad": 0,
+    "exact_match_link": 1291,
+    "score_candidate_only": 392,
+    "two_map_fingerprint_match_link": 20,
+    "unresolved": 45,
+    "rejects_total": 45,
+    "reject_no_local_candidate": 19,
+    "reject_insufficient_two_map_evidence": 26,
+    "accepted_for_import": 0
+  },
+  "map_score": {
+    "pages_with_candidates": 393,
+    "score_candidate_only": 392,
+    "map_score_ambiguous_candidate": 1,
+    "accepted_for_import": 0,
+    "one_to_many_pages_recorded": 1,
+    "one_to_many_known_total": 4,
+    "one_to_many_note": "exact-match pages are not duplicated in map_score_candidates.csv; known total from match-page audit",
+    "one_to_many_with_unlinked_candidate": 1,
+    "verification": "mapstats_to_match+two_map_fingerprint"
+  },
+  "alias": {
+    "hltv_team_ids": 195,
+    "local_keys": 195,
+    "conflicts": 0,
+    "conflict_detail": {}
+  },
+  "unlinked": {
+    "series": 3941,
+    "map_rows": 7651,
+    "both_teams_anchor": 408,
+    "one_team_anchor": 2626,
+    "no_anchor": 907,
+    "confirmed_recovered": 0
+  },
+  "files": {
+    "hltv_page.csv": "temp/hltv_id_index/hltv_page.csv",
+    "hltv_page_maps.csv": "temp/hltv_id_index/hltv_page_maps.csv",
+    "hltv_team_alias.csv": "temp/hltv_id_index/hltv_team_alias.csv",
+    "hltv_fingerprint_matches.csv": "temp/hltv_id_index/hltv_fingerprint_matches.csv",
+    "map_score_candidates.csv": "temp/hltv_id_index/map_score_candidates.csv",
+    "hltv_rejects.csv": "temp/hltv_id_index/hltv_rejects.csv",
+    "unlinked_series.csv": "temp/hltv_id_index/unlinked_series.csv"
+  },
+  "command": ".\\.venv\\m3\\Scripts\\python.exe -B temp\\hltv_id_index\\build_index.py",
+  "normalized_utc": "2026-11-28T09:29:22+00:00",
+  "index_scope": "Static match/team link index only. No row is import acceptance. Score-candidate rows must be verified via mapstats->match page and two-map fingerprints.",
+  "snapshot_boundary": {
+    "bulk_match_pages": 1748,
+    "bulk_mapstats_pages": 15,
+    "verified_mapstats_pages": 4,
+    "note": "counts at index build; not current live counts"
+  },
+  "snapshot_note": "copied from temp/hltv_id_index; candidates only, none accepted for import"
+}

@@ -2,6 +2,8 @@
 import argparse
 from collections import Counter
 from contextlib import closing
+from datetime import date, datetime
+import hashlib
 import json
 import math
 from pathlib import Path
@@ -59,6 +61,86 @@ def number(x):
     return type(x) in (float, int) and math.isfinite(x) and x >= 0
 
 
+# Strict, explicitly named sources added for browser-saved HLTV mapstats K(hs). Older sources keep their rules.
+RATING_SOURCE = 'hltv_accepted_map_scoreboard'
+HS_SOURCE = 'hltv_verified_map_headshots'
+HS_SCHEMA = 'hltv-mapstats-totalstats-traditional-khs-v1'
+MULTI_SOURCE = 'hltv_verified_map_multi_source'
+CORE = KEY + ('day', 'side', 'kills', 'deaths', 'adr', 'kast', 'rounds')
+HEX = re.compile(r'[a-f0-9]{64}')
+MAPSTATS_URL = re.compile(r'https://www\.hltv\.org/stats/matches/mapstatsid/([1-9]\d*)/[^/?#]+')
+MATCH_URL = re.compile(r'https://www\.hltv\.org/matches/([1-9]\d*)/[^/?#]+')
+
+
+def _pos_int(x):
+    return type(x) is int and x > 0
+
+
+def _day(x):
+    try:
+        return type(x) is str and date.fromisoformat(x).isoformat() == x
+    except ValueError:
+        return False
+
+
+def _utc(x):
+    try:
+        t = datetime.fromisoformat(str(x).replace('Z', '+00:00'))
+    except ValueError:
+        return None
+    return t if t.utcoffset() is not None and t.utcoffset().total_seconds() == 0 else None
+
+
+def provenance_digest(provenance):
+    blob = json.dumps(provenance, sort_keys=True, separators=(',', ':'), ensure_ascii=False, allow_nan=False)
+    return hashlib.sha256(blob.encode('utf-8')).hexdigest()
+
+
+def headshot_row_ok(r):
+    """One mapstats K(hs) value: two distinct proving mapstats IDs, no later than the day, page URL/SHA/time."""
+    m = r.get('metrics')
+    hs = m.get('headshot_kills') if isinstance(m, dict) else None
+    ids = r.get('identity_proven_by')
+    page = MAPSTATS_URL.fullmatch(str(r.get('source_url', '')))
+    match = MATCH_URL.fullmatch(str(r.get('match_source_url', '')))
+    captured, imported = _utc(r.get('captured_utc')), _utc(r.get('imported_utc'))
+    return bool(
+        r.get('metric_source') == HS_SOURCE and r.get('metric_schema') == HS_SCHEMA
+        and set(m) == {'headshot_kills'} and type(hs) is int and type(r['kills']) in (int, float)
+        and 0 <= hs <= r['kills'] and 'rating_version' not in r
+        and type(ids) is list and len(ids) == 2 and all(_pos_int(i) for i in ids) and ids[0] != ids[1]
+        and _day(r.get('identity_as_of')) and _day(r.get('day')) and r['identity_as_of'] <= r['day']
+        and _pos_int(r.get('hltv_player_id')) and _pos_int(r.get('mapstats_id')) and _pos_int(r.get('hltv_id'))
+        and page and int(page[1]) == r['mapstats_id'] and r.get('source') == r['source_url']
+        and match and int(match[1]) == r['hltv_id']
+        and HEX.fullmatch(str(r.get('sha256', ''))) and HEX.fullmatch(str(r.get('match_sha256', '')))
+        and r['sha256'] != r['match_sha256'] and captured and imported and captured <= imported)
+
+
+def rating_component_ok(r):
+    """Exactly the existing hltv_accepted_map_scoreboard rule, applied to a provenance component."""
+    m = r.get('metrics')
+    ids = r.get('identity_proven_by')
+    return bool(
+        r.get('metric_source') == RATING_SOURCE and isinstance(m, dict) and set(m) == {'rating'}
+        and number(m['rating']) and r.get('rating_version') == '3.0' and r.get('source')
+        and HEX.fullmatch(str(r.get('sha256', ''))) and type(ids) is list and len(set(ids)) == 2
+        and _day(r.get('identity_as_of')) and r['identity_as_of'] <= r['day'])
+
+
+def multi_row_ok(r):
+    """Rating 3.0 + K(hs) on one key; each value keeps its own full, independently validated source row."""
+    prov, m = r.get('metric_provenance'), r['metrics']
+    checks = {'rating': rating_component_ok, 'headshot_kills': headshot_row_ok}
+    if (not isinstance(prov, dict) or set(m) != set(checks) or set(prov) != set(checks)
+            or r.get('rating_version') != '3.0' or r.get('source') != 'metric_provenance'
+            or r.get('sha256') != provenance_digest(prov) or not _pos_int(r.get('hltv_player_id'))):
+        return False
+    return all(isinstance(c, dict) and c.get('metrics') == {n: m[n]} and checks[n](c)
+               and all(c.get(k) == r[k] for k in CORE) and c.get('hltv_player_id') == r['hltv_player_id']
+               for n, c in prov.items())
+
+
 def read_metrics(path, players, hashes, extra=None):
     """Load previously validated per-map numerators, rejecting key/box/version mismatches."""
     blob = json.loads(Path(path).read_text(encoding='utf-8-sig'))
@@ -81,7 +163,9 @@ def read_metrics(path, players, hashes, extra=None):
                 or metrics.get('headshot_kills', 0) > r['kills']
                 or (r['metric_source'] == 'hltv_accepted_map_scoreboard'
                     and (set(metrics) != {'rating'} or r['identity_as_of'] > r['day']
-                         or len(set(r['identity_proven_by'])) != 2))):
+                         or len(set(r['identity_proven_by'])) != 2))
+                or (r['metric_source'] == HS_SOURCE and not headshot_row_ok(r))
+                or (r['metric_source'] == MULTI_SOURCE and not multi_row_ok(r))):
             raise ValueError(f'Unsafe, duplicate or incompatible metric history for {idx}')
         result[idx] = metrics
         counts.update(metrics.keys())

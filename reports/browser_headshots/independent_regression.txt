@@ -1,0 +1,38 @@
+test_urls_from_page_links_and_hashes_verify (known_map_v2_extended.test_browser_headshots.DeriveManifestTests.test_urls_from_page_links_and_hashes_verify) ... ok
+test_wrong_canonical_or_unlinked_mapstats_page_rejected (known_map_v2_extended.test_browser_headshots.DeriveManifestTests.test_wrong_canonical_or_unlinked_mapstats_page_rejected) ... ok
+test_core_disagreement_not_combined (known_map_v2_extended.test_browser_headshots.MergeTests.test_core_disagreement_not_combined) ... ok
+test_new_combined_duplicate_conflict (known_map_v2_extended.test_browser_headshots.MergeTests.test_new_combined_duplicate_conflict) ... ok
+test_end_to_end (known_map_v2_extended.test_browser_headshots.SavedTests.test_end_to_end) ... ok
+test_saved_match_pages_carry_no_khs (known_map_v2_extended.test_browser_headshots.SavedTests.test_saved_match_pages_carry_no_khs) ... ok
+test_headshot_row_rejections (known_map_v2_extended.test_browser_headshots.ValidatorTests.test_headshot_row_rejections) ... ok
+test_multi_row_requires_both_full_components (known_map_v2_extended.test_browser_headshots.ValidatorTests.test_multi_row_requires_both_full_components) ... ok
+test_valid_headshot_row (known_map_v2_extended.test_browser_headshots.ValidatorTests.test_valid_headshot_row) ... ok
+test_ambiguous_or_score_mismatch_rejected (known_map_v2_extended.test_offline_mapstats.LinkTests.test_ambiguous_or_score_mismatch_rejected) ... ok
+test_duplicate_fingerprint_and_prior_conflict (known_map_v2_extended.test_offline_mapstats.LinkTests.test_duplicate_fingerprint_and_prior_conflict) ... ok
+test_merge_rejects_duplicate_base_keys (known_map_v2_extended.test_offline_mapstats.LinkTests.test_merge_rejects_duplicate_base_keys) ... ok
+test_metric_row_metadata_and_merge (known_map_v2_extended.test_offline_mapstats.LinkTests.test_metric_row_metadata_and_merge) ... ok
+test_single_map_player_skipped (known_map_v2_extended.test_offline_mapstats.LinkTests.test_single_map_player_skipped) ... ok
+test_two_map_identity_and_side_reversal (known_map_v2_extended.test_offline_mapstats.LinkTests.test_two_map_identity_and_side_reversal) ... ok
+test_unique_series_with_reversed_sides (known_map_v2_extended.test_offline_mapstats.LinkTests.test_unique_series_with_reversed_sides) ... ok
+test_unexpected_file_name_is_invalid_page (known_map_v2_extended.test_offline_mapstats.ManifestTests.test_unexpected_file_name_is_invalid_page) ... ok
+test_challenge_page_rejected (known_map_v2_extended.test_offline_mapstats.ParseTests.test_challenge_page_rejected) ... ok
+test_only_total_traditional_columns (known_map_v2_extended.test_offline_mapstats.ParseTests.test_only_total_traditional_columns) ... ok
+test_real_page_ignores_eco_and_split (known_map_v2_extended.test_offline_mapstats.ParseTests.test_real_page_ignores_eco_and_split) ... ok
+test_responsive_duplicate_kast_must_agree (known_map_v2_extended.test_offline_mapstats.ParseTests.test_responsive_duplicate_kast_must_agree) ... ok
+test_wrong_mapstats_id_rejected (known_map_v2_extended.test_offline_mapstats.ParseTests.test_wrong_mapstats_id_rejected) ... ok
+test_end_to_end_import (known_map_v2_extended.test_offline_mapstats.SavedPilotTests.test_end_to_end_import) ... ok
+test_tampered_capture_rejected (known_map_v2_extended.test_offline_mapstats.SavedPilotTests.test_tampered_capture_rejected) ... ok
+test_frozen_kaggle_prefix_and_extended_labels (known_map_v2_extended.test_build.PublishedDatasetTests.test_frozen_kaggle_prefix_and_extended_labels) ... ok
+test_published_rating_snapshot_keeps_original_ids_labels_and_rating2 (known_map_v2_extended.test_build.PublishedDatasetTests.test_published_rating_snapshot_keeps_original_ids_labels_and_rating2) ... ok
+test_cutoff_and_aggregation (known_map_v2_extended.test_build.ReconstructionTests.test_cutoff_and_aggregation) ... ok
+test_headshots_use_all_earlier_local_events_or_stay_missing (known_map_v2_extended.test_build.ReconstructionTests.test_headshots_use_all_earlier_local_events_or_stay_missing) ... ok
+test_no_partial_five_or_missing_metric_aggregate (known_map_v2_extended.test_build.ReconstructionTests.test_no_partial_five_or_missing_metric_aggregate) ... ok
+test_patch_history_only_map_leaves_targets_team_history_and_same_day_unchanged (known_map_v2_extended.test_build.ReconstructionTests.test_patch_history_only_map_leaves_targets_team_history_and_same_day_unchanged) ... ok
+test_same_day_lineups_scores_and_stats_do_not_enter_features (known_map_v2_extended.test_build.ReconstructionTests.test_same_day_lineups_scores_and_stats_do_not_enter_features) ... ok
+test_nickname_removes_only_profile_suffix (known_map_v2_extended.test_build.ReplayTests.test_nickname_removes_only_profile_suffix) ... ok
+test_replay_aggregate_must_match_kill_log (known_map_v2_extended.test_build.ReplayTests.test_replay_aggregate_must_match_kill_log) ... ok
+
+----------------------------------------------------------------------
+Ran 33 tests in 27.750s
+
+OK

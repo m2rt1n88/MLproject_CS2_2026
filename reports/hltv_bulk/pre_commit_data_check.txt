@@ -1,0 +1,53 @@
+{
+  "rows": 12615,
+  "series": 6150,
+  "valid_historical_metrics": {
+    "rating": 37422,
+    "headshot_kills": 258
+  },
+  "changed_target_rows": 1252,
+  "null_to_value": 6635,
+  "value_to_null": 0,
+  "original_prefix_unchanged": true,
+  "changed_columns": [
+    "T1_Headshot_%_max",
+    "T1_Headshot_%_mean",
+    "T1_Headshot_%_min",
+    "T1_Headshot_%_std",
+    "T1_Headshot_%_sum",
+    "T1_Rating_3.0_max",
+    "T1_Rating_3.0_mean",
+    "T1_Rating_3.0_min",
+    "T1_Rating_3.0_std",
+    "T1_Rating_3.0_sum",
+    "T2_Headshot_%_max",
+    "T2_Headshot_%_mean",
+    "T2_Headshot_%_min",
+    "T2_Headshot_%_std",
+    "T2_Headshot_%_sum",
+    "T2_Rating_3.0_max",
+    "T2_Rating_3.0_mean",
+    "T2_Rating_3.0_min",
+    "T2_Rating_3.0_std",
+    "T2_Rating_3.0_sum"
+  ],
+  "rating_coverage": {
+    "historic_player_maps": 37422,
+    "with_any_observed_history_maps": 8402,
+    "with_five_players_at_least_one_observation_maps": 7287,
+    "complete_at_least_one_team_maps": 1253,
+    "complete_both_teams_maps": 45,
+    "first_complete_day": "2024-01-23",
+    "last_complete_day": "2026-10-28"
+  },
+  "headshot_coverage": {
+    "historic_player_maps": 364,
+    "with_any_observed_history_maps": 338,
+    "with_five_players_at_least_one_observation_maps": 221,
+    "complete_at_least_one_team_maps": 36,
+    "complete_both_teams_maps": 0,
+    "first_complete_day": "2024-05-22",
+    "last_complete_day": "2026-08-09"
+  },
+  "verified_files": 5
+}
