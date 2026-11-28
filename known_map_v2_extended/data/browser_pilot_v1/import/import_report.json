@@ -1,0 +1,60 @@
+{
+  "imported_utc": "2026-11-28T07:26:22+00:00",
+  "capture": {
+    "method": "user Chrome Browser MCP download after manual Cloudflare verification",
+    "capture_time_evidence": "filesystem LastWriteTimeUtc at download; not historical publication time"
+  },
+  "series_captured": 2,
+  "series_linked": 2,
+  "maps_captured": 4,
+  "rejected_series": [],
+  "accepted_player_maps": 38,
+  "new_rating_rows": 20,
+  "duplicate_existing_rows": 18,
+  "skipped_player_maps": [
+    {
+      "hltv_match_id": 2395661,
+      "mapstats_id": 232687,
+      "map_name": "mirage",
+      "hltv_player_id": 24950,
+      "nickname": "AquaRS",
+      "reason": "single_map_identity_evidence"
+    },
+    {
+      "hltv_match_id": 2395661,
+      "mapstats_id": 232691,
+      "map_name": "dust2",
+      "hltv_player_id": 20101,
+      "nickname": "fame",
+      "reason": "no_local_fingerprint"
+    }
+  ],
+  "skipped_by_reason": {
+    "single_map_identity_evidence": 1,
+    "no_local_fingerprint": 1
+  },
+  "per_series": {
+    "2384281": {
+      "local_match_id": 3500687,
+      "accepted": 20,
+      "new": 20
+    },
+    "2395661": {
+      "local_match_id": 7303252,
+      "accepted": 18,
+      "new": 0
+    }
+  },
+  "headshots": "captured in capture.json only; not exported to metric history in this pilot",
+  "rating_patch_counts": {
+    "rating": 20
+  },
+  "merged_history_counts": {
+    "rating": 215
+  },
+  "files_sha256": {
+    "capture.json": "f4012138c7c0083c003ba4f5aef5ac08e78bdd7100b88c36d880822e218b2b12",
+    "metric_history.json": "dc1a4373447cb77ebfb9e2c9220b0ac3e0c22d9ecc5c66e8afd9d0691d31dd62",
+    "rating_patch.json": "d91fad100e6de1e86418423c1a1ec2693f0b2bbafd8d19b58a8435286098739d"
+  }
+}

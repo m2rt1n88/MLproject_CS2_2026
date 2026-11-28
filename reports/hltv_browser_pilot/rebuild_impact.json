@@ -1,0 +1,98 @@
+{
+  "rows_total": 12615,
+  "rows_with_any_change": 5,
+  "cells_changed": 25,
+  "cells_null_to_value": 25,
+  "cells_value_to_null": 0,
+  "changed_columns": {
+    "T1_Rating_3.0_max": 3,
+    "T1_Rating_3.0_mean": 3,
+    "T1_Rating_3.0_min": 3,
+    "T1_Rating_3.0_std": 3,
+    "T1_Rating_3.0_sum": 3,
+    "T2_Rating_3.0_max": 2,
+    "T2_Rating_3.0_mean": 2,
+    "T2_Rating_3.0_min": 2,
+    "T2_Rating_3.0_std": 2,
+    "T2_Rating_3.0_sum": 2
+  },
+  "non_rating_columns_changed": [],
+  "rating3_non_null_old": 5,
+  "rating3_non_null_new": 30,
+  "rating3_mean_rows_both_teams_old": 0,
+  "rating3_mean_rows_both_teams_new": 0,
+  "rating3_mean_rows_any_team_old": 1,
+  "rating3_mean_rows_any_team_new": 6,
+  "own_series_rows_changed": 0,
+  "changed_rows": [
+    {
+      "day": "2025-10-04",
+      "matchID": -4669941,
+      "team1": "team vitality",
+      "team2": "gentle mates",
+      "map": "train",
+      "cells": 5
+    },
+    {
+      "day": "2025-08-13",
+      "matchID": -3598082,
+      "team1": "gun5",
+      "team2": "sashi esport",
+      "map": "ancient",
+      "cells": 5
+    },
+    {
+      "day": "2025-08-13",
+      "matchID": -3598082,
+      "team1": "gun5",
+      "team2": "sashi esport",
+      "map": "train",
+      "cells": 5
+    },
+    {
+      "day": "2025-08-14",
+      "matchID": -3598077,
+      "team1": "iberian soul",
+      "team2": "parivision",
+      "map": "ancient",
+      "cells": 5
+    },
+    {
+      "day": "2025-08-14",
+      "matchID": -3581491,
+      "team1": "nemiga gaming",
+      "team2": "iberian soul",
+      "map": "ancient",
+      "cells": 5
+    }
+  ],
+  "earliest_changed_day": "2025-08-13",
+  "manifest_rating3_coverage": {
+    "old": {
+      "historic_player_maps": 195,
+      "with_any_observed_history_maps": 70,
+      "with_five_players_at_least_one_observation_maps": 45,
+      "complete_at_least_one_team_maps": 1,
+      "complete_both_teams_maps": 0,
+      "first_complete_day": "2024-12-08",
+      "last_complete_day": "2024-12-08"
+    },
+    "new": {
+      "historic_player_maps": 215,
+      "with_any_observed_history_maps": 90,
+      "with_five_players_at_least_one_observation_maps": 64,
+      "complete_at_least_one_team_maps": 6,
+      "complete_both_teams_maps": 0,
+      "first_complete_day": "2024-12-08",
+      "last_complete_day": "2025-10-04"
+    }
+  },
+  "manifest_metric_rows": {
+    "old": {
+      "rating": 195
+    },
+    "new": {
+      "rating": 215
+    }
+  }
+}

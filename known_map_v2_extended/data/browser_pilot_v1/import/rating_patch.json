@@ -1,0 +1,730 @@
+{
+  "version": "clean-v3-verified-map-metrics-v1",
+  "source_sha256": {
+    "matches.csv": "15ebc6fe01bf149b4eab59428ea399abe05652f79eb19c38e5ef6bff49b2d593",
+    "maps.csv": "feea99b2b20f156fc699fb7de6b618ceacfeefd85301c5151960622785a3798a",
+    "player_stats.csv": "53e99ab7044f3c9334227b62c0e3f8c6751cbc742b535d99a5622e1f807a8e4a"
+  },
+  "rows": [
+    {
+      "match_id": 3500687,
+      "map_name": "ancient",
+      "day": "2025-08-12",
+      "side": 1,
+      "player_id": 772,
+      "kills": 23,
+      "deaths": 14,
+      "adr": 100.1,
+      "kast": 69.6,
+      "scores": [
+        13,
+        10
+      ],
+      "rounds": 23,
+      "hltv_id": 2384281,
+      "mapstats_id": 204795,
+      "hltv_player_id": 9254,
+      "identity_proven_by": [
+        204795,
+        204811
+      ],
+      "identity_as_of": "2025-08-12",
+      "sha256": "4eda3f3db81b097bfd2236141d9109564cea3150b70fd3c9771cbd168017ef6e",
+      "source": "https://www.hltv.org/stats/matches/mapstatsid/204795/iberian-soul-vs-gun5",
+      "source_url": "https://www.hltv.org/stats/matches/mapstatsid/204795/iberian-soul-vs-gun5",
+      "match_source_url": "https://www.hltv.org/matches/2384281/iberian-soul-vs-gun5-esl-challenger-league-season-50-europe-cup-1",
+      "match_sha256": "35e8d0906f7fe1f2cde28b94dbd4e89c6001b88dace3305cffa20e9f6c9bd278",
+      "captured_utc": "2026-11-28T06:53:41.095273+00:00",
+      "imported_utc": "2026-11-28T07:26:22+00:00",
+      "metrics": {
+        "rating": 1.49
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 3500687,
+      "map_name": "ancient",
+      "day": "2025-08-12",
+      "side": 1,
+      "player_id": 4530,
+      "kills": 19,
+      "deaths": 14,
+      "adr": 80.1,
+      "kast": 78.3,
+      "scores": [
+        13,
+        10
+      ],
+      "rounds": 23,
+      "hltv_id": 2384281,
+      "mapstats_id": 204795,
+      "hltv_player_id": 21239,
+      "identity_proven_by": [
+        204795,
+        204811
+      ],
+      "identity_as_of": "2025-08-12",
+      "sha256": "4eda3f3db81b097bfd2236141d9109564cea3150b70fd3c9771cbd168017ef6e",
+      "source": "https://www.hltv.org/stats/matches/mapstatsid/204795/iberian-soul-vs-gun5",
+      "source_url": "https://www.hltv.org/stats/matches/mapstatsid/204795/iberian-soul-vs-gun5",
+      "match_source_url": "https://www.hltv.org/matches/2384281/iberian-soul-vs-gun5-esl-challenger-league-season-50-europe-cup-1",
+      "match_sha256": "35e8d0906f7fe1f2cde28b94dbd4e89c6001b88dace3305cffa20e9f6c9bd278",
+      "captured_utc": "2026-11-28T06:53:41.095273+00:00",
+      "imported_utc": "2026-11-28T07:26:22+00:00",
+      "metrics": {
+        "rating": 1.44
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 3500687,
+      "map_name": "ancient",
+      "day": "2025-08-12",
+      "side": 1,
+      "player_id": 1662,
+      "kills": 15,
+      "deaths": 15,
+      "adr": 82.8,
+      "kast": 73.9,
+      "scores": [
+        13,
+        10
+      ],
+      "rounds": 23,
+      "hltv_id": 2384281,
+      "mapstats_id": 204795,
+      "hltv_player_id": 18749,
+      "identity_proven_by": [
+        204795,
+        204811
+      ],
+      "identity_as_of": "2025-08-12",
+      "sha256": "4eda3f3db81b097bfd2236141d9109564cea3150b70fd3c9771cbd168017ef6e",
+      "source": "https://www.hltv.org/stats/matches/mapstatsid/204795/iberian-soul-vs-gun5",
+      "source_url": "https://www.hltv.org/stats/matches/mapstatsid/204795/iberian-soul-vs-gun5",
+      "match_source_url": "https://www.hltv.org/matches/2384281/iberian-soul-vs-gun5-esl-challenger-league-season-50-europe-cup-1",
+      "match_sha256": "35e8d0906f7fe1f2cde28b94dbd4e89c6001b88dace3305cffa20e9f6c9bd278",
+      "captured_utc": "2026-11-28T06:53:41.095273+00:00",
+      "imported_utc": "2026-11-28T07:26:22+00:00",
+      "metrics": {
+        "rating": 1.14
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 3500687,
+      "map_name": "ancient",
+      "day": "2025-08-12",
+      "side": 1,
+      "player_id": 1394,
+      "kills": 16,
+      "deaths": 16,
+      "adr": 79.3,
+      "kast": 82.6,
+      "scores": [
+        13,
+        10
+      ],
+      "rounds": 23,
+      "hltv_id": 2384281,
+      "mapstats_id": 204795,
+      "hltv_player_id": 19509,
+      "identity_proven_by": [
+        204795,
+        204811
+      ],
+      "identity_as_of": "2025-08-12",
+      "sha256": "4eda3f3db81b097bfd2236141d9109564cea3150b70fd3c9771cbd168017ef6e",
+      "source": "https://www.hltv.org/stats/matches/mapstatsid/204795/iberian-soul-vs-gun5",
+      "source_url": "https://www.hltv.org/stats/matches/mapstatsid/204795/iberian-soul-vs-gun5",
+      "match_source_url": "https://www.hltv.org/matches/2384281/iberian-soul-vs-gun5-esl-challenger-league-season-50-europe-cup-1",
+      "match_sha256": "35e8d0906f7fe1f2cde28b94dbd4e89c6001b88dace3305cffa20e9f6c9bd278",
+      "captured_utc": "2026-11-28T06:53:41.095273+00:00",
+      "imported_utc": "2026-11-28T07:26:22+00:00",
+      "metrics": {
+        "rating": 1.12
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 3500687,
+      "map_name": "ancient",
+      "day": "2025-08-12",
+      "side": 1,
+      "player_id": 773,
+      "kills": 14,
+      "deaths": 15,
+      "adr": 61.7,
+      "kast": 69.6,
+      "scores": [
+        13,
+        10
+      ],
+      "rounds": 23,
+      "hltv_id": 2384281,
+      "mapstats_id": 204795,
+      "hltv_player_id": 8371,
+      "identity_proven_by": [
+        204795,
+        204811
+      ],
+      "identity_as_of": "2025-08-12",
+      "sha256": "4eda3f3db81b097bfd2236141d9109564cea3150b70fd3c9771cbd168017ef6e",
+      "source": "https://www.hltv.org/stats/matches/mapstatsid/204795/iberian-soul-vs-gun5",
+      "source_url": "https://www.hltv.org/stats/matches/mapstatsid/204795/iberian-soul-vs-gun5",
+      "match_source_url": "https://www.hltv.org/matches/2384281/iberian-soul-vs-gun5-esl-challenger-league-season-50-europe-cup-1",
+      "match_sha256": "35e8d0906f7fe1f2cde28b94dbd4e89c6001b88dace3305cffa20e9f6c9bd278",
+      "captured_utc": "2026-11-28T06:53:41.095273+00:00",
+      "imported_utc": "2026-11-28T07:26:22+00:00",
+      "metrics": {
+        "rating": 0.95
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 3500687,
+      "map_name": "ancient",
+      "day": "2025-08-12",
+      "side": 2,
+      "player_id": 1867,
+      "kills": 15,
+      "deaths": 19,
+      "adr": 70.1,
+      "kast": 56.5,
+      "scores": [
+        13,
+        10
+      ],
+      "rounds": 23,
+      "hltv_id": 2384281,
+      "mapstats_id": 204795,
+      "hltv_player_id": 18670,
+      "identity_proven_by": [
+        204795,
+        204811
+      ],
+      "identity_as_of": "2025-08-12",
+      "sha256": "4eda3f3db81b097bfd2236141d9109564cea3150b70fd3c9771cbd168017ef6e",
+      "source": "https://www.hltv.org/stats/matches/mapstatsid/204795/iberian-soul-vs-gun5",
+      "source_url": "https://www.hltv.org/stats/matches/mapstatsid/204795/iberian-soul-vs-gun5",
+      "match_source_url": "https://www.hltv.org/matches/2384281/iberian-soul-vs-gun5-esl-challenger-league-season-50-europe-cup-1",
+      "match_sha256": "35e8d0906f7fe1f2cde28b94dbd4e89c6001b88dace3305cffa20e9f6c9bd278",
+      "captured_utc": "2026-11-28T06:53:41.095273+00:00",
+      "imported_utc": "2026-11-28T07:26:22+00:00",
+      "metrics": {
+        "rating": 1.03
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 3500687,
+      "map_name": "ancient",
+      "day": "2025-08-12",
+      "side": 2,
+      "player_id": 1008,
+      "kills": 17,
+      "deaths": 19,
+      "adr": 77.7,
+      "kast": 73.9,
+      "scores": [
+        13,
+        10
+      ],
+      "rounds": 23,
+      "hltv_id": 2384281,
+      "mapstats_id": 204795,
+      "hltv_player_id": 13240,
+      "identity_proven_by": [
+        204795,
+        204811
+      ],
+      "identity_as_of": "2025-08-12",
+      "sha256": "4eda3f3db81b097bfd2236141d9109564cea3150b70fd3c9771cbd168017ef6e",
+      "source": "https://www.hltv.org/stats/matches/mapstatsid/204795/iberian-soul-vs-gun5",
+      "source_url": "https://www.hltv.org/stats/matches/mapstatsid/204795/iberian-soul-vs-gun5",
+      "match_source_url": "https://www.hltv.org/matches/2384281/iberian-soul-vs-gun5-esl-challenger-league-season-50-europe-cup-1",
+      "match_sha256": "35e8d0906f7fe1f2cde28b94dbd4e89c6001b88dace3305cffa20e9f6c9bd278",
+      "captured_utc": "2026-11-28T06:53:41.095273+00:00",
+      "imported_utc": "2026-11-28T07:26:22+00:00",
+      "metrics": {
+        "rating": 0.98
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 3500687,
+      "map_name": "ancient",
+      "day": "2025-08-12",
+      "side": 2,
+      "player_id": 7527,
+      "kills": 12,
+      "deaths": 15,
+      "adr": 72.7,
+      "kast": 78.3,
+      "scores": [
+        13,
+        10
+      ],
+      "rounds": 23,
+      "hltv_id": 2384281,
+      "mapstats_id": 204795,
+      "hltv_player_id": 22930,
+      "identity_proven_by": [
+        204795,
+        204811
+      ],
+      "identity_as_of": "2025-08-12",
+      "sha256": "4eda3f3db81b097bfd2236141d9109564cea3150b70fd3c9771cbd168017ef6e",
+      "source": "https://www.hltv.org/stats/matches/mapstatsid/204795/iberian-soul-vs-gun5",
+      "source_url": "https://www.hltv.org/stats/matches/mapstatsid/204795/iberian-soul-vs-gun5",
+      "match_source_url": "https://www.hltv.org/matches/2384281/iberian-soul-vs-gun5-esl-challenger-league-season-50-europe-cup-1",
+      "match_sha256": "35e8d0906f7fe1f2cde28b94dbd4e89c6001b88dace3305cffa20e9f6c9bd278",
+      "captured_utc": "2026-11-28T06:53:41.095273+00:00",
+      "imported_utc": "2026-11-28T07:26:22+00:00",
+      "metrics": {
+        "rating": 0.91
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 3500687,
+      "map_name": "ancient",
+      "day": "2025-08-12",
+      "side": 2,
+      "player_id": 5310,
+      "kills": 17,
+      "deaths": 18,
+      "adr": 77.4,
+      "kast": 60.9,
+      "scores": [
+        13,
+        10
+      ],
+      "rounds": 23,
+      "hltv_id": 2384281,
+      "mapstats_id": 204795,
+      "hltv_player_id": 23047,
+      "identity_proven_by": [
+        204795,
+        204811
+      ],
+      "identity_as_of": "2025-08-12",
+      "sha256": "4eda3f3db81b097bfd2236141d9109564cea3150b70fd3c9771cbd168017ef6e",
+      "source": "https://www.hltv.org/stats/matches/mapstatsid/204795/iberian-soul-vs-gun5",
+      "source_url": "https://www.hltv.org/stats/matches/mapstatsid/204795/iberian-soul-vs-gun5",
+      "match_source_url": "https://www.hltv.org/matches/2384281/iberian-soul-vs-gun5-esl-challenger-league-season-50-europe-cup-1",
+      "match_sha256": "35e8d0906f7fe1f2cde28b94dbd4e89c6001b88dace3305cffa20e9f6c9bd278",
+      "captured_utc": "2026-11-28T06:53:41.095273+00:00",
+      "imported_utc": "2026-11-28T07:26:22+00:00",
+      "metrics": {
+        "rating": 0.86
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 3500687,
+      "map_name": "ancient",
+      "day": "2025-08-12",
+      "side": 2,
+      "player_id": 8191,
+      "kills": 13,
+      "deaths": 16,
+      "adr": 50.3,
+      "kast": 69.6,
+      "scores": [
+        13,
+        10
+      ],
+      "rounds": 23,
+      "hltv_id": 2384281,
+      "mapstats_id": 204795,
+      "hltv_player_id": 23783,
+      "identity_proven_by": [
+        204795,
+        204811
+      ],
+      "identity_as_of": "2025-08-12",
+      "sha256": "4eda3f3db81b097bfd2236141d9109564cea3150b70fd3c9771cbd168017ef6e",
+      "source": "https://www.hltv.org/stats/matches/mapstatsid/204795/iberian-soul-vs-gun5",
+      "source_url": "https://www.hltv.org/stats/matches/mapstatsid/204795/iberian-soul-vs-gun5",
+      "match_source_url": "https://www.hltv.org/matches/2384281/iberian-soul-vs-gun5-esl-challenger-league-season-50-europe-cup-1",
+      "match_sha256": "35e8d0906f7fe1f2cde28b94dbd4e89c6001b88dace3305cffa20e9f6c9bd278",
+      "captured_utc": "2026-11-28T06:53:41.095273+00:00",
+      "imported_utc": "2026-11-28T07:26:22+00:00",
+      "metrics": {
+        "rating": 0.78
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 3500687,
+      "map_name": "train",
+      "day": "2025-08-12",
+      "side": 1,
+      "player_id": 1662,
+      "kills": 19,
+      "deaths": 15,
+      "adr": 76.0,
+      "kast": 75.0,
+      "scores": [
+        13,
+        11
+      ],
+      "rounds": 24,
+      "hltv_id": 2384281,
+      "mapstats_id": 204811,
+      "hltv_player_id": 18749,
+      "identity_proven_by": [
+        204795,
+        204811
+      ],
+      "identity_as_of": "2025-08-12",
+      "sha256": "21467c7c8e5c286b6fed5ce0afa690ac2cf976e26ea8b5715c75c5008e25ac48",
+      "source": "https://www.hltv.org/stats/matches/mapstatsid/204811/gun5-vs-iberian-soul",
+      "source_url": "https://www.hltv.org/stats/matches/mapstatsid/204811/gun5-vs-iberian-soul",
+      "match_source_url": "https://www.hltv.org/matches/2384281/iberian-soul-vs-gun5-esl-challenger-league-season-50-europe-cup-1",
+      "match_sha256": "35e8d0906f7fe1f2cde28b94dbd4e89c6001b88dace3305cffa20e9f6c9bd278",
+      "captured_utc": "2026-11-28T06:53:41.424885+00:00",
+      "imported_utc": "2026-11-28T07:26:22+00:00",
+      "metrics": {
+        "rating": 1.35
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 3500687,
+      "map_name": "train",
+      "day": "2025-08-12",
+      "side": 1,
+      "player_id": 1394,
+      "kills": 15,
+      "deaths": 16,
+      "adr": 76.2,
+      "kast": 75.0,
+      "scores": [
+        13,
+        11
+      ],
+      "rounds": 24,
+      "hltv_id": 2384281,
+      "mapstats_id": 204811,
+      "hltv_player_id": 19509,
+      "identity_proven_by": [
+        204795,
+        204811
+      ],
+      "identity_as_of": "2025-08-12",
+      "sha256": "21467c7c8e5c286b6fed5ce0afa690ac2cf976e26ea8b5715c75c5008e25ac48",
+      "source": "https://www.hltv.org/stats/matches/mapstatsid/204811/gun5-vs-iberian-soul",
+      "source_url": "https://www.hltv.org/stats/matches/mapstatsid/204811/gun5-vs-iberian-soul",
+      "match_source_url": "https://www.hltv.org/matches/2384281/iberian-soul-vs-gun5-esl-challenger-league-season-50-europe-cup-1",
+      "match_sha256": "35e8d0906f7fe1f2cde28b94dbd4e89c6001b88dace3305cffa20e9f6c9bd278",
+      "captured_utc": "2026-11-28T06:53:41.424885+00:00",
+      "imported_utc": "2026-11-28T07:26:22+00:00",
+      "metrics": {
+        "rating": 1.14
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 3500687,
+      "map_name": "train",
+      "day": "2025-08-12",
+      "side": 1,
+      "player_id": 773,
+      "kills": 18,
+      "deaths": 16,
+      "adr": 81.5,
+      "kast": 70.8,
+      "scores": [
+        13,
+        11
+      ],
+      "rounds": 24,
+      "hltv_id": 2384281,
+      "mapstats_id": 204811,
+      "hltv_player_id": 8371,
+      "identity_proven_by": [
+        204795,
+        204811
+      ],
+      "identity_as_of": "2025-08-12",
+      "sha256": "21467c7c8e5c286b6fed5ce0afa690ac2cf976e26ea8b5715c75c5008e25ac48",
+      "source": "https://www.hltv.org/stats/matches/mapstatsid/204811/gun5-vs-iberian-soul",
+      "source_url": "https://www.hltv.org/stats/matches/mapstatsid/204811/gun5-vs-iberian-soul",
+      "match_source_url": "https://www.hltv.org/matches/2384281/iberian-soul-vs-gun5-esl-challenger-league-season-50-europe-cup-1",
+      "match_sha256": "35e8d0906f7fe1f2cde28b94dbd4e89c6001b88dace3305cffa20e9f6c9bd278",
+      "captured_utc": "2026-11-28T06:53:41.424885+00:00",
+      "imported_utc": "2026-11-28T07:26:22+00:00",
+      "metrics": {
+        "rating": 1.1
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 3500687,
+      "map_name": "train",
+      "day": "2025-08-12",
+      "side": 1,
+      "player_id": 772,
+      "kills": 16,
+      "deaths": 14,
+      "adr": 59.1,
+      "kast": 66.7,
+      "scores": [
+        13,
+        11
+      ],
+      "rounds": 24,
+      "hltv_id": 2384281,
+      "mapstats_id": 204811,
+      "hltv_player_id": 9254,
+      "identity_proven_by": [
+        204795,
+        204811
+      ],
+      "identity_as_of": "2025-08-12",
+      "sha256": "21467c7c8e5c286b6fed5ce0afa690ac2cf976e26ea8b5715c75c5008e25ac48",
+      "source": "https://www.hltv.org/stats/matches/mapstatsid/204811/gun5-vs-iberian-soul",
+      "source_url": "https://www.hltv.org/stats/matches/mapstatsid/204811/gun5-vs-iberian-soul",
+      "match_source_url": "https://www.hltv.org/matches/2384281/iberian-soul-vs-gun5-esl-challenger-league-season-50-europe-cup-1",
+      "match_sha256": "35e8d0906f7fe1f2cde28b94dbd4e89c6001b88dace3305cffa20e9f6c9bd278",
+      "captured_utc": "2026-11-28T06:53:41.424885+00:00",
+      "imported_utc": "2026-11-28T07:26:22+00:00",
+      "metrics": {
+        "rating": 1.01
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 3500687,
+      "map_name": "train",
+      "day": "2025-08-12",
+      "side": 1,
+      "player_id": 4530,
+      "kills": 11,
+      "deaths": 16,
+      "adr": 59.4,
+      "kast": 66.7,
+      "scores": [
+        13,
+        11
+      ],
+      "rounds": 24,
+      "hltv_id": 2384281,
+      "mapstats_id": 204811,
+      "hltv_player_id": 21239,
+      "identity_proven_by": [
+        204795,
+        204811
+      ],
+      "identity_as_of": "2025-08-12",
+      "sha256": "21467c7c8e5c286b6fed5ce0afa690ac2cf976e26ea8b5715c75c5008e25ac48",
+      "source": "https://www.hltv.org/stats/matches/mapstatsid/204811/gun5-vs-iberian-soul",
+      "source_url": "https://www.hltv.org/stats/matches/mapstatsid/204811/gun5-vs-iberian-soul",
+      "match_source_url": "https://www.hltv.org/matches/2384281/iberian-soul-vs-gun5-esl-challenger-league-season-50-europe-cup-1",
+      "match_sha256": "35e8d0906f7fe1f2cde28b94dbd4e89c6001b88dace3305cffa20e9f6c9bd278",
+      "captured_utc": "2026-11-28T06:53:41.424885+00:00",
+      "imported_utc": "2026-11-28T07:26:22+00:00",
+      "metrics": {
+        "rating": 0.72
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 3500687,
+      "map_name": "train",
+      "day": "2025-08-12",
+      "side": 2,
+      "player_id": 5310,
+      "kills": 19,
+      "deaths": 18,
+      "adr": 100.1,
+      "kast": 79.2,
+      "scores": [
+        13,
+        11
+      ],
+      "rounds": 24,
+      "hltv_id": 2384281,
+      "mapstats_id": 204811,
+      "hltv_player_id": 23047,
+      "identity_proven_by": [
+        204795,
+        204811
+      ],
+      "identity_as_of": "2025-08-12",
+      "sha256": "21467c7c8e5c286b6fed5ce0afa690ac2cf976e26ea8b5715c75c5008e25ac48",
+      "source": "https://www.hltv.org/stats/matches/mapstatsid/204811/gun5-vs-iberian-soul",
+      "source_url": "https://www.hltv.org/stats/matches/mapstatsid/204811/gun5-vs-iberian-soul",
+      "match_source_url": "https://www.hltv.org/matches/2384281/iberian-soul-vs-gun5-esl-challenger-league-season-50-europe-cup-1",
+      "match_sha256": "35e8d0906f7fe1f2cde28b94dbd4e89c6001b88dace3305cffa20e9f6c9bd278",
+      "captured_utc": "2026-11-28T06:53:41.424885+00:00",
+      "imported_utc": "2026-11-28T07:26:22+00:00",
+      "metrics": {
+        "rating": 1.48
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 3500687,
+      "map_name": "train",
+      "day": "2025-08-12",
+      "side": 2,
+      "player_id": 7527,
+      "kills": 13,
+      "deaths": 16,
+      "adr": 65.2,
+      "kast": 70.8,
+      "scores": [
+        13,
+        11
+      ],
+      "rounds": 24,
+      "hltv_id": 2384281,
+      "mapstats_id": 204811,
+      "hltv_player_id": 22930,
+      "identity_proven_by": [
+        204795,
+        204811
+      ],
+      "identity_as_of": "2025-08-12",
+      "sha256": "21467c7c8e5c286b6fed5ce0afa690ac2cf976e26ea8b5715c75c5008e25ac48",
+      "source": "https://www.hltv.org/stats/matches/mapstatsid/204811/gun5-vs-iberian-soul",
+      "source_url": "https://www.hltv.org/stats/matches/mapstatsid/204811/gun5-vs-iberian-soul",
+      "match_source_url": "https://www.hltv.org/matches/2384281/iberian-soul-vs-gun5-esl-challenger-league-season-50-europe-cup-1",
+      "match_sha256": "35e8d0906f7fe1f2cde28b94dbd4e89c6001b88dace3305cffa20e9f6c9bd278",
+      "captured_utc": "2026-11-28T06:53:41.424885+00:00",
+      "imported_utc": "2026-11-28T07:26:22+00:00",
+      "metrics": {
+        "rating": 1.04
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 3500687,
+      "map_name": "train",
+      "day": "2025-08-12",
+      "side": 2,
+      "player_id": 1008,
+      "kills": 16,
+      "deaths": 15,
+      "adr": 77.6,
+      "kast": 79.2,
+      "scores": [
+        13,
+        11
+      ],
+      "rounds": 24,
+      "hltv_id": 2384281,
+      "mapstats_id": 204811,
+      "hltv_player_id": 13240,
+      "identity_proven_by": [
+        204795,
+        204811
+      ],
+      "identity_as_of": "2025-08-12",
+      "sha256": "21467c7c8e5c286b6fed5ce0afa690ac2cf976e26ea8b5715c75c5008e25ac48",
+      "source": "https://www.hltv.org/stats/matches/mapstatsid/204811/gun5-vs-iberian-soul",
+      "source_url": "https://www.hltv.org/stats/matches/mapstatsid/204811/gun5-vs-iberian-soul",
+      "match_source_url": "https://www.hltv.org/matches/2384281/iberian-soul-vs-gun5-esl-challenger-league-season-50-europe-cup-1",
+      "match_sha256": "35e8d0906f7fe1f2cde28b94dbd4e89c6001b88dace3305cffa20e9f6c9bd278",
+      "captured_utc": "2026-11-28T06:53:41.424885+00:00",
+      "imported_utc": "2026-11-28T07:26:22+00:00",
+      "metrics": {
+        "rating": 0.98
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 3500687,
+      "map_name": "train",
+      "day": "2025-08-12",
+      "side": 2,
+      "player_id": 1867,
+      "kills": 15,
+      "deaths": 16,
+      "adr": 57.3,
+      "kast": 66.7,
+      "scores": [
+        13,
+        11
+      ],
+      "rounds": 24,
+      "hltv_id": 2384281,
+      "mapstats_id": 204811,
+      "hltv_player_id": 18670,
+      "identity_proven_by": [
+        204795,
+        204811
+      ],
+      "identity_as_of": "2025-08-12",
+      "sha256": "21467c7c8e5c286b6fed5ce0afa690ac2cf976e26ea8b5715c75c5008e25ac48",
+      "source": "https://www.hltv.org/stats/matches/mapstatsid/204811/gun5-vs-iberian-soul",
+      "source_url": "https://www.hltv.org/stats/matches/mapstatsid/204811/gun5-vs-iberian-soul",
+      "match_source_url": "https://www.hltv.org/matches/2384281/iberian-soul-vs-gun5-esl-challenger-league-season-50-europe-cup-1",
+      "match_sha256": "35e8d0906f7fe1f2cde28b94dbd4e89c6001b88dace3305cffa20e9f6c9bd278",
+      "captured_utc": "2026-11-28T06:53:41.424885+00:00",
+      "imported_utc": "2026-11-28T07:26:22+00:00",
+      "metrics": {
+        "rating": 0.85
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    },
+    {
+      "match_id": 3500687,
+      "map_name": "train",
+      "day": "2025-08-12",
+      "side": 2,
+      "player_id": 8191,
+      "kills": 14,
+      "deaths": 15,
+      "adr": 58.0,
+      "kast": 62.5,
+      "scores": [
+        13,
+        11
+      ],
+      "rounds": 24,
+      "hltv_id": 2384281,
+      "mapstats_id": 204811,
+      "hltv_player_id": 23783,
+      "identity_proven_by": [
+        204795,
+        204811
+      ],
+      "identity_as_of": "2025-08-12",
+      "sha256": "21467c7c8e5c286b6fed5ce0afa690ac2cf976e26ea8b5715c75c5008e25ac48",
+      "source": "https://www.hltv.org/stats/matches/mapstatsid/204811/gun5-vs-iberian-soul",
+      "source_url": "https://www.hltv.org/stats/matches/mapstatsid/204811/gun5-vs-iberian-soul",
+      "match_source_url": "https://www.hltv.org/matches/2384281/iberian-soul-vs-gun5-esl-challenger-league-season-50-europe-cup-1",
+      "match_sha256": "35e8d0906f7fe1f2cde28b94dbd4e89c6001b88dace3305cffa20e9f6c9bd278",
+      "captured_utc": "2026-11-28T06:53:41.424885+00:00",
+      "imported_utc": "2026-11-28T07:26:22+00:00",
+      "metrics": {
+        "rating": 0.79
+      },
+      "rating_version": "3.0",
+      "metric_source": "hltv_accepted_map_scoreboard"
+    }
+  ]
+}
